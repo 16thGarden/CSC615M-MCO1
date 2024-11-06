@@ -1,0 +1,1107 @@
+[00:01:05] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:01:05] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:01:05] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:01:06] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:01:06] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:01:06] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:01:07] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:01:07] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:01:07] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:01:20] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:01:20] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:01:20] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:01:49] [Client thread/INFO]: [CHAT] 
+[00:01:49] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:01:49] [Client thread/INFO]: [CHAT] Watchdog has banned 14,684 players in the last 7 days.
+[00:01:49] [Client thread/INFO]: [CHAT] Staff have banned an additional 16,340 in the last 7 days.
+[00:01:49] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:01:49] [Client thread/INFO]: [CHAT] 
+[00:03:07] [Client thread/INFO]: [CHAT] You earned 533 GEXP from playing SkyBlock!
+[00:04:03] [Client thread/INFO]: [CHAT] You used your Mining Speed Boost Pickaxe Ability!
+[00:04:23] [Client thread/INFO]: [CHAT] Your Mining Speed Boost has expired!
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:04:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$470/868808663.apply(Unknown Source)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:04:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:05:01] [Client thread/INFO]: [CHAT] This ability is on cooldown for 63s.
+[00:05:02] [Client thread/INFO]: [CHAT] This ability is on cooldown for 62s.
+[00:06:04] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:08:08] [Client thread/INFO]: [CHAT] You earned 621 GEXP from playing SkyBlock!
+[00:08:30] [Client thread/ERROR]: Signature is missing from textures payload
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:08:50] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$470/868808663.apply(Unknown Source)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:08:50] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:11:24] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:11:24] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:11:24] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:13:09] [Client thread/INFO]: [CHAT] You earned 313 GEXP from playing SkyBlock!
+[00:18:10] [Client thread/INFO]: [CHAT] You earned 78 GEXP from playing SkyBlock!
+[00:18:13] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:18:13] [SkyblockAddons - #35/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:18:13] [SkyblockAddons - #35/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:19:19] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:19:19] [SkyblockAddons - #36/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:19:19] [SkyblockAddons - #36/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:19:57] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$470/868808663.apply(Unknown Source)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:19:57] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:19:57] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$470/868808663.apply(Unknown Source)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:19:57] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:23:11] [Client thread/INFO]: [CHAT] You earned 120 GEXP from playing SkyBlock!
+[00:26:04] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:26:04] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Superboom TNT for 13.5 coins!
+[00:26:07] [Client thread/INFO]: [CHAT] Warping...
+[00:26:08] [Client thread/INFO]: [CHAT]        
+[00:26:08] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:26:08] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini25AK', serverType='SKYBLOCK', lobbyName='null', mode='dungeon_hub', map='Dungeon Hub'} VersionedPacket{version=1}
+[00:26:11] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:26:11] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:26:19] [Client thread/INFO]: [CHAT] Refreshing...
+[00:26:21] [Client thread/INFO]: [CHAT] Please wait a few seconds between refreshing!
+[00:26:23] [Client thread/INFO]: [CHAT] Refreshing...§7 (2)
+[00:26:29] [Client thread/INFO]: [CHAT] Refreshing...§7 (3)
+[00:26:33] [Client thread/INFO]: [CHAT] Refreshing...§7 (4)
+[00:26:39] [Client thread/INFO]: [CHAT] Refreshing...§7 (5)
+[00:26:44] [Client thread/INFO]: [CHAT] Refreshing...§7 (6)
+[00:26:57] [Client thread/INFO]: [CHAT] Refreshing...§7 (7)
+[00:26:59] [Client thread/INFO]: [CHAT] Attempting to add you to the party...
+[00:26:59] [Client thread/INFO]: [CHAT] §dParty Finder §r§f> §r§716thGarden §r§ejoined the dungeon group! (§r§bTank Level 43§r§e)§r
+[00:27:01] [Client thread/INFO]: [CHAT] -----------------------------
+_mazyy entered The Catacombs, Floor V!
+-----------------------------
+[00:27:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:27:01] [Client thread/INFO]: [CHAT] Party Members (5)
+[00:27:01] [Client thread/INFO]: [CHAT] 
+[00:27:01] [Client thread/INFO]: [CHAT] Party Leader: _mazyy ?
+[00:27:01] [Client thread/INFO]: [CHAT] Party Members: 16thGarden ? Anlo22 ? [VIP] LucAlpha ? [VIP] xPriyam ? 
+[00:27:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:27:03] [Client thread/INFO]: [CHAT] Sending to server mini19AA...
+[00:27:03] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:27:04] [Client thread/INFO]: [CHAT]        
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini19AA', serverType='SKYBLOCK', lobbyName='null', mode='dungeon', map='Dungeon'} VersionedPacket{version=1}
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 0 -> 5
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 5 members but got 1
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 5 members but got 1§7 (2)
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 5 members but got 1§7 (3)
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 5 members but got 1§7 (4)
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:04] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 5 members but got 1§7 (5)
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:27:05] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 5 members but got 1§7 (6)
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3264§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate Anlo22 with value EMPTY, §r§8[§r§a150§r§8] §r§7Anlo22 §r§6§l? §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate _mazyy with value EMPTY, §r§8[§r§f50§r§8] §r§7_mazyy §r§7? §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate xPriyam with value EMPTY, §r§8[§r§e81§r§8] §r§axPriyam §r§7? §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:05] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate LucAlpha with value EMPTY, §r§8[§r§a122§r§8] §r§aLucAlpha §r§6§l? §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:27:05] [Client thread/INFO]: DungeonRooms: gameStage set to 1
+[00:27:05] [Client thread/INFO]: DungeonRooms: entrancePhysicalNWCorner has been set to java.awt.Point[x=-200,y=-168]
+[00:27:05] [Client thread/INFO]: DungeonRooms: Updating MOTD on screen
+[00:27:06] [Client thread/INFO]: [CHAT] Anlo22 is now ready!
+[00:27:06] [Client thread/INFO]: [CHAT] 16thGarden is now ready!
+[00:27:06] [Client thread/INFO]: [CHAT] xPriyam is now ready!
+[00:27:06] [Client thread/INFO]: [CHAT] LucAlpha is now ready!
+[00:27:06] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:27:06] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:27:07] [Client thread/INFO]: [CHAT] _mazyy is now ready!
+[00:27:07] [Client thread/INFO]: [CHAT] Starting in 4 seconds.
+[00:27:08] [Client thread/INFO]: [CHAT] Starting in 3 seconds.
+[00:27:09] [Client thread/INFO]: [CHAT] Starting in 2 seconds.
+[00:27:10] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: w tank lol
+[00:27:10] [Client thread/INFO]: [CHAT] Anlo22 selected the Healer Class!
+[00:27:10] [Client thread/INFO]: [CHAT] Starting in 1 second.
+[00:27:11] [Client thread/INFO]: [CHAT] Your Tank stats are doubled because you are the only player using this class!
+[00:27:11] [Client thread/INFO]: [CHAT] [Tank] Defense 93 -> 143
+[00:27:11] [Client thread/INFO]: [CHAT] [Tank] Total Defense 33.6% -> 58.6%
+[00:27:11] [Client thread/INFO]: [CHAT] [Tank] Absorption Health 630 -> 830
+[00:27:11] [Client thread/INFO]: [CHAT] [Tank] Absorption Shield Health Required 50% -> 100%
+[00:27:11] [Client thread/INFO]: [CHAT] [Tank] Absorption Shield Percentage 10% -> 20%
+[00:27:11] [Client thread/INFO]: [CHAT] [Tank] Barrier Cooldown 90 -> 45
+[00:27:11] [Client thread/INFO]: DungeonRooms: gameStage set to 2
+[00:27:11] [Client thread/INFO]: DungeonRooms: Extracting the map id
+[00:27:11] [Client thread/INFO]: DungeonRooms: Getting entrance map corners from map data...
+[00:27:13] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:27:13] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate 16thGarden, they are a Tank 43
+[00:27:13] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate Anlo22, they are a Healer 19
+[00:27:13] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate _mazyy, they are a Berserk 24
+[00:27:13] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate xPriyam, they are a Berserk 24
+[00:27:13] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate LucAlpha, they are a Berserk 26
+[00:27:13] [Client thread/INFO]: [CHAT] You summoned your Baby Yeti!
+[00:27:13] [Client thread/INFO]: DungeonRooms: Getting entrance map corners from map data...
+[00:27:15] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 126 unique line-of-sight blocks, filtered down to 86 blocks, out of which 14 blocks were used to uniquely identify Multicolored-1.
+[00:27:16] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 210,000 Total Damage so far! 04s
+[00:27:17] [Client thread/INFO]: [CHAT] You do not have the key for this door!
+[00:27:17] [Client thread/INFO]: [CHAT] _mazyy has obtained Wither Key!
+[00:27:17] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!
+[00:27:17] [Client thread/INFO]: [CHAT] _mazyy has obtained Revive Stone!
+[00:27:18] [Client thread/INFO]: [CHAT] _mazyy opened a WITHER door!
+[00:27:19] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 189 unique line-of-sight blocks, filtered down to 88 blocks, out of which 12 blocks were used to uniquely identify Knight-3.
+[00:27:20] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 1,050,000 Total Damage so far! 08s
+[00:27:20] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find
+[00:27:20] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill
+[00:27:21] [Client thread/INFO]: [CHAT] [Sacks] +1 item. (Last 5s.)
+[00:27:25] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 129 unique line-of-sight blocks, filtered down to 94 blocks, out of which 12 blocks were used to uniquely identify Multicolored-1.
+[00:27:26] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Superboom TNT!
+[00:27:26] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 10 Kill Combo!
+[00:27:27] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Wither Key!
+[00:27:27] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!§7 (2)
+[00:27:27] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Anlo22 found a Blessing of Life II!
+[00:27:27] [Client thread/INFO]: [CHAT]      Granted you +1.1x HP and +1.1x ? Health Regen.
+[00:27:27] [Client thread/INFO]: [CHAT] _mazyy opened a WITHER door!§7 (2)
+[00:27:27] [Client thread/INFO]: [CHAT] ? Anlo22 picked up your Damage Orb!
+[00:27:34] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!
+[00:27:36] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Superboom TNT!§7 (2)
+[00:27:37] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Wither Key!§7 (2)
+[00:27:37] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!§7 (3)
+[00:27:37] [Client thread/INFO]: [CHAT] _mazyy opened a WITHER door!§7 (3)
+[00:27:40] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 206 unique line-of-sight blocks, filtered down to 80 blocks, out of which 12 blocks were used to uniquely identify Knight-3.
+[00:27:42] [Client thread/INFO]: [CHAT] Anlo22 has obtained Superboom TNT!
+[00:27:43] [Client thread/INFO]: [CHAT] Anlo22 has obtained Blessing of Power!
+[00:27:43] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Anlo22 found a Blessing of Power V! (31s)
+[00:27:43] [Client thread/INFO]: [CHAT]      Granted you +33 & +1.17x ? Strength.
+[00:27:43] [Client thread/INFO]: [CHAT]      Also granted you +33 & +1.17x ? Crit Damage.
+[00:27:43] [Client thread/INFO]: [CHAT] Used Seismic Wave!
+[00:27:47] [Client thread/INFO]: [CHAT] _mazyy has obtained Superboom TNT!
+[00:27:47] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Blessing of Life!
+[00:27:47] [Client thread/INFO]: [CHAT] DUNGEON BUFF! xPriyam found a Blessing of Life V! (36s)
+[00:27:47] [Client thread/INFO]: [CHAT]      Granted you +1.25x HP and +1.25x ? Health Regen.
+[00:27:48] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Wither Key!§7 (3)
+[00:27:48] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!§7 (4)
+[00:27:48] [Client thread/INFO]: [CHAT] [VIP] xPriyam has obtained Superboom TNT!§7 (3)
+[00:27:51] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 120 unique line-of-sight blocks, filtered down to 89 blocks, out of which 12 blocks were used to uniquely identify Multicolored-1.
+[00:27:55] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 223 unique line-of-sight blocks, filtered down to 133 blocks, out of which 11 blocks were used to uniquely identify Grass-Ruin-3.
+[00:27:56] [Client thread/INFO]: [CHAT] ? Anlo22 picked up your Ability Damage Orb!
+[00:27:56] [Client thread/INFO]: [CHAT] _mazyy opened a WITHER door!§7 (4)
+[00:27:58] [Client thread/INFO]: [CHAT] Anlo22 has obtained Superboom TNT!§7 (2)
+[00:27:58] [Client thread/INFO]: [CHAT] Seismic Wave is now available!
+[00:27:58] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 249 unique line-of-sight blocks, filtered down to 127 blocks, out of which 11 blocks were used to uniquely identify Slime-5.
+[00:28:00] [Client thread/INFO]: [CHAT] ? Anlo22 picked up your Defense Orb!
+[00:28:00] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 4,200,000 Total Damage so far! 48s
+[00:28:02] [Client thread/INFO]: [CHAT] [VIP] LucAlpha has obtained Superboom TNT!
+[00:28:02] [Client thread/INFO]: [CHAT] [VIP] LucAlpha has obtained Blessing of Stone!
+[00:28:02] [Client thread/INFO]: [CHAT] DUNGEON BUFF! LucAlpha found a Blessing of Stone V! (50s)
+[00:28:02] [Client thread/INFO]: [CHAT]      Granted you +33 & +1.17x ? Defense and +36 ? Damage.
+[00:28:04] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (2)
+[00:28:05] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:28:05] [Client thread/INFO]: [CHAT] _mazyy has obtained Wither Key!§7 (2)
+[00:28:05] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!§7 (5)
+[00:28:05] [Client thread/INFO]: [CHAT] _mazyy has obtained Superboom TNT!§7 (2)
+[00:28:07] [Client thread/INFO]: [CHAT] _mazyy opened a WITHER door!§7 (5)
+[00:28:18] [Client thread/INFO]: [CHAT] LucAlpha found a Wither Essence! Everyone gains an extra essence!
+[00:28:34] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (3)
+[00:28:35] [Client thread/INFO]: [CHAT] _mazyy has obtained Blood Key!
+[00:28:35] [Client thread/INFO]: [CHAT] RIGHT CLICK on the BLOOD DOOR to open it. This key can only be used to open 1 door!
+[00:28:35] [Client thread/INFO]: [CHAT] _mazyy has obtained Superboom TNT x2!
+[00:28:40] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Anlo22 found a Blessing of Wisdom II!
+[00:28:40] [Client thread/INFO]: [CHAT]      Granted you +13.2 & +1.07x ? Intelligence and +9.6 ? Speed.
+[00:28:41] [Client thread/INFO]: [CHAT] [VIP] LucAlpha has obtained Blessing of Power!
+[00:28:41] [Client thread/INFO]: [CHAT] DUNGEON BUFF! LucAlpha found a Blessing of Power V! (01m 29s)
+[00:28:41] [Client thread/INFO]: [CHAT]      Granted you +33 & +1.17x ? Strength.§7 (2)
+[00:28:41] [Client thread/INFO]: [CHAT]      Also granted you +33 & +1.17x ? Crit Damage.§7 (2)
+[00:28:44] [Client thread/INFO]: [CHAT] The BLOOD DOOR has been opened!
+[00:28:44] [Client thread/INFO]: [CHAT] A shiver runs down your spine...
+[00:28:46] [Client thread/INFO]: [CHAT] [VIP] LucAlpha has obtained Superboom TNT!§7 (2)
+[00:28:47] [Client thread/INFO]: [CHAT] PUZZLE SOLVED! xPriyam tied Tic Tac Toe! Good job!
+[00:28:57] [Client thread/INFO]: [CHAT] DUNGEON BUFF! xPriyam found a Blessing of Life V!
+[00:28:57] [Client thread/INFO]: [CHAT]      Granted you +1.25x HP and +1.25x ? Health Regen.
+[00:29:04] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (4)
+[00:29:18] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 255 unique line-of-sight blocks, filtered down to 157 blocks, out of which 12 blocks were used to uniquely identify Grass-Ruin-3.
+[00:29:21] [Client thread/INFO]: [CHAT] Anlo22 found a Wither Essence! Everyone gains an extra essence!
+[00:29:22] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 141 unique line-of-sight blocks, filtered down to 72 blocks, out of which 15 blocks were used to uniquely identify Multicolored-1.
+[00:29:24] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 195 unique line-of-sight blocks, filtered down to 92 blocks, out of which 12 blocks were used to uniquely identify Knight-3.
+[00:29:27] [Client thread/INFO]: [CHAT] [VIP] LucAlpha has obtained Heroic Conjuring!
+[00:29:34] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (5)
+[00:29:35] [Client thread/INFO]: [CHAT] ESSENCE! xPriyam found x10 Ice Essence!
+[00:29:35] [Client thread/INFO]: [CHAT] DUNGEON BUFF! _mazyy found a Blessing of Wisdom V!
+[00:29:35] [Client thread/INFO]: [CHAT]      Granted you +33 & +1.17x ? Intelligence and +24 ? Speed.
+[00:29:37] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 53 unique line-of-sight blocks, filtered down to 36 blocks, out of which 13 blocks were used to uniquely identify Multicolored-1.
+[00:29:38] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 177 unique line-of-sight blocks, filtered down to 61 blocks, out of which 12 blocks were used to uniquely identify Knight-3.
+[00:29:53] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:29:53] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #2
+[00:29:53] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #2
+[00:29:53] [Client thread/INFO]: [CHAT] This chest has already been searched!
+[00:29:53] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (2)
+[00:29:55] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #2
+[00:29:56] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:29:56] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (3)
+[00:29:56] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #2
+[00:29:56] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (4)
+[00:29:56] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (5)
+[00:29:56] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Anlo22 found a Blessing of Stone I!
+[00:29:56] [Client thread/INFO]: [CHAT]      Granted you +6.6 & +1.03x ? Defense and +7.2 ? Damage.
+[00:30:02] [Client thread/INFO]: [CHAT] You have teleported to Anlo22!
+[00:30:02] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 137 unique line-of-sight blocks, filtered down to 89 blocks, out of which 13 blocks were used to uniquely identify Multicolored-1.
+[00:30:05] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (6)
+[00:30:06] [Client thread/INFO]: [CHAT] §9Party §8> §7Anlo22§f: 270, wait till 300 to go
+[00:30:06] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 170 unique line-of-sight blocks, filtered down to 64 blocks, out of which 12 blocks were used to uniquely identify Knight-3.
+[00:30:06] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: 270 Score!
+[00:30:08] [Client thread/INFO]: [CHAT] [VIP] LucAlpha has obtained Superboom TNT!
+[00:30:15] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[00:30:15] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:30:15] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:30:19] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:30:19] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:30:19] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:30:21] [Client thread/INFO]: DungeonRooms: bloodDone has been set to True
+[00:30:26] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 130 unique line-of-sight blocks, filtered down to 94 blocks, out of which 12 blocks were used to uniquely identify Multicolored-1.
+[00:30:28] [Client thread/INFO]: [CHAT] _mazyy has obtained Blessing of Life!
+[00:30:28] [Client thread/INFO]: [CHAT] DUNGEON BUFF! _mazyy found a Blessing of Life V! (03m 16s)
+[00:30:28] [Client thread/INFO]: [CHAT]      Granted you +1.25x HP and +1.25x ? Health Regen.
+[00:30:28] [Client thread/INFO]: [CHAT] _mazyy has obtained Blessing of Power!
+[00:30:28] [Client thread/INFO]: [CHAT] DUNGEON BUFF! _mazyy found a Blessing of Power V! (03m 16s)
+[00:30:28] [Client thread/INFO]: [CHAT]      Granted you +33 & +1.17x ? Strength.
+[00:30:28] [Client thread/INFO]: [CHAT]      Also granted you +33 & +1.17x ? Crit Damage.
+[00:30:29] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 284 unique line-of-sight blocks, filtered down to 179 blocks, out of which 11 blocks were used to uniquely identify Grass-Ruin-3.
+[00:30:33] [Client thread/INFO]: [CHAT]  ? xPriyam died to a trap and became a ghost.
+[00:30:33] [Client thread/INFO]: [CHAT] §bThis is §exPriyam§b's §e1st§b death out of §e1§b total tracked deaths.
+[00:30:33] [Client thread/INFO]: [CHAT]  ? Anlo22 is reviving xPriyam!
+[00:30:35] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (7)
+[00:30:36] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: anlo
+[00:30:36] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[00:30:36] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:30:36] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:30:39] [Client thread/INFO]: [CHAT]  ? xPriyam was revived by Anlo22!
+[00:30:40] [Client thread/INFO]: [CHAT] [81] ? §a[VIP] xPriyam§f: sorry
+[00:30:42] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: need help with water board?
+[00:30:48] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 136 unique line-of-sight blocks, filtered down to 86 blocks, out of which 14 blocks were used to uniquely identify Multicolored-1.
+[00:30:48] [Client thread/INFO]: [CHAT] §9Party §8> §7Anlo22§f: naa im good
+[00:30:51] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 200 unique line-of-sight blocks, filtered down to 95 blocks, out of which 12 blocks were used to uniquely identify Knight-3.
+[00:30:51] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Anlo22 found a Blessing of Wisdom V!
+[00:30:51] [Client thread/INFO]: [CHAT]      Granted you +33 & +1.17x ? Intelligence and +24 ? Speed.
+[00:30:53] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: kk js making sure
+[00:30:55] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 449 unique line-of-sight blocks, filtered down to 256 blocks, out of which 15 blocks were used to uniquely identify Cages-2.
+[00:30:56] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 218 unique line-of-sight blocks, filtered down to 101 blocks, out of which 12 blocks were used to uniquely identify Buttons-5.
+[00:30:58] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 181 unique line-of-sight blocks, filtered down to 90 blocks, out of which 13 blocks were used to uniquely identify Chains-2.
+[00:31:00] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 200 unique line-of-sight blocks, filtered down to 111 blocks, out of which 12 blocks were used to uniquely identify Trap-Very-Hard-3.
+[00:31:03] [Client thread/INFO]: [CHAT] You cannot use abilities in this room!
+[00:31:04] [Client thread/INFO]: [CHAT] You cannot use abilities in this room!§7 (2)
+[00:31:04] [Client thread/INFO]: [CHAT] This lever has already been used.
+[00:31:05] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (8)
+[00:31:11] [Client thread/INFO]: [CHAT] The Arrow Trap hit you for 8,545.4 damage!
+[00:31:13] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:31:13] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:31:14] [Client thread/INFO]: [CHAT] This chest has already been searched!
+[00:31:14] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (2)
+[00:31:24] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: 300 Score!
+[00:31:24] [Client thread/INFO]: [CHAT] §9Party §8> §7Anlo22§f: 300 = S+ GOOO
+[00:31:24] [Client thread/INFO]: [CHAT] DUNGEON BUFF! LucAlpha found a Blessing of Power I!
+[00:31:24] [Client thread/INFO]: [CHAT]      Granted you +6.6 & +1.03x ? Strength.
+[00:31:24] [Client thread/INFO]: [CHAT]      Also granted you +6.6 & +1.03x ? Crit Damage.
+[00:31:24] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #2
+[00:31:25] [Client thread/INFO]: [CHAT] You cannot use abilities in this room!§7 (3)
+[00:31:26] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Life II!
+[00:31:26] [Client thread/INFO]: [CHAT]      Granted you +1.1x HP and +1.1x ? Health Regen.
+[00:31:27] [Client thread/INFO]: DungeonRooms: gameStage set to 3
+[00:31:35] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (9)
+[00:31:42] [Client thread/INFO]: [CHAT] Anlo22's Wish healed you for 0 health and granted you an absorption shield with 18,709 health!
+[00:31:44] [Client thread/INFO]: [CHAT] Livid's Damage Potion hit you for 2,115.5 true damage.
+[00:31:56] [Client thread/INFO]: [CHAT] §9Party §8> §7_mazyy§f: again?
+[00:32:00] [Client thread/INFO]: [CHAT] §9Party §8> §716thGarden§f: no
+[00:32:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:32:01] [Client thread/INFO]: [CHAT] You left the party.
+[00:32:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:32:01] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:32:01] [Client thread/INFO]: [CHAT]                          The Catacombs - Floor V
+[00:32:01] [Client thread/INFO]: [CHAT] 
+[00:32:01] [Client thread/INFO]: [CHAT]                            Team Score: 307 (S+)
+[00:32:01] [Client thread/INFO]: DungeonRooms: gameStage set to 4
+[00:32:01] [Client thread/INFO]: [CHAT]                        ? Defeated Livid in 04m 49s
+[00:32:01] [Client thread/INFO]: [CHAT] §f                             §6> §e§lEXTRA STATS §6<
+[00:32:01] [Client thread/INFO]: [CHAT]                      +9,578.4 Catacombs Experience
+[00:32:01] [Client thread/INFO]: [CHAT]                          +3,585.8 Tank Experience
+[00:32:01] [Client thread/INFO]: [CHAT]               +896.4 Berserk Experience (Team Bonus)
+[00:32:01] [Client thread/INFO]: [CHAT]                +896.4 Healer Experience (Team Bonus)
+[00:32:01] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:32:01] [Client thread/INFO]: [CHAT] §c? §lDeaths:§r 1
+  §c? xPriyam:§r 1
+[00:32:05] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (10)
+[00:32:06] [Client thread/INFO]: [CHAT] You earned 578 GEXP from playing SkyBlock!
+[00:32:14] [Client thread/INFO]: [CHAT] _mazyy unlocked Wither Essence x35!
+[00:32:16] [Client thread/INFO]: [CHAT] Warping...
+[00:32:17] [Client thread/INFO]: [CHAT] Sending to server mini98M...
+[00:32:17] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:32:17] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini98M', serverType='SKYBLOCK', lobbyName='null', mode='dungeon_hub', map='Dungeon Hub'} VersionedPacket{version=1}
+[00:32:17] [Client thread/INFO]: [CHAT]        
+[00:32:20] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:32:20] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:32:29] [Client thread/INFO]: [CHAT] RARE REWARD! yxcasd found a Fuming Potato Book in their Obsidian Chest!
+[00:32:35] [Client thread/INFO]: [CHAT] RARE REWARD! yxcasd found a Recombobulator 3000 in their Bedrock Chest!
+[00:33:17] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:33:32] [Client thread/INFO]: [CHAT] EXTRA! DOUBLED SALVAGED ESSENCE:
+[00:33:32] [Client thread/INFO]: [CHAT]    5x Undead Essence!
+[00:33:32] [Client thread/INFO]: [CHAT] §aYou salvaged §b14 §aitems for:
+[00:33:32] [Client thread/INFO]: [CHAT]    95x Undead Essence!
+[00:33:32] [Client thread/INFO]: [CHAT]    5x Wither Essence!
+[00:33:37] [Client thread/INFO]: [CHAT] §aYou salvaged §b1 §aitem for:
+[00:33:37] [Client thread/INFO]: [CHAT]    15x Undead Essence!
+[00:33:59] [Client thread/INFO]: [CHAT] 
+[00:33:59] [Client thread/INFO]: [CHAT]   BEDROCK CHEST REWARDS
+[00:33:59] [Client thread/INFO]: [CHAT]     Enchanted Book (Bank III)
+[00:33:59] [Client thread/INFO]: [CHAT]     Enchanted Book (Legion I)
+[00:33:59] [Client thread/INFO]: [CHAT]     Enchanted Book (Last Stand II)
+[00:33:59] [Client thread/INFO]: [CHAT]     Wither Essence x39
+[00:33:59] [Client thread/INFO]: [CHAT]     Undead Essence x47
+[00:33:59] [Client thread/INFO]: [CHAT] 
+[00:34:21] [Client thread/INFO]: [CHAT] [104] §a[VIP] luxixson§f: buuying hats 3m each /visit me quuuickkkkqioocllll!!!!!!!!!!!!!!!
+[00:34:27] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[00:34:27] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:34:27] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:35:13] [Client thread/INFO]: [CHAT] You used your Mining Speed Boost Pickaxe Ability!
+[00:35:13] [Client thread/INFO]: [CHAT] You have already found that Fairy Soul!
+[00:35:13] [Client thread/INFO]: [CHAT] You have already found that Fairy Soul!§7 (2)
+[00:35:13] [Client thread/INFO]: [CHAT] You have already found that Fairy Soul!§7 (3)
+[00:35:33] [Client thread/INFO]: [CHAT] Your Mining Speed Boost has expired!
+[00:36:31] [Client thread/INFO]: [CHAT] [35] §a[VIP] anataksem§f: hello
+[00:36:37] [Client thread/INFO]: [CHAT] This ability is on cooldown for 31s.
+[00:36:37] [Client thread/INFO]: [CHAT] This ability is on cooldown for 30s.
+[00:36:37] [Client thread/INFO]: [CHAT] This ability is on cooldown for 30s.§7 (2)
+[00:37:14] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:38:15] [Client thread/INFO]: [CHAT] You earned 575 GEXP from playing SkyBlock!
+[00:40:04] [Client thread/INFO]: [CHAT] [42] §b[MVP] Potato3s4life§f: is simon fixed
+[00:40:14] [Client thread/INFO]: [CHAT] [55] §7SpiderWempen§7: red?
+[00:40:25] [Client thread/INFO]: [CHAT] [42] §b[MVP] Potato3s4life§f: for anniversary
+[00:40:51] [Client thread/INFO]: [CHAT] [55] §7SpiderWempen§7: one more
+[00:41:06] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:41:06] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:41:06] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:43:18] [Client thread/INFO]: [CHAT] You earned 367 GEXP from playing SkyBlock!
+[00:44:07] [Client thread/INFO]: [CHAT] RARE REWARD! dary00 found a Fuming Potato Book in their Obsidian Chest!
+[00:44:08] [Client thread/INFO]: [CHAT] Warping...
+[00:44:08] [Client thread/INFO]: [CHAT] Sending to server mini19DP...
+[00:44:08] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:44:08] [Client thread/INFO]: [CHAT]        
+[00:44:08] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini19DP', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:44:12] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:44:12] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:44:14] [Client thread/INFO]: [CHAT] Oink! Use a Shiny Orb from the Pig Shop to capture the shiny from this piggy!
+[00:44:22] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: Did you know that for the longest time...
+[00:44:23] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: The Blacksmith would reforge your §aaccessories§r?
+[00:44:25] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: §cCrazy §rstuff!
+[00:44:26] [Client thread/INFO]: [CHAT] §e[NPC] Ozanne§f: If you find §areforged accessories§r, I'll buy their reforges from you for §6coins§r!
+[00:44:35] [Client thread/INFO]: [CHAT] [61] §a[VIP§6+§a] UTMC§f: PARTY ME IF YOU WANT TO BUY a maxed shadow fury, 2/4 necron , a golden livid head with legion 3 and a sadan head with legion 1 (all of the items are 5 star) PARTY ME IF YOU WANT TO BUY a maxed shadow fury, 2/4 necron , a golden livid head with legion 3
+[00:45:07] [Client thread/INFO]: [CHAT] §e[NPC] Jacobus§f: If you live for having it all, what you have is never enough.
+[00:45:09] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:45:47] [Client thread/INFO]: [CHAT] [181] ? §b[MVP§d+§b] xxangeloxx233§f: WHERE IS PIG SHOP
+[00:45:57] [Client thread/INFO]: [CHAT] [158] §b[MVP§e+§b] Erixen_Dixen§f: next to bz
+[00:46:01] [Client thread/INFO]: [CHAT] [181] ? §b[MVP§d+§b] xxangeloxx233§f: ITS DISBLAE
+[00:46:07] [Client thread/INFO]: [CHAT] [158] §b[MVP§e+§b] Erixen_Dixen§f: LOL
+[00:46:14] [Client thread/INFO]: [CHAT] [62] §7StoneHanmaFake§7: cuz theres infinity money dupe
+[00:46:25] [Client thread/INFO]: [CHAT] [21] §a[VIP] _corn_on_the_cob§f: i done 100 pigs its not worth it
+[00:46:38] [Client thread/INFO]: [CHAT] [21] §a[VIP] _corn_on_the_cob§f: best drop is farming for dummies
+[00:46:44] [Client thread/INFO]: [CHAT] [62] §7StoneHanmaFake§7: yes
+[00:46:52] [Client thread/INFO]: [CHAT] [62] §7StoneHanmaFake§7: it makes 0.5mil
+[00:48:36] [Client thread/INFO]: [CHAT] [Important] This server will restart soon: Game Update
+[00:48:36] [Client thread/INFO]: [CHAT] §eYou have §a30 seconds §eto warp out! §a§l§nCLICK§e to warp now!
+[00:49:04] [Client thread/INFO]: [CHAT] Evacuating to Your Island...
+[00:49:05] [Client thread/INFO]: [CHAT] Sending to server mini63AB...
+[00:49:06] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:49:06] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini63AB', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:49:06] [Client thread/INFO]: [CHAT]        
+[00:49:08] [Client thread/INFO]: [CHAT] Your 1 extra Jerry packed his stuff and left!
+[00:49:09] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:49:09] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:49:36] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:49:36] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:49:36] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:49:38] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[00:49:38] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:49:38] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:49:39] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage5.
+[00:49:39] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:49:39] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:50:06] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:50:27] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:50:27] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:50:27] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:53:54] [Client thread/ERROR]: Signature is missing from textures payload
+[00:54:07] [Client thread/INFO]: [CHAT] You earned 103 GEXP from playing SkyBlock!
+[00:59:08] [Client thread/INFO]: [CHAT] You earned 263 GEXP from playing SkyBlock!
+[00:59:24] [Client thread/INFO]: [CHAT] Warping...
+[00:59:25] [Client thread/INFO]: [CHAT] Sending to server mini151AC...
+[00:59:25] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:59:26] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini151AC', serverType='SKYBLOCK', lobbyName='null', mode='dungeon_hub', map='Dungeon Hub'} VersionedPacket{version=1}
+[00:59:26] [Client thread/INFO]: [CHAT]        
+[00:59:29] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:59:29] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:00:07] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:00:07] [SkyblockAddons - #41/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:00:07] [SkyblockAddons - #41/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:00:16] [Client thread/ERROR]: Signature is missing from textures payload
+[01:00:19] [Client thread/INFO]: [CHAT] [61] §a[VIP§6+§a] UTMC§f: PARTY ME IF YOU WANT TO BUY a maxed shadow fury, 2/4 necron , a golden livid head with legion 3 and a sadan head with legion 1 (all of the items are 5 star) PARTY ME IF YOU WANT TO BUY a maxed shadow fury, 2/4 necron , a golden livid head with legion 3
+[01:00:26] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:00:40] [Client thread/INFO]: [CHAT] You earned 25 GEXP from playing SkyBlock!
+[01:01:41] [Client thread/INFO]: [CHAT] You have already claimed this reward!
+[01:01:43] [Client thread/INFO]: [CHAT] You have already claimed this reward!§7 (2)
+[01:02:13] [Client thread/INFO]: [CHAT] [127] ? §7TukansTucis§7: thanks
+[01:04:31] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:04:31] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:04:31] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:04:51] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:04:51] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:04:51] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:05:04] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:05:04] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:05:04] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:05:29] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:05:29] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:05:29] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:05:44] [Client thread/INFO]: [CHAT] You earned 144 GEXP from playing SkyBlock!
+[01:06:13] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:06:13] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:06:13] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:06:31] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:06:31] [Client thread/INFO]: [CHAT] You are not in a party.
+[01:06:31] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:08:21] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:08:21] [SkyblockAddons - #43/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:08:21] [SkyblockAddons - #43/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:08:27] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:08:27] [SkyblockAddons - #43/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:08:27] [SkyblockAddons - #43/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:09:46] [Client thread/INFO]: [CHAT] [61] §a[VIP§6+§a] UTMC§f: PARTY ME IF YOU WANT TO BUY a maxed shadow fury a golden livid head with legion 3 and a sadan head with legion 1 (all of the items are 5 star) PARTY ME IF YOU WANT TO BUY a maxed shadow fury, a golden livid head with legion 3
+[01:09:52] [Client thread/INFO]: [CHAT] RARE REWARD! Teqira found a Recombobulator 3000 in their Bedrock Chest!
+[01:10:00] [Client thread/INFO]: [CHAT] RARE REWARD! Teqira found a Recombobulator 3000 in their Obsidian Chest!
+[01:10:51] [Client thread/INFO]: [CHAT] You earned 281 GEXP from playing SkyBlock!
+[01:11:52] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:11:52] [SkyblockAddons - #44/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:11:52] [SkyblockAddons - #44/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:15:55] [Client thread/INFO]: [CHAT] You earned 273 GEXP from playing SkyBlock!
+[01:16:23] [Client thread/INFO]: [CHAT] A Happy Anniversary! A
+[01:16:23] [Client thread/INFO]: [CHAT]   SkyBlock is celebrating its 5th birthday!!!
+[01:16:23] [Client thread/INFO]: [CHAT]   Talk to Simon in the Village to celebrate!
+[01:16:23] [Client thread/INFO]: [CHAT] 
+[01:16:30] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help. ('arp hub')
+[01:16:31] [Client thread/INFO]: [CHAT] Warping...
+[01:16:31] [Client thread/INFO]: [CHAT] Sending to server mega5D...
+[01:16:32] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:16:32] [Client thread/INFO]: [CHAT]        
+[01:16:32] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mega5D', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[01:16:32] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: kska
+[01:16:34] [Client thread/INFO]: [CHAT] [96] §7ToasterSnwy§7: lowballing 765m
+[01:16:34] [Client thread/INFO]: [CHAT] §8[§e90§8] §7? §a[VIP] Aumot§f§7 is holding §8[§7[Lvl 88] §6Ender Dragon§8]
+[01:16:35] [Client thread/INFO]: [CHAT] [90] ? §a[VIP] Aumot§f: Selling LVL 88 Legendary ender dragon - 890m coins!
+[01:16:35] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:16:35] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:16:37] [Client thread/INFO]: [CHAT] [48] ? §a[VIP] XTHERMO§f: buying 5th anniversary hats for 5m / p XTHERMO
+[01:16:39] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: can i trade aqua and orange for black
+[01:16:39] [Client thread/INFO]: [CHAT] [288] ? §b[MVP] 10sl_hts§f: buying all hats for 4million /visit me!!!! 0000000 eioawuygsdftghui!!!!
+[01:16:47] [Client thread/INFO]: [CHAT] [213] ? §b[MVP§f+§b] gamersauceman§f: trading aqua for a purple
+[01:16:47] [Client thread/INFO]: [CHAT] Simon gave a Yellow 5th Anniversary Balloon Hat to max3dotz0!
+[01:16:50] [Client thread/INFO]: [CHAT] [95] ? §b[MVP§a+§b] Mega_Rager§f: Buying black balloon hats party me
+[01:16:54] [Client thread/INFO]: [CHAT] [50] §7OriginalHacker§7: LOWBALLING 70M PURSE /VISIT ME -0-0-0-0
+[01:16:56] [Client thread/INFO]: [CHAT] [322] ? §b[MVP§9+§b] Kska_777§f: i want green
+[01:16:57] [Client thread/INFO]: [CHAT] [138] ? §a[VIP] D1xxy§f: Buying balloon hats visit me
+[01:16:58] [Client thread/INFO]: [CHAT] §8[§e106§8] §7Duengon§7§7 is holding §8[§c§aLime 5th Anniversary Balloon Hat§8]
+[01:16:58] [Client thread/INFO]: [CHAT] §e[NPC] Simon§f: It's time for celebration!
+[01:16:59] [Client thread/INFO]: [CHAT] §e[NPC] Simon§f: SkyBlock is turning §e5 years §fold today!
+[01:17:00] [Client thread/INFO]: [CHAT] [257] ? §a[VIP] 960s§f: ah
+[01:17:01] [Client thread/INFO]: [CHAT] §e[NPC] Simon§f: Time sure flies when you're grinding SkyBlock, eh?
+[01:17:02] [Client thread/INFO]: [CHAT] [108] §a[VIP] 0x12b90a1§f: Buying balloon hats at 5m per, /visit me
+[01:17:03] [Client thread/INFO]: [CHAT] [193] §b[MVP] VinNerdism§f: kska i have lime
+[01:17:05] [Client thread/INFO]: [CHAT] You claimed a Purple 5th Anniversary Balloon Hat!
+[01:17:05] [Client thread/INFO]: [CHAT] Simon gave a Purple 5th Anniversary Balloon Hat to 16thGarden!
+[01:17:06] [Client thread/INFO]: [CHAT] [155] §a[VIP] megapiska9000§f: TRADING MY ARCHER SETUP FOR HYP MAGE + MY edrag VISIT ME
+[01:17:07] [Client thread/INFO]: [CHAT] [41] §7TALONISHERE§7: buying slimeminion T11
+[01:17:07] [Client thread/INFO]: [CHAT] Simon gave a Yellow 5th Anniversary Balloon Hat to OriginalHacker!
+[01:17:10] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] mldn§f: Buying your balloons for 6.5m per visit me ! Buying your balloons for 6.5m per visit me ! Buying your balloons for 6.5m per visit me !
+[01:17:11] [Client thread/INFO]: [CHAT] [257] ? §a[VIP] 960s§f: (???) Buying All Your FREE Balloon Hats - 1M Each! (???) /Visit 960s
+[01:17:12] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: trading orange or aqua for green
+[01:17:14] [Client thread/INFO]: [CHAT] [220] §b[MVP§c+§b] RinzIer§f: buying ballon hats for 4.5m per visit me
+[01:17:14] [Client thread/INFO]: [CHAT] [70] §b[MVP§c+§b] Returgigate§f: BUYING BALLOON HATS FOR 6M VISIT MY ISLAND /Visit Returgigate
+[01:17:15] [Client thread/INFO]: [CHAT] [240] §b[MVP§d+§b] Shiuroshi§f: is any1 willing to trade hats? i have yellow one
+[01:17:15] [Client thread/INFO]: [CHAT] [203] ? §b[MVP§c+§b] BampZz§f: buying armor set @ me
+[01:17:16] [Client thread/INFO]: [CHAT] [82] §a[VIP] Squirrelsoda§f: is the black one good
+[01:17:18] [Client thread/INFO]: [CHAT] [0] §7pranav6398§7: i am already here
+[01:17:19] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] Wertle§f: send me a party if you want lime, trading for orange
+[01:17:22] [Client thread/INFO]: [CHAT] [152] ? §a[VIP] vxru§f: buying all hats 4.5m visit me
+[01:17:23] [Client thread/INFO]: [CHAT] [109] §7Bluecreeper3001§7: what can i do with the shiny pigs?????????????
+[01:17:25] [Client thread/INFO]: [CHAT] Simon gave a Aqua 5th Anniversary Balloon Hat to UhhOkay74!
+[01:17:28] [Client thread/INFO]: [CHAT] [206] ? §b[MVP§5+§b] GeicoSalesman§f: buying balloon hat 4m ea visit me buying balloon hat 4m ea visit me buying balloon hat 4m ea visit me buying balloon hat 4m ea visit me buying balloon hat 4m ea visit me
+[01:17:32] [Client thread/INFO]: [CHAT] [95] ? §b[MVP§a+§b] Mega_Rager§f: What balooon hats are worth the most?
+[01:17:32] [Client thread/INFO]: [CHAT] §8[§e106§8] §7Duengon§7§7 is holding §8[§c§aLime 5th Anniversary Balloon Hat§8]
+[01:17:35] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:17:36] [Client thread/INFO]: [CHAT] [102] §7BBbattler22_2§7: black
+[01:17:37] [Client thread/INFO]: [CHAT] [63] ? §a[VIP] Atermetis§f: selling ping balloon hat
+[01:17:43] [Client thread/INFO]: [CHAT] [82] §b[MVP§c+§b] Z15HAN§f: anyone wants a purple one?
+[01:17:44] [Client thread/INFO]: [CHAT] Simon gave a Black 5th Anniversary Balloon Hat to EmirhanC14!
+[01:17:46] [Client thread/INFO]: [CHAT] [367] ? §a[VIP§6+§a] Chris_Dynamite§f: buying your balloon hats for 4m party me
+[01:17:46] [Client thread/INFO]: [CHAT] [102] §7BBbattler22_2§7: yeah
+[01:17:47] [Client thread/INFO]: [CHAT] [96] §7ToasterSnwy§7: lowballing 765m good
+[01:17:58] [Client thread/INFO]: [CHAT] [168] ? §b[MVP§2+§b] edensh§f: LOWBALLING 1B PURSE /visit edensh.......
+[01:17:59] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] Wertle§f: please i will trade lime for orange
+[01:18:00] [DefaultDispatcher-worker-4/WARN]: Failed to fetch https://crafthead.net/helm/6101896161e44419bf8b17044e487000: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor78.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy30.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$265/1213604358.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$271/1333217812.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[01:18:05] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: TRADING YELLOW FOR GREEN
+[01:18:07] [Client thread/INFO]: [CHAT] Friend > JPGomdol joined.
+[01:18:08] [Client thread/INFO]: [CHAT] [0] §7pranav6398§7: BUYING HATS FOR 1M
+[01:18:08] [Client thread/INFO]: [CHAT] [56] §a[VIP§6+§a] Tinsarfal§f: lol what was the hat dupe?
+[01:18:09] [Client thread/INFO]: [CHAT] [153] §a[VIP§6+§a] KANANSD§f: buying all hats for 5m visit fast
+[01:18:09] [Client thread/INFO]: [CHAT] [82] §b[MVP§c+§b] Z15HAN§f: trading purple for black
+[01:18:13] [Client thread/INFO]: [CHAT] [138] ? §a[VIP] D1xxy§f: ------------------------------Buying balloon hats visit me
+[01:18:14] [Client thread/INFO]: [CHAT] [48] ? §a[VIP] XTHERMO§f: 5th anniversary hats for 5m / p XTHERMO _______________________
+[01:18:15] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.
+[01:18:18] [Client thread/INFO]: [CHAT] [96] §7ToasterSnwy§7: lowballing 765m /visit ToasterSnwy
+[01:18:23] [Client thread/INFO]: [CHAT] Simon gave a Yellow 5th Anniversary Balloon Hat to itss_notme!
+[01:18:23] [Client thread/INFO]: [CHAT] [213] ? §b[MVP§f+§b] gamersauceman§f: dope
+[01:18:23] [Client thread/INFO]: [CHAT] [60] ? §b[MVP§6+§b] BlueCarpet§f: selling hats
+[01:18:24] [Client thread/INFO]: [CHAT] [153] §a[VIP§6+§a] KANANSD§f: trading yellow hats for black
+[01:18:26] [Client thread/INFO]: [CHAT] [82] §b[MVP§c+§b] Z15HAN§f: trading purple for black at map
+[01:18:26] [Client thread/INFO]: [CHAT] You earned 120 GEXP from playing SkyBlock!
+[01:18:28] [Client thread/INFO]: [CHAT] [92] §7187_YoungOli_§7: Buying all hats 5m each /p me
+[01:18:29] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§9+§b] ASH_RUSHER§f: BUYING balloon HATS FOR 6 M visit me (1 BIL BANK) >>>>>>
+[01:18:32] [Client thread/INFO]: [CHAT] [234] ? §6[MVP§c++§6] roccotje§f: how to get the red hat ?
+[01:18:36] [Client thread/INFO]: [CHAT] [220] §b[MVP§c+§b] RinzIer§f: buying hats for 5m per visit me
+[01:18:36] [Client thread/INFO]: [CHAT] Simon gave a Green 5th Anniversary Balloon Hat to fangedup!
+[01:18:36] [Client thread/INFO]: [CHAT] [48] ? §a[VIP] XTHERMO§f: buying 5th anniversary hats for 5m / p XTHERMO_______________
+[01:18:37] [Client thread/INFO]: [CHAT] [236] ? §a[VIP§6+§a] Quas1r§f: buyin baloon hat 5.3m/per
+[01:18:38] [Client thread/INFO]: [CHAT] [302] ? §6[MVP§f++§6] ShowerIsDT§f: where is simon guys help me
+[01:18:39] [Chunk Batcher 5/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[01:18:40] [Client thread/INFO]: [CHAT] [381] ? §b[MVP§3+§b] Nebmasterflash§f: TRADING BALLOON HATS FOR OTHER COLORS (i have red) !!! /visit me chat
+[01:18:41] [Client thread/INFO]: [CHAT] [193] ? §a[VIP] Distrafic§f: buying balloon hats 4.5m /visit
+[01:18:43] [Client thread/INFO]: [CHAT] [70] ? §7EwenMarzbar§7: near bazzar
+[01:18:45] [Client thread/INFO]: [CHAT] [82] §b[MVP§c+§b] Z15HAN§f: trading purple for black at map .///////////////////
+[01:18:50] [Client thread/INFO]: [CHAT] [203] ? §b[MVP] mikraxxl§f: bazaar
+[01:18:56] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] Wertle§f: trading ime for orange
+[01:18:57] [Client thread/INFO]: [CHAT] [302] ? §6[MVP§f++§6] ShowerIsDT§f: ty ?
+[01:18:57] [Client thread/INFO]: [CHAT] [136] §b[MVP§c+§b] _TimCZE_§f: Buying ANY COLOR aniversary hat for 10m! - VISIT ME!!!!
+[01:18:58] [Client thread/INFO]: [CHAT] [114] §b[MVP§c+§b] Fataldarksage11§f: selling black hat /visit fataldarksage11
+[01:19:00] [Client thread/INFO]: [CHAT] [170] ? §b[MVP§c+§b] ind0set§f: trading lime balloon for green /visit in0set
+[01:19:01] [Client thread/INFO]: [CHAT] Simon gave a Green 5th Anniversary Balloon Hat to ShowerIsDT!
+[01:19:03] [Client thread/INFO]: [CHAT] [128] ? §a[VIP§6+§a] Antiato§f: lowballing 100m /visit me
+[01:19:06] [Client thread/INFO]: [CHAT] [50] §7OriginalHacker§7: lowballing 70m purse /visit me
+[01:19:07] [Client thread/INFO]: [CHAT] [128] ? §a[VIP§6+§a] Antiato§f: lowballing 100m /visit antiato
+[01:19:09] [Client thread/INFO]: [CHAT] [226] ? §6[MVP§2++§6] kael_777§f: any1 want to trade for a lime hat
+[01:19:09] [Client thread/INFO]: [CHAT] [145] ? §a[VIP] 0Maa§f: if any1 has red party me ASAP ill trade with a aqua
+[01:19:14] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§d+§b] HanTy_§f: buying balloon hat for 6M /visit hanty_
+[01:19:15] [Client thread/INFO]: [CHAT] [138] §b[MVP§2+§b] Viud§f: Selling hats for 9m each visit me,
+[01:19:16] [Client thread/INFO]: [CHAT] [86] ? §a[VIP] StrawyTunic9997§f: LOWBBALLING 70M /VISIT ME
+[01:19:18] [Client thread/INFO]: [CHAT] [145] ? §a[VIP] 0Maa§f: yo stussy2
+[01:19:19] [Client thread/INFO]: [CHAT] [288] ? §b[MVP] 10sl_hts§f: buying all hats for 5million /visit me!!!! 000000
+[01:19:19] [Client thread/INFO]: [CHAT] [102] ? §7Arc4dius§7: Trading hypermaxed juju, great necron armor+maxor boots, lvl 97 epic yeti and 270m coins for hyperion (pref with implosion) ./visit me
+[01:19:21] [Client thread/INFO]: [CHAT] [151] §a[VIP] IBeansProMax§f: buying hats /visit me!!
+[01:19:24] [Client thread/INFO]: [CHAT] [138] §b[MVP§2+§b] Viud§f: Selling hats for 9m each visit me, had 15 down to 5.
+[01:19:27] [Client thread/INFO]: [CHAT] [86] ? §a[VIP] StrawyTunic9997§f: BUYING HATS /VISIT ME
+[01:19:27] [Client thread/INFO]: [CHAT] [48] §b[MVP§6+§b] BBlove8§f: buying hats /visit me
+[01:19:27] [Client thread/INFO]: [CHAT] [206] §b[MVP§e+§b] Twifty§f: selling hats for 9m /p me
+[01:19:29] [Client thread/INFO]: [CHAT] [145] ? §a[VIP] 0Maa§f: yo stussy2 wanna swap colours
+[01:19:33] [Client thread/INFO]: [CHAT] [65] §7Numsee§7: selling lime hat visit me
+[01:19:34] [Client thread/INFO]: [CHAT] [51] §7ChiarasAlt§7: selling black ballon for 24m
+[01:19:39] [Client thread/INFO]: [CHAT] [48] §b[MVP§6+§b] BBlove8§f: buying hats /visit me :) plz
+[01:19:39] [Client thread/INFO]: [CHAT] [331] ? §b[MVP§9+§b] Stussy2§f: uh
+[01:19:40] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] Wertle§f: I will trade my lime hat for an orange hat, party me if interested
+[01:19:41] [Client thread/INFO]: [CHAT] [151] ? §b[MVP] Maelstorm4352§f: LOWBALLING 50MMM /visit me (ill take balloons)
+[01:19:43] [Client thread/INFO]: [CHAT] [183] ? §b[MVP§9+§b] Littlebabywill§f: Buying your balloon hats ./visit me!
+[01:19:45] [Client thread/INFO]: [CHAT] [205] ? §b[MVP§d+§b] generaalmilan§f: selling black balloon for 50m
+[01:19:54] [Client thread/INFO]: [CHAT] [331] ? §b[MVP§9+§b] Stussy2§f: im g thx
+[01:19:55] [Client thread/INFO]: [CHAT] [211] §b[MVP§2+§b] zwMatters§f: Officer > [MVP+] herseh [S]: Looking for a early-mid game guild? Requirements: Be Active, Level 50. Party me and I will invite you!
+[01:19:55] [Client thread/INFO]: [CHAT] [195] §a[VIP§6+§a] pluisigekoe§f: buying balloon hats for 3m each /p me
+[01:19:56] [Client thread/INFO]: [CHAT] [145] ? §a[VIP] 0Maa§f: mines aqua
+[01:19:57] [Client thread/INFO]: [CHAT] [185] §a[VIP§6+§a] gaggistampfer§f: lowballing everything 400m
+[01:19:57] [Client thread/INFO]: [CHAT] [145] ? §a[VIP] 0Maa§f: plzzzz
+[01:19:58] [Client thread/INFO]: [CHAT] [67] ? §a[VIP§6+§a] zzdx§f: TRADING RED FOR AQUA MAP
+[01:19:58] [Client thread/INFO]: [CHAT] §8[§b207§8] §b[MVP§f+§b] Shokz_§f§7 is holding §8[§dHeroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:19:59] [Client thread/INFO]: [CHAT] [207] §b[MVP§f+§b] Shokz_§f: selling /p me!!!!!!!!!!!!!!!!!!!
+[01:20:00] [Client thread/INFO]: [CHAT] Simon gave a Aqua 5th Anniversary Balloon Hat to i_m_1337!
+[01:20:00] [Client thread/INFO]: [CHAT] [53] §a[VIP] Furious_Spandan§f: anybody willing to trade aqua for my balloon ill also give 500k
+[01:20:01] [Client thread/INFO]: [CHAT] [145] ? §a[VIP] 0Maa§f: i rlly want red
+[01:20:03] [Client thread/INFO]: [CHAT] §8[§2170§8] §7? §b[MVP§c+§b] ind0set§f§7 is holding §8[§5Heroic Aspect of the Void§8]
+[01:20:06] [Client thread/INFO]: [CHAT] [211] §b[MVP§2+§b] zwMatters§f: Looking for a early-mid game guild? Requirements: Be Active, Level 50. Party me and I will invite you!
+[01:20:09] [Client thread/INFO]: [CHAT] [158] ? §b[MVP§2+§b] Ro_V§f: Buying your balloon hats 5m each!!!!! EASY Money if you are new!! /visit Ro_V fast before price drop
+[01:20:09] [Client thread/INFO]: [CHAT] [79] §a[VIP§6+§a] Max_1880§f: lowballing 100m purse normal rules visit me
+[01:20:10] [Client thread/INFO]: [CHAT] §8[§2163§8] §6§l? §b[MVP] Tinroof3562§f§7 is holding §8[§5Warped Aspect of the Void§8]
+[01:20:10] [Client thread/INFO]: [CHAT] [100] ? §a[VIP] GamerHaris02§f: selling lime balloon hat /p me'\
+[01:20:11] [Client thread/INFO]: [CHAT] [327] ? §b[MVP§3+§b] cariburn§f: trading orange hat for pink
+[01:20:16] [Client thread/INFO]: [CHAT] [53] §a[VIP] Furious_Spandan§f: who here has aqua
+[01:20:16] [Client thread/INFO]: [CHAT] [63] §a[VIP§6+§a] PoppedByPhantom§f: LOWBALLING 80M VISIT ME
+[01:20:17] [Client thread/INFO]: [CHAT] [18] §a[VIP] tetonicteddy§f: i got black
+[01:20:20] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: i ahve aqua
+[01:20:21] [Client thread/INFO]: [CHAT] [151] ? §b[MVP] Maelstorm4352§f: BUYING ALL BALLOONS FOR 4MMMM /VISIT ME (also lowballing 120m purse)
+[01:20:22] [Client thread/INFO]: [CHAT] Simon gave a Red 5th Anniversary Balloon Hat to roccotje!
+[01:20:25] [Client thread/INFO]: [CHAT] [188] ? §b[MVP§d+§b] Youtilit§f: i got aqua
+[01:20:27] [Client thread/INFO]: [CHAT] [207] §b[MVP§f+§b] Shokz_§f: tetonicteddy how much for ur black one
+[01:20:29] [Client thread/INFO]: [CHAT] [93] §a[VIP] Chou_9529§f: buying balloon hat for 5m p me////////////////
+[01:20:29] [Client thread/INFO]: [CHAT] [53] §a[VIP] Furious_Spandan§f: u want 500k and ornage for aqua?
+[01:20:29] [Client thread/INFO]: [CHAT] [331] ? §b[MVP§9+§b] Stussy2§f: eh i like red too :(
+[01:20:33] [Client thread/INFO]: [CHAT] [339] ? §b[MVP§d+§b] IcelandicEGirl§f: buying all baloons for 5m visit me-----------
+[01:20:34] [Client thread/INFO]: [CHAT] Simon gave a Yellow 5th Anniversary Balloon Hat to LemmyAlt!
+[01:20:35] [Client thread/INFO]: [CHAT] [32] §a[VIP] Nxrute§f: pleeessseee buy my ahhhh
+[01:20:35] [Client thread/INFO]: [CHAT] [302] ? §6[MVP§f++§6] ShowerIsDT§f: i have green hat
+[01:20:35] [Client thread/INFO]: [CHAT] [268] ? §b[MVP§3+§b] Artistical§f: where do you claim the balloon?
+[01:20:36] [Client thread/INFO]: [CHAT] [208] ? §b[MVP§9+§b] m33e§f: yo wheres simon?
+[01:20:46] [Client thread/INFO]: [CHAT] [80] §a[VIP§6+§a] summmerbreeze§f: selling baloon hat for 10m visit me
+[01:20:52] [Client thread/INFO]: [CHAT] [87] §7OzziePieLow§7: any lowballers
+[01:20:52] [Client thread/INFO]: [CHAT] [163] ? §b[MVP] Tinroof3562§f: i got pink
+[01:20:54] [Client thread/INFO]: [CHAT] [226] ? §6[MVP§2++§6] kael_777§f: trading lime balloon hat
+[01:20:55] [Client thread/INFO]: [CHAT] [51] §7ChiarasAlt§7: buying all balloons for 4m /visit me
+[01:20:56] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: trading orange or aqua for green!!
+[01:21:03] [Client thread/INFO]: [CHAT] [106] ? §a[VIP] SidHere§f: Buying Ballon Hat 1m coins p invite me
+[01:21:04] [Client thread/INFO]: [CHAT] [152] ? §a[VIP] vxru§f: buying all hats 5m visit me
+[01:21:04] [Client thread/INFO]: [CHAT] [208] ? §b[MVP§9+§b] m33e§f: ayone know where simon is?
+[01:21:06] [Client thread/INFO]: [CHAT] [141] §7Jonaeer§7: anyone wanna trade my green baloon for purple visit me
+[01:21:06] [Client thread/INFO]: [CHAT] [220] §b[MVP§c+§b] RinzIer§f: buying all ballon hats for 5m per, visit me
+[01:21:08] [Client thread/INFO]: [CHAT] [193] §b[MVP] VinNerdism§f: kael i have lime
+[01:21:08] [Client thread/INFO]: [CHAT] [18] §a[VIP] tetonicteddy§f: 6.5m?
+[01:21:17] [Client thread/INFO]: [CHAT] [32] §a[VIP] Nxrute§f: selling lime 5year balloon hat for 10m /p me
+[01:21:18] [Client thread/INFO]: [CHAT] [140] ? §a[VIP] supomoment§f: buying balloons 1m each /visit me
+[01:21:19] [Client thread/INFO]: [CHAT] [72] §6[MVP§a++§6] Anagh8§f: buying all black hats for 7m!!!!!!! visit me
+[01:21:28] [Client thread/INFO]: [CHAT] [331] ? §b[MVP§9+§b] Stussy2§f: trading red ballon hat for pink
+[01:21:29] [Client thread/INFO]: [CHAT] [53] §a[VIP] Furious_Spandan§f: who here has aqua ill give my balloon and money for it
+[01:21:34] [Client thread/INFO]: [CHAT] [127] ? §a[VIP§6+§a] hyperwasused§f: i do
+[01:21:38] [Client thread/INFO]: [CHAT] [183] ? §b[MVP§9+§b] Littlebabywill§f: Buying your balloon hats ./visit me! 4.5M PER!!!! ???? ?? ???????? ?? ????
+[01:21:48] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] mldn§f: Buying your balloons for 5m per visit me !
+[01:21:51] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: trading orange or aqua for GREEN
+[01:21:51] [Client thread/INFO]: [CHAT] [53] §a[VIP] Furious_Spandan§f: Orange
+[01:21:52] [Client thread/INFO]: [CHAT] [205] ? §b[MVP§f+§b] Keruto_§f: buying all your balloon hats 5m per visit me!
+[01:21:54] [Client thread/INFO]: [CHAT] [141] §7Jonaeer§7: selling green balloon for purple visit me
+[01:21:54] [Client thread/INFO]: [CHAT] [6] §7_SoggyFrogs§7: can someone trade me 32 enchanted pork for 500k? i dont have bazaar unlocked yet(at map)
+[01:21:57] [Client thread/INFO]: [CHAT] [193] §b[MVP] VinNerdism§f: buying black balloon hat for 1m
+[01:22:00] [Client thread/INFO]: [CHAT] [257] ? §a[VIP] 960s§f: (???) Buying All Your FREE Balloon Hats - 2M Each! (???) /Visit 960s
+[01:22:04] [Client thread/INFO]: [CHAT] [191] ? §b[MVP§c+§b] 801x§f: BUYING **ALL** BALLOON HATS 6M /ea!
+[01:22:07] [Client thread/INFO]: [CHAT] [61] ? §a[VIP§6+§a] UhhOkay74§f: wheres simon?
+[01:22:09] [Client thread/INFO]: [CHAT] [146] §a[VIP] COLDD_DRY§f: BUYING BALLOON HATS 5.5M each /visit me
+[01:22:12] [Client thread/INFO]: [CHAT] [142] ? §a[VIP§6+§a] Substantialy§f: ????? LOWBALLING 1 BILLION coin purse /visit Substantialy RN ?????
+[01:22:18] [Client thread/INFO]: [CHAT] [208] §b[MVP§f+§b] PROEPIC5§f: buying ballon hats 1.5m each /p me
+[01:22:19] [Client thread/INFO]: [CHAT] [6] §7_SoggyFrogs§7: can someone trade me 32 enchanted pork for 500k? i dont have bazaar unlocked yet(at map)////////////////////
+[01:22:21] [Client thread/INFO]: [CHAT] [149] §a[VIP] UnrealBo§f: Lowballing 2.2b (min 100m+) /visit UnrealBo
+[01:22:23] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] ZyferButBlue§f: LOWBALLING 1B purse
+[01:22:24] [Client thread/INFO]: [CHAT] Friend > JPGomdol left.
+[01:22:25] [Client thread/INFO]: [CHAT] [56] §b[MVP§c+§b] adri_Minecraft1§f: Selling a lime balloon hat for 2m
+[01:22:25] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] ZyferButBlue§f: LOWBALLING 1B purse /visit me
+[01:22:26] [Client thread/INFO]: [CHAT] [111] ? §a[VIP] ____Cubic____§f: 801x
+[01:22:26] [Client thread/INFO]: [CHAT] [290] ? §b[MVP§c+§b] sacke111§f: BUYING the BALOON hats for 5m! 6m purple! 13m for black! VISIT ME!
+[01:22:31] [Client thread/INFO]: [CHAT] [78] ? §a[VIP] catatau10§f: selling Aqua 5th Anniversary Ballon Hat for 500 coins check my ah fast
+[01:22:33] [Client thread/INFO]: [CHAT] [155] §a[VIP] megapiska9000§f: TRADING MY ARCHER SETUP FOR HYP MAGE + MY edrag VISIT ME
+[01:22:34] [Client thread/INFO]: [CHAT] [64] ? §a[VIP§6+§a] _AghoZero_§f: WA
+[01:22:36] [Client thread/INFO]: [CHAT] [178] ? §7_Kyhl_§7: BUYING BALLON HAT FOR 2.5m VISIT ME!!!
+[01:22:38] [Client thread/INFO]: [CHAT] Simon gave a Orange 5th Anniversary Balloon Hat to m33e!
+[01:22:38] [Client thread/INFO]: [CHAT] [247] ? §a[VIP§6+§a] Yoncho123§f: lowballing with 2.2B visit me
+[01:22:40] [Client thread/INFO]: [CHAT] [78] ? §a[VIP] catatau10§f: selling Aqua 5th Anniversary Ballon Hat for 500 coins check my ah fast -------------
+[01:22:45] [Client thread/INFO]: [CHAT] [64] ? §a[VIP§6+§a] _AghoZero_§f: lowballing which 3 mil /VISIT me !!!!!!!!!!!
+[01:22:47] [Client thread/INFO]: [CHAT] [305] ? §a[VIP] Nyanasaur§f: looking for red hat, will trade yellow hat... /p me
+[01:22:48] [Client thread/INFO]: [CHAT] [245] ? §a[VIP] Prinzzle§f: buying balloon hats visit me if you want to sell
+[01:22:55] [Client thread/INFO]: [CHAT] [130] §a[VIP] fxin§f: buying all balloon hats visit me
+[01:22:59] [Client thread/INFO]: [CHAT] [168] ? §b[MVP§2+§b] edensh§f: LOWBALLING 1B PURSE /visit edensh
+[01:23:03] [Client thread/INFO]: [CHAT] [81] §b[MVP§c+§b] DonnieVincent§f: selling black hat
+[01:23:04] [Client thread/INFO]: [CHAT] [42] §b[MVP§6+§b] NoahDOA§f: balloon hats on my ah
+[01:23:05] [Client thread/INFO]: [CHAT] [42] §b[MVP§6+§b] NoahDOA§f: balloon hats on my ahballoon hats on my ah
+[01:23:09] [Client thread/INFO]: [CHAT] [399] ? §b[MVP§4+§b] Rhalkego§f: 1-1 trading pink balloon for red/purple /////////
+[01:23:12] [Client thread/INFO]: [CHAT] [146] ? §b[MVP§e+§b] Minecraft_King08§f: I somehow got a second balloon hat
+[01:23:14] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+
+-----------------------------------------------------
+[01:23:18] [Client thread/INFO]: [CHAT] [311] ? §6[MVP§0++§6] DontShare§f: buying anniversary balloons!!!! all colors
+[01:23:21] [Client thread/INFO]: [CHAT] [130] §a[VIP] fxin§f: BUYING ALL BALLOON HATS VISIT ME 5m each !!!!!!!!!!!
+[01:23:22] [Client thread/INFO]: [CHAT] [49] §a[VIP] fantomas0009§f: buying baloon hats 5m each do /visit fantomas0009
+[01:23:24] [Client thread/INFO]: [CHAT] Simon gave a Lime 5th Anniversary Balloon Hat to ImDab_!
+[01:23:25] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§9+§b] ASH_RUSHER§f: BUYING balloon HATS FOR 5.5 M visit me (1 BIL BANK) >>>>>>
+[01:23:26] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: advew
+[01:23:26] [Client thread/INFO]: [CHAT] [127] ? §a[VIP§6+§a] hyperwasused§f: selling my hat on ah for 500 check quick
+[01:23:28] [Client thread/INFO]: [CHAT] [50] §a[VIP] HuTaoQueen§f: Buying ballons for 5m /visit HuTaoQueen!!!! Best offer!
+[01:23:30] [Client thread/INFO]: [CHAT] [72] §6[MVP§a++§6] Anagh8§f: buying all black hats for 7m visit
+[01:23:32] [Client thread/INFO]: [CHAT] [399] ? §b[MVP§4+§b] Rhalkego§f: 1-1 trading pink balloon for red/purple
+[01:23:33] [Client thread/INFO]: [CHAT] Simon gave a Lime 5th Anniversary Balloon Hat to poopboy891!
+[01:23:35] [Client thread/INFO]: [CHAT] §8[§a124§8] §6? §a[VIP§6+§a] xDavi_11§f§7 is holding §8[§c§bAqua 5th Anniversary Balloon Hat§8]
+[01:23:38] [Client thread/INFO]: [CHAT] [124] ? §a[VIP§6+§a] xDavi_11§f: selling
+[01:23:38] [Client thread/INFO]: [CHAT] [257] ? §a[VIP] 960s§f: ??.*??? Buying Your Free Balloon Hats for 2M Coins Each! ??.*??? /Visit 960s
+[01:23:40] [Client thread/INFO]: [CHAT] [183] ? §b[MVP§9+§b] Littlebabywill§f: Buying your balloon hats ./visit me! 4.5M PER!!!! ???? ?? ????
+[01:23:40] [Client thread/INFO]: [CHAT] [90] §a[VIP] char_zero789§f: I got a red
+[01:23:43] [Client thread/INFO]: [CHAT] [138] §b[MVP§2+§b] Viud§f: Lowballing 1.6b purse /visit Viud
+[01:23:45] [Client thread/INFO]: [CHAT] [66] §7Ben4son§7: how do i get an anniversary hat
+[01:23:46] [Client thread/INFO]: [CHAT] [229] ? §b[MVP§d+§b] Vision_IboXD§f: gremlinns
+[01:23:47] [Client thread/INFO]: [CHAT] [148] §b[MVP§c+§b] chris6peacok§f: LOWBALLING 414M {5M + Please) /VISIT ME@@@@@@@@@@@@@@@@@@@
+[01:23:48] [Client thread/INFO]: [CHAT] [138] §b[MVP§2+§b] Viud§f: Lowballing 1.6b purse /visit Viud <--------------
+[01:23:49] [Client thread/INFO]: [CHAT] You earned 511 GEXP from playing SkyBlock!
+[01:23:51] [Client thread/INFO]: [CHAT] [37] §a[VIP] TTVSchwooey§f: which balloon hat color is the rarest?
+[01:23:52] [Client thread/INFO]: [CHAT] [407] ? §b[MVP§2+§b] Paddy5§f: buyin all you hats for 6 MILLION coins /visit paddy5
+[01:23:55] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] ZyferButBlue§f: black
+[01:23:59] [Client thread/INFO]: [CHAT] Simon gave a Orange 5th Anniversary Balloon Hat to PearlCreativeK!
+[01:23:59] [Client thread/INFO]: [CHAT] [129] §a[VIP] CatGirlrespect§f: LOWBALLING 450M /VISIT ME
+[01:24:02] [Client thread/INFO]: [CHAT] [148] ? §a[VIP] ImOsci§f: Buying Balloon Hats! /P ImOsci
+[01:24:02] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: trading green and or yellow for black!
+[01:24:02] [Client thread/INFO]: [CHAT] [75] §a[VIP] T4fe§f: buying hats for 6m each
+[01:24:03] [Client thread/INFO]: [CHAT] [78] §7Chainsoon§7: trading yellow for green
+[01:24:07] [Client thread/INFO]: [CHAT] [241] ? §b[MVP§d+§b] Philol321§f: Buying your free 5th aniversary hats im collecting every color if your interrested in free money -->/visit Philol321 for more informations
+[01:24:09] [Client thread/INFO]: [CHAT] [339] ? §b[MVP§d+§b] IcelandicEGirl§f: buying all baloons for 5m visit me
+[01:24:13] [Client thread/INFO]: [CHAT] [69] §b[MVP§f+§b] DrAtom§f: buying black balloon hat for 10m /visit junpel//////////
+[01:24:15] [Client thread/INFO]: [CHAT] [153] ? §b[MVP§d+§b] DustyBucketYT§f: Buying balloon hats!! /visit me!!
+[01:24:20] [Client thread/INFO]: [CHAT] [127] ? §a[VIP§6+§a] hyperwasused§f: CHEAK BALLOON HAT ON MY AH check quick!!!!
+[01:24:20] [Client thread/INFO]: [CHAT] [62] ? §a[VIP§6+§a] dfko§f: TRADING TWO YELLOW hats and 5M for BLACK HAT
+[01:24:20] [Client thread/INFO]: [CHAT] [209] ? §b[MVP§9+§b] Cakes_Are_Best§f: Selling t11 and t1 snow minions for cheap /visit me
+[01:24:30] [Client thread/INFO]: [CHAT] [51] §7ChiarasAlt§7: Buying Ballon Hats for 4m /visit me or /p me
+[01:24:35] [Client thread/INFO]: [CHAT] [112] ? §b[MVP] Mediaeval§f: buying hat 6m
+[01:24:36] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: trading yellow and green for black hat!
+[01:24:38] [Client thread/INFO]: [CHAT] [267] ? §b[MVP] cweloza§f: BUYING BLACK BLACK HATS /p me
+[01:24:40] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§9+§b] ASH_RUSHER§f: BUYING balloon HATS FOR 6 M visit me (1 BIL BANK) ?????????((((((
+[01:24:43] [Client thread/INFO]: [CHAT] Simon gave a Aqua 5th Anniversary Balloon Hat to Liamwantsfood!
+[01:24:45] [Client thread/INFO]: [CHAT] [69] §b[MVP§f+§b] DrAtom§f: buying black balloon hat for 10m /visit junpel////////////////////////
+[01:24:45] [Client thread/INFO]: [CHAT] You can only use the Social Menu in lobbies!
+[01:24:46] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] mldn§f: Buying your balloons for 5m per visit me ! Buying your balloons for 5m per visit me !
+[01:24:57] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§a+§b] vernarrt§f: Buying your Anniversary Balloon hats for 6m per and Black Ballon hats for 14m per /visit me.......
+[01:24:58] [Client thread/INFO]: [CHAT] [69] §b[MVP§f+§b] DrAtom§f: buying black balloon hat for 15m /visit junpel////////////////////////////////////
+[01:25:09] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: hii
+[01:25:10] [Client thread/INFO]: [CHAT] [78] ? §a[VIP] catatau10§f: selling Aqua 5th Anniversary Ballon Hat for 1700 coins check my ah fast __________
+[01:25:11] [Client thread/INFO]: [CHAT] [171] ? §a[VIP] 116I§f: buying blood god crest for 2m /p me
+[01:25:14] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: green and yellow for black?
+[01:25:16] [Client thread/INFO]: [CHAT] [62] ? §a[VIP§6+§a] dfko§f: TRADING BLACK loon hat for 2 YELLOW and 5m just /VISIT ME
+[01:25:19] [Client thread/INFO]: [CHAT] [300] ? §a[VIP] TheNewArrow§f: t/visit ash_rusher
+[01:25:22] [Client thread/INFO]: [CHAT] [147] §b[MVP§a+§b] _R1Z3R_§f: buying balloon hats for 3m /p me
+[01:25:23] [Client thread/INFO]: [CHAT] [300] ? §a[VIP] TheNewArrow§f: wc
+[01:25:25] [Client thread/INFO]: [CHAT] §8[§3240§8] §7? §b[MVP§6+§b] Enrilefty§f§7 is holding §8[§dHeroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:25:26] [Client thread/INFO]: [CHAT] [240] ? §b[MVP§6+§b] Enrilefty§f: selling
+[01:25:27] [Client thread/INFO]: [CHAT] [127] ? §a[VIP§6+§a] hyperwasused§f: CHEAP HAT ON MY ah
+[01:25:27] [Client thread/INFO]: [CHAT] [75] §a[VIP] T4fe§f: buying hats for 6m eachhhhhhhhhhhh
+[01:25:28] [Client thread/INFO]: [CHAT] [58] §a[VIP] PoIIoMessico§f: Selling a legendary blue whale (lvl 65) and a epic tiger (lvl 100) /visit PoIIoMessico
+[01:25:31] [Client thread/INFO]: [CHAT] [112] ? §b[MVP] Mediaeval§f: buying hats 6.5m each
+[01:25:38] [Client thread/INFO]: [CHAT] [110] §a[VIP] BBCbop7000§f: trading green and yellow for black!!
+[01:25:39] [Client thread/INFO]: [CHAT] [31] §b[MVP] xatarna§f: buying purple blue aqua lime black hats
+[01:25:40] [Client thread/INFO]: [CHAT] [168] ? §b[MVP§2+§b] edensh§f: LOWBALLING 1B PURSE /visit edensh........
+[01:25:51] [Client thread/INFO]: [CHAT] [63] §a[VIP§6+§a] PoppedByPhantom§f: lol balling 80m visit me!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[01:25:56] [Client thread/INFO]: [CHAT] [220] ? §b[MVP§2+§b] SebbieBlaze§f: Buying your FREE Balloon hat taking ALL COLORS /visit me!
+[01:25:57] [Client thread/INFO]: [CHAT] [328] ? §b[MVP§2+§b] goodgamertoxic§f: giving away balloon hats for free /visit me
+[01:26:01] [Client thread/INFO]: [CHAT] [257] ? §a[VIP] 960s§f: ah
+[01:26:03] [Client thread/INFO]: [CHAT] [104] §a[VIP] luxixson§f: buying ballon hats for 5m each /visit me quick!!!!
+[01:26:04] [Client thread/INFO]: [CHAT] [62] ? §a[VIP§6+§a] dfko§f: hi
+[01:26:05] [Client thread/INFO]: [CHAT] [151] §a[VIP] IBeansProMax§f: buying hats /visit me!!
+[01:26:07] [Client thread/INFO]: [CHAT] [107] ? §a[VIP§6+§a] Swarm_Havocie§f: visit goodgaeryoxic
+[01:26:09] [Client thread/INFO]: [CHAT] [74] ? §a[VIP] VeetiMC§f: check my ah for insanely cheap ancient shadow assasin armor 5stars 100mil flip easy
+[01:26:13] [Client thread/INFO]: [CHAT] [117] §7AladinNotScamer§7: lowballing 200mil purse /Visit me
+[01:26:14] [Client thread/INFO]: [CHAT] [74] ? §a[VIP] VeetiMC§f: check my ah for insanely cheap ancient shadow assasin armor 5stars 100mil flip easy !!!!!!!!!!!!!!!!!
+[01:26:18] [Client thread/INFO]: [CHAT] 
+[01:26:18] [Client thread/INFO]: [CHAT] §6§k§lA§r §c§lFIRE SALE §r§6§k§lA
+§c? §eSelling an item for a limited time!
+§c   ? §dChromari Squid Skin §e(§62,107 left§e)§c
+§c? §a§l[WARP] §eTo Elizabeth in the next §c1d 22h 33m §eto grab yours!
+[01:26:18] [Client thread/INFO]: [CHAT] 
+[01:26:18] [Client thread/INFO]: [CHAT] [100] §b[MVP§c+§b] Mushrooms22§f: Selling lime baloon hat for 5.2m /p me
+[01:26:20] [Client thread/INFO]: [CHAT] [142] ? §b[MVP§d+§b] SALKIN179§f: lowballing 50m /visit me buying balloon hats too
+[01:26:26] [Client thread/INFO]: [CHAT] [62] §a[VIP] znekLPYT§f: buying ballon hat for 5.6m /p me
+[01:26:28] [Client thread/INFO]: [CHAT] [134] ? §a[VIP] patatotron§f: lowballing /visit me
+[01:26:28] [Client thread/INFO]: [CHAT] [151] §a[VIP] IBeansProMax§f: buying hats /visit me!! GOOD PRICES!
+[01:26:30] [Client thread/INFO]: [CHAT] [104] §a[VIP] NotProRio§f: balloon hat on my ah for 999k fast go grab it!!!!!!!!!!!!!!!!!!!
+[01:26:32] [Client thread/INFO]: [CHAT] [311] ? §6[MVP§0++§6] DontShare§f: buying all balloon hats
+[01:26:32] [Client thread/INFO]: [CHAT] [240] ? §b[MVP§9+§b] adammlucky§f: LOWBALLING WITH 2B PURSE /visit adammlucky with offers
+[01:26:40] [Client thread/INFO]: [CHAT] [237] ? §a[VIP] Zetaaaa§f: you got 2 orange /
+[01:26:40] [Client thread/INFO]: [CHAT] [129] ? §b[MVP§d+§b] SepiaRovilhar§f: i buy for 9mp black balloonn
+[01:26:40] [Client thread/INFO]: [CHAT] [134] ? §a[VIP] patatotron§f: lowballing 350m purse /visit me
+[01:26:42] [Client thread/INFO]: [CHAT] [270] ? §a[VIP§6+§a] mldn§f: Buying your balloons for 5m per visit me !
+[01:26:43] [Client thread/INFO]: [CHAT] [149] §a[VIP] UnrealBo§f: Lowballing 2.2b (min 100m+) /visit me
+[01:26:47] [Client thread/INFO]: [CHAT] [31] §b[MVP] xatarna§f: nah only 1 orange rn zetaaaa
+[01:26:49] [Client thread/INFO]: [CHAT] [20] §7gkhf§7: how do i get multiple hats?
+[01:26:53] [Client thread/INFO]: [CHAT] [55] ? §b[MVP§6+§b] ItsSnoxy§f: Selling Ballon for 7m /p me
+[01:26:54] [Client thread/INFO]: [CHAT] [237] ? §a[VIP] Zetaaaa§f: alright
+[01:26:55] [Client thread/INFO]: [CHAT] [31] §b[MVP] xatarna§f: mb
+[01:26:56] [Client thread/INFO]: [CHAT] Simon gave a Pink 5th Anniversary Balloon Hat to Nuno212421!
+[01:26:59] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSkytils stopped you from using leaving your guild! §6Run the command again if you wish to leave!
+[01:27:03] [Client thread/INFO]: [CHAT] [104] §a[VIP] luxixson§f: buying ballon hats for 5m each /visit me quick!!!!oaoapjofjpaf
+[01:27:04] [Client thread/INFO]: [CHAT] [7] §a[VIP] 77kg§f: CHEAPEST STRONG DRAGON ARMOR IN MY AUCTION HOUSE /ah 77kg !!!!
+[01:27:04] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:27:04] [Client thread/INFO]: [CHAT] You will be removed from this guild. You must be invited to join back.
+[01:27:04] [Client thread/INFO]: [CHAT] If you wish to continue, /guild confirm within 10 seconds.
+[01:27:04] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:27:04] [Client thread/INFO]: [CHAT] [70] §a[VIP] luukvangaal§f: u cant anymore gkhf it was a bug
+[01:27:04] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§9+§b] ASH_RUSHER§f: BUYING balloon HATS FOR 5.5 M visit me (1 BIL BANK) (*(*(*>>>>>>>>>>>>>>>>
+[01:27:07] [Client thread/INFO]: [CHAT] [186] ? §b[MVP§5+§b] Aspectical§f: SELLING 5 BALLOONS FOR 2M EACH. VISIT ME!!!!!!! pls!!!!!!!!!!!!!!!!!!!!!!!!!
+[01:27:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:27:08] [Client thread/INFO]: [CHAT] You left the guild
+[01:27:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:27:16] [Client thread/INFO]: [CHAT] [191] ? §b[MVP§c+§b] 801x§f: BUYING **ALL** BALLOON HATS 6M /ea!
+[01:27:18] [Client thread/INFO]: [CHAT] [193] ? §a[VIP] Distrafic§f: buying balloon hats 5.5m /visit
+[01:27:20] [Client thread/INFO]: [CHAT] Simon gave a Black 5th Anniversary Balloon Hat to HugoLetsPlay!
+[01:27:28] [Client thread/INFO]: [CHAT] [94] §b[MVP§a+§b] iceell§f: BUYING HATS /VISIt
+[01:27:30] [Client thread/INFO]: [CHAT] [233] ? §a[VIP§6+§a] INVALIDUSER404§f: lowballing 450m /visit INVALIDUSER404 15m+ items only!!!!!!!!!!! also taking balloon hats
+[01:27:33] [Client thread/INFO]: [CHAT] [413] ? §6[MVP§0++§6] KoniSky§f: Buying all balloons for 5m each! /visit KoniSky ('-')????.*??? ?
+[01:27:37] [Client thread/ERROR]: Signature is missing from textures payload
+[01:27:37] [Client thread/ERROR]: Signature is missing from textures payload
+[01:27:37] [Netty Client IO #6/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:27:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:27:37] [Client thread/INFO]: Applying holder lookups
+[01:27:37] [Client thread/INFO]: Holder lookups applied
+[01:27:38] [Netty Client IO #9/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skytils] at SERVER
+[01:27:38] [Client thread/ERROR]: Signature is missing from textures payload
+[01:27:38] [Client thread/ERROR]: Signature is missing from textures payload
+[01:27:42] [Client thread/INFO]: Stopping!
+[01:27:42] [Client thread/INFO]: SoundSystem shutting down...
+[01:27:42] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

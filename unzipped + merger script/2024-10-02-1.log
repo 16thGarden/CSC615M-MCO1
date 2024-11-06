@@ -1,0 +1,125 @@
+[00:00:06] [Client thread/INFO]: [CHAT] 
+[00:00:06] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:00:06] [Client thread/INFO]: [CHAT] Watchdog has banned 9,100 players in the last 7 days.
+[00:00:06] [Client thread/INFO]: [CHAT] Staff have banned an additional 13,208 in the last 7 days.
+[00:00:06] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:00:06] [Client thread/INFO]: [CHAT] 
+[00:00:57] [Client thread/INFO]: [CHAT] Guild > AyaDaSheep left.
+[00:01:38] [Client thread/INFO]: [CHAT] [62] §7S1ghted011§7: can anyone sell me a rare mining exp boost?
+[00:01:54] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: buy it frim zog
+[00:02:06] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: from
+[00:02:21] [Client thread/INFO]: [CHAT] [62] §7S1ghted011§7: and on ah its only auctions
+[00:02:26] [Client thread/INFO]: [CHAT] [62] §7S1ghted011§7: no bin
+[00:02:37] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: hmm
+[00:03:05] [Client thread/INFO]: [CHAT] [11] §a[VIP] 8x8s§f: wsg skyblock, it's me, elvis presley
+[00:03:39] [Client thread/INFO]: [CHAT] [34] ? §7D3vilsWhwre§7: lmao, imagine dying while sh3tting
+[00:04:31] [Client thread/INFO]: [CHAT] You earned 17 GEXP from playing SkyBlock!
+[00:04:32] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: no fucking wayyyyyyyyy
+[00:04:32] [Client thread/INFO]: [CHAT] [4] §a[VIP] trevesadsauida§f: can someone buy me a corupted soil pls and i give the money
+[00:04:34] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: You reforged your Glacite Helmet into a Fierce Glacite Helmet!
+[00:04:37] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: ggg !!!!!!!!!!!!!!!!!!!!!
+[00:04:39] [Client thread/INFO]: [CHAT] [7] §a[VIP] NvAn0BrA1n_12 §7?§f: first try
+[00:05:21] [Client thread/INFO]: [CHAT]  ? ikbenreinier fell into the void.
+[00:05:28] [Client thread/INFO]: [CHAT] Guild > Deentr0x left.
+[00:05:31] [Client thread/INFO]: [CHAT] §m-----------------------------------------------------
+Friend request from [MVP+] obdrist
+[ACCEPT] - [DENY] - [BLOCK]
+§m-----------------------------------------------------
+[00:06:46] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:46] [Client thread/INFO]: [CHAT] You are now friends with [MVP+] obdrist
+[00:06:46] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:58] [Client thread/INFO]: [CHAT] From [MVP+] obdrist: hi
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: HttpStatusCodeException(url=https://api.mojang.com/users/profiles/minecraft/odrist?, statusCode=404, serverMessage={
+  "path" : "/users/profiles/minecraft/odrist",
+  "errorMessage" : "Couldn't find any profile with name odrist"
+})
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:07:00] [pool-13-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:07:00] [pool-13-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: HttpStatusCodeException(url=https://api.mojang.com/users/profiles/minecraft/odrist?, statusCode=404, serverMessage={
+  "path" : "/users/profiles/minecraft/odrist",
+  "errorMessage" : "Couldn't find any profile with name odrist"
+})
+[00:07:00] [pool-13-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:254)
+[00:07:00] [pool-13-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$617/783509140.apply(Unknown Source)
+[00:07:00] [pool-13-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:07:00] [pool-13-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:07:03] [Client thread/INFO]: [CHAT] [34] ? §7D3vilsWhwre§7: what does this do?
+[00:07:09] [Client thread/INFO]: [CHAT] To [MVP+] obdrist: hi
+[00:07:11] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] HimiGaming24§f: heals 7% hp per second
+[00:07:20] [Client thread/INFO]: [CHAT] From [MVP+] obdrist: im want to become a trusted dungeon carrier
+[00:07:20] [Client thread/INFO]: [CHAT] [34] ? §7D3vilsWhwre§7: for how long?
+[00:07:22] [Client thread/ERROR]: Signature is missing from textures payload
+[00:07:25] [Client thread/INFO]: [CHAT] From [MVP+] obdrist: so can you leave me a good review please?
+[00:07:26] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] HimiGaming24§f: till i run out of mana
+[00:07:28] [Client thread/INFO]: [CHAT] From [MVP+] obdrist: i can pay like 10m
+[00:07:29] [Client thread/INFO]: [CHAT] From [MVP+] obdrist: pls
+[00:07:31] [Client thread/INFO]: [CHAT] [34] ? §7D3vilsWhwre§7: k
+[00:07:33] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You removed [MVP+] obdrist from your friends list!
+-----------------------------------------------------
+[00:07:39] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] HimiGaming24§f: or till u leave the server
+[00:07:42] [Client thread/INFO]: [CHAT] [149] ? §a[VIP] HimiGaming24§f: welp
+[00:07:46] [Client thread/INFO]: [CHAT] Guild > ChampionofGreed left.
+[00:07:47] [Client thread/INFO]: [CHAT] ? RING... 
+[00:07:48] [Client thread/INFO]: [CHAT] ? RING... RING... 
+[00:07:48] [Client thread/INFO]: [CHAT] ? RING... RING... RING... 
+[00:07:51] [Client thread/ERROR]: Signature is missing from textures payload
+[00:07:51] [Client thread/ERROR]: Signature is missing from textures payload
+[00:07:55] [Netty Client IO #4/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:07:55] [Client thread/INFO]: Applying holder lookups
+[00:07:55] [Client thread/INFO]: Holder lookups applied
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:55] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:56] [Netty Client IO #6/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[00:07:56] [Client thread/ERROR]: Signature is missing from textures payload
+[00:07:56] [Client thread/ERROR]: Signature is missing from textures payload
+[00:07:57] [Client thread/INFO]: Stopping!
+[00:07:57] [Client thread/INFO]: SoundSystem shutting down...
+[00:07:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

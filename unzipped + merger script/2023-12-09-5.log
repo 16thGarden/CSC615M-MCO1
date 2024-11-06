@@ -1,0 +1,229 @@
+[13:42:32] [main/INFO]: Loading Minecraft 1.20.2 with Fabric Loader 0.15.1
+[13:42:32] [main/INFO]: Loading 55 mods:
+	- fabric-api 0.91.2+1.20.2
+	   |-- fabric-api-base 0.4.33+fce67b32a0
+	   |-- fabric-api-lookup-api-v1 1.6.42+b1792f7da0
+	   |-- fabric-biome-api-v1 13.0.14+b1792f7da0
+	   |-- fabric-block-api-v1 1.0.12+73761d2ea0
+	   |-- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	   |-- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
+	   |-- fabric-client-tags-api-v1 1.1.4+86b12645a0
+	   |-- fabric-command-api-v1 1.2.37+f71b366fa0
+	   |-- fabric-command-api-v2 2.2.16+b1792f7da0
+	   |-- fabric-commands-v0 0.2.54+df3654b3a0
+	   |-- fabric-containers-v0 0.1.78+df3654b3a0
+	   |-- fabric-content-registries-v0 5.0.5+b1792f7da0
+	   |-- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	   |-- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	   |-- fabric-data-generation-api-v1 13.1.8+b1792f7da0
+	   |-- fabric-dimensions-v1 2.1.57+b1792f7da0
+	   |-- fabric-entity-events-v1 1.5.26+b1792f7da0
+	   |-- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	   |-- fabric-events-lifecycle-v0 0.2.69+df3654b3a0
+	   |-- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	   |-- fabric-item-api-v1 2.1.33+b1792f7da0
+	   |-- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	   |-- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
+	   |-- fabric-keybindings-v0 0.2.36+df3654b3a0
+	   |-- fabric-lifecycle-events-v1 2.2.27+b1792f7da0
+	   |-- fabric-loot-api-v2 2.1.1+3ba460fba0
+	   |-- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	   |-- fabric-mining-level-api-v1 2.1.55+f4b7e424a0
+	   |-- fabric-model-loading-api-v1 1.0.6+b1792f7da0
+	   |-- fabric-models-v0 0.4.5+9386d8a7a0
+	   |-- fabric-networking-api-v1 3.1.2+95a8ac51a0
+	   |-- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	   |-- fabric-particles-v1 1.1.4+f4b7e424a0
+	   |-- fabric-recipe-api-v1 2.0.11+52b3ebe5a0
+	   |-- fabric-registry-sync-v0 4.0.9+b1792f7da0
+	   |-- fabric-renderer-api-v1 3.2.1+2034447ca0
+	   |-- fabric-renderer-indigo 1.5.1+2034447ca0
+	   |-- fabric-renderer-registries-v1 3.2.49+df3654b3a0
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	   |-- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	   |-- fabric-rendering-v0 1.1.52+df3654b3a0
+	   |-- fabric-rendering-v1 3.0.11+b1792f7da0
+	   |-- fabric-resource-conditions-api-v1 2.3.11+239dafd8a0
+	   |-- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	   |-- fabric-screen-api-v1 2.0.12+b1792f7da0
+	   |-- fabric-screen-handler-api-v1 1.3.44+b1792f7da0
+	   |-- fabric-sound-api-v1 1.0.14+f4b7e424a0
+	   |-- fabric-transfer-api-v1 3.3.12+4944b5a5a0
+	   \-- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
+	- fabricloader 0.15.1
+	   \-- mixinextras 0.3.1
+	- java 17
+	- minecraft 1.20.2
+	- wynntils 0.0.4-beta.85
+	   \-- mixinextras 0.3.1
+[13:42:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[13:42:32] [main/INFO]: Compatibility level set to JAVA_16
+[13:42:32] [main/INFO]: Compatibility level set to JAVA_17
+[13:42:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.1).
+[13:42:40] [Datafixer Bootstrap/INFO]: 192 Datafixer optimizations took 114 milliseconds
+[13:42:42] [Render thread/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:42:43] [Render thread/INFO]: Setting user: 16thGarden
+[13:42:43] [Render thread/INFO]: [Indigo] Registering Indigo renderer!
+[13:42:43] [Render thread/INFO]: Wynntils: Starting version v0.0.4-beta.85 (using FABRIC on Minecraft 1.20.2)
+[13:42:44] [ForkJoinPool.commonPool-worker-2/WARN]: Item DB contains invalid stat type healingPercent
+[13:42:44] [ForkJoinPool.commonPool-worker-5/WARN]: Unknown combat type in combat.json: Caves
+[13:42:44] [Render thread/ERROR]: Error parsing option value  for option Text Background Opacity: Not a boolean: ""
+[13:42:45] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[13:42:46] [ForkJoinPool.commonPool-worker-9/INFO]: Successfully connected to Athena!
+[13:42:47] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, wynntils)
+[13:42:47] [Worker-Main-12/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[13:42:49] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:42:49] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:42:49] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Realtek(R) Audio)
+[13:42:49] [Render thread/INFO]: Sound engine started
+[13:42:49] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:42:49] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:42:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:42:49] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:42:49] [Render thread/ERROR]: Error parsing option value  for option Text Background Opacity: Not a boolean: ""
+[13:42:49] [Render thread/INFO]: Applied upfixer "custom_poi_visibility" to config.
+[13:42:49] [Render thread/INFO]: Applied upfixer "customCommandKeybindSlashStart" to config.
+[13:42:49] [Render thread/INFO]: Applied upfixer "gameBarOverlayMove" to config.
+[13:42:49] [Render thread/INFO]: Applied upfixer "enumNaming" to config.
+[13:42:49] [Render thread/INFO]: Applied upfixer "customPoiIconEnumBug" to config.
+[13:42:49] [Render thread/INFO]: Applied upfixer "questBookToContentRenamedConfigs" to config.
+[13:42:50] [Render thread/INFO]: Applied upfixer "mapToMainMapRenamedConfigs" to config.
+[13:42:50] [Render thread/INFO]: Applied upfixer "overlayRestructuring" to config.
+[13:42:50] [Render thread/INFO]: Applied upfixer "overlayConfigsIntegration" to config.
+[13:42:50] [Render thread/INFO]: Applied upfixer "customBankQuickJumps" to config.
+[13:42:50] [Render thread/INFO]: Applied upfixer "customBankQuickJumpsBankName" to config.
+[13:42:50] [Render thread/INFO]: Creating default config file with 776 config values.
+[13:42:50] [Render thread/INFO]: Wynntils: 135 features and 179 functions are now loaded and ready
+[13:43:51] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, wynntils)
+[13:43:51] [Worker-Main-2/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[13:43:52] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:43:52] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:43:52] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Realtek(R) Audio)
+[13:43:52] [Render thread/INFO]: Sound engine started
+[13:43:52] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/blocks.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[13:43:52] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:43:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:43:52] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:58:54] [Render thread/INFO]: Connecting to play.wynncraft.com, 25565
+[13:58:54] [Hades IO #0/INFO]: Successfully connected to HadesServer: Welcome to Hades (with netty 4.1.82) 16thGarden!
+[13:58:54] [Hades IO #0/INFO]: Starting Hades Ping Scheduler Task
+[13:58:54] [Hades IO #0/ERROR]: Tried to send message to client: "Successfully connected to HadesServer", but player was null.
+[13:58:55] [Netty Client IO #4/WARN]: Received invalid channel identifier "legacy:fml|hs" from connection net.minecraft.class_2535@5cfa8c21
+[13:58:55] [Netty Client IO #4/WARN]: Received invalid channel identifier "WECUI" from connection net.minecraft.class_2535@5cfa8c21
+[13:58:56] [Render thread/INFO]: [CHAT] &7Loading Resource Pack...
+[13:58:56] [Render thread/INFO]: [System] [CHAT] Loading Resource Pack...
+[13:58:56] [Render thread/INFO]: Loaded 825 advancements
+[13:58:56] [Render thread/INFO]: Loaded 1647 advancements
+[13:59:01] [Downloader 0/INFO]: Found file C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\server-resource-packs\98b76b0b89c55c5665689ec9ef6630a46e0c4609 matching requested hash 8ddc3d64adcfcba8cf13b7c5a06d12caaf9d5896
+[13:59:01] [Downloader 0/INFO]: Applying server pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\server-resource-packs\98b76b0b89c55c5665689ec9ef6630a46e0c4609
+[13:59:01] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, wynntils), server
+[13:59:01] [Worker-Main-25/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[13:59:02] [Worker-Main-29/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server' for variant: 'level=1': Unknown blockstate property: 'level'
+[13:59:02] [Worker-Main-29/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server' for variant: 'level=2': Unknown blockstate property: 'level'
+[13:59:02] [Worker-Main-29/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server' for variant: 'level=3': Unknown blockstate property: 'level'
+[13:59:02] [Worker-Main-29/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server' for variant: 'level=0': Unknown blockstate property: 'level'
+[13:59:03] [ForkJoinPool.commonPool-worker-9/WARN]: Failure in net manager [doHandle], processing DL:dataAthenaServerList, HttpTimeoutException: request timed out
+[13:59:03] [ForkJoinPool.commonPool-worker-9/ERROR]: Error while processing network request; ignored
+[13:59:04] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:59:04] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:59:04] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Realtek(R) Audio)
+[13:59:04] [Render thread/INFO]: Sound engine started
+[13:59:04] [ForkJoinPool.commonPool-worker-9/WARN]: Failure in net manager [doHandle], processing DL:dataAthenaLeaderboard, HttpTimeoutException: request timed out
+[13:59:04] [ForkJoinPool.commonPool-worker-9/ERROR]: Error while processing network request; ignored
+[13:59:04] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/blocks.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[13:59:04] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:59:04] [Render thread/WARN]: Shader rendertype_armor_entity_glint could not find uniform named FogShape in the specified shader program.
+[13:59:04] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named IViewRotMat in the specified shader program.
+[13:59:04] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named FogShape in the specified shader program.
+[13:59:04] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:59:04] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:59:05] [Render thread/INFO]: [CHAT] &6Thank you for using the WynnPack. Enjoy the game!
+[13:59:05] [Render thread/INFO]: [System] [CHAT] Thank you for using the WynnPack. Enjoy the game!
+[13:59:05] [Render thread/INFO]: [CHAT] &cSelect a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!
+[13:59:05] [Render thread/INFO]: [System] [CHAT] Select a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!
+[13:59:06] [ForkJoinPool.commonPool-worker-9/WARN]: Failure in net manager [doHandle], processing API:API_ATHENA_USER_INFO, HttpTimeoutException: request timed out
+[13:59:11] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric (fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, wynntils)
+[13:59:11] [Worker-Main-21/INFO]: Found unifont_all_no_pua-15.0.06.hex, loading
+[13:59:12] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:59:12] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:59:12] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Headphones (Realtek(R) Audio)
+[13:59:12] [Render thread/INFO]: Sound engine started
+[13:59:12] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/blocks.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[13:59:12] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:59:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:59:12] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:59:15] [ForkJoinPool.commonPool-worker-9/WARN]: Failure in net manager [doHandle], processing API:API_ATHENA_USER_INFO
+java.util.concurrent.CompletionException: java.net.SocketException: Connection reset
+	at java.util.concurrent.CompletableFuture.encodeRelay(CompletableFuture.java:368) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeRelay(CompletableFuture.java:377) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1152) ~[?:?]
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162) ~[?:?]
+	at jdk.internal.net.http.Stream.completeResponseExceptionally(Stream.java:1153) ~[java.net.http:?]
+	at jdk.internal.net.http.Stream.cancelImpl(Stream.java:1238) ~[java.net.http:?]
+	at jdk.internal.net.http.Stream.connectionClosing(Stream.java:1212) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection.shutdown(Http2Connection.java:707) ~[java.net.http:?]
+	at jdk.internal.net.http.Http2Connection$Http2TubeSubscriber.processQueue(Http2Connection.java:1320) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$LockingRestartableTask.run(SequentialScheduler.java:205) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$CompleteRestartableTask.run(SequentialScheduler.java:149) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230) ~[java.net.http:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1170) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:833) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:230) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:303) ~[java.net.http:?]
+	at jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:256) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:774) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:957) ~[java.net.http:?]
+	at jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:979) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:934) ~[java.net.http:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:934) ~[java.net.http:?]
+[13:59:18] [Render thread/INFO]: Stopping!

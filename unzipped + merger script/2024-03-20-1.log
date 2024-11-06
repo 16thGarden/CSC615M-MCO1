@@ -1,0 +1,254 @@
+[00:01:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=237, y=71, z=-1292} class_2338{x=237, y=70, z=-1291}
+[00:01:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=237, y=71, z=-1292} class_2338{x=237, y=70, z=-1291}
+[00:02:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=239, y=70, z=-1293} class_2338{x=238, y=70, z=-1292}
+[00:02:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=239, y=70, z=-1293} class_2338{x=238, y=70, z=-1292}
+[00:03:39] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[00:05:14] [Server thread/INFO]: Saving and pausing game...
+[00:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:13:01] [Server thread/INFO]: Saving and pausing game...
+[00:13:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:13:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:13:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:15:26] [WebSocketConnectReadThread-2508/INFO]: Closed connection to Essential Connection Manager (code=1006, reason=, remote=true), connection was open for 2033360ms
+[00:15:57] [WebSocketConnectReadThread-2655/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[00:15:57] [Essential Thread 3/INFO]: Essential Connection Manager connection established.
+[00:22:58] [WebSocketConnectReadThread-2655/INFO]: Closed connection to Essential Connection Manager (code=1006, reason=, remote=true), connection was open for 421052ms
+[00:23:31] [WebSocketConnectReadThread-2674/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[00:23:31] [Essential Thread 2/INFO]: Essential Connection Manager connection established.
+[00:37:55] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:38:06] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:38:31] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:39:54] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:40:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=231, y=88, z=-1294} class_2338{x=233, y=86, z=-1289}
+[00:41:02] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:42:04] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:43:00] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[01:02:18] [Server thread/WARN]: 16thGarden moved wrongly!
+[01:15:09] [Server thread/INFO]: Saving and pausing game...
+[01:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:15:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:15:11] [Render thread/INFO]: Using default channel type
+[01:15:11] [Render thread/INFO]: Started serving on 54606
+[01:15:11] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [54606]
+[01:15:16] [Server thread/INFO]: [16thGarden: Gave 1 [Vines] to 16thGarden]
+[01:15:16] [Render thread/INFO]: [System] [CHAT] Gave 1 [Vines] to 16thGarden
+[01:39:50] [Server thread/WARN]: 16thGarden moved wrongly!
+[01:57:00] [WebSocketConnectReadThread-2674/INFO]: Closed connection to Essential Connection Manager (code=1006, reason=, remote=true), connection was open for 5608994ms
+[01:57:33] [WebSocketConnectReadThread-2710/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[01:57:33] [Essential Thread 17/INFO]: Essential Connection Manager connection established.
+[02:32:35] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:33:04] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:57:31] [WebSocketConnectReadThread-2710/INFO]: Closed connection to Essential Connection Manager (code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT (65817ms), remote=false), connection was open for 3598676ms
+[02:58:04] [WebSocketConnectReadThread-2744/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[02:58:04] [Essential Thread 17/INFO]: Essential Connection Manager connection established.
+[03:05:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=240, y=111, z=-1299} class_2338{x=243, y=109, z=-1291}
+[03:11:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=200, y=73, z=-1301} class_2338{x=245, y=110, z=-1296}
+[03:12:48] [Server thread/INFO]: [16thGarden: Gave 1 [Vines] to 16thGarden]
+[03:12:48] [Render thread/INFO]: [System] [CHAT] Gave 1 [Vines] to 16thGarden
+[03:17:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=239, y=105, z=-1297} class_2338{x=239, y=101, z=-1297}
+[03:17:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=239, y=100, z=-1297} class_2338{x=239, y=101, z=-1297}
+[03:19:51] [Server thread/INFO]: [16thGarden: Gave 1 [Vines] to 16thGarden]
+[03:19:51] [Render thread/INFO]: [System] [CHAT] Gave 1 [Vines] to 16thGarden
+[03:36:24] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[03:36:24] [Server thread/INFO]: 16thGarden left the game
+[03:36:24] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:36:24] [Server thread/INFO]: Stopping server
+[03:36:24] [Server thread/INFO]: Saving players
+[03:36:24] [Server thread/INFO]: Saving worlds
+[03:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:36:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[03:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:36:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:36:25] [Render thread/INFO]: Stopping worker threads
+[03:36:27] [Render thread/INFO]: Loaded 7 recipes
+[03:36:27] [Render thread/INFO]: Loaded 1271 advancements
+[03:36:27] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 237.1 ?s
+[03:36:27] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[03:36:27] [Server thread/INFO]: Generating keypair
+[03:36:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:36:31] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:31] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:31] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:31] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:31] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:31] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:32] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:32] [Render thread/INFO]: Preparing spawn area: 0%
+[03:36:33] [Render thread/INFO]: Preparing spawn area: 1%
+[03:36:33] [Render thread/INFO]: Preparing spawn area: 26%
+[03:36:34] [Render thread/INFO]: Preparing spawn area: 56%
+[03:36:34] [Render thread/INFO]: Time elapsed: 5492 ms
+[03:36:34] [Server thread/INFO]: Changing view distance to 16, from 10
+[03:36:34] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[03:36:34] [Server thread/INFO]: 16thGarden[local:E:11e87ce6] logged in with entity id 750787 at (-509.94750128179703, 78.63030408949014, -53.81266114385801)
+[03:36:34] [Render thread/INFO]: Started 6 worker threads
+[03:36:34] [Server thread/INFO]: 16thGarden joined the game
+[03:36:34] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[03:36:36] [Render thread/INFO]: Loaded 496 advancements
+[03:36:36] [Render thread/WARN]: Received passengers for unknown entity
+[03:37:44] [Server thread/INFO]: [16thGarden: Applied effect Strength to 16thGarden]
+[03:37:44] [Render thread/INFO]: [System] [CHAT] Applied effect Strength to 16thGarden
+[03:37:46] [Server thread/INFO]: [16thGarden: Applied effect Strength to 16thGarden]
+[03:37:46] [Render thread/INFO]: [System] [CHAT] Applied effect Strength to 16thGarden
+[03:38:20] [Server thread/INFO]: Villager class_1646['Villager'/751116, l='ServerLevel[world]', x=-487.50, y=104.19, z=-106.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:20] [Render thread/INFO]: Villager class_1646['Villager'/751116, l='ClientLevel', x=-487.50, y=104.19, z=-106.50] died, message: 'Villager died'
+[03:38:20] [Server thread/INFO]: Villager class_1646['Villager'/751117, l='ServerLevel[world]', x=-487.50, y=104.19, z=-106.70] died, message: 'Villager was slain by 16thGarden'
+[03:38:20] [Render thread/INFO]: Villager class_1646['Villager'/751117, l='ClientLevel', x=-487.50, y=104.19, z=-106.70] died, message: 'Villager died'
+[03:38:21] [Server thread/INFO]: Villager class_1646['Villager'/751118, l='ServerLevel[world]', x=-487.30, y=104.19, z=-106.30] died, message: 'Villager was slain by 16thGarden'
+[03:38:21] [Render thread/INFO]: Villager class_1646['Villager'/751118, l='ClientLevel', x=-487.33, y=104.19, z=-106.30] died, message: 'Villager died'
+[03:38:22] [Server thread/INFO]: Villager class_1646['Villager'/751113, l='ServerLevel[world]', x=-487.50, y=104.19, z=-103.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:22] [Render thread/INFO]: Villager class_1646['Villager'/751113, l='ClientLevel', x=-487.50, y=104.19, z=-103.50] died, message: 'Villager died'
+[03:38:22] [Server thread/INFO]: Villager class_1646['Villager'/751114, l='ServerLevel[world]', x=-487.50, y=104.19, z=-103.70] died, message: 'Villager was slain by 16thGarden'
+[03:38:22] [Render thread/INFO]: Villager class_1646['Villager'/751114, l='ClientLevel', x=-487.50, y=104.19, z=-103.61] died, message: 'Villager died'
+[03:38:22] [Server thread/INFO]: Villager class_1646['Villager'/751115, l='ServerLevel[world]', x=-487.46, y=104.19, z=-103.70] died, message: 'Villager was slain by 16thGarden'
+[03:38:22] [Render thread/INFO]: Villager class_1646['Villager'/751115, l='ClientLevel', x=-487.48, y=104.19, z=-103.62] died, message: 'Villager died'
+[03:38:23] [Server thread/INFO]: Villager class_1646['Villager'/751111, l='ServerLevel[world]', x=-487.50, y=104.19, z=-100.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:23] [Render thread/INFO]: Villager class_1646['Villager'/751111, l='ClientLevel', x=-487.50, y=104.19, z=-100.50] died, message: 'Villager died'
+[03:38:23] [Server thread/INFO]: Villager class_1646['Villager'/751112, l='ServerLevel[world]', x=-487.50, y=104.19, z=-100.70] died, message: 'Villager was slain by 16thGarden'
+[03:38:23] [Render thread/INFO]: Villager class_1646['Villager'/751112, l='ClientLevel', x=-487.50, y=104.19, z=-100.56] died, message: 'Villager died'
+[03:38:23] [Server thread/INFO]: Villager class_1646['Villager'/751120, l='ServerLevel[world]', x=-487.48, y=104.19, z=-100.70] died, message: 'Villager was slain by 16thGarden'
+[03:38:23] [Render thread/INFO]: Villager class_1646['Villager'/751120, l='ClientLevel', x=-487.49, y=104.19, z=-100.61] died, message: 'Villager died'
+[03:38:24] [Server thread/INFO]: Villager class_1646['Villager'/751132, l='ServerLevel[world]', x=-484.50, y=104.19, z=-97.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:24] [Render thread/INFO]: Villager class_1646['Villager'/751132, l='ClientLevel', x=-484.50, y=104.19, z=-97.50] died, message: 'Villager died'
+[03:38:24] [Server thread/INFO]: Villager class_1646['Villager'/751139, l='ServerLevel[world]', x=-484.70, y=104.19, z=-97.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:24] [Render thread/INFO]: Villager class_1646['Villager'/751139, l='ClientLevel', x=-484.60, y=104.19, z=-97.50] died, message: 'Villager died'
+[03:38:24] [Server thread/INFO]: Villager class_1646['Villager'/751145, l='ServerLevel[world]', x=-484.53, y=104.19, z=-97.54] died, message: 'Villager was slain by 16thGarden'
+[03:38:24] [Render thread/INFO]: Villager class_1646['Villager'/751145, l='ClientLevel', x=-484.50, y=104.19, z=-97.51] died, message: 'Villager died'
+[03:38:25] [Server thread/INFO]: Villager class_1646['Villager'/751121, l='ServerLevel[world]', x=-481.50, y=104.19, z=-97.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:25] [Render thread/INFO]: Villager class_1646['Villager'/751121, l='ClientLevel', x=-481.50, y=104.19, z=-97.50] died, message: 'Villager died'
+[03:38:25] [Server thread/INFO]: Villager class_1646['Villager'/751122, l='ServerLevel[world]', x=-481.70, y=104.19, z=-97.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:25] [Render thread/INFO]: Villager class_1646['Villager'/751122, l='ClientLevel', x=-481.64, y=104.19, z=-97.50] died, message: 'Villager died'
+[03:38:26] [Server thread/INFO]: Villager class_1646['Villager'/751125, l='ServerLevel[world]', x=-481.45, y=104.19, z=-97.63] died, message: 'Villager was slain by 16thGarden'
+[03:38:26] [Render thread/INFO]: Villager class_1646['Villager'/751125, l='ClientLevel', x=-481.44, y=104.19, z=-97.55] died, message: 'Villager died'
+[03:38:26] [Server thread/INFO]: Villager class_1646['Villager'/751093, l='ServerLevel[world]', x=-478.50, y=104.19, z=-97.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:26] [Render thread/INFO]: Villager class_1646['Villager'/751093, l='ClientLevel', x=-478.50, y=104.19, z=-97.50] died, message: 'Villager died'
+[03:38:27] [Server thread/INFO]: Villager class_1646['Villager'/751099, l='ServerLevel[world]', x=-478.70, y=104.19, z=-97.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:27] [Render thread/INFO]: Villager class_1646['Villager'/751099, l='ClientLevel', x=-478.61, y=104.19, z=-97.50] died, message: 'Villager died'
+[03:38:27] [Server thread/INFO]: Villager class_1646['Villager'/751101, l='ServerLevel[world]', x=-478.70, y=104.19, z=-97.52] died, message: 'Villager was slain by 16thGarden'
+[03:38:27] [Render thread/INFO]: Villager class_1646['Villager'/751101, l='ClientLevel', x=-478.59, y=104.19, z=-97.51] died, message: 'Villager died'
+[03:38:28] [Server thread/INFO]: Villager class_1646['Villager'/751077, l='ServerLevel[world]', x=-475.50, y=104.19, z=-100.50] died, message: 'Villager was slain by 16thGarden'
+[03:38:28] [Render thread/INFO]: Villager class_1646['Villager'/751077, l='ClientLevel', x=-475.50, y=104.19, z=-100.50] died, message: 'Villager died'
+[03:38:28] [Server thread/INFO]: Villager class_1646['Villager'/751078, l='ServerLevel[world]', x=-475.50, y=104.19, z=-100.33] died, message: 'Villager was slain by 16thGarden'
+[03:38:28] [Render thread/INFO]: Villager class_1646['Villager'/751078, l='ClientLevel', x=-475.50, y=104.19, z=-100.46] died, message: 'Villager died'
+[03:38:28] [Server thread/INFO]: Villager class_1646['Villager'/751088, l='ServerLevel[world]', x=-475.50, y=104.19, z=-100.61] died, message: 'Villager was slain by 16thGarden'
+[03:38:28] [Render thread/INFO]: Villager class_1646['Villager'/751088, l='ClientLevel', x=-475.50, y=104.19, z=-100.56] died, message: 'Villager died'
+[03:40:01] [Server thread/INFO]: Villager class_1646['Villager'/751104, l='ServerLevel[world]', x=-484.50, y=104.19, z=-109.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:01] [Render thread/INFO]: Villager class_1646['Villager'/751104, l='ClientLevel', x=-484.50, y=104.19, z=-109.50] died, message: 'Villager died'
+[03:40:02] [Server thread/INFO]: Villager class_1646['Villager'/751106, l='ServerLevel[world]', x=-484.30, y=104.19, z=-109.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:02] [Render thread/INFO]: Villager class_1646['Villager'/751106, l='ClientLevel', x=-484.30, y=104.19, z=-109.50] died, message: 'Villager died'
+[03:40:03] [Server thread/INFO]: Villager class_1646['Villager'/751110, l='ServerLevel[world]', x=-484.70, y=104.19, z=-109.30] died, message: 'Villager was slain by 16thGarden'
+[03:40:03] [Render thread/INFO]: Villager class_1646['Villager'/751110, l='ClientLevel', x=-484.70, y=104.19, z=-109.30] died, message: 'Villager died'
+[03:40:04] [Server thread/INFO]: Villager class_1646['Villager'/751107, l='ServerLevel[world]', x=-481.50, y=104.19, z=-109.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:04] [Render thread/INFO]: Villager class_1646['Villager'/751107, l='ClientLevel', x=-481.50, y=104.19, z=-109.50] died, message: 'Villager died'
+[03:40:04] [Server thread/INFO]: Villager class_1646['Villager'/751108, l='ServerLevel[world]', x=-481.70, y=104.19, z=-109.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:04] [Render thread/INFO]: Villager class_1646['Villager'/751108, l='ClientLevel', x=-481.70, y=104.19, z=-109.50] died, message: 'Villager died'
+[03:40:04] [Server thread/INFO]: Villager class_1646['Villager'/751109, l='ServerLevel[world]', x=-481.30, y=104.19, z=-109.40] died, message: 'Villager was slain by 16thGarden'
+[03:40:04] [Render thread/INFO]: Villager class_1646['Villager'/751109, l='ClientLevel', x=-481.33, y=104.19, z=-109.46] died, message: 'Villager died'
+[03:40:05] [Server thread/INFO]: Villager class_1646['Villager'/751074, l='ServerLevel[world]', x=-478.50, y=104.19, z=-109.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:05] [Render thread/INFO]: Villager class_1646['Villager'/751074, l='ClientLevel', x=-478.50, y=104.19, z=-109.50] died, message: 'Villager died'
+[03:40:05] [Server thread/INFO]: Villager class_1646['Villager'/751075, l='ServerLevel[world]', x=-478.70, y=104.19, z=-109.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:05] [Render thread/INFO]: Villager class_1646['Villager'/751075, l='ClientLevel', x=-478.70, y=104.19, z=-109.50] died, message: 'Villager died'
+[03:40:06] [Server thread/INFO]: Villager class_1646['Villager'/751076, l='ServerLevel[world]', x=-478.70, y=104.19, z=-109.38] died, message: 'Villager was slain by 16thGarden'
+[03:40:06] [Render thread/INFO]: Villager class_1646['Villager'/751076, l='ClientLevel', x=-478.59, y=104.19, z=-109.45] died, message: 'Villager died'
+[03:40:08] [Server thread/INFO]: Villager class_1646['Villager'/751079, l='ServerLevel[world]', x=-475.50, y=104.19, z=-106.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:08] [Render thread/INFO]: Villager class_1646['Villager'/751079, l='ClientLevel', x=-475.50, y=104.19, z=-106.50] died, message: 'Villager died'
+[03:40:08] [Server thread/INFO]: Villager class_1646['Villager'/751080, l='ServerLevel[world]', x=-475.50, y=104.19, z=-106.30] died, message: 'Villager was slain by 16thGarden'
+[03:40:08] [Render thread/INFO]: Villager class_1646['Villager'/751080, l='ClientLevel', x=-475.50, y=104.19, z=-106.35] died, message: 'Villager died'
+[03:40:08] [Server thread/INFO]: Villager class_1646['Villager'/751081, l='ServerLevel[world]', x=-475.64, y=104.19, z=-106.30] died, message: 'Villager was slain by 16thGarden'
+[03:40:08] [Render thread/INFO]: Villager class_1646['Villager'/751081, l='ClientLevel', x=-475.56, y=104.19, z=-106.46] died, message: 'Villager died'
+[03:40:09] [Server thread/INFO]: Villager class_1646['Villager'/751082, l='ServerLevel[world]', x=-475.50, y=104.19, z=-103.50] died, message: 'Villager was slain by 16thGarden'
+[03:40:09] [Render thread/INFO]: Villager class_1646['Villager'/751082, l='ClientLevel', x=-475.50, y=104.19, z=-103.50] died, message: 'Villager died'
+[03:40:09] [Server thread/INFO]: Villager class_1646['Villager'/751083, l='ServerLevel[world]', x=-475.50, y=104.19, z=-103.70] died, message: 'Villager was slain by 16thGarden'
+[03:40:09] [Render thread/INFO]: Villager class_1646['Villager'/751083, l='ClientLevel', x=-475.50, y=104.19, z=-103.65] died, message: 'Villager died'
+[03:40:10] [Server thread/INFO]: Villager class_1646['Villager'/751085, l='ServerLevel[world]', x=-475.64, y=104.19, z=-103.49] died, message: 'Villager was slain by 16thGarden'
+[03:40:10] [Render thread/INFO]: Villager class_1646['Villager'/751085, l='ClientLevel', x=-475.55, y=104.19, z=-103.45] died, message: 'Villager died'
+[03:40:27] [Server thread/INFO]: [16thGarden: Set the time to 13000]
+[03:40:27] [Render thread/INFO]: [System] [CHAT] Set the time to 13000
+[03:40:40] [Render thread/INFO]: Loaded 497 advancements
+[03:41:17] [Render thread/WARN]: Received passengers for unknown entity
+[03:41:21] [Render thread/WARN]: Received passengers for unknown entity
+[03:43:22] [Server thread/INFO]: [16thGarden: Set the time to 1000]
+[03:43:22] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[03:45:03] [Server thread/INFO]: Saving and pausing game...
+[03:45:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:45:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:45:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:45:04] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[03:45:04] [Server thread/INFO]: 16thGarden left the game
+[03:45:04] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:45:04] [Server thread/INFO]: Stopping server
+[03:45:04] [Server thread/INFO]: Saving players
+[03:45:04] [Server thread/INFO]: Saving worlds
+[03:45:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:45:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:45:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (300 days 6): All chunks are saved
+[03:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:45:05] [Render thread/INFO]: Stopping worker threads
+[03:45:06] [Render thread/INFO]: Loaded 7 recipes
+[03:45:06] [Render thread/INFO]: Loaded 1271 advancements
+[03:45:16] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 168.0 ?s
+[03:45:16] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[03:45:16] [Server thread/INFO]: Generating keypair
+[03:45:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:45:16] [Render thread/INFO]: Preparing spawn area: 0%
+[03:45:16] [Render thread/INFO]: Preparing spawn area: 18%
+[03:45:17] [Render thread/INFO]: Preparing spawn area: 55%
+[03:45:17] [Server thread/INFO]: Changing view distance to 16, from 10
+[03:45:17] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[03:45:17] [Render thread/INFO]: Time elapsed: 1458 ms
+[03:45:17] [Server thread/INFO]: 16thGarden[local:E:35dcff17] logged in with entity id 751393 at (-9.5, -60.0, 9.5)
+[03:45:17] [Server thread/INFO]: 16thGarden joined the game
+[03:45:18] [Render thread/INFO]: Started 6 worker threads
+[03:45:18] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[03:45:18] [Render thread/INFO]: Loaded 2 advancements
+[03:45:35] [Render thread/INFO]: Loaded 9 advancements
+[03:46:54] [Server thread/INFO]: [16thGarden: Applied effect Strength to 16thGarden]
+[03:46:54] [Render thread/INFO]: [System] [CHAT] Applied effect Strength to 16thGarden
+[03:46:56] [Render thread/INFO]: Loaded 37 advancements
+[03:46:56] [Server thread/INFO]: 16thGarden has made the advancement [Acquire Hardware]
+[03:46:56] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Acquire Hardware]
+[03:46:56] [Render thread/INFO]: Loaded 71 advancements
+[03:47:06] [Render thread/INFO]: Loaded 72 advancements
+[03:47:51] [Render thread/INFO]: Loaded 78 advancements
+[03:47:52] [Render thread/INFO]: Loaded 81 advancements
+[03:49:13] [Server thread/INFO]: 16thGarden has made the advancement [Hot Stuff]
+[03:49:13] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Hot Stuff]
+[03:49:13] [Render thread/INFO]: Loaded 82 advancements
+[03:51:01] [Render thread/INFO]: [System] [CHAT] No entity was found
+[03:51:06] [Render thread/INFO]: [System] [CHAT] Expected end of options
+[03:51:06] [Render thread/INFO]: [System] [CHAT] ...ll @e[tag=@item]<--[HERE]
+[03:51:27] [Server thread/INFO]: [16thGarden: Killed 54 entities]
+[03:51:27] [Render thread/INFO]: [System] [CHAT] Killed 54 entities
+[03:51:28] [Server thread/INFO]: [16thGarden: Killed 2 entities]
+[03:51:28] [Render thread/INFO]: [System] [CHAT] Killed 2 entities
+[03:51:30] [Render thread/INFO]: [System] [CHAT] No entity was found
+[03:52:08] [Render thread/INFO]: Loaded 83 advancements
+[03:57:55] [Server thread/INFO]: Saving and pausing game...
+[03:57:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[03:57:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[03:57:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[03:57:55] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[03:57:55] [Server thread/INFO]: 16thGarden left the game
+[03:57:55] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:57:55] [Server thread/INFO]: Stopping server
+[03:57:55] [Server thread/INFO]: Saving players
+[03:57:55] [Server thread/INFO]: Saving worlds
+[03:57:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[03:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[03:57:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[03:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[03:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:57:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:57:57] [Render thread/INFO]: Stopping worker threads
+[03:58:25] [Render thread/INFO]: Stopping!
+[03:58:25] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

@@ -1,0 +1,18 @@
+[13:36:26] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.1
+[13:36:26] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[13:36:26] [main/WARN]: Mod resolution failed
+[13:36:26] [main/INFO]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED wynntils 0.0.4-beta.85 {depends minecraft @ [1.20.2]}, ROOT_FORCELOAD_SINGLE wynntils 0.0.4-beta.85]
+[13:36:26] [main/INFO]: Reason: [HARD_DEP wynntils 0.0.4-beta.85 {depends minecraft @ [1.20.2]}]
+[13:36:26] [main/INFO]: Fix: add [], remove [], replace [[wynntils 0.0.4-beta.85] -> add:wynntils 1 ([(-?,?)])]
+[13:36:26] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Replace mod 'Wynntils' (wynntils) 0.0.4-beta.85 with any version that is compatible with:
+		 - minecraft 1.20.4
+More details:
+	 - Mod 'Wynntils' (wynntils) 0.0.4-beta.85 requires version 1.20.2 of 'Minecraft' (minecraft), but only the wrong version is present: 1.20.4!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.15.1.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:195) ~[fabric-loader-0.15.1.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.15.1.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.15.1.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.1.jar:?]

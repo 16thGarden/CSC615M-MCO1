@@ -1,0 +1,786 @@
+[01:55:50] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[01:55:50] [main/WARN]: Warnings were found!
+ - Mod 'CIT Resewn' (citresewn) 1.1.4+1.20.4 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[01:55:50] [main/INFO]: Loading 75 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- citresewn 1.1.4+1.20.4
+	   \-- citresewn-defaults 1.1.4+1.20.4
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- itemscroller 0.22.0
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- nvidium 0.2.6-beta
+	- rebind_narrator 2.0.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[01:55:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[01:55:50] [main/INFO]: Compatibility level set to JAVA_17
+[01:55:51] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[01:55:51] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[01:55:54] [main/INFO]: Starting Essential Loader (stage2) version 1.6.0 (0500a9e0db06ef66767fc4dcffb05cd5) [stable]
+[01:55:54] [main/INFO]: Starting Essential v1.3.2.4 (#6b55293e12) [stable]
+[01:55:54] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[01:55:54] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[01:55:54] [main/INFO]: Java Info: mixed mode
+[01:55:54] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Xss1M
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.24.17
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx4G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[01:55:54] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[01:55:55] [main/INFO]: Searching for graphics cards...
+[01:55:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[01:55:55] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[01:55:55] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[01:55:55] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[01:55:55] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[01:56:01] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[01:56:03] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 199 milliseconds
+[01:56:07] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:56:07] [Render thread/INFO]: Setting user: 16thGarden
+[01:56:08] [Render thread/INFO]: Starting DI!
+[01:56:08] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:56:09] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[01:56:09] [DefaultDispatcher-worker-1/INFO]: Using Default JreDnsResolver
+[01:56:09] [DefaultDispatcher-worker-1/INFO]: Using Default JreSocketFactory
+[01:56:09] [Render thread/INFO]: XRay mod has been initialized
+[01:56:09] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[01:56:09] [Render thread/INFO]: [citresewn] Registering CIT Types
+[01:56:09] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[01:56:10] [Render thread/INFO]: OptiFine not detected.
+[01:56:10] [WebSocketConnectReadThread-74/INFO]: Connected to Essential Connection Manager.
+[01:56:10] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[01:56:10] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[01:56:10] [Render thread/INFO]: All capabilities met
+[01:56:10] [Render thread/INFO]: Enabling Nvidium
+[01:56:10] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[01:56:10] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[01:56:10] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.29
+[01:56:11] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 137: Trying to set an inexistant local variable 9
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:529)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at gg.essential.universal.UGraphics.<clinit>(UGraphics.java:788)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at gg.essential.elementa.components.UIImage._init_$lambda-1(UIImage.kt:60)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: Caused by: java.lang.IndexOutOfBoundsException: Trying to set an inexistant local variable 9
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.setLocal(Frame.java:208)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:337)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[01:56:11] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	... 35 more
+[01:56:14] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, itemscroller, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VanillaTweaks_r501868.zip, file/Faithful 64x - Release 3.zip, file/VIllager Schedule Clock.zip, file/axolotl totem, essential
+[01:56:14] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[01:56:15] [Render thread/INFO]: Client started, setting up xray store
+[01:56:16] [DefaultDispatcher-worker-1/INFO]: Connected to Discord as starbuckslarge
+[01:56:17] [Render thread/WARN]: Backend failed to unlock capes (Optional[ResponseActionPacket{successful=false, errorMessage='null'}]):
+[01:56:17] [Render thread/WARN]:   - 15th Anniversary:
+[01:56:17] [Render thread/WARN]:       Id: ef9e95b6-48a3-4fd7-93d4-7e7d9448d2f1
+[01:56:17] [Render thread/WARN]:       Url: http://textures.minecraft.net/texture/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625
+[01:56:17] [Render thread/WARN]:       Proof of ownership: ewogICJ0aW1lc3RhbXAiIDogMTcxNjMxNDE2ODAzOCwKICAicHJvZmlsZUlkIiA6ICJkYzA1NDhjNzJjMjI0NTBlOTFmNTJhMTdjZmRlMmExMiIsCiAgInByb2ZpbGVOYW1lIiA6ICIxNnRoR2FyZGVuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2YTU5MTE3ZDAyOWNjNjZhNzU4NzA5ZmU2ODUzYzM5MDM0OGEzNGU3ZThhYjcwZTM3ZjAwOWNkNmIyM2M4YzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+[01:56:17] [Render thread/WARN]:       Signature: XhqA46xgfdxMNLnQ4bKuYn7Us199koEq3pUx5LX7hXqcCeyKMb/o6Rd5AHL3uD2w8sgAVrA1CU2n0Hjp7YhwFs9LkiaOvkY248ZIc8WmVfPFcjmNm+/C5XtBZ14C4PK7FR6KRoiL9gmT79AO1bMWO7CSpzf6O88wSuaOhtW3KWY7LJZaY3CB8Rdp6Zq0iDSRsucKRXJwKPyHeIGKHrk6/LcGLvZ5J2Uz/WUwnm5GLcB7cHEcpvGTYTWFlcONdjy4UGBCBmoi5H46KcQRU689+mseX8k16OUpqJipdaSUhVRb6Bc4CUrclIpa1xng6osPGeWf2ywktAMOIkyZYSzozLmLAOMPuIDjYasz6wfgu1tsoZovL1Yg7mtCtrVuW8IV1zhrroWVV4MeBfZVc4FvjSrleES5oKq8KiwHBnBAhmKwtRZyrok15dry24y4Mrtc6LSFw4KXFkc+GrbMsXGA0IFtg4pt/Us9DxRfSH6qPN6C60MNQmMdAEMCZ8QkgnselCdlyqe+BFGaui0Ni+uWezsHSm1Y4eSWawrflNLkMhLRGGDK7cHfl5xbSERE+7O3s290UfophtQno+mAr9Lj2EabdTO8R4j8ITLnjhQBGOtGWK3A3WxGCMsd3POV+nAYmp1AEutYEXU0onlVPpZpLcKgamA6vgWVaYwZvVdmE5E=
+[01:56:18] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[01:56:18] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[01:56:18] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[01:56:18] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[01:56:18] [Render thread/INFO]: Sound engine started
+[01:56:18] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/signs.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/armor_trims.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/chest.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/beds.png-atlas
+[01:56:18] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[01:56:19] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[01:56:19] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/particles.png-atlas
+[01:56:19] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[01:56:19] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[01:56:19] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/gui.png-atlas
+[01:56:21] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[01:57:02] [Render thread/INFO]: Loaded 7 recipes
+[01:57:02] [Render thread/INFO]: Loaded 1271 advancements
+[01:57:03] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.768 ms
+[01:57:03] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[01:57:03] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[01:57:03] [Server thread/INFO]: Generating keypair
+[01:57:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:08] [Render thread/INFO]: Preparing spawn area: 0%
+[01:57:09] [Render thread/INFO]: Preparing spawn area: 1%
+[01:57:09] [Render thread/INFO]: Preparing spawn area: 37%
+[01:57:10] [Render thread/INFO]: Time elapsed: 4964 ms
+[01:57:10] [Server thread/INFO]: Changing view distance to 16, from 10
+[01:57:10] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[01:57:11] [Server thread/INFO]: 16thGarden[local:E:c5e4a14c] logged in with entity id 194 at (3494.392244522933, 64.0625, 1448.4963202091114)
+[01:57:11] [Server thread/INFO]: 16thGarden joined the game
+[01:57:11] [Render thread/INFO]: Started 6 worker threads
+[01:57:12] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[01:57:12] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[01:57:12] [Render thread/INFO]: Loaded 1071 advancements
+[01:58:08] [Server thread/INFO]: Villager class_1646['Fletcher'/227, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[01:59:08] [Server thread/INFO]: Villager class_1646['Fletcher'/238, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:01:36] [Server thread/INFO]: Villager class_1646['Fletcher'/229, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:02:26] [Server thread/INFO]: Villager class_1646['Fletcher'/230, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.52] died, message: 'Fletcher was slain by c'
+[02:03:30] [Server thread/INFO]: Villager class_1646['Fletcher'/206, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.34] died, message: 'Fletcher was slain by c'
+[02:04:25] [Server thread/INFO]: Villager class_1646['Fletcher'/212, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:05:16] [Server thread/INFO]: Villager class_1646['Fletcher'/226, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.55] died, message: 'Fletcher was slain by c'
+[02:06:27] [Server thread/INFO]: Villager class_1646['Fletcher'/224, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.34] died, message: 'Fletcher was slain by c'
+[02:07:28] [Server thread/INFO]: Villager class_1646['Fletcher'/211, l='ServerLevel[Epic survival world]', x=3503.51, y=65.00, z=1431.50] died, message: 'Fletcher was slain by 16thGarden using [Silk Axe]'
+[02:07:28] [Render thread/INFO]: Villager class_1646['Fletcher'/211, l='ClientLevel', x=3503.51, y=65.00, z=1431.50] died, message: 'Fletcher died'
+[02:08:08] [Server thread/INFO]: Villager class_1646['Fletcher'/216, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:09:09] [Server thread/INFO]: Villager class_1646['Fletcher'/235, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:09:54] [Server thread/INFO]: Villager class_1646['Fletcher'/218, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:10:43] [Server thread/INFO]: [16thGarden: 16thGarden subscribed to mobcaps.]
+[02:10:43] [Render thread/INFO]: [System] [CHAT] 16thGarden subscribed to mobcaps.
+[02:11:13] [Server thread/INFO]: Villager class_1646['Fletcher'/239, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:11:15] [Server thread/INFO]: [16thGarden: 16thGarden subscribed to tps.]
+[02:11:15] [Render thread/INFO]: [System] [CHAT] 16thGarden subscribed to tps.
+[02:12:13] [Server thread/INFO]: Villager class_1646['Fletcher'/237, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:13:12] [Server thread/INFO]: Villager class_1646['Fletcher'/233, l='ServerLevel[Epic survival world]', x=3480.70, y=63.03, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:14:12] [Server thread/INFO]: Villager class_1646['Fletcher'/220, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:15:00] [Server thread/INFO]: Villager class_1646['Fletcher'/225, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:15:53] [Server thread/INFO]: Villager class_1646['Fletcher'/214, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:17:48] [Render thread/INFO]: Stopping worker threads
+[02:17:48] [Server thread/INFO]: Saving and pausing game...
+[02:17:48] [Render thread/INFO]: Started 6 worker threads
+[02:17:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:17:48] [Render thread/INFO]: Stopping worker threads
+[02:17:48] [Render thread/INFO]: Started 6 worker threads
+[02:17:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:17:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:18:11] [Render thread/WARN]: Received passengers for unknown entity
+[02:18:12] [Render thread/WARN]: Received passengers for unknown entity
+[02:18:23] [Render thread/INFO]: Stopping worker threads
+[02:18:23] [Server thread/INFO]: Saving and pausing game...
+[02:18:23] [Render thread/INFO]: Started 6 worker threads
+[02:18:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:18:23] [Render thread/INFO]: Stopping worker threads
+[02:18:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:18:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:18:23] [Render thread/INFO]: Started 6 worker threads
+[02:18:54] [Render thread/INFO]: Stopping worker threads
+[02:18:54] [Render thread/INFO]: Started 6 worker threads
+[02:18:54] [Server thread/INFO]: Saving and pausing game...
+[02:18:54] [Render thread/INFO]: Stopping worker threads
+[02:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:18:54] [Render thread/INFO]: Started 6 worker threads
+[02:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:18:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:19:01] [Server thread/INFO]: Saving and pausing game...
+[02:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:19:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:19:02] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[02:19:02] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[02:19:02] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[02:19:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[02:19:04] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[02:19:04] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, itemscroller, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VanillaTweaks_r501868.zip, file/VIllager Schedule Clock.zip, file/axolotl totem, essential
+[02:19:04] [Worker-Main-6/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[02:19:06] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[02:19:06] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[02:19:06] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[02:19:06] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[02:19:06] [Render thread/INFO]: Sound engine started
+[02:19:07] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/signs.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/armor_trims.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/chest.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/beds.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[02:19:07] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[02:19:07] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/particles.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[02:19:07] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/gui.png-atlas
+[02:19:07] [Render thread/INFO]: Stopping worker threads
+[02:19:07] [Render thread/INFO]: Started 6 worker threads
+[02:19:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[02:19:17] [Render thread/INFO]: Stopping worker threads
+[02:19:17] [Server thread/INFO]: Saving and pausing game...
+[02:19:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:19:17] [Render thread/INFO]: Started 6 worker threads
+[02:19:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:19:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:19:17] [Render thread/INFO]: Stopping worker threads
+[02:19:17] [Render thread/INFO]: Started 6 worker threads
+[02:19:18] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[02:19:49] [Render thread/INFO]: Stopping worker threads
+[02:19:49] [Server thread/INFO]: Saving and pausing game...
+[02:19:49] [Render thread/INFO]: Started 6 worker threads
+[02:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:19:49] [Render thread/INFO]: Stopping worker threads
+[02:19:49] [Render thread/INFO]: Started 6 worker threads
+[02:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:19:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:20:05] [Render thread/WARN]: Received passengers for unknown entity
+[02:20:05] [Render thread/WARN]: Received passengers for unknown entity
+[02:20:31] [Render thread/INFO]: Stopping worker threads
+[02:20:31] [Server thread/INFO]: Saving and pausing game...
+[02:20:31] [Render thread/INFO]: Started 6 worker threads
+[02:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:20:31] [Render thread/INFO]: Stopping worker threads
+[02:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:20:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:20:31] [Render thread/INFO]: Started 6 worker threads
+[02:21:59] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:26:13] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[02:26:16] [Render thread/INFO]: Stopping worker threads
+[02:26:16] [Server thread/INFO]: Saving and pausing game...
+[02:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:26:16] [Render thread/INFO]: Started 6 worker threads
+[02:26:16] [Render thread/INFO]: Stopping worker threads
+[02:26:16] [Render thread/INFO]: Started 6 worker threads
+[02:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:26:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:26:42] [Render thread/WARN]: Received passengers for unknown entity
+[02:26:42] [Render thread/WARN]: Received passengers for unknown entity
+[02:26:43] [Render thread/WARN]: Received passengers for unknown entity
+[02:26:50] [Render thread/WARN]: Received passengers for unknown entity
+[02:26:50] [Render thread/WARN]: Received passengers for unknown entity
+[02:27:05] [Render thread/INFO]: Stopping worker threads
+[02:27:05] [Server thread/INFO]: Saving and pausing game...
+[02:27:05] [Render thread/INFO]: Started 6 worker threads
+[02:27:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:27:06] [Render thread/INFO]: Stopping worker threads
+[02:27:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:27:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:27:06] [Render thread/INFO]: Started 6 worker threads
+[02:28:40] [Render thread/INFO]: Stopping worker threads
+[02:28:40] [Server thread/INFO]: Saving and pausing game...
+[02:28:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:28:40] [Render thread/INFO]: Started 6 worker threads
+[02:28:40] [Render thread/INFO]: Stopping worker threads
+[02:28:40] [Render thread/INFO]: Started 6 worker threads
+[02:28:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:28:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:29:01] [Render thread/INFO]: Stopping worker threads
+[02:29:01] [Server thread/INFO]: Saving and pausing game...
+[02:29:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:29:01] [Render thread/INFO]: Started 6 worker threads
+[02:29:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:29:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:29:01] [Render thread/INFO]: Stopping worker threads
+[02:29:01] [Render thread/INFO]: Started 6 worker threads
+[02:29:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:29:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:29:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:29:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:29:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:29:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:29:46] [Render thread/INFO]: [System] [CHAT] [Debug]: Reloaded resource packs
+[02:29:46] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[02:29:46] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, itemscroller, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VanillaTweaks_r501868.zip, file/VIllager Schedule Clock.zip, file/axolotl totem, essential
+[02:29:46] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[02:29:46] [Server thread/INFO]: Saving and pausing game...
+[02:29:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:29:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:29:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:29:48] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[02:29:48] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[02:29:48] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[02:29:48] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[02:29:48] [Render thread/INFO]: Sound engine started
+[02:29:48] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/signs.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/armor_trims.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/chest.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/beds.png-atlas
+[02:29:48] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[02:29:49] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[02:29:49] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/particles.png-atlas
+[02:29:49] [Render thread/INFO]: Created: 1024x1024x0 minecraft:textures/atlas/paintings.png-atlas
+[02:29:49] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[02:29:49] [Render thread/INFO]: Created: 4096x2048x0 minecraft:textures/atlas/gui.png-atlas
+[02:29:49] [Render thread/INFO]: Stopping worker threads
+[02:29:49] [Render thread/INFO]: Started 6 worker threads
+[02:31:46] [Render thread/INFO]: Stopping worker threads
+[02:31:46] [Render thread/INFO]: Started 6 worker threads
+[02:31:46] [Server thread/INFO]: Saving and pausing game...
+[02:31:46] [Render thread/INFO]: Stopping worker threads
+[02:31:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:31:46] [Render thread/INFO]: Started 6 worker threads
+[02:31:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:31:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:31:47] [Render thread/WARN]: Received passengers for unknown entity
+[02:32:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:32:17] [Render thread/WARN]: Received passengers for unknown entity
+[02:32:26] [Render thread/INFO]: Stopping worker threads
+[02:32:26] [Server thread/INFO]: Saving and pausing game...
+[02:32:26] [Render thread/INFO]: Started 6 worker threads
+[02:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:32:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:32:26] [Render thread/INFO]: Stopping worker threads
+[02:32:26] [Render thread/INFO]: Started 6 worker threads
+[02:32:27] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[02:32:55] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[02:33:13] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:38:38] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[02:44:00] [Render thread/INFO]: Stopping worker threads
+[02:44:00] [Server thread/INFO]: Saving and pausing game...
+[02:44:00] [Render thread/INFO]: Started 6 worker threads
+[02:44:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:44:00] [Render thread/INFO]: Stopping worker threads
+[02:44:00] [Render thread/INFO]: Started 6 worker threads
+[02:44:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:44:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:44:26] [Render thread/INFO]: Stopping worker threads
+[02:44:26] [Render thread/INFO]: Started 6 worker threads
+[02:44:26] [Server thread/INFO]: Saving and pausing game...
+[02:44:26] [Render thread/INFO]: Stopping worker threads
+[02:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:44:26] [Render thread/INFO]: Started 6 worker threads
+[02:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:44:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[02:46:00] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:54:23] [Server thread/INFO]: Villager class_1646['Villager'/29661, l='ServerLevel[Epic survival world]', x=3476.65, y=64.00, z=1413.19] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:23] [Render thread/INFO]: Villager class_1646['Villager'/29661, l='ClientLevel', x=3476.65, y=64.00, z=1413.19] died, message: 'Villager died'
+[02:54:26] [Server thread/INFO]: Villager class_1646['Fletcher'/29705, l='ServerLevel[Epic survival world]', x=3478.85, y=64.00, z=1413.48] died, message: 'Fletcher was slain by 16thGarden using [Silk Axe]'
+[02:54:26] [Render thread/INFO]: Villager class_1646['Fletcher'/29705, l='ClientLevel', x=3478.68, y=64.00, z=1413.78] died, message: 'Fletcher died'
+[02:54:32] [Server thread/INFO]: Villager class_1646['Villager'/29695, l='ServerLevel[Epic survival world]', x=3482.52, y=63.00, z=1430.11] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:32] [Render thread/INFO]: Villager class_1646['Villager'/29695, l='ClientLevel', x=3482.11, y=63.00, z=1430.37] died, message: 'Villager died'
+[02:54:35] [Server thread/INFO]: Villager class_1646['Villager'/29713, l='ServerLevel[Epic survival world]', x=3484.39, y=63.00, z=1421.02] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:35] [Render thread/INFO]: Villager class_1646['Villager'/29713, l='ClientLevel', x=3484.19, y=63.00, z=1420.55] died, message: 'Villager died'
+[02:54:41] [Server thread/INFO]: Villager class_1646['Villager'/29706, l='ServerLevel[Epic survival world]', x=3479.24, y=64.00, z=1406.84] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:41] [Render thread/INFO]: Villager class_1646['Villager'/29706, l='ClientLevel', x=3479.24, y=64.00, z=1406.84] died, message: 'Villager died'
+[02:54:42] [Server thread/INFO]: Villager class_1646['Fletcher'/29715, l='ServerLevel[Epic survival world]', x=3481.87, y=64.00, z=1405.55] died, message: 'Fletcher was slain by 16thGarden using [Silk Axe]'
+[02:54:42] [Render thread/INFO]: Villager class_1646['Fletcher'/29715, l='ClientLevel', x=3481.78, y=64.06, z=1406.06] died, message: 'Fletcher died'
+[02:54:45] [Server thread/INFO]: Villager class_1646['Villager'/29698, l='ServerLevel[Epic survival world]', x=3482.57, y=63.00, z=1418.04] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:45] [Render thread/INFO]: Villager class_1646['Villager'/29698, l='ClientLevel', x=3482.61, y=63.00, z=1418.42] died, message: 'Villager died'
+[02:54:55] [Server thread/INFO]: Villager class_1646['Villager'/29702, l='ServerLevel[Epic survival world]', x=3461.02, y=63.00, z=1450.34] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:55] [Render thread/INFO]: Villager class_1646['Villager'/29702, l='ClientLevel', x=3460.67, y=63.00, z=1450.43] died, message: 'Villager died'
+[02:54:58] [Server thread/INFO]: Villager class_1646['Villager'/29722, l='ServerLevel[Epic survival world]', x=3466.95, y=63.00, z=1446.51] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:54:58] [Render thread/INFO]: Villager class_1646['Villager'/29722, l='ClientLevel', x=3465.93, y=63.00, z=1447.03] died, message: 'Villager died'
+[02:55:07] [Server thread/INFO]: Saving and pausing game...
+[02:55:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:55:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:55:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:55:09] [Render thread/INFO]: Using default channel type
+[02:55:09] [Render thread/INFO]: Started serving on 52793
+[02:55:09] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [52793]
+[02:55:17] [Server thread/INFO]: [16thGarden: Gave 9 [Villager Spawn Egg] to 16thGarden]
+[02:55:17] [Render thread/INFO]: [System] [CHAT] Gave 9 [Villager Spawn Egg] to 16thGarden
+[02:55:27] [Server thread/INFO]: [16thGarden: Gave 1 [Villager Spawn Egg] to 16thGarden]
+[02:55:27] [Render thread/INFO]: [System] [CHAT] Gave 1 [Villager Spawn Egg] to 16thGarden
+[02:55:38] [Server thread/INFO]: Villager class_1646['Villager'/29719, l='ServerLevel[Epic survival world]', x=3473.54, y=64.00, z=1438.52] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[02:55:38] [Render thread/INFO]: Villager class_1646['Villager'/29719, l='ClientLevel', x=3473.54, y=64.00, z=1438.52] died, message: 'Villager died'
+[02:56:37] [Server thread/INFO]: [16thGarden: Gave 2 [Villager Spawn Egg] to 16thGarden]
+[02:56:37] [Render thread/INFO]: [System] [CHAT] Gave 2 [Villager Spawn Egg] to 16thGarden
+[02:56:47] [Server thread/INFO]: Villager class_1646['Villager'/29704, l='ServerLevel[Epic survival world]', x=3450.16, y=67.23, z=1430.84] died, message: 'Villager was slain by 16thGarden using [Sharpness Sword]'
+[02:56:47] [Render thread/INFO]: Villager class_1646['Villager'/29704, l='ClientLevel', x=3450.57, y=67.84, z=1430.43] died, message: 'Villager died'
+[02:56:56] [Server thread/INFO]: Villager class_1646['Villager'/29660, l='ServerLevel[Epic survival world]', x=3478.65, y=65.00, z=1449.04] died, message: 'Villager was slain by 16thGarden using [Sharpness Sword]'
+[02:56:56] [Render thread/INFO]: Villager class_1646['Villager'/29660, l='ClientLevel', x=3479.12, y=65.55, z=1448.77] died, message: 'Villager died'
+[02:57:59] [Server thread/INFO]: Villager class_1646['Fletcher'/29716, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:59:22] [Server thread/INFO]: Villager class_1646['Fletcher'/29709, l='ServerLevel[Epic survival world]', x=3480.26, y=63.02, z=1426.70] died, message: 'Fletcher was slain by c'
+[02:59:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3477, y=64, z=1417} class_2338{x=3478, y=64, z=1417}
+[03:00:26] [Server thread/INFO]: Villager class_1646['Fletcher'/29710, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:01:08] [Server thread/INFO]: Villager class_1646['Fletcher'/49306, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:01:54] [Server thread/INFO]: Villager class_1646['Fletcher'/29723, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.34] died, message: 'Fletcher was slain by c'
+[03:03:03] [Server thread/INFO]: Villager class_1646['Fletcher'/49316, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.54] died, message: 'Fletcher was slain by c'
+[03:04:10] [Server thread/INFO]: Villager class_1646['Fletcher'/29703, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:05:00] [Server thread/INFO]: Villager class_1646['Fletcher'/49282, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:06:15] [Server thread/INFO]: Villager class_1646['Fletcher'/50131, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:07:06] [Server thread/INFO]: Villager class_1646['Fletcher'/29721, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:08:01] [Server thread/INFO]: Villager class_1646['Fletcher'/29717, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:08:54] [Server thread/INFO]: Villager class_1646['Fletcher'/49278, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.49] died, message: 'Fletcher was slain by c'
+[03:11:08] [Server thread/INFO]: Villager class_1646['Fletcher'/50133, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:12:04] [Server thread/INFO]: Villager class_1646['Fletcher'/29696, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:13:15] [Server thread/INFO]: Villager class_1646['Fletcher'/49291, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.30] died, message: 'Fletcher was slain by c'
+[03:14:06] [Server thread/INFO]: Villager class_1646['Fletcher'/29714, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.34] died, message: 'Fletcher was slain by c'
+[03:15:29] [Server thread/INFO]: Villager class_1646['Fletcher'/49308, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.36] died, message: 'Fletcher was slain by c'
+[03:16:24] [Server thread/INFO]: Villager class_1646['Fletcher'/49294, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.38] died, message: 'Fletcher was slain by c'
+[03:17:14] [Server thread/INFO]: Villager class_1646['Fletcher'/29700, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.41] died, message: 'Fletcher was slain by c'
+[03:18:08] [Server thread/INFO]: Villager class_1646['Fletcher'/29707, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:20:21] [Server thread/INFO]: Villager class_1646['Fletcher'/29712, l='ServerLevel[Epic survival world]', x=3480.70, y=63.01, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:21:17] [Server thread/INFO]: Villager class_1646['Fletcher'/29699, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:22:29] [Server thread/INFO]: Villager class_1646['Fletcher'/29718, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[03:23:19] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[03:23:23] [Render thread/INFO]: Loaded 1073 advancements
+[03:23:23] [Server thread/INFO]: Villager class_1646['Fletcher'/49280, l='ServerLevel[Epic survival world]', x=3480.70, y=63.00, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:24:17] [Server thread/INFO]: Villager class_1646['Fletcher'/29711, l='ServerLevel[Epic survival world]', x=3480.70, y=63.01, z=1426.34] died, message: 'Fletcher was slain by c'
+[03:25:08] [Server thread/INFO]: Villager class_1646['Fletcher'/29697, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.34] died, message: 'Fletcher was slain by c'
+[03:26:02] [Server thread/INFO]: Villager class_1646['Fletcher'/29708, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.34] died, message: 'Fletcher was slain by c'
+[03:26:52] [Server thread/INFO]: Villager class_1646['Fletcher'/49300, l='ServerLevel[Epic survival world]', x=3480.70, y=63.03, z=1426.70] died, message: 'Fletcher was slain by c'
+[03:27:39] [Server thread/INFO]: Villager class_1646['Fletcher'/29701, l='ServerLevel[Epic survival world]', x=3480.70, y=63.04, z=1426.34] died, message: 'Fletcher was slain by c'
+[03:28:09] [Server thread/INFO]: Villager class_1646['Nitwit'/29720, l='ServerLevel[Epic survival world]', x=3479.50, y=63.06, z=1407.55] died, message: 'Nitwit was slain by 16thGarden using [Sharpness Sword]'
+[03:28:09] [Render thread/INFO]: Villager class_1646['Nitwit'/29720, l='ClientLevel', x=3479.50, y=63.06, z=1407.55] died, message: 'Nitwit died'
+[03:28:37] [Server thread/INFO]: Villager class_1646['Fletcher'/49287, l='ServerLevel[Epic survival world]', x=3480.70, y=63.05, z=1426.41] died, message: 'Fletcher was slain by c'
+[03:38:49] [Render thread/INFO]: Stopping worker threads
+[03:38:49] [Render thread/INFO]: Started 6 worker threads
+[03:38:49] [Render thread/INFO]: Stopping worker threads
+[03:38:49] [Render thread/INFO]: Started 6 worker threads
+[03:39:24] [Render thread/INFO]: Stopping worker threads
+[03:39:24] [Render thread/INFO]: Started 6 worker threads
+[03:39:24] [Render thread/INFO]: Stopping worker threads
+[03:39:24] [Render thread/INFO]: Started 6 worker threads
+[03:39:52] [Render thread/INFO]: Stopping worker threads
+[03:39:52] [Render thread/INFO]: Started 6 worker threads
+[03:39:52] [Render thread/INFO]: Stopping worker threads
+[03:39:52] [Render thread/INFO]: Started 6 worker threads
+[03:41:45] [Render thread/INFO]: Stopping worker threads
+[03:41:45] [Render thread/INFO]: Started 6 worker threads
+[03:41:45] [Render thread/INFO]: Stopping worker threads
+[03:41:45] [Render thread/INFO]: Started 6 worker threads
+[03:41:56] [Render thread/INFO]: Stopping worker threads
+[03:41:56] [Render thread/INFO]: Started 6 worker threads
+[03:41:56] [Render thread/INFO]: Stopping worker threads
+[03:41:56] [Render thread/INFO]: Started 6 worker threads
+[03:48:07] [Render thread/INFO]: Stopping worker threads
+[03:48:07] [Render thread/INFO]: Started 6 worker threads
+[03:48:07] [Render thread/INFO]: Stopping worker threads
+[03:48:07] [Render thread/INFO]: Started 6 worker threads
+[03:48:20] [Render thread/INFO]: Stopping worker threads
+[03:48:20] [Render thread/INFO]: Started 6 worker threads
+[03:48:20] [Render thread/INFO]: Stopping worker threads
+[03:48:20] [Render thread/INFO]: Started 6 worker threads
+[03:48:34] [Render thread/INFO]: Stopping worker threads
+[03:48:34] [Render thread/INFO]: Started 6 worker threads
+[03:48:35] [Render thread/INFO]: Stopping worker threads
+[03:48:35] [Render thread/INFO]: Started 6 worker threads
+[03:48:47] [Render thread/INFO]: Stopping worker threads
+[03:48:47] [Render thread/INFO]: Started 6 worker threads
+[03:48:47] [Render thread/INFO]: Stopping worker threads
+[03:48:47] [Render thread/INFO]: Started 6 worker threads
+[03:54:56] [Render thread/WARN]: Received passengers for unknown entity
+[03:54:56] [Render thread/WARN]: Received passengers for unknown entity
+[03:55:05] [Render thread/WARN]: Received passengers for unknown entity
+[03:55:05] [Render thread/WARN]: Received passengers for unknown entity
+[03:55:32] [Render thread/INFO]: Stopping worker threads
+[03:55:32] [Render thread/INFO]: Started 6 worker threads
+[03:55:32] [Render thread/INFO]: Stopping worker threads
+[03:55:32] [Render thread/INFO]: Started 6 worker threads
+[03:55:34] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[03:59:34] [Render thread/INFO]: Stopping worker threads
+[03:59:34] [Render thread/INFO]: Started 6 worker threads
+[03:59:34] [Render thread/INFO]: Stopping worker threads
+[03:59:34] [Render thread/INFO]: Started 6 worker threads
+[03:59:34] [Render thread/WARN]: Received passengers for unknown entity
+[03:59:34] [Render thread/WARN]: Received passengers for unknown entity
+[04:00:02] [Render thread/INFO]: Stopping worker threads
+[04:00:02] [Render thread/INFO]: Started 6 worker threads
+[04:00:02] [Render thread/INFO]: Stopping worker threads
+[04:00:02] [Render thread/INFO]: Started 6 worker threads
+[04:00:44] [Render thread/INFO]: Stopping worker threads
+[04:00:44] [Render thread/INFO]: Started 6 worker threads
+[04:00:44] [Render thread/INFO]: Stopping worker threads
+[04:00:44] [Render thread/INFO]: Started 6 worker threads
+[04:00:55] [Render thread/WARN]: Received passengers for unknown entity
+[04:00:57] [Render thread/WARN]: Received passengers for unknown entity
+[04:01:05] [Render thread/WARN]: Received passengers for unknown entity
+[04:01:10] [Render thread/WARN]: Received passengers for unknown entity
+[04:01:10] [Render thread/WARN]: Received passengers for unknown entity
+[04:01:24] [Render thread/INFO]: Stopping worker threads
+[04:01:24] [Render thread/INFO]: Started 6 worker threads
+[04:01:24] [Render thread/INFO]: Stopping worker threads
+[04:01:24] [Render thread/INFO]: Started 6 worker threads
+[04:01:35] [Server thread/INFO]: [16thGarden: Set own game mode to Creative Mode]
+[04:01:35] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[04:03:11] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[04:03:11] [Render thread/INFO]: [System] [CHAT] ...06 73 1424<--[HERE]
+[04:03:25] [Server thread/INFO]: [16thGarden: Successfully filled 352 block(s)]
+[04:03:25] [Render thread/INFO]: [System] [CHAT] Successfully filled 352 block(s)
+[04:03:54] [Server thread/INFO]: Villager class_1646['Villager'/79635, l='ServerLevel[Epic survival world]', x=3503.15, y=65.00, z=1427.85] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[04:03:54] [Render thread/INFO]: Villager class_1646['Villager'/79635, l='ClientLevel', x=3503.15, y=65.00, z=1427.85] died, message: 'Villager died'
+[04:04:17] [Server thread/INFO]: Villager class_1646['Fletcher'/79633, l='ServerLevel[Epic survival world]', x=3503.70, y=65.00, z=1427.70] died, message: 'Fletcher was slain by Zombie'
+[04:05:20] [Server thread/INFO]: Villager class_1646['Fletcher'/79862, l='ServerLevel[Epic survival world]', x=3501.70, y=65.00, z=1427.30] died, message: 'Fletcher was slain by Zombie'
+[04:05:49] [Server thread/INFO]: Villager class_1646['Fletcher'/79941, l='ServerLevel[Epic survival world]', x=3499.70, y=65.00, z=1427.30] died, message: 'Fletcher was slain by Zombie'
+[04:06:21] [Server thread/INFO]: Villager class_1646['Fletcher'/80065, l='ServerLevel[Epic survival world]', x=3494.30, y=65.00, z=1427.70] died, message: 'Fletcher was slain by Zombie'
+[04:06:56] [Server thread/INFO]: Villager class_1646['Fletcher'/80174, l='ServerLevel[Epic survival world]', x=3488.30, y=65.00, z=1427.70] died, message: 'Fletcher was slain by Zombie'
+[04:07:17] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[04:07:20] [Server thread/INFO]: Villager class_1646['Fletcher'/80267, l='ServerLevel[Epic survival world]', x=3488.30, y=65.00, z=1427.70] died, message: 'Fletcher was slain by Zombie'
+[04:08:35] [Server thread/INFO]: Villager class_1646['Fletcher'/80525, l='ServerLevel[Epic survival world]', x=3503.70, y=65.00, z=1429.30] died, message: 'Fletcher was slain by Zombie'
+[04:09:02] [Server thread/INFO]: Villager class_1646['Fletcher'/80588, l='ServerLevel[Epic survival world]', x=3499.30, y=65.00, z=1429.30] died, message: 'Fletcher was slain by Zombie'
+[04:09:45] [Server thread/INFO]: Villager class_1646['Fletcher'/80708, l='ServerLevel[Epic survival world]', x=3497.30, y=65.00, z=1429.70] died, message: 'Fletcher was slain by Zombie'
+[04:10:24] [Server thread/INFO]: Villager class_1646['Fletcher'/80846, l='ServerLevel[Epic survival world]', x=3492.70, y=65.00, z=1429.30] died, message: 'Fletcher was slain by Zombie'
+[04:11:00] [Server thread/INFO]: Villager class_1646['Fletcher'/80932, l='ServerLevel[Epic survival world]', x=3488.70, y=65.00, z=1429.70] died, message: 'Fletcher was slain by Zombie'
+[04:11:40] [Server thread/INFO]: Villager class_1646['Fletcher'/81048, l='ServerLevel[Epic survival world]', x=3488.70, y=65.00, z=1429.70] died, message: 'Fletcher was slain by Zombie'
+[04:14:18] [Server thread/INFO]: Villager class_1646['Fletcher'/81532, l='ServerLevel[Epic survival world]', x=3486.70, y=65.00, z=1431.70] died, message: 'Fletcher was slain by Zombie'
+[04:14:43] [Server thread/INFO]: Villager class_1646['Fletcher'/81631, l='ServerLevel[Epic survival world]', x=3490.70, y=65.00, z=1431.70] died, message: 'Fletcher was slain by Zombie'
+[04:15:08] [Server thread/INFO]: Villager class_1646['Fletcher'/81722, l='ServerLevel[Epic survival world]', x=3490.30, y=65.00, z=1431.30] died, message: 'Fletcher was slain by Zombie'
+[04:15:38] [Server thread/INFO]: Villager class_1646['Fletcher'/81816, l='ServerLevel[Epic survival world]', x=3494.30, y=65.00, z=1431.30] died, message: 'Fletcher was slain by Zombie'
+[04:16:05] [Server thread/INFO]: Villager class_1646['Fletcher'/81917, l='ServerLevel[Epic survival world]', x=3497.70, y=65.00, z=1431.30] died, message: 'Fletcher was slain by Zombie'
+[04:16:26] [Server thread/INFO]: Villager class_1646['Fletcher'/81988, l='ServerLevel[Epic survival world]', x=3497.30, y=65.00, z=1431.30] died, message: 'Fletcher was slain by Zombie'
+[04:17:03] [Server thread/INFO]: Villager class_1646['Fletcher'/82106, l='ServerLevel[Epic survival world]', x=3499.30, y=65.00, z=1431.30] died, message: 'Fletcher was slain by Zombie'
+[04:17:19] [Server thread/INFO]: Villager class_1646['Villager'/82185, l='ServerLevel[Epic survival world]', x=3499.30, y=64.00, z=1431.70] died, message: 'Villager was slain by 16thGarden using [Silk Axe]'
+[04:17:19] [Render thread/INFO]: Villager class_1646['Villager'/82185, l='ClientLevel', x=3499.30, y=64.00, z=1431.70] died, message: 'Villager died'
+[04:17:39] [Server thread/INFO]: Villager class_1646['Fletcher'/82206, l='ServerLevel[Epic survival world]', x=3499.30, y=65.00, z=1431.70] died, message: 'Fletcher was slain by Zombie'
+[04:18:05] [Server thread/INFO]: Villager class_1646['Fletcher'/82279, l='ServerLevel[Epic survival world]', x=3501.30, y=65.00, z=1431.30] died, message: 'Fletcher was slain by Zombie'
+[04:19:42] [Server thread/INFO]: [16thGarden: Applied effect Strength to 16thGarden]
+[04:19:42] [Render thread/INFO]: [System] [CHAT] Applied effect Strength to 16thGarden
+[04:20:06] [Server thread/INFO]: Villager class_1646['Fletcher'/82542, l='ServerLevel[Epic survival world]', x=3490.30, y=65.00, z=1433.30] died, message: 'Fletcher was slain by Zombie'
+[04:20:23] [Server thread/INFO]: Villager class_1646['Villager'/82646, l='ServerLevel[Epic survival world]', x=3492.49, y=65.00, z=1433.49] died, message: 'Villager was slain by 16thGarden'
+[04:20:23] [Render thread/INFO]: Villager class_1646['Villager'/82646, l='ClientLevel', x=3492.49, y=65.00, z=1433.49] died, message: 'Villager died'
+[04:20:26] [Server thread/INFO]: Villager class_1646['Villager'/82643, l='ServerLevel[Epic survival world]', x=3492.15, y=65.00, z=1433.15] died, message: 'Villager was slain by 16thGarden'
+[04:20:26] [Render thread/INFO]: Villager class_1646['Villager'/82643, l='ClientLevel', x=3492.15, y=65.00, z=1433.15] died, message: 'Villager died'
+[04:20:42] [Server thread/INFO]: Villager class_1646['Fletcher'/82638, l='ServerLevel[Epic survival world]', x=3492.30, y=65.00, z=1433.30] died, message: 'Fletcher was slain by Zombie'
+[04:21:10] [Server thread/INFO]: Villager class_1646['Fletcher'/82733, l='ServerLevel[Epic survival world]', x=3499.70, y=65.00, z=1433.30] died, message: 'Fletcher was slain by Zombie'
+[04:21:36] [Server thread/INFO]: Villager class_1646['Fletcher'/82857, l='ServerLevel[Epic survival world]', x=3505.30, y=65.00, z=1433.30] died, message: 'Fletcher was slain by Zombie'
+[04:22:05] [Server thread/INFO]: Villager class_1646['Fletcher'/82923, l='ServerLevel[Epic survival world]', x=3505.30, y=65.00, z=1435.70] died, message: 'Fletcher was slain by Zombie'
+[04:22:16] [Server thread/INFO]: Villager class_1646['Fletcher'/82975, l='ServerLevel[Epic survival world]', x=3503.30, y=65.00, z=1435.70] died, message: 'Fletcher was slain by Zombie'
+[04:22:27] [Server thread/INFO]: Villager class_1646['Fletcher'/83030, l='ServerLevel[Epic survival world]', x=3501.70, y=65.00, z=1435.70] died, message: 'Fletcher was slain by Zombie'
+[04:23:00] [Server thread/INFO]: Villager class_1646['Fletcher'/83115, l='ServerLevel[Epic survival world]', x=3499.30, y=65.00, z=1435.30] died, message: 'Fletcher was slain by Zombie'
+[04:23:13] [Server thread/INFO]: Villager class_1646['Fletcher'/83158, l='ServerLevel[Epic survival world]', x=3492.70, y=65.00, z=1435.30] died, message: 'Fletcher was slain by Zombie'
+[04:23:24] [Server thread/INFO]: Villager class_1646['Fletcher'/83183, l='ServerLevel[Epic survival world]', x=3494.70, y=65.00, z=1435.70] died, message: 'Fletcher was slain by Zombie'
+[04:23:40] [Server thread/INFO]: Villager class_1646['Fletcher'/83234, l='ServerLevel[Epic survival world]', x=3499.30, y=65.00, z=1435.30] died, message: 'Fletcher was slain by Zombie'
+[04:24:15] [Server thread/INFO]: Villager class_1646['Fletcher'/83391, l='ServerLevel[Epic survival world]', x=3488.70, y=65.00, z=1437.70] died, message: 'Fletcher was slain by Zombie'
+[04:24:28] [Server thread/INFO]: Villager class_1646['Fletcher'/83416, l='ServerLevel[Epic survival world]', x=3490.30, y=65.00, z=1437.70] died, message: 'Fletcher was slain by Zombie'
+[04:24:39] [Server thread/INFO]: Villager class_1646['Fletcher'/83470, l='ServerLevel[Epic survival world]', x=3494.30, y=65.00, z=1437.70] died, message: 'Fletcher was slain by Zombie'
+[04:25:21] [Server thread/INFO]: Villager class_1646['Fletcher'/83654, l='ServerLevel[Epic survival world]', x=3503.30, y=65.00, z=1437.70] died, message: 'Fletcher was slain by Zombie'
+[04:25:31] [Server thread/INFO]: Villager class_1646['Fletcher'/83672, l='ServerLevel[Epic survival world]', x=3499.30, y=65.00, z=1437.70] died, message: 'Fletcher was slain by Zombie'
+[04:25:41] [Server thread/INFO]: Villager class_1646['Fletcher'/83683, l='ServerLevel[Epic survival world]', x=3501.70, y=65.00, z=1437.30] died, message: 'Fletcher was slain by Zombie'
+[04:26:15] [Server thread/INFO]: [16thGarden: Successfully filled 352 block(s)]
+[04:26:15] [Render thread/INFO]: [System] [CHAT] Successfully filled 352 block(s)
+[04:26:23] [Server thread/INFO]: [16thGarden: Removed every effect from 16thGarden]
+[04:26:23] [Render thread/INFO]: [System] [CHAT] Removed every effect from 16thGarden
+[04:26:43] [Server thread/INFO]: [16thGarden: Set own game mode to Survival Mode]
+[04:26:43] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[04:26:53] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[04:27:00] [Render thread/INFO]: Stopping worker threads
+[04:27:00] [Render thread/INFO]: Started 6 worker threads
+[04:27:00] [Render thread/INFO]: Stopping worker threads
+[04:27:00] [Render thread/INFO]: Started 6 worker threads
+[04:27:18] [Server thread/INFO]: [16thGarden: Gave 2 [White Concrete] to 16thGarden]
+[04:27:18] [Render thread/INFO]: [System] [CHAT] Gave 2 [White Concrete] to 16thGarden
+[04:29:11] [Render thread/WARN]: Received passengers for unknown entity
+[04:29:11] [Render thread/WARN]: Received passengers for unknown entity
+[04:29:20] [Render thread/WARN]: Received passengers for unknown entity
+[04:29:20] [Render thread/WARN]: Received passengers for unknown entity
+[04:29:39] [Render thread/INFO]: Stopping worker threads
+[04:29:39] [Render thread/INFO]: Started 6 worker threads
+[04:29:39] [Render thread/INFO]: Stopping worker threads
+[04:29:39] [Render thread/INFO]: Started 6 worker threads
+[04:30:24] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[04:30:24] [Server thread/INFO]: 16thGarden left the game
+[04:30:24] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[04:30:24] [Server thread/INFO]: Stopping server
+[04:30:24] [Server thread/INFO]: Saving players
+[04:30:24] [Server thread/INFO]: Saving worlds
+[04:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:30:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[04:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:30:24] [Render thread/INFO]: Stopping worker threads
+[04:30:27] [Render thread/INFO]: Loaded 7 recipes
+[04:30:27] [Render thread/INFO]: Loaded 1271 advancements
+[04:30:28] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 240.0 ?s
+[04:30:28] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[04:30:28] [Server thread/INFO]: Generating keypair
+[04:30:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:30:30] [Render thread/INFO]: Preparing spawn area: 0%
+[04:30:30] [Render thread/INFO]: Preparing spawn area: 0%
+[04:30:30] [Render thread/INFO]: Preparing spawn area: 0%
+[04:30:30] [Render thread/INFO]: Preparing spawn area: 0%
+[04:30:31] [Render thread/INFO]: Preparing spawn area: 6%
+[04:30:31] [Render thread/INFO]: Preparing spawn area: 22%
+[04:30:32] [Server thread/INFO]: Changing view distance to 16, from 10
+[04:30:32] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[04:30:32] [Render thread/INFO]: Preparing spawn area: 97%
+[04:30:32] [Render thread/INFO]: Time elapsed: 3004 ms
+[04:30:32] [Server thread/INFO]: 16thGarden[local:E:1cd7a517] logged in with entity id 87247 at (440.94188868532143, 62.5, -661.1612223241397)
+[04:30:32] [Server thread/INFO]: 16thGarden joined the game
+[04:30:32] [Render thread/INFO]: Started 6 worker threads
+[04:30:32] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[04:30:33] [Render thread/INFO]: Loaded 1073 advancements
+[04:30:47] [Render thread/INFO]: Stopping worker threads
+[04:30:48] [Server thread/INFO]: Saving and pausing game...
+[04:30:48] [Render thread/INFO]: Started 6 worker threads
+[04:30:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:30:48] [Render thread/INFO]: Stopping worker threads
+[04:30:48] [Render thread/INFO]: Started 6 worker threads
+[04:30:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:30:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:30:48] [Render thread/WARN]: Received passengers for unknown entity
+[04:31:02] [Render thread/WARN]: Received passengers for unknown entity
+[04:31:04] [Render thread/WARN]: Received passengers for unknown entity
+[04:31:13] [Render thread/WARN]: Received passengers for unknown entity
+[04:31:16] [Render thread/WARN]: Received passengers for unknown entity
+[04:31:58] [Server thread/INFO]: Saving and pausing game...
+[04:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:31:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:31:58] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[04:31:58] [Server thread/INFO]: 16thGarden left the game
+[04:31:58] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[04:31:58] [Server thread/INFO]: Stopping server
+[04:31:58] [Server thread/INFO]: Saving players
+[04:31:58] [Server thread/INFO]: Saving worlds
+[04:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:31:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[04:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:31:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:31:59] [Render thread/INFO]: Stopping worker threads
+[04:31:59] [Render thread/INFO]: Stopping!
+[04:31:59] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

@@ -1,0 +1,798 @@
+[21:48:51] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[21:48:51] [main/INFO]: Loading 70 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[21:48:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[21:48:51] [main/INFO]: Compatibility level set to JAVA_17
+[21:48:52] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[21:48:52] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[21:48:54] [main/INFO]: Starting Essential Loader (stage2) version 1.4.1+fabric-1.20.4 (9cbd42842e1a0f4db9463ba79962010f) [stable]
+[21:48:55] [main/INFO]: Starting Essential v1.3.1.1 (#3a090c5c88) [stable]
+[21:48:55] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[21:48:55] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[21:48:55] [main/INFO]: Java Info: mixed mode
+[21:48:55] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Xss1M
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\f2e342bf2348672ee9b93bf020ce8b6279af9b64
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\f2e342bf2348672ee9b93bf020ce8b6279af9b64
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\f2e342bf2348672ee9b93bf020ce8b6279af9b64
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\f2e342bf2348672ee9b93bf020ce8b6279af9b64
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.19.10
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx8G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[21:48:55] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[21:48:55] [main/INFO]: Searching for graphics cards...
+[21:48:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[21:48:56] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[21:48:56] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[21:48:56] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[21:48:56] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:49:02] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:49:05] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 186 milliseconds
+[21:49:08] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:49:08] [Render thread/INFO]: Setting user: 16thGarden
+[21:49:08] [Render thread/INFO]: Using Default JreDnsResolver
+[21:49:08] [Render thread/INFO]: Starting DI!
+[21:49:09] [Thread 4/INFO]: Connecting to Essential Connection Manager...
+[21:49:09] [Essential Thread 1/INFO]: Using Default JreSocketFactory
+[21:49:09] [Render thread/INFO]: XRay mod has been initialized
+[21:49:09] [WebSocketConnectReadThread-78/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[21:49:09] [Essential Thread 1/INFO]: Essential Connection Manager connection established.
+[21:49:09] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[21:49:10] [Render thread/INFO]: OptiFine not detected.
+[21:49:10] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[21:49:10] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[21:49:10] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[21:49:10] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[21:49:10] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.29
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 137: Trying to set an inexistant local variable 9
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:529)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.universal.UGraphics.<clinit>(UGraphics.java:774)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.elementa.components.UIImage._init_$lambda-1(UIImage.kt:60)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: Caused by: java.lang.IndexOutOfBoundsException: Trying to set an inexistant local variable 9
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.setLocal(Frame.java:208)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:337)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[21:49:11] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	... 35 more
+[21:49:13] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, sodium, tweakeroo, file/Low Fire 32x.zip, file/VisibleAncientDebris.zip, file/16thGarden-totem-1.20.2-3D.zip, essential
+[21:49:13] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[21:49:13] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[21:49:13] [Worker-Main-1/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[21:49:13] [Worker-Main-9/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[21:49:14] [Render thread/INFO]: Client started, setting up xray store
+[21:49:14] [DefaultDispatcher-worker-8/INFO]: Connected to Discord as starbuckslarge
+[21:49:16] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:49:16] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:49:16] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[21:49:16] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[21:49:16] [Render thread/INFO]: Sound engine started
+[21:49:16] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:49:16] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[21:49:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:49:16] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[21:49:19] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[21:49:29] [Render thread/INFO]: Loaded 7 recipes
+[21:49:29] [Render thread/INFO]: Loaded 1271 advancements
+[21:49:30] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.355 ms
+[21:49:30] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[21:49:30] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[21:49:30] [Server thread/INFO]: Generating keypair
+[21:49:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 0%
+[21:49:35] [Render thread/INFO]: Preparing spawn area: 31%
+[21:49:36] [Render thread/INFO]: Time elapsed: 4411 ms
+[21:49:36] [Server thread/INFO]: Changing view distance to 16, from 10
+[21:49:36] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:49:37] [Server thread/INFO]: 16thGarden[local:E:893b3a8d] logged in with entity id 44 at (-701.1928431891876, 138.0, 150.60189864790476)
+[21:49:37] [Server thread/INFO]: 16thGarden joined the game
+[21:49:37] [Render thread/INFO]: Started 6 worker threads
+[21:49:37] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[21:49:38] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:49:38] [Render thread/INFO]: Loaded 840 advancements
+[21:49:38] [Render thread/WARN]: Received passengers for unknown entity
+[21:49:39] [Render thread/WARN]: Received passengers for unknown entity
+[21:49:42] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[21:49:42] [Render thread/INFO]: [System] [CHAT] carpet<--[HERE]
+[21:49:43] [Server thread/INFO]: Saving and pausing game...
+[21:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:49:45] [Render thread/INFO]: Using default channel type
+[21:49:45] [Render thread/INFO]: Started serving on 53822
+[21:49:45] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [53822]
+[21:49:46] [Server thread/INFO]: [16thGarden: Current Carpet Mod settings:]
+[21:49:46] [Server thread/INFO]: [16thGarden: Carpet Mod version: 1.4.128+v231205]
+[21:49:46] [Server thread/INFO]: [16thGarden: Browse categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]]
+[21:49:46] [Render thread/INFO]: [System] [CHAT] Current Carpet Mod settings:
+[21:49:46] [Render thread/INFO]: [System] [CHAT] Carpet Mod version: 1.4.128+v231205
+[21:49:46] [Render thread/INFO]: [System] [CHAT] Browse categories:\n[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]
+[21:49:57] [Server thread/INFO]: [16thGarden: Carpet Mod settings matching "creative" :]
+[21:49:57] [Server thread/INFO]: [16thGarden: - antiCheatDisabled [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - carpetCommandPermissionLevel [ops] [2] [4]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - creativeFlyDrag [0.09]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - creativeFlySpeed [1.0]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - creativeNoClip [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - creativePlayersLoadChunks [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - customMOTD [_]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - defaultLoggers [none] [tps] [mobcaps,tps]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - explosionNoBlockDamage [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - fillUpdates [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - flippinCactus [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - forceloadLimit [256]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - hopperCounters [true] [false]]
+[21:49:57] [Server thread/INFO]: [16thGarden: - interactionUpdates [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] Carpet Mod settings matching "creative" :
+[21:49:57] [Server thread/INFO]: [16thGarden: - liquidDamageDisabled [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - antiCheatDisabled [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - moreBlueSkulls [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - carpetCommandPermissionLevel [ops] [2] [4]
+[21:49:57] [Server thread/INFO]: [16thGarden: - perfPermissionLevel [2] [4]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - creativeFlyDrag [0.09]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - creativeFlySpeed [1.0]
+[21:49:57] [Server thread/INFO]: [16thGarden: - pingPlayerListLimit [0] [12] [20] [40]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - creativeNoClip [true] [false]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - creativePlayersLoadChunks [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - pushLimit [10] [12] [14] [100]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - customMOTD [_]
+[21:49:57] [Server thread/INFO]: [16thGarden: - quasiConnectivity [1]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - defaultLoggers [none] [tps] [mobcaps,tps]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - explosionNoBlockDamage [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - railPowerLimit [9] [15] [30]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - fillUpdates [true] [false]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - flippinCactus [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - sculkSensorRange [8] [16] [32]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - forceloadLimit [256]
+[21:49:57] [Server thread/INFO]: [16thGarden: - simulationDistance [0] [12] [16] [32]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - hopperCounters [true] [false]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - interactionUpdates [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - smoothClientAnimations [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - liquidDamageDisabled [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - spawnChunksSize [0] [11]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - moreBlueSkulls [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - structureBlockIgnored [minecraft:structure_void] [minecraft:air]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - perfPermissionLevel [2] [4]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - pingPlayerListLimit [0] [12] [20] [40]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - pushLimit [10] [12] [14] [100]
+[21:49:57] [Server thread/INFO]: [16thGarden: - structureBlockLimit [48] [96] [192] [256]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - quasiConnectivity [1]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - railPowerLimit [9] [15] [30]
+[21:49:57] [Server thread/INFO]: [16thGarden: - structureBlockOutlineDistance [96] [192] [2048]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - sculkSensorRange [8] [16] [32]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - simulationDistance [0] [12] [16] [32]
+[21:49:57] [Server thread/INFO]: [16thGarden: - summonNaturalLightning [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - smoothClientAnimations [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - tntDoNotUpdate [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - spawnChunksSize [0] [11]
+[21:49:57] [Server thread/INFO]: [16thGarden: - tntPrimerMomentumRemoved [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - structureBlockIgnored [minecraft:structure_void] [minecraft:air]
+[21:49:57] [Server thread/INFO]: [16thGarden: - updateSuppressionBlock [-1] [0] [10] [50]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - structureBlockLimit [48] [96] [192] [256]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - structureBlockOutlineDistance [96] [192] [2048]
+[21:49:57] [Server thread/INFO]: [16thGarden: - viewDistance [0] [12] [16] [32]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - summonNaturalLightning [true] [false]
+[21:49:57] [Server thread/INFO]: [16thGarden: - xpNoCooldown [true] [false]]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - tntDoNotUpdate [true] [false]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - tntPrimerMomentumRemoved [true] [false]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - updateSuppressionBlock [-1] [0] [10] [50]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - viewDistance [0] [12] [16] [32]
+[21:49:57] [Render thread/INFO]: [System] [CHAT] - xpNoCooldown [true] [false]
+[21:50:21] [Server thread/INFO]: [16thGarden: Carpet Mod settings matching "scarpet" :]
+[21:50:21] [Server thread/INFO]: [16thGarden: - commandScript [true] [false] [ops] [0] [1] [2] [3] [4]]
+[21:50:21] [Server thread/INFO]: [16thGarden: - commandScriptACE [ops] [0] [1] [2] [3] [4]]
+[21:50:21] [Server thread/INFO]: [16thGarden: - scriptsAppStore [gnembon/scarpet/contents/programs]]
+[21:50:21] [Server thread/INFO]: [16thGarden: - scriptsAutoload [true] [false]]
+[21:50:21] [Server thread/INFO]: [16thGarden: - scriptsDebugging [true] [false]]
+[21:50:21] [Server thread/INFO]: [16thGarden: - scriptsOptimization [true] [false]]
+[21:50:21] [Render thread/INFO]: [System] [CHAT] Carpet Mod settings matching "scarpet" :
+[21:50:21] [Render thread/INFO]: [System] [CHAT] - commandScript [true] [false] [ops] [0] [1] [2] [3] [4]
+[21:50:21] [Render thread/INFO]: [System] [CHAT] - commandScriptACE [ops] [0] [1] [2] [3] [4]
+[21:50:21] [Render thread/INFO]: [System] [CHAT] - scriptsAppStore [gnembon/scarpet/contents/programs]
+[21:50:21] [Render thread/INFO]: [System] [CHAT] - scriptsAutoload [true] [false]
+[21:50:21] [Render thread/INFO]: [System] [CHAT] - scriptsDebugging [true] [false]
+[21:50:21] [Render thread/INFO]: [System] [CHAT] - scriptsOptimization [true] [false]
+[21:50:30] [Server thread/INFO]: [16thGarden: Current Carpet Mod settings:]
+[21:50:30] [Server thread/INFO]: [16thGarden: Carpet Mod version: 1.4.128+v231205]
+[21:50:30] [Server thread/INFO]: [16thGarden: Browse categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]]
+[21:50:30] [Render thread/INFO]: [System] [CHAT] Current Carpet Mod settings:
+[21:50:30] [Render thread/INFO]: [System] [CHAT] Carpet Mod version: 1.4.128+v231205
+[21:50:30] [Render thread/INFO]: [System] [CHAT] Browse categories:\n[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]
+[21:50:34] [Server thread/INFO]: [16thGarden: Carpet Mod settings matching "survival" :]
+[21:50:34] [Server thread/INFO]: [16thGarden: - antiCheatDisabled [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - carpets [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - cleanLogs [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - ctrlQCraftingFix [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - defaultLoggers [none] [tps] [mobcaps,tps]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - flippinCactus [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - missingTools [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - persistentParrots [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - smoothClientAnimations [true] [false]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - stackableShulkerBoxes [false] [true] [16]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - thickFungusGrowth [false] [random] [all]]
+[21:50:34] [Server thread/INFO]: [16thGarden: - xpFromExplosions [true] [false]]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] Carpet Mod settings matching "survival" :
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - antiCheatDisabled [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - carpets [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - cleanLogs [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - ctrlQCraftingFix [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - defaultLoggers [none] [tps] [mobcaps,tps]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - flippinCactus [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - missingTools [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - persistentParrots [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - smoothClientAnimations [true] [false]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - stackableShulkerBoxes [false] [true] [16]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - thickFungusGrowth [false] [random] [all]
+[21:50:34] [Render thread/INFO]: [System] [CHAT] - xpFromExplosions [true] [false]
+[21:50:56] [Server thread/INFO]: [16thGarden: Current Carpet Mod settings:]
+[21:50:56] [Server thread/INFO]: [16thGarden: Carpet Mod version: 1.4.128+v231205]
+[21:50:56] [Server thread/INFO]: [16thGarden: Browse categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]]
+[21:50:56] [Render thread/INFO]: [System] [CHAT] Current Carpet Mod settings:
+[21:50:56] [Render thread/INFO]: [System] [CHAT] Carpet Mod version: 1.4.128+v231205
+[21:50:56] [Render thread/INFO]: [System] [CHAT] Browse categories:\n[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]
+[21:51:09] [Server thread/INFO]: [16thGarden: Carpet Mod settings matching "creative" :]
+[21:51:09] [Server thread/INFO]: [16thGarden: - antiCheatDisabled [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - carpetCommandPermissionLevel [ops] [2] [4]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - creativeFlyDrag [0.09]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - creativeFlySpeed [1.0]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - creativeNoClip [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - creativePlayersLoadChunks [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - customMOTD [_]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - defaultLoggers [none] [tps] [mobcaps,tps]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - explosionNoBlockDamage [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - fillUpdates [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - flippinCactus [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - forceloadLimit [256]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - hopperCounters [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - interactionUpdates [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - liquidDamageDisabled [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - moreBlueSkulls [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - perfPermissionLevel [2] [4]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - pingPlayerListLimit [0] [12] [20] [40]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - pushLimit [10] [12] [14] [100]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - quasiConnectivity [1]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - railPowerLimit [9] [15] [30]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - sculkSensorRange [8] [16] [32]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - simulationDistance [0] [12] [16] [32]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - smoothClientAnimations [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - spawnChunksSize [0] [11]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - structureBlockIgnored [minecraft:structure_void] [minecraft:air]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - structureBlockLimit [48] [96] [192] [256]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - structureBlockOutlineDistance [96] [192] [2048]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - summonNaturalLightning [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - tntDoNotUpdate [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - tntPrimerMomentumRemoved [true] [false]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - updateSuppressionBlock [-1] [0] [10] [50]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - viewDistance [0] [12] [16] [32]]
+[21:51:09] [Server thread/INFO]: [16thGarden: - xpNoCooldown [true] [false]]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] Carpet Mod settings matching "creative" :
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - antiCheatDisabled [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - carpetCommandPermissionLevel [ops] [2] [4]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - creativeFlyDrag [0.09]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - creativeFlySpeed [1.0]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - creativeNoClip [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - creativePlayersLoadChunks [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - customMOTD [_]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - defaultLoggers [none] [tps] [mobcaps,tps]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - explosionNoBlockDamage [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - fillUpdates [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - flippinCactus [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - forceloadLimit [256]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - hopperCounters [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - interactionUpdates [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - liquidDamageDisabled [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - moreBlueSkulls [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - perfPermissionLevel [2] [4]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - pingPlayerListLimit [0] [12] [20] [40]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - pushLimit [10] [12] [14] [100]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - quasiConnectivity [1]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - railPowerLimit [9] [15] [30]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - sculkSensorRange [8] [16] [32]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - simulationDistance [0] [12] [16] [32]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - smoothClientAnimations [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - spawnChunksSize [0] [11]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - structureBlockIgnored [minecraft:structure_void] [minecraft:air]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - structureBlockLimit [48] [96] [192] [256]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - structureBlockOutlineDistance [96] [192] [2048]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - summonNaturalLightning [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - tntDoNotUpdate [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - tntPrimerMomentumRemoved [true] [false]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - updateSuppressionBlock [-1] [0] [10] [50]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - viewDistance [0] [12] [16] [32]
+[21:51:09] [Render thread/INFO]: [System] [CHAT] - xpNoCooldown [true] [false]
+[21:51:18] [Server thread/INFO]: [16thGarden: Current Carpet Mod settings:]
+[21:51:18] [Server thread/INFO]: [16thGarden: Carpet Mod version: 1.4.128+v231205]
+[21:51:18] [Server thread/INFO]: [16thGarden: Browse categories:
+[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]]
+[21:51:18] [Render thread/INFO]: [System] [CHAT] Current Carpet Mod settings:
+[21:51:18] [Render thread/INFO]: [System] [CHAT] Carpet Mod version: 1.4.128+v231205
+[21:51:18] [Render thread/INFO]: [System] [CHAT] Browse categories:\n[dispenser] [feature] [optimization] [scarpet] [survival] [client] [experimental] [TNT] [bugfix] [creative] [command]
+[21:53:28] [Server thread/INFO]: [16thGarden: ai_tracker app loaded with /ai_tracker command]
+[21:53:28] [Render thread/INFO]: [System] [CHAT] ai_tracker app loaded with /ai_tracker command
+[21:53:28] [Server thread/INFO]: App ai_tracker loaded in 148 ms
+[21:54:32] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[21:54:32] [Render thread/INFO]: [System] [CHAT] ..._detection<--[HERE]
+[21:56:04] [Server thread/INFO]: [16thGarden: ai_tracker app reloaded with /ai_tracker command]
+[21:56:04] [Server thread/INFO]: App ai_tracker loaded in 19 ms
+[21:56:04] [Render thread/INFO]: [System] [CHAT] ai_tracker app reloaded with /ai_tracker command
+[21:59:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-687, y=138, z=155} class_2338{x=-687, y=139, z=153}
+[22:00:34] [Render thread/INFO]: [System] [CHAT] netherite_axe
+[22:04:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-688, y=140, z=202} class_2338{x=-686, y=139, z=204}
+[22:06:16] [Render thread/INFO]: Stopping worker threads
+[22:06:16] [Render thread/INFO]: Started 6 worker threads
+[22:06:16] [Render thread/INFO]: Stopping worker threads
+[22:06:16] [Render thread/INFO]: Started 6 worker threads
+[22:06:34] [Render thread/WARN]: Received passengers for unknown entity
+[22:06:39] [Render thread/INFO]: Stopping worker threads
+[22:06:39] [Render thread/INFO]: Started 6 worker threads
+[22:06:39] [Render thread/INFO]: Stopping worker threads
+[22:06:39] [Render thread/INFO]: Started 6 worker threads
+[22:06:42] [Render thread/INFO]: Stopping worker threads
+[22:06:42] [Render thread/INFO]: Started 6 worker threads
+[22:06:42] [Render thread/INFO]: Stopping worker threads
+[22:06:42] [Render thread/INFO]: Started 6 worker threads
+[22:06:47] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/INFO]: Stopping worker threads
+[22:07:38] [Render thread/INFO]: Started 6 worker threads
+[22:07:38] [Render thread/INFO]: Stopping worker threads
+[22:07:38] [Render thread/INFO]: Started 6 worker threads
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:38] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:39] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:39] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:39] [Render thread/WARN]: Received passengers for unknown entity
+[22:07:39] [Render thread/WARN]: Received passengers for unknown entity
+[22:28:38] [Server thread/WARN]: 16thGarden moved wrongly!
+[22:30:06] [Render thread/INFO]: Stopping worker threads
+[22:30:06] [Render thread/INFO]: Started 6 worker threads
+[22:30:06] [Render thread/INFO]: Stopping worker threads
+[22:30:06] [Render thread/INFO]: Started 6 worker threads
+[22:30:13] [Server thread/INFO]: Villager class_1646['Villager'/17071, l='ServerLevel[Epic survival world]', x=-88.64, y=118.00, z=4.36] died, message: 'Villager was slain by 16thGarden'
+[22:30:13] [Render thread/INFO]: Villager class_1646['Villager'/17071, l='ClientLevel', x=-88.59, y=118.00, z=4.09] died, message: 'Villager died'
+[22:30:20] [Render thread/INFO]: Stopping worker threads
+[22:30:20] [Render thread/INFO]: Started 6 worker threads
+[22:30:20] [Render thread/INFO]: Stopping worker threads
+[22:30:20] [Render thread/INFO]: Started 6 worker threads
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:30:20] [Render thread/WARN]: Received passengers for unknown entity
+[22:32:03] [Render thread/INFO]: Stopping worker threads
+[22:32:03] [Render thread/INFO]: Started 6 worker threads
+[22:32:03] [Render thread/INFO]: Stopping worker threads
+[22:32:03] [Render thread/INFO]: Started 6 worker threads
+[22:32:28] [Render thread/INFO]: Stopping worker threads
+[22:32:28] [Render thread/INFO]: Started 6 worker threads
+[22:32:28] [Render thread/INFO]: Stopping worker threads
+[22:32:28] [Render thread/INFO]: Started 6 worker threads
+[22:32:32] [Render thread/INFO]: Stopping worker threads
+[22:32:32] [Render thread/INFO]: Started 6 worker threads
+[22:32:32] [Render thread/INFO]: Stopping worker threads
+[22:32:32] [Render thread/INFO]: Started 6 worker threads
+[22:32:35] [Render thread/WARN]: Received passengers for unknown entity
+[22:41:54] [WebSocketConnectReadThread-78/INFO]: Closed connection to Essential Connection Manager (code=1006, reason=, remote=true), connection was open for 3165052ms
+[22:42:25] [WebSocketConnectReadThread-333/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[22:42:25] [Essential Thread 19/INFO]: Essential Connection Manager connection established.
+[22:44:00] [Render thread/INFO]: Stopping worker threads
+[22:44:00] [Render thread/INFO]: Started 6 worker threads
+[22:44:00] [Render thread/INFO]: Stopping worker threads
+[22:44:00] [Render thread/INFO]: Started 6 worker threads
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:00] [Render thread/WARN]: Received passengers for unknown entity
+[22:44:07] [Render thread/INFO]: Stopping worker threads
+[22:44:07] [Render thread/INFO]: Started 6 worker threads
+[22:44:07] [Render thread/INFO]: Stopping worker threads
+[22:44:07] [Render thread/INFO]: Started 6 worker threads
+[22:44:23] [Render thread/INFO]: Stopping worker threads
+[22:44:23] [Render thread/INFO]: Started 6 worker threads
+[22:44:23] [Render thread/INFO]: Stopping worker threads
+[22:44:23] [Render thread/INFO]: Started 6 worker threads
+[22:45:53] [Render thread/INFO]: Stopping worker threads
+[22:45:53] [Render thread/INFO]: Started 6 worker threads
+[22:45:53] [Render thread/INFO]: Stopping worker threads
+[22:45:53] [Render thread/INFO]: Started 6 worker threads
+[22:46:12] [Render thread/INFO]: Stopping worker threads
+[22:46:12] [Render thread/INFO]: Started 6 worker threads
+[22:46:12] [Render thread/INFO]: Stopping worker threads
+[22:46:12] [Render thread/INFO]: Started 6 worker threads
+[22:46:15] [Render thread/INFO]: Stopping worker threads
+[22:46:16] [Render thread/INFO]: Started 6 worker threads
+[22:46:16] [Render thread/INFO]: Stopping worker threads
+[22:46:16] [Render thread/INFO]: Started 6 worker threads
+[22:49:10] [Server thread/INFO]: [16thGarden: Gave 9 [Hopper] to 16thGarden]
+[22:49:10] [Render thread/INFO]: [System] [CHAT] Gave 9 [Hopper] to 16thGarden
+[22:54:28] [Render thread/INFO]: Stopping worker threads
+[22:54:28] [Render thread/INFO]: Started 6 worker threads
+[22:54:28] [Render thread/INFO]: Stopping worker threads
+[22:54:28] [Render thread/INFO]: Started 6 worker threads
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:28] [Render thread/WARN]: Received passengers for unknown entity
+[22:54:35] [Render thread/INFO]: Stopping worker threads
+[22:54:35] [Render thread/INFO]: Started 6 worker threads
+[22:54:35] [Render thread/INFO]: Stopping worker threads
+[22:54:35] [Render thread/INFO]: Started 6 worker threads
+[22:54:48] [Render thread/INFO]: Stopping worker threads
+[22:54:48] [Render thread/INFO]: Started 6 worker threads
+[22:54:48] [Render thread/INFO]: Stopping worker threads
+[22:54:48] [Render thread/INFO]: Started 6 worker threads
+[23:07:05] [WebSocketConnectReadThread-333/INFO]: Closed connection to Essential Connection Manager (code=1006, reason=, remote=true), connection was open for 1479399ms
+[23:07:36] [WebSocketConnectReadThread-494/INFO]: Opened connection to Essential ConnectionManager (code=101, message=Switching Protocols)
+[23:07:36] [Essential Thread 16/INFO]: Essential Connection Manager connection established.
+[23:14:59] [Render thread/INFO]: Stopping worker threads
+[23:14:59] [Render thread/INFO]: Started 6 worker threads
+[23:14:59] [Render thread/INFO]: Stopping worker threads
+[23:14:59] [Render thread/INFO]: Started 6 worker threads
+[23:15:12] [Render thread/INFO]: Stopping worker threads
+[23:15:12] [Render thread/INFO]: Started 6 worker threads
+[23:15:12] [Render thread/INFO]: Stopping worker threads
+[23:15:12] [Render thread/INFO]: Started 6 worker threads
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:12] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:13] [Render thread/WARN]: Received passengers for unknown entity
+[23:15:35] [Server thread/INFO]: 16thGarden has made the advancement [Glow and Behold!]
+[23:15:35] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Glow and Behold!]
+[23:15:35] [Render thread/INFO]: Loaded 840 advancements
+[23:19:16] [Render thread/INFO]: Stopping worker threads
+[23:19:16] [Render thread/INFO]: Started 6 worker threads
+[23:19:16] [Render thread/INFO]: Stopping worker threads
+[23:19:16] [Render thread/INFO]: Started 6 worker threads
+[23:19:30] [Render thread/INFO]: Stopping worker threads
+[23:19:30] [Render thread/INFO]: Started 6 worker threads
+[23:19:30] [Render thread/INFO]: Stopping worker threads
+[23:19:30] [Render thread/INFO]: Started 6 worker threads
+[23:20:24] [Render thread/INFO]: Stopping worker threads
+[23:20:25] [Render thread/INFO]: Started 6 worker threads
+[23:20:25] [Render thread/INFO]: Stopping worker threads
+[23:20:25] [Render thread/INFO]: Started 6 worker threads
+[23:20:45] [Render thread/INFO]: Stopping worker threads
+[23:20:45] [Render thread/INFO]: Started 6 worker threads
+[23:20:45] [Render thread/INFO]: Stopping worker threads
+[23:20:45] [Render thread/INFO]: Started 6 worker threads
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:20:46] [Render thread/WARN]: Received passengers for unknown entity
+[23:21:29] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[23:21:54] [Server thread/INFO]: Villager class_1646['Toolsmith'/48682, l='ServerLevel[Epic survival world]', x=-727.36, y=69.00, z=203.02] died, message: 'Toolsmith hit the ground too hard'
+[23:21:54] [Render thread/INFO]: Villager class_1646['Toolsmith'/48682, l='ClientLevel', x=-727.36, y=76.26, z=203.02] died, message: 'Toolsmith died'
+[23:22:08] [Server thread/INFO]: [16thGarden: Gave 1 [Villager Spawn Egg] to 16thGarden]
+[23:22:08] [Render thread/INFO]: [System] [CHAT] Gave 1 [Villager Spawn Egg] to 16thGarden
+[23:27:03] [Server thread/INFO]: Villager class_1646['Toolsmith'/49706, l='ServerLevel[Epic survival world]', x=-726.82, y=69.00, z=204.87] died, message: 'Toolsmith hit the ground too hard'
+[23:27:03] [Render thread/INFO]: Villager class_1646['Toolsmith'/49706, l='ClientLevel', x=-726.82, y=76.26, z=204.87] died, message: 'Toolsmith died'
+[23:27:08] [Server thread/INFO]: [16thGarden: Gave 1 [Villager Spawn Egg] to 16thGarden]
+[23:27:08] [Render thread/INFO]: [System] [CHAT] Gave 1 [Villager Spawn Egg] to 16thGarden
+[23:32:18] [Render thread/INFO]: Stopping worker threads
+[23:32:18] [Render thread/INFO]: Started 6 worker threads
+[23:32:18] [Render thread/INFO]: Stopping worker threads
+[23:32:18] [Render thread/INFO]: Started 6 worker threads
+[23:32:35] [Render thread/INFO]: Stopping worker threads
+[23:32:35] [Render thread/INFO]: Started 6 worker threads
+[23:32:35] [Render thread/INFO]: Stopping worker threads
+[23:32:35] [Render thread/INFO]: Started 6 worker threads
+[23:32:45] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[23:32:47] [Render thread/INFO]: Stopping worker threads
+[23:32:47] [Render thread/INFO]: Started 6 worker threads
+[23:32:47] [Render thread/INFO]: Stopping worker threads
+[23:32:47] [Render thread/INFO]: Started 6 worker threads
+[23:32:56] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[23:33:00] [Render thread/INFO]: Stopping worker threads
+[23:33:00] [Render thread/INFO]: Started 6 worker threads
+[23:33:00] [Render thread/INFO]: Stopping worker threads
+[23:33:00] [Render thread/INFO]: Started 6 worker threads
+[23:34:15] [Render thread/INFO]: Stopping worker threads
+[23:34:15] [Render thread/INFO]: Started 6 worker threads
+[23:34:15] [Render thread/INFO]: Stopping worker threads
+[23:34:15] [Render thread/INFO]: Started 6 worker threads
+[23:35:09] [Render thread/INFO]: Stopping worker threads
+[23:35:09] [Render thread/INFO]: Started 6 worker threads
+[23:35:09] [Render thread/INFO]: Stopping worker threads
+[23:35:09] [Render thread/INFO]: Started 6 worker threads
+[23:41:28] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, sodium, tweakeroo, file/Low Fire 32x.zip, essential
+[23:41:28] [Worker-Main-5/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[23:41:29] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[23:41:29] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[23:41:29] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[23:41:29] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[23:41:29] [Render thread/INFO]: Sound engine started
+[23:41:29] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[23:41:29] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[23:41:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23:41:29] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[23:41:29] [Render thread/INFO]: Stopping worker threads
+[23:41:29] [Render thread/INFO]: Started 6 worker threads
+[23:42:30] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[23:57:31] [Render thread/INFO]: Stopping worker threads
+[23:57:31] [Render thread/INFO]: Started 6 worker threads
+[23:57:31] [Render thread/INFO]: Stopping worker threads
+[23:57:31] [Render thread/INFO]: Started 6 worker threads
+[23:57:50] [Render thread/INFO]: Stopping worker threads
+[23:57:50] [Render thread/INFO]: Started 6 worker threads
+[23:57:50] [Render thread/INFO]: Stopping worker threads
+[23:57:50] [Render thread/INFO]: Started 6 worker threads
+[23:57:57] [Render thread/INFO]: Stopping worker threads
+[23:57:57] [Render thread/INFO]: Started 6 worker threads
+[23:57:57] [Render thread/INFO]: Stopping worker threads
+[23:57:57] [Render thread/INFO]: Started 6 worker threads
+[23:58:15] [Render thread/INFO]: Stopping worker threads
+[23:58:15] [Render thread/INFO]: Started 6 worker threads
+[23:58:15] [Render thread/INFO]: Stopping worker threads
+[23:58:15] [Render thread/INFO]: Started 6 worker threads
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:15] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:16] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:16] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:16] [Render thread/WARN]: Received passengers for unknown entity
+[23:58:16] [Render thread/WARN]: Received passengers for unknown entity
+[23:59:17] [Render thread/INFO]: Stopping worker threads
+[23:59:17] [Render thread/INFO]: Started 6 worker threads
+[23:59:17] [Render thread/INFO]: Stopping worker threads
+[23:59:17] [Render thread/INFO]: Started 6 worker threads
+[23:59:47] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, sodium, tweakeroo, file/Faithful 32x - 1.20.4.zip, file/Dark Powdered Inventory v2.zip, file/Low Fire 32x.zip, file/16thGarden-totem-1.20.2-3D.zip, essential
+[23:59:47] [Worker-Main-8/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[23:59:48] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[23:59:48] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[23:59:48] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[23:59:48] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[23:59:48] [Render thread/INFO]: Sound engine started
+[23:59:48] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/armor_trims.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/beds.png-atlas
+[23:59:48] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[23:59:48] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[23:59:48] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/gui.png-atlas
+[23:59:48] [Render thread/INFO]: Stopping worker threads
+[23:59:48] [Render thread/INFO]: Started 6 worker threads

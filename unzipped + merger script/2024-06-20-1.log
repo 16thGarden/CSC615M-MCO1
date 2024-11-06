@@ -1,0 +1,184 @@
+[00:12:30] [Netty Client IO #19/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skytils] at SERVER
+[00:12:31] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:12:33] [Netty Client IO #20/INFO]: Server FML protocol version 1, no additional data received
+[00:12:33] [Netty Client IO #20/INFO]: Server protocol version 1
+[00:12:33] [Netty Client IO #20/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skytils] at SERVER
+[00:12:33] [Netty Client IO #20/INFO]: Injecting existing block and item data into this client instance
+[00:12:33] [Netty Client IO #20/INFO]: Applying holder lookups
+[00:12:33] [Netty Client IO #20/INFO]: Holder lookups applied
+[00:12:34] [Netty Client IO #20/INFO]: [Netty Client IO #20] Client side modded connection established
+[00:12:34] [Netty Client IO #20/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:12:34] [Netty Client IO #20/INFO]: DungeonRooms: Packet Handler added
+[00:12:34] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:12:34] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:12:34] [Client thread/INFO]: [CHAT]                          
+[00:12:35] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:12:35] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby7H', serverType='MAIN', lobbyName='lobby2', mode='null', map='null'} VersionedPacket{version=1}
+[00:12:36] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] Herr_Der_Locken§f §6joined the lobby!
+[00:12:37] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:12:37] [Thread-3759/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:12:37] [Thread-3759/INFO]: DungeonRooms: Checking for updates...
+[00:12:38] [Thread-3759/INFO]: DungeonRooms: No update found
+[00:12:38] [Thread-3759/INFO]: DungeonRooms: Getting MOTD...
+[00:12:38] [Thread-3759/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$736/1331879861.run(Unknown Source)
+[00:12:38] [Thread-3759/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:12:38] [Thread-3759/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:12:40] [Client thread/INFO]: [CHAT] Sending to server mini155CK...
+[00:12:40] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:12:41] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini155CK', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:12:41] [Client thread/INFO]: [CHAT]        
+[00:12:42] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:12:43] [Client thread/INFO]: [CHAT] 
+[00:12:43] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:12:43] [Client thread/INFO]: [CHAT] 
+[00:12:43] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.2 §e§lCLICK
+[00:12:44] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:12:44] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:12:44] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+
+-----------------------------------------------------
+[00:12:50] [Client thread/INFO]: [CHAT] Rabbit Dog has been promoted to [78] Assistant!
+[00:12:50] [Client thread/INFO]: [CHAT] Rabbit Dog has been promoted to [79] Assistant!
+[00:12:53] [Client thread/INFO]: [CHAT] Rabbit Dog has been promoted to [80] Assistant!
+[00:13:01] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [81] Assistant!
+[00:13:02] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [82] Assistant!
+[00:13:02] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [83] Assistant!
+[00:13:02] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [84] Assistant!
+[00:13:02] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [85] Assistant!
+[00:13:02] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [86] Assistant!
+[00:13:03] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [87] Assistant!
+[00:13:03] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [88] Assistant!
+[00:13:04] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [89] Assistant!
+[00:13:05] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [90] Assistant!
+[00:13:05] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [81] Assistant!
+[00:13:05] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [82] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [83] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [84] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [85] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [86] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [87] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [88] Assistant!
+[00:13:06] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [89] Assistant!
+[00:13:07] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [90] Assistant!
+[00:13:08] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [81] Assistant!
+[00:13:08] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [82] Assistant!
+[00:13:08] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [83] Assistant!
+[00:13:08] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [84] Assistant!
+[00:13:08] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [85] Assistant!
+[00:13:09] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [86] Assistant!
+[00:13:09] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [87] Assistant!
+[00:13:09] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [88] Assistant!
+[00:13:10] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [89] Assistant!
+[00:13:12] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [90] Assistant!
+[00:13:15] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [81] Assistant!
+[00:13:15] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [82] Assistant!
+[00:13:16] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [83] Assistant!
+[00:13:16] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [84] Assistant!
+[00:13:16] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [85] Assistant!
+[00:13:16] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [86] Assistant!
+[00:13:16] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [87] Assistant!
+[00:13:16] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [88] Assistant!
+[00:13:17] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [89] Assistant!
+[00:13:18] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!
+[00:13:32] [Client thread/ERROR]: Signature is missing from textures payload
+[00:13:32] [Client thread/ERROR]: Signature is missing from textures payload
+[00:13:32] [Netty Client IO #20/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:13:32] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:13:32] [Client thread/INFO]: Applying holder lookups
+[00:13:32] [Client thread/INFO]: Holder lookups applied
+[00:13:32] [Netty Client IO #23/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skytils] at SERVER
+[00:13:34] [Client thread/ERROR]: Signature is missing from textures payload
+[00:13:34] [Client thread/ERROR]: Signature is missing from textures payload
+[00:13:34] [Client thread/INFO]: Stopping!
+[00:13:34] [Client thread/INFO]: SoundSystem shutting down...
+[00:13:34] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

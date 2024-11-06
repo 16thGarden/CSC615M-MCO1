@@ -1,0 +1,145 @@
+[00:01:50] [Client thread/INFO]: [CHAT] 
+[00:01:50] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:01:50] [Client thread/INFO]: [CHAT] Watchdog has banned 14,982 players in the last 7 days.
+[00:01:50] [Client thread/INFO]: [CHAT] Staff have banned an additional 16,483 in the last 7 days.
+[00:01:50] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:01:50] [Client thread/INFO]: [CHAT] 
+[00:01:58] [Client thread/INFO]: [CHAT] Simon gave a Orange 5th Anniversary Balloon Hat to Maorplay!
+[00:02:09] [Client thread/INFO]: [CHAT] Putting coins in escrow...
+[00:02:09] [Client thread/INFO]: [CHAT] Processing purchase...
+[00:02:09] [Client thread/INFO]: [CHAT] You purchased [Lvl 100] Ender Dragon for 915,000,000 coins!
+[00:02:09] [Client thread/INFO]: [CHAT] Claiming BIN auction...
+[00:02:09] [Client thread/INFO]: [CHAT] You claimed [Lvl 100] Ender Dragon from [VIP] Jerom140's auction!
+[00:02:13] [Client thread/INFO]: [CHAT] Successfully added Ender Dragon to your pet menu!
+[00:02:17] [Client thread/INFO]: [CHAT] You summoned your Ender Dragon!
+[00:02:17] [WebSocketConnectReadThread-13000/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 47m 32.776s
+[00:02:17] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:02:18] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[00:02:18] [WebSocketConnectReadThread-16455/WARN]: Failed to connect (CloseInfo(code=1002, reason=Invalid status code received: 502 Status line: HTTP/1.1 502 Bad Gateway, remote=false, outdated=false)), re-trying in 0s
+[00:02:18] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:02:19] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[00:02:19] [WebSocketConnectReadThread-16457/INFO]: Connected to Essential Connection Manager.
+[00:02:40] [DefaultDispatcher-worker-2/WARN]: Failed to fetch https://crafthead.net/helm/cd899a14de784de88d319d42fff31d7a: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor68.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy59.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$486/825518164.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$492/1985633157.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[00:02:51] [Client thread/INFO]: [CHAT] [20] §7Maorplay§7: ok
+[00:02:53] [Client thread/INFO]: [CHAT] Simon gave a Pink 5th Anniversary Balloon Hat to SP0XKY_!
+[00:03:14] [Client thread/INFO]: [CHAT] Putting coins in escrow...
+[00:03:14] [Client thread/INFO]: [CHAT] Processing purchase...
+[00:03:14] [Client thread/INFO]: [CHAT] There was an error with the auction house! (AUCTION_EXPIRED_OR_NOT_FOUND)
+[00:03:14] [Client thread/INFO]: [CHAT] Checking escrow for recent transaction...
+[00:03:14] [Client thread/INFO]: [CHAT] Escrow refunded 450,000 coins for BIN Auction Buy!
+[00:03:23] [Client thread/INFO]: [CHAT] Putting coins in escrow...§7 (2)
+[00:03:23] [Client thread/INFO]: [CHAT] Processing purchase...§7 (2)
+[00:03:23] [Client thread/INFO]: [CHAT] You purchased Dwarf Turtle Shelmet for 450,000 coins!
+[00:03:23] [Client thread/INFO]: [CHAT] Claiming BIN auction...
+[00:03:23] [Client thread/INFO]: [CHAT] You claimed Dwarf Turtle Shelmet from [VIP] FTL5's auction!
+[00:03:40] [Client thread/INFO]: [CHAT] Your pet is now holding Dwarf Turtle Shelmet.
+[00:03:40] [Client thread/INFO]: [CHAT] [147] ? §b[MVP§a+§b] SP0XKY_§f: how the hell did i get 2 pink anniversary hats?
+[00:03:52] [Client thread/INFO]: [CHAT] [264] 16thGarden: you are a dirty hacker
+[00:03:56] [Client thread/INFO]: [CHAT] [147] ? §b[MVP§a+§b] SP0XKY_§f: ofc
+[00:04:06] [Client thread/INFO]: [CHAT] [147] ? §b[MVP§a+§b] SP0XKY_§f: i love hacking
+[00:04:18] [Client thread/INFO]: [CHAT] [105] ? §7omarizor§7: i got 4 black hats when the glitch was around
+[00:04:19] [Client thread/INFO]: [CHAT] [108] §b[MVP§e+§b] Zipper10301§f: wut
+[00:04:22] [Client thread/INFO]: [CHAT] [108] §b[MVP§e+§b] Zipper10301§f: how the hell
+[00:04:29] [Client thread/INFO]: [CHAT] [108] §b[MVP§e+§b] Zipper10301§f: you love hacking
+[00:04:32] [Client thread/INFO]: [CHAT] [105] ? §7omarizor§7: i sold them for 60m total
+[00:04:43] [Client thread/INFO]: [CHAT] [147] ? §b[MVP§a+§b] SP0XKY_§f: im gonna make bank off my many hats
+[00:04:52] [Client thread/INFO]: [CHAT] Finding player...
+[00:04:59] [Client thread/INFO]: [CHAT] [147] ? §b[MVP§a+§b] SP0XKY_§f: i think its some weird glitch idk why i have 2
+[00:05:01] [Client thread/INFO]: [CHAT] Simon gave a Yellow 5th Anniversary Balloon Hat to Snowite83!
+[00:05:54] [Client thread/ERROR]: Signature is missing from textures payload
+[00:05:54] [Client thread/ERROR]: Signature is missing from textures payload
+[00:05:54] [Netty Client IO #22/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:05:54] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:05:55] [Client thread/INFO]: Applying holder lookups
+[00:05:55] [Client thread/INFO]: Holder lookups applied
+[00:05:55] [Netty Client IO #1/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skytils] at SERVER
+[00:06:15] [Client thread/ERROR]: Signature is missing from textures payload
+[00:06:15] [Client thread/ERROR]: Signature is missing from textures payload
+[00:06:15] [Client thread/INFO]: Stopping!
+[00:06:15] [Client thread/INFO]: SoundSystem shutting down...
+[00:06:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

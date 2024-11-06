@@ -1,0 +1,452 @@
+[00:25:29] [Thread-1855/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[00:25:29] [Thread-1855/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1726071929627
+[01:10:58] [WebSocketConnectReadThread-4151/WARN]: Connection closed unexpectedly (CloseInfo(code=1001, reason=CloudFlare WebSocket proxy restarting, remote=true, outdated=false)) after 3h 16m 30.854s
+[01:10:58] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:10:58] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[01:11:00] [WebSocketConnectReadThread-6100/INFO]: Connected to Essential Connection Manager.
+[01:11:27] [DefaultDispatcher-worker-6/WARN]: Failed to fetch https://crafthead.net/helm/cd899a14de784de88d319d42fff31d7a: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor70.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy33.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$292/1335908272.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$299/1518686827.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[01:25:31] [Thread-1884/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[01:25:31] [Thread-1884/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1726075531999
+[02:25:29] [Thread-1901/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[02:25:29] [Thread-1901/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1726079129757
+[02:35:34] [Netty Client IO #10/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[02:35:34] [Netty Client IO #11/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[02:35:36] [Client thread/INFO]: Connecting to eu.hypixel.net, 25565
+[02:35:37] [Netty Client IO #12/INFO]: Server FML protocol version 1, no additional data received
+[02:35:37] [Netty Client IO #12/INFO]: Server protocol version 1
+[02:35:37] [Netty Client IO #12/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[02:35:37] [Netty Client IO #12/INFO]: Injecting existing block and item data into this client instance
+[02:35:37] [Netty Client IO #12/INFO]: Applying holder lookups
+[02:35:37] [Netty Client IO #12/INFO]: Holder lookups applied
+[02:35:38] [Netty Client IO #12/INFO]: [Netty Client IO #12] Client side modded connection established
+[02:35:38] [Netty Client IO #12/INFO]: DungeonRooms: Connecting to Hypixel...
+[02:35:38] [Netty Client IO #12/INFO]: DungeonRooms: Packet Handler added
+[02:35:38] [Netty Client IO #12/INFO]: [me.Danker.DankersSkyblockMod:onServerConnect:494]: Added packet handler to channel pipeline.
+[02:35:39] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hypixel:hello
+[02:35:39] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:103]: Sent Hypixel packet hypixel:register
+[02:35:39] [Client thread/INFO]: [CHAT]                          
+[02:35:39] [Client thread/INFO]: [CHAT] §b[MVP§4+§b] _xYoan§f §6joined the lobby!
+[02:35:39] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:35:39] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='dynamiclobby32B', serverType='PROTOTYPE', lobbyName='prototypelobby2', mode='null', map='null'} VersionedPacket{version=1}
+[02:35:41] [Client thread/INFO]: [CHAT] Sending to server mega10C...
+[02:35:41] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[02:35:42] [Thread-1902/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[02:35:42] [Thread-1902/INFO]: DungeonRooms: Checking for updates...
+[02:35:42] [DefaultDispatcher-worker-15/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:49]: Received packet: S2CPacketAcknowledge(wsVersion=3)
+[02:35:42] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:35:42] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mega10C', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[02:35:42] [Client thread/INFO]: [CHAT]        
+[02:35:42] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[02:35:42] [Thread-1902/INFO]: DungeonRooms: No update found
+[02:35:42] [Thread-1902/INFO]: DungeonRooms: Getting MOTD...
+[02:35:43] [Thread-1902/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$1528/1734835590.run(Unknown Source)
+[02:35:43] [Thread-1902/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[02:35:43] [Thread-1902/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[02:35:43] [Client thread/INFO]: [CHAT]  
+[02:35:43] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!
+[02:35:43] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<
+[02:35:43] [Client thread/INFO]: [CHAT]   
+[02:35:44] [Client thread/INFO]: [CHAT] 
+[02:35:44] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[02:35:44] [Client thread/INFO]: [CHAT] 
+[02:35:45] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[02:35:45] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:35:45] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:36:00] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[02:36:01] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 2,002,827 coins from selling 2x Pesterminator I at 1,012,808 each!
+[02:36:02] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+Friend Commands:
+/friend accept <player> - §bAccept a friend request
+/friend add <player> - §bAdd a player as a friend
+/friend best <player> - §bToggle a player as best friend
+/friend deny <player> - §bDecline a friend request
+/friend help - §bPrints all available friend commands.
+/friend list <page/best> - §bList your friends
+/friend nickname <player> <nickname> - §bSet a nickname of a friend
+/friend notifications - §bToggle friend join/leave notifications
+/friend remove <player> - §bRemove a player from your friends
+/friend removeall - §bRemove all your friends (excluding best friends)
+/friend requests <page> - §bView friend requests
+-----------------------------------------------------
+[02:36:03] [Client thread/INFO]: [CHAT] Warping...
+[02:36:03] [Client thread/INFO]: [CHAT] Sending to server mini8CW...
+[02:36:03] [Client thread/INFO]: [CHAT]        
+[02:36:03] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:36:03] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini8CW', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[02:36:05] [Client thread/INFO]: [CHAT]  
+[02:36:05] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!§7 (2)
+[02:36:05] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<§7 (2)
+[02:36:05] [Client thread/INFO]: [CHAT]   
+[02:36:06] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[02:36:06] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[02:36:11] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[02:36:11] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:36:11] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:36:13] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[02:36:13] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:36:13] [SkyblockAddons - #29/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:37:41] [Client thread/INFO]: [CHAT] This process is still running!
+[02:37:58] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+
+-----------------------------------------------------
+[02:37:59] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[02:38:00] [Client thread/INFO]: [CHAT] Sending to server mini150CB...
+[02:38:00] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:38:00] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini150CB', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[02:38:00] [Client thread/INFO]: [CHAT]        
+[02:38:00] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Magma Cube§e! §a§lVIEW RULE
+[02:38:01] [Client thread/INFO]: [CHAT]  
+[02:38:01] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!
+[02:38:01] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<
+[02:38:01] [Client thread/INFO]: [CHAT]   
+[02:38:03] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:38:03] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:38:11] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[02:38:11] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Power Crystal for 833,998 coins!
+[02:38:30] [Client thread/INFO]: [CHAT] Guild > Flizyy left.
+[02:38:58] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] QuiteShrewd §3[EGG]§f: are enrichments worth it
+[02:39:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§4+§b] Its_Krios §3[MANIAC]§f: yes
+[02:39:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] UmItzTripp §3[MANIAC]§f: yes
+[02:39:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[MANIAC]§f: definitely
+[02:39:13] [Client thread/INFO]: [CHAT] Warping...
+[02:39:13] [Client thread/INFO]: [CHAT] Sending to server mini22BD...
+[02:39:14] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:39:14] [Client thread/INFO]: [CHAT]        
+[02:39:14] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini22BD', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[02:39:14] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] QuiteShrewd §3[EGG]§f: alright
+[02:39:14] [Client thread/INFO]: [CHAT]  
+[02:39:14] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!
+[02:39:14] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<
+[02:39:14] [Client thread/INFO]: [CHAT]   
+[02:39:16] [Client thread/INFO]: [CHAT] §e[NPC] §aCarnival Leader§f: Welcome to §eThe Carnival§f, §716thGarden§f!
+[02:39:17] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:39:17] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:39:17] [Client thread/INFO]: [CHAT] §e[NPC] §aCarnival Leader§f: You've already claimed your §aCarnival Tickets §ffor §btoday§f, but I'm happy to answer any questions you might have.
+[02:39:19] [Client thread/INFO]: [CHAT] §eSelect an option: 
+ §e ? §a[I should be good, thanks.] 
+ §e ? §b[What sorts of games can I play?] 
+ §e ? §6[How can I get more Carnival Tickets?] 
+ §e ? §d[How do I earn Carnival Tokens?] 
+ §e ? §5[Where can I turn my Carnival Tokens in?] 
+[02:39:48] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[02:39:48] [Client thread/INFO]: [CHAT] Sending to server mini38CQ...
+[02:39:48] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:39:49] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini38CQ', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[02:39:49] [Client thread/INFO]: [CHAT]        
+[02:39:49] [Client thread/INFO]: [CHAT]  
+[02:39:49] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!§7 (2)
+[02:39:49] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<§7 (2)
+[02:39:49] [Client thread/INFO]: [CHAT]   
+[02:39:50] [Client thread/INFO]: [CHAT] §6§lGROSS! §7While you were offline, §6Pests §7spawned in §aPlots §bR5§7, §bR2§7 and §b1§7!
+[02:39:50] [Client thread/INFO]: [CHAT] Click on a plots name in chat to teleport to it!
+[02:39:51] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[02:39:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[02:39:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[02:39:53] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 98] §6Slug§e! §a§lVIEW RULE
+[02:40:01] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[02:40:01] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:40:01] [SkyblockAddons - #30/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:40:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[MANIAC]§f: you can buy whichever are cheapest and then swap them to what you want
+[02:40:06] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[02:40:06] [Client thread/INFO]: [CHAT] [Bazaar] Bought 717x Enchanted Potato for 365,598 coins!
+[02:40:11] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[02:40:11] [Client thread/INFO]: [CHAT] [Bazaar] Bought 6x Enchanted Melon Block for 305,932 coins!
+[02:40:16] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[02:40:16] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Enchanted Golden Carrot for 508,572 coins!
+[02:40:18] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] QuiteShrewd §3[EGG]§f: yeah
+[02:40:20] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[02:40:20] [Client thread/INFO]: [CHAT] [Bazaar] Bought 28x Enchanted Hay Bale for 222,664 coins!
+[02:40:21] [Client thread/INFO]: [CHAT] 
+[02:40:21] [Client thread/INFO]: [CHAT] 
+[02:40:21] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aFarmhand§6§l!§r §215§7, §328k§7, §c26§7, §b10
+[02:40:23] [Client thread/INFO]: [CHAT] 
+[02:40:23] [Client thread/INFO]: [CHAT] 
+[02:40:23] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJack§6§l!§r §215§7, §33.4k§7, §c25§7, §b10
+[02:40:24] [Client thread/INFO]: [CHAT] 
+[02:40:24] [Client thread/INFO]: [CHAT] 
+[02:40:25] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aEmissary Ceanna§6§l!§r §215§7, §322k§7, §c25§7, §b10§7, §d1,530 Gemstone Powder
+[02:40:27] [Client thread/INFO]: [CHAT] 
+[02:40:27] [Client thread/INFO]: [CHAT] 
+[02:40:27] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aOringo§6§l!§r §215§7, §37.1k§7, §c23§7, §b10§7, §7§fPet Cake
+[02:40:33] [Client thread/INFO]: [CHAT] Yum! Your pet ate Pet Cake for 10,000 Exp!
+[02:40:49] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[02:40:49] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Box of Seeds for 307,599 coins!
+[02:40:50] [Client thread/INFO]: [CHAT] Added 97,097 organic matter to the composter!
+[02:40:54] [Client thread/INFO]: [CHAT] Teleported you to Plot - 1!
+[02:41:03] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Pumpkin §efor killing a §6Rat§e!
+[02:41:03] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §aRodent Revolution Vinyl §6(§6+1,247?)
+[02:41:05] [Client thread/INFO]: [CHAT] Teleported you to Plot - R2!
+[02:41:15] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Brown Mushroom §efor killing a §6Slug§e!
+[02:41:16] [Client thread/INFO]: [CHAT] Teleported you to Plot - R5!
+[02:41:16] [Client thread/ERROR]: Null returned as 'hitResult', this shouldn't happen!
+[02:41:22] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[02:41:29] [Client thread/INFO]: [CHAT] Warping...
+[02:41:29] [Client thread/INFO]: [CHAT] Sending to server mini1DM...
+[02:41:30] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:41:30] [Client thread/INFO]: [CHAT]        
+[02:41:30] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini1DM', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[02:41:31] [Client thread/INFO]: [CHAT]  
+[02:41:31] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!
+[02:41:31] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<
+[02:41:31] [Client thread/INFO]: [CHAT]   
+[02:41:32] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[02:41:32] [Client thread/INFO]: [CHAT] Sending to server mini38CQ...
+[02:41:33] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:41:33] [Client thread/INFO]: [CHAT]        
+[02:41:33] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini38CQ', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[02:41:34] [Client thread/INFO]: [CHAT]  
+[02:41:34] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!§7 (2)
+[02:41:34] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<§7 (2)
+[02:41:34] [Client thread/INFO]: [CHAT]   
+[02:41:36] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:41:36] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:41:36] [Client thread/INFO]: [CHAT] You sold Rodent Revolution Vinyl x1 for 1,000 Coins!
+[02:41:41] [Client thread/INFO]: [CHAT] Warping...§7 (3)
+[02:41:43] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Mooshroom Cow§e! §a§lVIEW RULE
+[02:42:37] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[02:42:37] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:42:37] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:44:50] [Client thread/INFO]: [CHAT] Puzzler has arrived on your Garden!
+[02:44:50] [Client thread/INFO]: [CHAT] You earned 16 GEXP from playing SkyBlock!
+[02:45:09] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[02:45:13] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL5§7!
+[02:45:13] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:45:17] [Client thread/INFO]: [CHAT] Guild > MEE6_2TRAPPY left.
+[02:45:38] [Client thread/INFO]: [CHAT] Guild > True_Highlife joined.
+[02:46:13] [Client thread/INFO]: [CHAT] RARE CROP! Fermento (Armor Set Bonus)
+[02:46:35] [Client thread/INFO]: [CHAT] Guild > True_Highlife left.
+[02:47:38] [Client thread/INFO]: [CHAT] Guild > KaksuM left.
+[02:49:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: ayy 400 mp
+[02:49:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: gg
+[02:49:10] [Client thread/INFO]: [CHAT] Geonathan Greatforge has arrived on your Garden!
+[02:49:18] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] DonieCutie §3[HYDRA]§f: nice
+[02:49:51] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[02:50:45] [Client thread/INFO]: [CHAT] Guild > RoherBraten left.
+[02:50:55] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[02:50:55] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:53:16] [Client thread/INFO]: [CHAT] Hungry Hiker has arrived on your Garden!
+[02:54:41] [Client thread/INFO]: [CHAT] Guild > MisterShaco joined.
+[02:54:52] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[02:55:08] [Client thread/INFO]: [CHAT] Guild > Dima_PB left.
+[02:55:23] [Client thread/INFO]: [CHAT] Guild > TheLunarGalaxy joined.
+[02:57:47] [Client thread/INFO]: [CHAT] Guild > Flizyy joined.
+[02:58:32] [Client thread/INFO]: [CHAT] Guild > RoherBraten joined.
+[02:59:31] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL5§7!
+[02:59:31] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:59:53] [Client thread/INFO]: [CHAT] Dalbrek has arrived on your Garden!
+[02:59:53] [Client thread/INFO]: [CHAT] You earned 8 GEXP from playing SkyBlock!
+[03:00:56] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:01:01] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Cocoa Beans §efor killing a §6Moth§e!
+[03:01:01] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §aWings of Harmony Vinyl §6(§6+1,460?)
+[03:01:07] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[03:01:09] [Client thread/INFO]: [CHAT] Teleported you to Plot - L3!
+[03:01:20] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[03:01:21] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:01:21] [Client thread/INFO]: [CHAT] You are not in a party.
+[03:01:21] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:01:24] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:01:26] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 98] §6Slug§e! §a§lVIEW RULE
+[03:01:33] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[03:01:33] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:01:33] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:01:37] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:01:37] [Client thread/INFO]: [CHAT] [Bazaar] Bought 232x Enchanted Pumpkin for 371,154 coins!
+[03:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 16,704 coins!
+[03:01:40] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[03:01:40] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 16,704 coins!§7 (2)
+[03:01:44] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[03:01:45] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Enchanted Golden Carrot for 581,250 coins!
+[03:01:46] [Client thread/INFO]: [CHAT] 
+[03:01:46] [Client thread/INFO]: [CHAT] 
+[03:01:47] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Dalbrek§6§l!§r §230§7, §313k§7, §c75§7, §b10
+[03:01:48] [Client thread/INFO]: [CHAT] 
+[03:01:48] [Client thread/INFO]: [CHAT] 
+[03:01:48] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aHungry Hiker§6§l!§r §215§7, §38.3k§7, §c28§7, §b10§7, §7§aFarming Exp Boost
+[03:01:49] [Client thread/INFO]: [CHAT] 
+[03:01:49] [Client thread/INFO]: [CHAT] 
+[03:01:50] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aGeonathan Greatforge§6§l!§r §215§7, §315k§7, §c30§7, §b10§7, §7§9Biofuel
+[03:01:51] [Client thread/INFO]: [CHAT] Your Slug leveled up to level 99!
+[03:01:51] [Client thread/INFO]: [CHAT] 
+[03:01:51] [Client thread/INFO]: [CHAT] 
+[03:01:51] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Puzzler§6§l!§r §230§7, §338k§7, §c59§7, §b10
+[03:02:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[03:02:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 81x Enchanted Seeds for 39,560 coins!
+[03:02:11] [Client thread/INFO]: [CHAT] Added 2,720 organic matter to the composter!
+[03:02:12] [Client thread/INFO]: [CHAT] Added 10,240 organic matter to the composter!
+[03:02:18] [Client thread/INFO]: [CHAT] Guild > Pludoow joined.
+[03:02:26] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (6)
+[03:02:26] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Volta for 47,774 coins!
+[03:02:27] [Client thread/INFO]: [CHAT] Added 80,000 fuel to the composter!
+[03:03:33] [Client thread/INFO]: [CHAT] You must double tap the drop button to drop this item!
+[03:03:33] [Client thread/INFO]: [CHAT] §cYou can disable this in the §fSettings§c in your §aSkyBlock Menu§c!
+[03:03:40] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[03:03:46] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[03:03:46] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:03:46] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:03:58] [Client thread/INFO]: [CHAT] You must double tap the drop button to drop this item!§7 (2)
+[03:03:58] [Client thread/INFO]: [CHAT] §cYou can disable this in the §fSettings§c in your §aSkyBlock Menu§c!§7 (2)
+[03:03:59] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[03:04:00] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[03:04:01] [Client thread/INFO]: [CHAT] Guild > 1zez joined.§7 (2)
+[03:04:05] [Client thread/INFO]: [CHAT] You must double tap the drop button to drop this item!§7 (3)
+[03:04:05] [Client thread/INFO]: [CHAT] §cYou can disable this in the §fSettings§c in your §aSkyBlock Menu§c!§7 (3)
+[03:04:51] [Client thread/INFO]: [CHAT] Guild > QuiteShrewd left.
+[03:04:55] [Client thread/INFO]: [CHAT] You earned 18 GEXP from playing SkyBlock!
+[03:05:13] [Client thread/INFO]: [CHAT] TIME TOWER! Your Chocolate Factory production has increased by +2.2x for 1h!
+[03:06:03] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage18.
+[03:06:03] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:06:03] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:06:11] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage18.
+[03:06:11] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:06:11] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:06:37] [Client thread/INFO]: [CHAT] Guild > RoherBraten left.
+[03:08:02] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[03:08:14] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[03:08:23] [Client thread/INFO]: [CHAT] Jack has arrived on your Garden!
+[03:09:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:09:09] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 79,237 coins!
+[03:09:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:09:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 79,237 coins!§7 (2)
+[03:09:11] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[03:09:11] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 79,237 coins!§7 (3)
+[03:09:12] [Client thread/INFO]: [CHAT] 
+[03:09:12] [Client thread/INFO]: [CHAT] 
+[03:09:12] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJack§6§l!§r §215§7, §314k§7, §c16§7, §b10
+[03:09:51] [Client thread/INFO]: [CHAT] Guild > Dima_PB joined.
+[03:09:56] [Client thread/INFO]: [CHAT] You earned 7 GEXP from playing SkyBlock!
+[03:10:26] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[03:10:26] [SkyblockAddons - #35/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:10:26] [SkyblockAddons - #35/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:11:40] [Client thread/INFO]: [CHAT] Warping...
+[03:11:41] [Client thread/INFO]: [CHAT] Sending to server mini70M...
+[03:11:41] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:11:41] [Client thread/INFO]: [CHAT]        
+[03:11:41] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini70M', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[03:11:44] [Client thread/INFO]: [CHAT]  
+[03:11:44] [Client thread/INFO]: [CHAT] §f       §7You have §32 §7pending §3Bestiary Milestones §7to be claimed!
+[03:11:44] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to claim them! §6§l<<<
+[03:11:44] [Client thread/INFO]: [CHAT]   
+[03:11:45] [Client thread/INFO]: [CHAT] You are sending commands too fast! Please slow down.
+[03:11:45] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:11:45] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:13:19] [Client thread/INFO]: [CHAT] [6] §7GamerIsDead§7: Korhoth
+[03:13:34] [Client thread/INFO]: [CHAT] [6] §7GamerIsDead§7: can u craft me farming suit i pay you please
+[03:13:36] [Client thread/INFO]: [CHAT] Guild > TheLunarGalaxy left.
+[03:13:40] [Client thread/INFO]: [CHAT] [6] §7GamerIsDead§7: bleeeshh_
+[03:14:12] [Client thread/INFO]: [CHAT] Guild > Dima_PB left.
+[03:15:02] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[03:15:26] [Client thread/INFO]: [CHAT] You earned 5 GEXP from playing SkyBlock!
+[03:16:05] [Client thread/INFO]: [CHAT] Guild > VeryInterestings joined.
+[03:18:23] [Client thread/INFO]: [CHAT] [229] §b[MVP§c+§b] 19l§f: Quitting the game visit for 10% of your best items!
+[03:18:30] [Client thread/INFO]: [CHAT] [92] §7NotKiller01§7: w scam?
+[03:20:41] [Client thread/INFO]: [CHAT] [236] ? §b[MVP§2+§b] PaperJungle797§f: dude get sacks
+[03:20:48] [Client thread/INFO]: [CHAT] [236] ? §b[MVP§2+§b] PaperJungle797§f: you are dropping crap all over the floor
+[03:21:04] [Client thread/INFO]: [CHAT] [130] ? §a[VIP] KitTheBrit§f: You'd be surprised at how disgorganised people's inventories are.
+[03:21:20] [Client thread/INFO]: [CHAT] [236] ? §b[MVP§2+§b] PaperJungle797§f: there is this level 80 guy with a hype
+[03:21:24] [Client thread/INFO]: [CHAT] [236] ? §b[MVP§2+§b] PaperJungle797§f: making an actual mess
+[03:22:38] [Client thread/INFO]: [CHAT] Guild > ChampionofGreed joined.
+[03:22:52] [Client thread/INFO]: [CHAT] Guild > TheLunarGalaxy joined.
+[03:23:44] [Client thread/INFO]: [CHAT] You can only track Pests while on your Garden.
+[03:23:44] [Client thread/INFO]: [CHAT] You can only track Pests while on your Garden.§7 (2)
+[03:24:25] [Client thread/ERROR]: Signature is missing from textures payload
+[03:24:25] [Client thread/ERROR]: Signature is missing from textures payload
+[03:24:27] [Netty Client IO #12/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[03:24:27] [Client thread/INFO]: Applying holder lookups
+[03:24:27] [Client thread/INFO]: Holder lookups applied
+[03:24:28] [Client thread/ERROR]: Signature is missing from textures payload
+[03:24:28] [Client thread/ERROR]: Signature is missing from textures payload
+[03:24:28] [Client thread/INFO]: Stopping!
+[03:24:28] [Client thread/INFO]: SoundSystem shutting down...
+[03:24:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

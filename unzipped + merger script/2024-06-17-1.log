@@ -1,0 +1,1284 @@
+[00:00:00] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (22)
+[00:00:04] [Client thread/INFO]: DungeonRooms: gameStage set to 3
+[00:00:15] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[00:00:15] [SkyblockAddons - #44/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:00:15] [SkyblockAddons - #44/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:00:20] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 30,000,000 Total Damage so far! 11m 02s
+[00:00:20] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 45,000,000 Total Damage so far! 11m 02s
+[00:00:20] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 60,000,000 Total Damage so far! 11m 02s
+[00:00:21] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 75,000,000 Total Damage so far! 11m 02s
+[00:00:21] [Client thread/INFO]: [CHAT] This ability is on cooldown for 30s.
+[00:00:22] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 90,000,000 Total Damage so far! 11m 03s
+[00:00:22] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find
+[00:00:22] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:00:26] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$443/1918848564.apply(Unknown Source)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:00:26] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:00:27] [Client thread/INFO]: [CHAT] +15 Kill Combo +3? Magic Find
+[00:00:30] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (23)
+[00:00:33] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 15 Kill Combo!
+[00:00:33] [Client thread/INFO]: [CHAT] [Sacks] +1 item. (Last 5s.)
+[00:00:44] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (2)
+[00:00:53] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 6 Kill Combo!
+[00:01:00] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (24)
+[00:01:19] [Client thread/INFO]: [CHAT]  ? bebop2008_ died and became a ghost.
+[00:01:19] [Client thread/INFO]: [CHAT] §bThis is §ebebop2008_§b's §e1st§b death out of §e1§b total tracked deaths.
+[00:01:20] [Client thread/INFO]: [CHAT]  ? bebop2008_ is reviving bebop2008_!
+[00:01:22] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:01:26] [Client thread/INFO]: [CHAT]  ? bebop2008_ was revived by bebop2008_!
+[00:01:31] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (25)
+[00:01:40] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:01:40] [Client thread/INFO]: [CHAT]                         The Catacombs - Floor VI
+[00:01:40] [Client thread/INFO]: [CHAT] 
+[00:01:40] [Client thread/INFO]: [CHAT]                            Team Score: 304 (S+)
+[00:01:40] [Client thread/INFO]: DungeonRooms: gameStage set to 4
+[00:01:40] [Client thread/INFO]: [CHAT]                       ? Defeated Sadan in 12m 22s
+[00:01:40] [Client thread/INFO]: [CHAT] §f                             §6> §e§lEXTRA STATS §6<
+[00:01:40] [Client thread/INFO]: [CHAT]                      +19,013 Catacombs Experience
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:01:40] [Client thread/INFO]: [CHAT]                          +9,108.7 Tank Experience
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$3.invokeSuspend(DungeonListener.kt:167)
+[00:01:40] [Client thread/INFO]: [CHAT]                +2,277.2 Mage Experience (Team Bonus)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:01:40] [Client thread/INFO]: [CHAT]              +2,348.8 Berserk Experience (Team Bonus)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:01:40] [Client thread/INFO]: [CHAT]               +2,277.2 Archer Experience (Team Bonus)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:01:40] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:01:40] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@30862efa, Dispatchers.IO]
+[00:01:40] [Client thread/INFO]: [CHAT] §c? §lDeaths:§r 1
+  §c? bebop2008_:§r 1
+[00:01:42] [Client thread/INFO]: [CHAT] 
+[00:01:42] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:01:42] [Client thread/INFO]: [CHAT]       §6§lCLICK HERE §bto re-queue into §a§aThe Catacombs!
+[00:01:42] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:01:42] [Client thread/INFO]: [CHAT] 
+[00:01:44] [Client thread/INFO]: DungeonRooms: gameStage set to 3
+[00:01:48] [Client thread/INFO]: [CHAT] Warping...
+[00:01:48] [Client thread/INFO]: [CHAT] Sending to server mini184B...
+[00:01:48] [Netty Client IO #18/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:01:49] [Client thread/INFO]: [CHAT]        
+[00:01:49] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini184B', serverType='SKYBLOCK', lobbyName='null', mode='dungeon_hub', map='Dungeon Hub'} VersionedPacket{version=1}
+[00:01:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:01:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:01:57] [Client thread/INFO]: [CHAT]  §9§l» §b10deCoeur §eis traveling to §aDungeon Hub §e§lFOLLOW
+[00:01:59] [Client thread/INFO]: [CHAT]  §9§l» §bShando_ §eis traveling to §aDungeon Hub §e§lFOLLOW
+[00:02:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:01] [Client thread/INFO]: [CHAT] [MVP+] Shando_ has left the party.
+[00:02:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:06] [Client thread/INFO]: [CHAT]  §9§l» §7JPGomdol §eis traveling to §aDungeon Hub §e§lFOLLOW
+[00:02:06] [Client thread/INFO]: [CHAT] 
+[00:02:06] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:02:06] [Client thread/INFO]: [CHAT] Watchdog has banned 14,523 players in the last 7 days.
+[00:02:06] [Client thread/INFO]: [CHAT] Staff have banned an additional 15,238 in the last 7 days.
+[00:02:06] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:02:06] [Client thread/INFO]: [CHAT] 
+[00:02:10] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:10] [Client thread/INFO]: [CHAT] Party Members (4)
+[00:02:10] [Client thread/INFO]: [CHAT] 
+[00:02:10] [Client thread/INFO]: [CHAT] Party Leader: 16thGarden ?
+[00:02:10] [Client thread/INFO]: [CHAT] Party Members: JPGomdol ? [MVP] 10deCoeur ? [MVP+] bebop2008_ ? 
+[00:02:10] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:10] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:10] [Client thread/INFO]: [CHAT] JPGomdol has left the party.
+[00:02:10] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:13] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:13] [Client thread/INFO]: [CHAT] You left the party.
+[00:02:13] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:13] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:13] [Client thread/INFO]: [CHAT] The party was transferred to [MVP+] bebop2008_ because 16thGarden left
+[00:02:13] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:02:49] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:05:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:05:08] [Client thread/INFO]: [CHAT] 16thGarden invited JPGomdol to the party! They have 60 seconds to accept.
+[00:05:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:05:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:05:12] [Client thread/INFO]: [CHAT] JPGomdol joined the party.
+[00:05:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:05:31] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$443/1918848564.apply(Unknown Source)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:05:31] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:05:45] [Client thread/INFO]: [CHAT] Set floor to: Floor V
+[00:05:48] [Client thread/INFO]: [CHAT] Queueing your party...
+[00:05:48] [Client thread/INFO]: [CHAT] Party Finder > Your party has been queued in the dungeon finder!
+[00:05:51] [Client thread/INFO]: [CHAT] §dParty Finder §r§f> §r§bMiniploko §r§ejoined the dungeon group! (§r§bArcher Level 22§r§e)§r
+[00:05:53] [Client thread/INFO]: [CHAT] §dParty Finder §r§f> §r§aSmoothHydra §r§ejoined the dungeon group! (§r§bBerserk Level 24§r§e)§r
+[00:05:54] [pool-5-thread-6/INFO]: [CHAT] §2§m--------------------------------
+§b[MVP§d+§b] Miniploko §8» §dCata §925.606 §7[Stats]
+
+§5Fierce Shadow Assassin Boots §6?§6?§6?§6?
+§5Fierce Shadow Assassin Leggings §6?§6?§6?§6?§6?
+§6Fierce Strong Dragon Chestplate §6?§6?§6?§6?
+§cFierce Golden Livid Head §6?§6?§6?§6?
+§7[Lvl 85] §6Silverfish §7(No Spirit)
+
+§dImportant Items: §7(Hover)
+§5Miscellanous: §7(Hover)
+
+§aFloor Completions: §7(Hover)
+
+§c§l[KICK]
+§2§m--------------------------------
+[00:05:55] [pool-5-thread-10/INFO]: [CHAT] §2§m--------------------------------
+§a[VIP§6+§a] SmoothHydra §8» §dCata §925.586 §7[Stats]
+
+§6Ancient Necron's Boots §6?§6?§6?§6?§6?
+§6Ancient Necron's Leggings §6?§6?§6?§6?§6?
+§6Ancient Necron's Chestplate §6?§6?§6?§6?§6?
+§6Ancient Necron's Helmet §6?§6?§6?§6?§6?
+§7[Lvl 81] §5Lion §7(No Spirit)
+
+§dImportant Items: §7(Hover)
+§5Miscellanous: §7(Hover)
+
+§aFloor Completions: §7(Hover)
+
+§c§l[KICK]
+§2§m--------------------------------
+[00:05:58] [Client thread/INFO]: [CHAT] §dParty Finder §r§f> §r§7rlatpdus56 §r§ejoined the dungeon group! (§r§bMage Level 25§r§e)§r
+[00:06:00] [Client thread/INFO]: [CHAT] §dParty Finder §f> §rYour dungeon group is full! Click here to warp to the dungeon!
+[00:06:00] [pool-5-thread-9/INFO]: [CHAT] §2§m--------------------------------
+§7rlatpdus56 §8» §dCata §926.093 §7[Stats]
+
+§cNo Pet Equipped! §7(No Spirit)
+
+§dImportant Items: §7(Hover)
+§5Miscellanous: §7(Hover)
+
+§aFloor Completions: §7(Hover)
+
+§c§l[KICK]
+§2§m--------------------------------
+[00:06:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:12] [Client thread/INFO]: [CHAT] Party Members (5)
+[00:06:12] [Client thread/INFO]: [CHAT] 
+[00:06:12] [Client thread/INFO]: [CHAT] Party Leader: 16thGarden ?
+[00:06:12] [Client thread/INFO]: [CHAT] Party Members: JPGomdol ? rlatpdus56 ? [VIP+] SmoothHydra ? [MVP+] Miniploko ? 
+[00:06:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:14] [Client thread/INFO]: [CHAT] Queuing... (Attempt 1/3)
+[00:06:14] [Client thread/INFO]: [CHAT] -----------------------------
+16thGarden entered The Catacombs, Floor V!
+-----------------------------
+[00:06:16] [Client thread/INFO]: [CHAT] Sending to server mini157R...
+[00:06:17] [Client thread/INFO]: [CHAT]        
+[00:06:17] [Netty Client IO #18/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini157R', serverType='SKYBLOCK', lobbyName='null', mode='dungeon', map='Dungeon'} VersionedPacket{version=1}
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:17] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:320]: Couldn't get party text
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 0 -> 4
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 4 members in this party
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3270§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 4 members but got 1
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 4
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 4 members in this party
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3270§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 4 members but got 1§7 (2)
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 4
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 4 members in this party
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3270§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 4 members but got 1§7 (3)
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 4
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 4 members in this party
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3270§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 4 members but got 1§7 (4)
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 4
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 4 members in this party
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3270§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:335]: Skipping over entry §r due to it not matching
+[00:06:18] [Client thread/INFO]: [CHAT] §c§lSkytils (1.10.0-pre8) §8» §cSomething isn't right! I expected 4 members but got 1§7 (5)
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:303]: Recomputing team as party size has changed 1 -> 5
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate 16thGarden with value EMPTY, §r§8[§r§3270§r§8] §r§716thGarden §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate JPGomdol with value EMPTY, §r§8[§r§2168§r§8] §r§7JPGomdol §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate rlatpdus56 with value EMPTY, §r§8[§r§f70§r§8] §r§7rlatpdus56 §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate SmoothHydra with value EMPTY, §r§8[§r§e80§r§8] §r§aSmoothHydra §r§7? §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:358]: Parsed teammate Miniploko with value EMPTY, §r§8[§r§2172§r§8] §r§bMiniploko §r§7?§r§7? §r§f(§r§d§r§7EMPTY§r§f)§r
+[00:06:18] [Client thread/INFO]: DungeonRooms: gameStage set to 1
+[00:06:18] [Client thread/INFO]: DungeonRooms: entrancePhysicalNWCorner has been set to java.awt.Point[x=-136,y=-40]
+[00:06:18] [Client thread/INFO]: DungeonRooms: Updating MOTD on screen
+[00:06:19] [Client thread/INFO]: [CHAT] rlatpdus56 is now ready!
+[00:06:19] [Client thread/INFO]: [CHAT] Miniploko is now ready!
+[00:06:19] [Client thread/INFO]: [CHAT] 16thGarden is now ready!
+[00:06:19] [Client thread/INFO]: [CHAT] SmoothHydra is now ready!
+[00:06:20] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:06:20] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:06:22] [Client thread/INFO]: [CHAT] JPGomdol is now ready!
+[00:06:23] [Client thread/INFO]: [CHAT] Starting in 4 seconds.
+[00:06:24] [Client thread/INFO]: [CHAT] Starting in 3 seconds.
+[00:06:25] [Client thread/INFO]: [CHAT] Starting in 2 seconds.
+[00:06:26] [Client thread/INFO]: [CHAT] Starting in 1 second.
+[00:06:27] [Client thread/INFO]: [CHAT] Your Tank stats are doubled because you are the only player using this class!
+[00:06:27] [Client thread/INFO]: [CHAT] [Tank] Defense 93 -> 143
+[00:06:27] [Client thread/INFO]: [CHAT] [Tank] Total Defense 33.6% -> 58.6%
+[00:06:27] [Client thread/INFO]: [CHAT] [Tank] Absorption Health 630 -> 830
+[00:06:27] [Client thread/INFO]: [CHAT] [Tank] Absorption Shield Health Required 50% -> 100%
+[00:06:27] [Client thread/INFO]: [CHAT] [Tank] Absorption Shield Percentage 10% -> 20%
+[00:06:27] [Client thread/INFO]: [CHAT] [Tank] Barrier Cooldown 90 -> 45
+[00:06:27] [Client thread/INFO]: DungeonRooms: gameStage set to 2
+[00:06:27] [Client thread/INFO]: DungeonRooms: Extracting the map id
+[00:06:27] [Client thread/INFO]: DungeonRooms: Getting entrance map corners from map data...
+[00:06:27] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:325]: There are 5 members in this party
+[00:06:27] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate 16thGarden, they are a Tank 43
+[00:06:27] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate JPGomdol, they are a Archer 31
+[00:06:27] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate rlatpdus56, they are a Mage 25
+[00:06:27] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate SmoothHydra, they are a Berserk 24
+[00:06:27] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.DungeonListener$2:invoke:347]: Parsed teammate Miniploko, they are a Archer 22
+[00:06:28] [DefaultDispatcher-worker-28/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:party_info
+[00:06:28] [Netty Client IO #18/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:party_info
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$5.invokeSuspend(DungeonListener.kt:215)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:06:28] [DefaultDispatcher-worker-23/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@613c9c07, Dispatchers.IO]
+[00:06:29] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 84 unique line-of-sight blocks, filtered down to 48 blocks, out of which 13 blocks were used to uniquely identify Deathmite-6.
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:06:29] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@510c3135, Dispatchers.IO]
+[00:06:30] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 210,000 Total Damage so far! 03s
+[00:06:31] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find
+[00:06:31] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 1,050,000 Total Damage so far! 04s
+[00:06:34] [Client thread/INFO]: [CHAT] JPGomdol has obtained Wither Key!
+[00:06:34] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!
+[00:06:34] [Client thread/INFO]: [CHAT] The Tripwire Trap hit you for 5,607.4 damage!
+[00:06:40] [Client thread/INFO]: [CHAT] rlatpdus56 has obtained Superboom TNT!
+[00:06:41] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Superboom TNT!
+[00:06:42] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 9 Kill Combo!
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:06:43] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@116c2f4, Dispatchers.IO]
+[00:06:43] [pool-5-thread-4/INFO]: [gg.skytils.skytilsmod.features.impl.dungeons.solvers.BlazeSolver$detectOrientation$1:invokeSuspend:117]: Bottom block scanning determined highest -> lowest
+[00:06:44] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 345 unique line-of-sight blocks, filtered down to 307 blocks, out of which 12 blocks were used to uniquely identify Blaze-Room-1-High.
+[00:06:47] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!
+[00:06:55] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (2)
+[00:06:59] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Miniploko found a Blessing of Life I!
+[00:06:59] [Client thread/INFO]: [CHAT]      Granted you +1.04x HP and +1.04x ? Health Regen.
+[00:07:01] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Revive Stone!
+[00:07:03] [Client thread/INFO]: [CHAT] ESSENCE! JPGomdol found x10 Spider Essence!
+[00:07:04] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill
+[00:07:10] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 10 Kill Combo!
+[00:07:14] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Power V!
+[00:07:14] [Client thread/INFO]: [CHAT]      Granted you +26.4 & +1.13x ? Strength.
+[00:07:14] [Client thread/INFO]: [CHAT]      Also granted you +26.4 & +1.13x ? Crit Damage.
+[00:07:15] [Client thread/INFO]: [CHAT] rlatpdus56 has obtained Superboom TNT!§7 (2)
+[00:07:18] [Client thread/INFO]: [CHAT] Miniploko found a Wither Essence! Everyone gains an extra essence!
+[00:07:18] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (2)
+[00:07:18] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:07:20] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:20] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@160bd92a, Dispatchers.IO]
+[00:07:24] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 335 unique line-of-sight blocks, filtered down to 211 blocks, out of which 11 blocks were used to uniquely identify Deathmite-6.
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:24] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@3e2e7a03, Dispatchers.IO]
+[00:07:26] [Client thread/INFO]: [CHAT] 16thGarden opened a WITHER door!
+[00:07:27] [Client thread/INFO]: [CHAT] DUNGEON BUFF! SmoothHydra found a Blessing of Life II!
+[00:07:27] [Client thread/INFO]: [CHAT]      Granted you +1.08x HP and +1.08x ? Health Regen.
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:27] [DefaultDispatcher-worker-25/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@2d24b8fc, Dispatchers.IO]
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:28] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@6819a05c, Dispatchers.IO]
+[00:07:28] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 230 unique line-of-sight blocks, filtered down to 147 blocks, out of which 11 blocks were used to uniquely identify Quartz-Knight-7.
+[00:07:28] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 4,200,000 Total Damage so far! 01m 01s
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:28] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@7fc41425, Dispatchers.IO]
+[00:07:29] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (3)
+[00:07:30] [Client thread/INFO]: [CHAT] rlatpdus56 has obtained Superboom TNT!§7 (3)
+[00:07:30] [Client thread/INFO]: [CHAT] rlatpdus56 has obtained Blessing of Wisdom!
+[00:07:30] [Client thread/INFO]: [CHAT] DUNGEON BUFF! rlatpdus56 found a Blessing of Wisdom V! (01m 03s)
+[00:07:30] [Client thread/INFO]: [CHAT]      Granted you +26.4 & +1.13x ? Intelligence and +24 ? Speed.
+[00:07:30] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill§7 (2)
+[00:07:33] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 10,500,000 Total Damage so far! 01m 06s
+[00:07:33] [Client thread/INFO]: [CHAT] +15 Kill Combo +3? Magic Find
+[00:07:33] [Client thread/INFO]: [CHAT] +20 Kill Combo +15? Combat Wisdom
+[00:07:35] [Client thread/INFO]: [CHAT] +25 Kill Combo +3? Magic Find
+[00:07:36] [Client thread/INFO]: [CHAT] 16thGarden has obtained Wither Key!
+[00:07:36] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!
+[00:07:36] [Client thread/INFO]: [CHAT] 16thGarden has obtained Blessing of Wisdom!
+[00:07:36] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Wisdom V! (01m 09s)
+[00:07:36] [Client thread/INFO]: [CHAT]      Granted you +26.4 & +1.13x ? Intelligence and +24 ? Speed.§7 (2)
+[00:07:36] [Client thread/INFO]: [CHAT] 16thGarden has obtained Revive Stone!
+[00:07:38] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 26 Kill Combo!
+[00:07:39] [Client thread/INFO]: [CHAT] [Sacks] +2 items. (Last 9s.)
+[00:07:44] [Client thread/INFO]: [CHAT] 16thGarden opened a WITHER door!§7 (2)
+[00:07:46] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 194 unique line-of-sight blocks, filtered down to 99 blocks, out of which 11 blocks were used to uniquely identify Flags-7.
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:07:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@7cc16a9d, Dispatchers.IO]
+[00:07:48] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (3)
+[00:07:50] [Client thread/INFO]: [CHAT] RARE DROP! Earth Shard (+127% ? Magic Find)
+[00:07:50] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (4)
+[00:07:52] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 21,000,000 Total Damage so far! 01m 25s
+[00:07:53] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill§7 (3)
+[00:07:54] [Client thread/INFO]: [CHAT] +15 Kill Combo +3? Magic Find§7 (2)
+[00:07:57] [Client thread/INFO]: [CHAT] The Lost Adventurer used Dragon's Breath on you!
+[00:07:59] [Client thread/INFO]: [CHAT] +20 Kill Combo +15? Combat Wisdom§7 (2)
+[00:07:59] [Client thread/INFO]: [CHAT] [Sacks] +1 item. (Last 5s.)
+[00:08:00] [Client thread/INFO]: [CHAT] 16thGarden has obtained Blessing of Life!
+[00:08:00] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Life V! (01m 33s)
+[00:08:00] [Client thread/INFO]: [CHAT]      Granted you +1.2x HP and +1.2x ? Health Regen.
+[00:08:00] [Client thread/INFO]: [CHAT] 16thGarden has obtained Wither Key!§7 (2)
+[00:08:00] [Client thread/INFO]: [CHAT] RIGHT CLICK on a WITHER door to open it. This key can only be used to open 1 door!§7 (2)
+[00:08:00] [Client thread/INFO]: [CHAT] 16thGarden has obtained Superboom TNT x2!
+[00:08:03] [Client thread/INFO]: [CHAT] 16thGarden opened a WITHER door!§7 (3)
+[00:08:03] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 21 Kill Combo!
+[00:08:04] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (5)
+[00:08:04] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 31,500,000 Total Damage so far! 01m 37s
+[00:08:04] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill§7 (4)
+[00:08:04] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 162 unique line-of-sight blocks, filtered down to 133 blocks, out of which 15 blocks were used to uniquely identify Raccoon-4.
+[00:08:04] [Client thread/INFO]: [CHAT] DUNGEON BUFF! JPGomdol found a Blessing of Stone I!
+[00:08:04] [Client thread/INFO]: [CHAT]      Granted you +5.3 & +1.03x ? Defense and +7.2 ? Damage.
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:08:04] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@e067320, Dispatchers.IO]
+[00:08:05] [Client thread/INFO]: [CHAT] [Sacks] +2 items. (Last 5s.)
+[00:08:06] [Client thread/INFO]: [CHAT] 16thGarden has obtained Blood Key!
+[00:08:06] [Client thread/INFO]: [CHAT] RIGHT CLICK on the BLOOD DOOR to open it. This key can only be used to open 1 door!
+[00:08:06] [Client thread/INFO]: [CHAT] 16thGarden has obtained Revive Stone!§7 (2)
+[00:08:07] [Client thread/INFO]: [CHAT] The BLOOD DOOR has been opened!
+[00:08:07] [Client thread/INFO]: [CHAT] A shiver runs down your spine...
+[00:08:10] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:08:10] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:08:10] [Client thread/INFO]: [CHAT] You used your Mining Speed Boost Pickaxe Ability!
+[00:08:10] [Client thread/INFO]: [CHAT] This chest has already been searched!
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:08:10] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@363211c3, Dispatchers.IO]
+[00:08:12] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 13 Kill Combo!
+[00:08:14] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Superboom TNT!
+[00:08:15] [Client thread/INFO]: [CHAT] Used Seismic Wave!
+[00:08:19] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (4)
+[00:08:19] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #2
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:08:19] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@50d29729, Dispatchers.IO]
+[00:08:19] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #3
+[00:08:19] [Client thread/INFO]: [CHAT] This ability is on cooldown for 111s.
+[00:08:19] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #3
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:08:20] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@22ec5abf, Dispatchers.IO]
+[00:08:20] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (2)
+[00:08:20] [Client thread/INFO]: [CHAT] This ability is on cooldown for 110s.
+[00:08:20] [Client thread/INFO]: [CHAT] ESSENCE! You found x10 Spider Essence!
+[00:08:20] [Client thread/INFO]: [CHAT] DUNGEON BUFF! SmoothHydra found a Blessing of Power II!
+[00:08:20] [Client thread/INFO]: [CHAT]      Granted you +10.6 & +1.05x ? Strength.
+[00:08:20] [Client thread/INFO]: [CHAT]      Also granted you +10.6 & +1.05x ? Crit Damage.
+[00:08:20] [Client thread/INFO]: [CHAT] You hear the sound of something opening...
+[00:08:20] [Client thread/INFO]: [CHAT] This lever has already been used.
+[00:08:27] [Client thread/INFO]: [CHAT] ESSENCE! JPGomdol found x10 Gold Essence!
+[00:08:30] [Client thread/INFO]: [CHAT] Your Mining Speed Boost has expired!
+[00:08:30] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #4
+[00:08:30] [Client thread/INFO]: [CHAT] Seismic Wave is now available!
+[00:08:31] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #4
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:08:31] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@22b5d736, Dispatchers.IO]
+[00:08:31] [Client thread/INFO]: [CHAT] This ability is on cooldown for 99s.
+[00:08:32] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Life II!
+[00:08:32] [Client thread/INFO]: [CHAT]      Granted you +1.08x HP and +1.08x ? Health Regen.
+[00:08:32] [Client thread/INFO]: [CHAT] rlatpdus56 has obtained Revive Stone!
+[00:08:32] [Client thread/INFO]: [CHAT] rlatpdus56 has obtained Blessing of Stone!
+[00:08:32] [Client thread/INFO]: [CHAT] DUNGEON BUFF! rlatpdus56 found a Blessing of Stone V! (02m 05s)
+[00:08:32] [Client thread/INFO]: [CHAT]      Granted you +26.4 & +1.13x ? Defense and +36 ? Damage.
+[00:08:36] [Client thread/INFO]: DungeonRooms: 576 raytrace vectors sent, returning 251 unique line-of-sight blocks, filtered down to 139 blocks, out of which 12 blocks were used to uniquely identify Flags-7.
+[00:08:44] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Miniploko found a Blessing of Life V!
+[00:08:44] [Client thread/INFO]: [CHAT]      Granted you +1.2x HP and +1.2x ? Health Regen.§7 (2)
+[00:08:45] [Client thread/INFO]: [CHAT] DUNGEON BUFF! SmoothHydra found a Blessing of Life I!
+[00:08:45] [Client thread/INFO]: [CHAT]      Granted you +1.04x HP and +1.04x ? Health Regen.
+[00:08:49] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (5)
+[00:08:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[00:08:54] [SkyblockAddons - #45/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:08:54] [SkyblockAddons - #45/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:08:55] [Client thread/INFO]: [CHAT] §9Party §8> §b[MVP§d+§b] Miniploko§f: 270 score
+[00:08:55] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Superboom TNT!§7 (2)
+[00:08:57] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage10.
+[00:08:57] [SkyblockAddons - #45/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:08:57] [SkyblockAddons - #45/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:09:03] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (6)
+[00:09:07] [Client thread/INFO]: [CHAT] Miniploko found a Wither Essence! Everyone gains an extra essence!
+[00:09:11] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 5 Kill Combo!
+[00:09:19] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (6)
+[00:09:31] [Client thread/INFO]: [CHAT] You have teleported to JPGomdol!
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:09:36] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@37d0b6d6, Dispatchers.IO]
+[00:09:40] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Wisdom II!
+[00:09:40] [Client thread/INFO]: [CHAT]      Granted you +10.6 & +1.05x ? Intelligence and +9.6 ? Speed.
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:09:40] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@4b6edaad, Dispatchers.IO]
+[00:09:40] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Superboom TNT!§7 (3)
+[00:09:49] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (7)
+[00:09:49] [Client thread/INFO]: [CHAT] This ability is on cooldown for 21s.
+[00:09:49] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #1
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:09:50] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@5a9e668a, Dispatchers.IO]
+[00:09:51] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Power I!
+[00:09:51] [Client thread/INFO]: [CHAT]      Granted you +5.3 & +1.03x ? Strength.
+[00:09:51] [Client thread/INFO]: [CHAT]      Also granted you +5.3 & +1.03x ? Crit Damage.
+[00:09:59] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (7)
+[00:10:00] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 42,000,000 Total Damage so far! 03m 33s
+[00:10:01] [Client thread/INFO]: [CHAT] +10 Kill Combo +10 coins per kill
+[00:10:07] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 12 Kill Combo!
+[00:10:07] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #5
+[00:10:07] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #5
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:10:08] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@264885d3, Dispatchers.IO]
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:10:08] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@15b4f6a8, Dispatchers.IO]
+[00:10:09] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Stone II!
+[00:10:09] [Client thread/INFO]: [CHAT]      Granted you +10.6 & +1.05x ? Defense and +14.4 ? Damage.
+[00:10:11] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:10:17] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #6
+[00:10:17] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #6
+[00:10:17] [Client thread/INFO]: [CHAT] This chest has already been searched!
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:10:17] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@64d5a751, Dispatchers.IO]
+[00:10:19] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (8)
+[00:10:21] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (8)
+[00:10:24] [Client thread/INFO]: [CHAT] ESSENCE! Miniploko found x10 Gold Essence!
+[00:10:29] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 6 Kill Combo!
+[00:10:38] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find§7 (9)
+[00:10:46] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 5 Kill Combo!
+[00:10:49] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (9)
+[00:11:03] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #7
+[00:11:03] [Client thread/INFO]: [CHAT] You used your Mining Speed Boost Pickaxe Ability!
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$1$1.invokeSuspend(DungeonListener.kt:153)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:11:03] [DefaultDispatcher-worker-11/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@e1188b0, Dispatchers.IO]
+[00:11:04] [Client thread/INFO]: [CHAT] DUNGEON BUFF! You found a Blessing of Stone I!
+[00:11:04] [Client thread/INFO]: [CHAT]      Granted you +5.3 & +1.03x ? Defense and +7.2 ? Damage.
+[00:11:14] [Client thread/INFO]: DungeonRooms: bloodDone has been set to True
+[00:11:19] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (10)
+[00:11:21] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Blessing of Life!
+[00:11:21] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Miniploko found a Blessing of Life V! (04m 54s)
+[00:11:21] [Client thread/INFO]: [CHAT]      Granted you +1.2x HP and +1.2x ? Health Regen.
+[00:11:21] [Client thread/INFO]: [CHAT] [MVP+] Miniploko has obtained Blessing of Power!
+[00:11:21] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Miniploko found a Blessing of Power V! (04m 54s)
+[00:11:21] [Client thread/INFO]: [CHAT]      Granted you +26.4 & +1.13x ? Strength.
+[00:11:21] [Client thread/INFO]: [CHAT]      Also granted you +26.4 & +1.13x ? Crit Damage.
+[00:11:23] [Client thread/INFO]: [CHAT] Your Mining Speed Boost has expired!
+[00:11:48] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 52,500,000 Total Damage so far! 05m 21s
+[00:11:50] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (11)
+[00:11:50] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find
+[00:11:56] [Client thread/INFO]: [CHAT] [Sacks] +2 items. (Last 6s.)
+[00:11:58] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 5 Kill Combo!
+[00:12:08] [Client thread/INFO]: [CHAT] §9Party §8> §7rlatpdus56§f: fuck
+[00:12:20] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (12)
+[00:12:30] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #6
+[00:12:30] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #6
+[00:12:30] [Client thread/INFO]: [CHAT] This chest has already been searched!
+[00:12:31] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (2)
+[00:12:31] [Client thread/INFO]: DungeonRooms: Detected chest click, turning off waypoint for secret #6
+[00:12:32] [Client thread/INFO]: [CHAT] This chest has already been searched!§7 (3)
+[00:12:43] [SkyblockAddons - #46/INFO]: [SkyblockAddons/ConfigValues] Saving config
+[00:12:43] [SkyblockAddons - #46/INFO]: [SkyblockAddons/ConfigValues] Config saved
+[00:12:50] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (13)
+[00:12:56] [Client thread/INFO]: [CHAT] §9Party §8> §b[MVP§d+§b] Miniploko§f: 300 score
+[00:12:57] [Client thread/INFO]: [CHAT] DUNGEON BUFF! Miniploko found a Blessing of Life V!
+[00:12:57] [Client thread/INFO]: [CHAT]      Granted you +1.2x HP and +1.2x ? Health Regen.
+[00:13:03] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:13:12] [Client thread/INFO]: DungeonRooms: gameStage set to 3
+[00:13:20] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (14)
+[00:13:34] [Client thread/INFO]: [CHAT] This ability is on cooldown for 30s.
+[00:13:34] [Client thread/INFO]: [CHAT] This ability is on cooldown for 30s.§7 (2)
+[00:13:34] [Client thread/INFO]: [CHAT] This ability is on cooldown for 30s.§7 (3)
+[00:13:35] [Client thread/INFO]: [CHAT] Tank Milestone ?: You have tanked and dealt 63,000,000 Total Damage so far! 07m 08s
+[00:13:46] [Client thread/INFO]: [CHAT] Hecatomb I on your Giant Reaper Mask ????? was upgraded to Hecatomb II!
+[00:13:46] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:13:46] [Client thread/INFO]: [CHAT]                          The Catacombs - Floor V
+[00:13:46] [Client thread/INFO]: [CHAT] 
+[00:13:46] [Client thread/INFO]: [CHAT]                            Team Score: 300 (S+)
+[00:13:46] [Client thread/INFO]: DungeonRooms: gameStage set to 4
+[00:13:46] [Client thread/INFO]: [CHAT]                        ? Defeated Livid in 07m 19s
+[00:13:46] [Client thread/INFO]: [CHAT] §f                             §6> §e§lEXTRA STATS §6<
+[00:13:46] [Client thread/INFO]: [CHAT]                      +12,493 Catacombs Experience
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:13:46] [Client thread/INFO]: [CHAT]                          +4,793.2 Tank Experience
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.listeners.DungeonListener$onPacket$3.invokeSuspend(DungeonListener.kt:167)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:13:46] [Client thread/INFO]: [CHAT]                +1,198.3 Mage Experience (Team Bonus)
+[00:13:46] [DefaultDispatcher-worker-5/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@25aead1e, Dispatchers.IO]
+[00:13:46] [Client thread/INFO]: [CHAT]               +1,198.3 Archer Experience (Team Bonus)
+[00:13:46] [Client thread/INFO]: [CHAT]              +1,235.9 Berserk Experience (Team Bonus)
+[00:13:46] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:13:46] [Client thread/INFO]: [CHAT] §c? §lDeaths:§r 0
+
+[00:13:48] [Client thread/INFO]: [CHAT] 
+[00:13:48] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:13:48] [Client thread/INFO]: [CHAT]       §6§lCLICK HERE §bto re-queue into §a§aThe Catacombs!
+[00:13:48] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:13:48] [Client thread/INFO]: [CHAT] 
+[00:13:50] [Client thread/INFO]: [CHAT] Castle of Stone is ready to use! Press DROP to activate it!§7 (15)
+[00:13:57] [Client thread/INFO]: [CHAT] §9Party §8> §7rlatpdus56§f: fuck
+[00:13:58] [Client thread/INFO]: [CHAT] rlatpdus56 unlocked Wither Essence x38!
+[00:13:58] [Client thread/INFO]: [CHAT] rlatpdus56 unlocked Undead Essence x45!
+[00:13:58] [Client thread/INFO]: [CHAT]  §9§l» §7rlatpdus56 §eis traveling to §aHub §e§lFOLLOW
+[00:14:01] [Client thread/INFO]: [CHAT] Warping...
+[00:14:01] [Client thread/INFO]: [CHAT] Sending to server mini184B...
+[00:14:01] [Client thread/INFO]: [CHAT]        
+[00:14:01] [Netty Client IO #18/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:01] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini184B', serverType='SKYBLOCK', lobbyName='null', mode='dungeon_hub', map='Dungeon Hub'} VersionedPacket{version=1}
+[00:14:04] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:14:04] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:14:05] [Client thread/INFO]: [CHAT]  §9§l» §bMiniploko §eis traveling to §aDungeon Hub §e§lFOLLOW
+[00:14:12] [Client thread/INFO]: [CHAT] §9Party §8> §7rlatpdus56§f: again
+[00:14:14] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:14:14] [Client thread/INFO]: [CHAT] JPGomdol has left the party.
+[00:14:14] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:14:17] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aDungeon Hub §e§lFOLLOW
+[00:14:17] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:14:17] [Client thread/INFO]: [CHAT] You left the party.
+[00:14:17] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:14:18] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:14:18] [Client thread/INFO]: [CHAT] The party was transferred to [VIP+] SmoothHydra because 16thGarden left
+[00:14:18] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:15:02] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:15:53] [Client thread/INFO]: [CHAT] [51] §788S_S§7: i cant call
+[00:16:00] [Client thread/INFO]: [CHAT] [51] §788S_S§7: and play
+[00:19:02] [Client thread/INFO]: [CHAT] [298] ? §a[VIP] franer56§f: do u have
+[00:26:38] [Client thread/INFO]: [CHAT] God Potion expires in 30 Minutes
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: HttpStatusCodeException(url=https://api.mojang.com/users/profiles/minecraft/jpgomol?, statusCode=404, serverMessage={
+  "path" : "/users/profiles/minecraft/jpgomol",
+  "errorMessage" : "Couldn't find any profile with name jpgomol"
+})
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:27:44] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:27:44] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: HttpStatusCodeException(url=https://api.mojang.com/users/profiles/minecraft/jpgomol?, statusCode=404, serverMessage={
+  "path" : "/users/profiles/minecraft/jpgomol",
+  "errorMessage" : "Couldn't find any profile with name jpgomol"
+})
+[00:27:44] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:254)
+[00:27:44] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$443/1918848564.apply(Unknown Source)
+[00:27:44] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:27:44] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:29:06] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[00:30:37] [Client thread/INFO]: [CHAT] RARE REWARD! NicNack09 found a Recombobulator 3000 in their Obsidian Chest!
+[00:30:42] [Client thread/INFO]: [CHAT] RARE REWARD! NicNack09 found a Spirit Wing in their Obsidian Chest!
+[00:30:45] [Client thread/INFO]: [CHAT] RARE REWARD! NicNack09 found a Spirit Wing in their Obsidian Chest!§7 (2)
+[00:30:46] [Client thread/INFO]: [CHAT] Warping using transfer token...
+[00:30:46] [Client thread/INFO]: [CHAT] Couldn't warp you! Try again later. (WRONG_TOKEN)
+[00:30:49] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:30:49] [Client thread/INFO]: [CHAT] You are not currently in a party.
+[00:30:49] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:30:50] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§bCrockWithAGlock §eis in SkyBlock - Private Island
+§7JPGomdol §eis in SkyBlock - Private Island
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:30:52] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[00:30:53] [Client thread/INFO]: [CHAT] Sending to server mini146AK...
+[00:30:53] [Netty Client IO #18/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:30:53] [Client thread/INFO]: [CHAT]        
+[00:30:53] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini146AK', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:30:54] [Client thread/INFO]: [CHAT] §7JPGomdol §ahas sent you a trade request. §bClick here §ato accept!
+[00:30:56] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:30:56] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:31:04] [Client thread/INFO]: [CHAT] The /trade request from JPGomdol expired!
+[00:31:06] [Client thread/INFO]: [CHAT] §7JPGomdol §ahas sent you a trade request. §bClick here §ato accept!
+[00:31:10] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:31:10] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:31:10] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:31:11] [Client thread/INFO]: [CHAT] This ability is on cooldown for 43s.
+[00:31:29] [Client thread/INFO]: [CHAT] Trade completed with JPGomdol!
+[00:31:29] [Client thread/INFO]: [CHAT]  + 1x Ancient Diamond Livid Head ??????
+[00:31:29] [Client thread/INFO]: [CHAT]  + 11x Young Dragon Fragment
+[00:31:33] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage10.
+[00:31:33] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:31:33] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:31:36] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[00:31:36] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:31:36] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:31:53] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:32:13] [pool-10-thread-3/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$443/1918848564.apply(Unknown Source)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:32:13] [pool-10-thread-3/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:32:17] [Client thread/INFO]: [CHAT] Friend > JPGomdol left.
+[00:32:25] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:32:25] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:32:25] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:33:13] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$443/1918848564.apply(Unknown Source)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:33:13] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:36:20] [Client thread/ERROR]: Signature is missing from textures payload
+[00:37:54] [Client thread/ERROR]: Signature is missing from textures payload
+[00:42:17] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§bCrockWithAGlock §eis in SkyBlock - Private Island
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:48:22] [Client thread/INFO]: [CHAT] Warping...
+[00:48:23] [Client thread/INFO]: [CHAT] Sending to server mini28DC...
+[00:48:23] [Netty Client IO #18/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:48:23] [Client thread/INFO]: [CHAT]        
+[00:48:23] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini28DC', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:48:25] [Client thread/INFO]: [CHAT] §6§lGROSS! §7While you were offline, §6Pests §7spawned in §aPlots §b13§7, §b11§7 and §b23§7!
+[00:48:25] [Client thread/INFO]: [CHAT] Click on a plots name in chat to teleport to it!
+[00:48:26] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:48:26] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:49:23] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:49:41] [Client thread/INFO]: [CHAT] §e[NPC] §aFarmhand§f: §fI took a break from work for too long! Now I need your help to meet my quota!
+[00:49:59] [Client thread/INFO]: [CHAT] Picked up 8 Compost!
+[00:50:12] [Client thread/INFO]: [CHAT] [Sacks] +8 items. (Last 5s.)
+[00:50:18] [Client thread/INFO]: [CHAT] Inserted 20,480 Organic Matter from your inventory!
+[00:50:20] [Client thread/INFO]: [CHAT] [Sacks] -128 items. (Last 5s.)
+[00:50:31] [Client thread/INFO]: [CHAT] Inserted 16,640 Organic Matter from your inventory!
+[00:50:33] [Client thread/INFO]: [CHAT] [Sacks] -192 items. (Last 6s.)
+[00:50:41] [Client thread/INFO]: [CHAT] [Sacks] +88 items. (Last 5s.)
+[00:52:38] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:52:38] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Enchanted Golden Carrot for 306,858 coins!
+[00:52:40] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Farmhand (UNCOMMON)
+[00:52:40] [Client thread/INFO]: [CHAT] 
+[00:52:40] [Client thread/INFO]: [CHAT]   REWARDS
+[00:52:40] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[00:52:40] [Client thread/INFO]: [CHAT]     +17k Farming XP
+[00:52:40] [Client thread/INFO]: [CHAT]     +17 Copper
+[00:52:40] [Client thread/INFO]: [CHAT] 
+[00:52:40] [Client thread/INFO]: [CHAT] §e[NPC] §aFarmhand§f: §fExactly what I needed. I think I will take the remainder of the day off.
+[00:52:44] [Client thread/INFO]: [CHAT] Lumber Jack has arrived on your Garden!
+[00:52:46] [Client thread/INFO]: [CHAT] §e[NPC] §9Seymour§f: §fWanting to buy something from me? I got some pretty fancy tuxedos for sale, for a price of a small fortune.
+[00:53:01] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[00:53:01] [Client thread/INFO]: [CHAT] [Bazaar] Bought 193x Enchanted Pumpkin for 313,162 coins!
+[00:53:02] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Seymour (RARE)
+[00:53:02] [Client thread/INFO]: [CHAT] 
+[00:53:02] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[00:53:02] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[00:53:02] [Client thread/INFO]: [CHAT]     +8.3k Farming XP
+[00:53:02] [Client thread/INFO]: [CHAT]     +47 Copper
+[00:53:02] [Client thread/INFO]: [CHAT]     §7§9Velvet Top Hat
+[00:53:02] [Client thread/INFO]: [CHAT] 
+[00:53:02] [Client thread/INFO]: [CHAT] §e[NPC] §9Seymour§f: §fWow, don't you look dashing with that! Pleasure doing business with you.
+[00:53:09] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[00:53:09] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:53:09] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:53:09] [Client thread/INFO]: [CHAT] §e[NPC] §aRyu§f: §fDid you know that there is a Garden Level? Increase it by hitting milestones or selling to customers like me!
+[00:53:21] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[00:53:21] [Client thread/INFO]: [CHAT] [Bazaar] Bought 384x Enchanted Sugar for 298,997 coins!
+[00:53:22] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Ryu (UNCOMMON)
+[00:53:22] [Client thread/INFO]: [CHAT] 
+[00:53:22] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[00:53:22] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[00:53:22] [Client thread/INFO]: [CHAT]     +6.1k Farming XP
+[00:53:22] [Client thread/INFO]: [CHAT]     +20 Copper
+[00:53:22] [Client thread/INFO]: [CHAT] 
+[00:53:22] [Client thread/INFO]: [CHAT] §e[NPC] §aRyu§f: §fGood trade!
+[00:53:27] [Client thread/INFO]: [CHAT] §e[NPC] §aEmissary Wilson§f: §fThe King's least favorite vegetable is carrot, so he sent me, his favorite emissary, to make it better!
+[00:55:22] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:55:22] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Enchanted Golden Carrot for 306,858 coins!
+[00:55:23] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Emissary Wilson (UNCOMMON)
+[00:55:23] [Client thread/INFO]: [CHAT] 
+[00:55:23] [Client thread/INFO]: [CHAT]   REWARDS
+[00:55:23] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[00:55:23] [Client thread/INFO]: [CHAT]     +16k Farming XP
+[00:55:23] [Client thread/INFO]: [CHAT]     +15 Copper
+[00:55:23] [Client thread/INFO]: [CHAT]     §7§8+§d1,091 Gemstone Powder
+[00:55:23] [Client thread/INFO]: [CHAT] 
+[00:55:23] [Client thread/INFO]: [CHAT] §e[NPC] §aEmissary Wilson§f: §fI'm sure that by giving him his least favorite vegetable, he'll make me his favoritest emissary!
+[00:55:29] [Client thread/INFO]: [CHAT] §e[NPC] §aOdawa§f: §fI'm supposed to collect some food for the village, the Kalhuiki people have been through a tough time recently.
+[00:55:42] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[00:55:42] [Client thread/INFO]: [CHAT] [Bazaar] Bought 552x Enchanted Melon for 175,536 coins!
+[00:55:43] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Odawa (UNCOMMON)
+[00:55:43] [Client thread/INFO]: [CHAT] 
+[00:55:43] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[00:55:43] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[00:55:43] [Client thread/INFO]: [CHAT]     +1.9k Farming XP
+[00:55:43] [Client thread/INFO]: [CHAT]     +14 Copper
+[00:55:43] [Client thread/INFO]: [CHAT]     §7§5Jungle Key
+[00:55:43] [Client thread/INFO]: [CHAT] 
+[00:55:43] [Client thread/INFO]: [CHAT] §e[NPC] §aOdawa§f: §fPerfect! I'll share the good news with my village!
+[00:55:48] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:55:48] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:55:48] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:55:50] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:55:50] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:55:50] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:55:50] [Client thread/INFO]: [CHAT] §e[NPC] §aLumber Jack§f: §fMy assistant is feeling off, and I think we could do with a hearty meal. Do you think you can help us out?
+[00:56:01] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[00:56:01] [Client thread/INFO]: [CHAT] [Bazaar] Bought 538x Enchanted Melon for 171,084 coins!
+[00:56:02] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:56:02] [Client thread/INFO]: [CHAT]   §b§lGARDEN MILESTONE §3Unique Visitors Served §84?§35
+[00:56:02] [Client thread/INFO]: [CHAT] 
+[00:56:02] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[00:56:02] [Client thread/INFO]: [CHAT]     +150 Garden Experience
+[00:56:02] [Client thread/INFO]: [CHAT]     +4,000 Farming Experience
+[00:56:02] [Client thread/INFO]: [CHAT]     +3 SkyBlock XP
+[00:56:02] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:56:02] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Lumber Jack (UNCOMMON)
+[00:56:02] [Client thread/INFO]: [CHAT] 
+[00:56:02] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[00:56:02] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[00:56:02] [Client thread/INFO]: [CHAT]     +1.9k Farming XP§7 (2)
+[00:56:02] [Client thread/INFO]: [CHAT]     +14 Copper§7 (2)
+[00:56:02] [Client thread/INFO]: [CHAT] 
+[00:56:02] [Client thread/INFO]: [CHAT] §e[NPC] §aLumber Jack§f: §fThank you! I'm sure this will make him feel better.
+[00:56:37] [Client thread/ERROR]: Signature is missing from textures payload
+[00:57:56] [Client thread/ERROR]: Signature is missing from textures payload
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[01:00:51] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$443/1918848564.apply(Unknown Source)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[01:00:51] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[01:03:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:03:54] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:03:54] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:04:01] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:04:01] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:04:01] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:04:04] [Client thread/INFO]: [CHAT] §eYou received §a4x Enchanted Melon §efor killing an §6Earthworm§e!
+[01:04:10] [Client thread/INFO]: [CHAT] [Sacks] +4 items. (Last 5s.)
+[01:04:11] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:04:11] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:04:11] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:04:15] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:04:15] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:04:15] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:07:44] [Client thread/INFO]: [CHAT] Rusty has arrived on your Garden!
+[01:08:08] [Client thread/INFO]: [CHAT] §e[NPC] §9Rusty§f: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their §aEnchanted Pumpkin§f. Can you find that for me?
+[01:08:22] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:08:22] [Client thread/INFO]: [CHAT] [Bazaar] Bought 211x Enchanted Pumpkin for 342,390 coins!
+[01:08:23] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Rusty (RARE)
+[01:08:23] [Client thread/INFO]: [CHAT] 
+[01:08:23] [Client thread/INFO]: [CHAT]   REWARDS
+[01:08:23] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[01:08:23] [Client thread/INFO]: [CHAT]     +9.1k Farming XP
+[01:08:23] [Client thread/INFO]: [CHAT]     +52 Copper
+[01:08:23] [Client thread/INFO]: [CHAT]     §7§fIron Hoe
+[01:08:23] [Client thread/INFO]: [CHAT] 
+[01:08:23] [Client thread/INFO]: [CHAT] §e[NPC] §9Rusty§f: §fThere we go, a job well done. I'll make sure to leave a good review for you!
+[01:08:33] [Client thread/INFO]: [CHAT] You sold Iron Hoe x1 for 3 Coins!
+[01:12:31] [Client thread/INFO]: [CHAT] Cannot use this item here!
+[01:12:32] [Client thread/INFO]: [CHAT] Cannot use this item here!§7 (2)
+[01:13:13] [Client thread/INFO]: [CHAT] God Potion expires in 60s
+[01:14:04] [Client thread/INFO]: [CHAT] God Potion expires in 10s
+[01:14:09] [Client thread/INFO]: [CHAT] God Potion expires in 5s
+[01:14:10] [Client thread/INFO]: [CHAT] God Potion expires in 4s
+[01:14:11] [Client thread/INFO]: [CHAT] God Potion expires in 3s
+[01:14:12] [Client thread/INFO]: [CHAT] God Potion expires in 2s
+[01:14:13] [Client thread/INFO]: [CHAT] God Potion expires in 1s
+[01:14:14] [Client thread/INFO]: [CHAT] God Potion has expired!
+[01:14:17] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage5.
+[01:14:17] [SkyblockAddons - #51/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:14:17] [SkyblockAddons - #51/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:14:20] [Client thread/INFO]: [CHAT] SIP! The God Potion grants you powers for 28h 48m!
+[01:15:04] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[01:15:06] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §aAnita's Ring §fis giving you §6+15? Pumpkin Fortune §fduring the contest!
+[01:21:39] [Client thread/INFO]: [CHAT] Picked up 3 Compost!
+[01:21:51] [Client thread/INFO]: [CHAT] [Sacks] +3 items. (Last 5s.)
+[01:22:45] [Client thread/INFO]: [CHAT] Jerry has arrived on your Garden!
+[01:30:32] [Client thread/INFO]: [CHAT] Picked up 1 Compost!
+[01:30:42] [Client thread/INFO]: [CHAT] [Sacks] +1 item. (Last 5s.)
+[01:31:54] [Client thread/INFO]: [CHAT] §e[NPC] §6Jerry§f: Hello §716thGarden§f. Glad to meet you here. I need some §aEnchanted Golden Carrot§f.
+[01:32:07] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:32:07] [Client thread/INFO]: [CHAT] [Bazaar] Bought 18x Enchanted Golden Carrot for 1,380,820 coins!
+[01:32:10] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Jerry (LEGENDARY)
+[01:32:10] [Client thread/INFO]: [CHAT] 
+[01:32:10] [Client thread/INFO]: [CHAT]   REWARDS
+[01:32:10] [Client thread/INFO]: [CHAT]     +75 Garden Experience
+[01:32:10] [Client thread/INFO]: [CHAT]     +109k Farming XP
+[01:32:10] [Client thread/INFO]: [CHAT]     +339 Copper
+[01:32:10] [Client thread/INFO]: [CHAT] 
+[01:32:10] [Client thread/INFO]: [CHAT] §e[NPC] §6Jerry§f: §fThis is not my realm. I must return. Thank you.
+[01:37:05] [Client thread/INFO]: [CHAT] Teleported you to Plot - 15!
+[01:37:23] [Client thread/INFO]: [CHAT] Started pasting void preset on Garden Plot - 15!
+[01:37:23] [Client thread/INFO]: [CHAT] Remember, you have to be on the island for the resources to be planted!
+[01:37:23] [Client thread/INFO]: [CHAT] WARNING! Blocks that you break on this plot will not drop items while using a custom preset!
+[01:37:45] [Client thread/INFO]: [CHAT] Shifty has arrived on your Garden!
+[01:38:19] [Client thread/INFO]: [CHAT] A preset has been loaded recently, you need to wait a minute before loading another preset!
+[01:38:41] [Client thread/INFO]: [CHAT] Started pasting void preset on Garden Plot - 5!
+[01:38:41] [Client thread/INFO]: [CHAT] Remember, you have to be on the island for the resources to be planted!
+[01:38:41] [Client thread/INFO]: [CHAT] WARNING! Blocks that you break on this plot will not drop items while using a custom preset!
+[01:39:52] [Client thread/INFO]: [CHAT] Started pasting void preset on Garden Plot - 10!
+[01:39:52] [Client thread/INFO]: [CHAT] Remember, you have to be on the island for the resources to be planted!
+[01:39:52] [Client thread/INFO]: [CHAT] WARNING! Blocks that you break on this plot will not drop items while using a custom preset!
+[01:52:45] [Client thread/INFO]: [CHAT] Terry has arrived on your Garden!
+[01:54:14] [Client thread/ERROR]: Signature is missing from textures payload
+[01:54:14] [Client thread/ERROR]: Signature is missing from textures payload
+[01:54:15] [Netty Client IO #18/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[01:54:15] [Client thread/INFO]: Applying holder lookups
+[01:54:15] [Client thread/INFO]: Holder lookups applied
+[01:54:16] [Netty Client IO #21/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skytils] at SERVER
+[01:54:35] [DefaultDispatcher-worker-6/WARN]: Failed to fetch https://crafthead.net/helm/dc0548c72c22450e91f52a17cfde2a12: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy57.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$473/1733697926.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$479/1146102380.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[02:15:03] [Client thread/ERROR]: Signature is missing from textures payload
+[02:15:03] [Client thread/ERROR]: Signature is missing from textures payload
+[02:15:03] [Client thread/INFO]: Stopping!
+[02:15:03] [Client thread/INFO]: SoundSystem shutting down...
+[02:15:03] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

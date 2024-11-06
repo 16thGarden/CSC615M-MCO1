@@ -1,0 +1,211 @@
+[00:08:24] [Render thread/INFO]: Stopping worker threads
+[00:08:24] [Render thread/INFO]: Started 6 worker threads
+[00:08:25] [Render thread/INFO]: Stopping worker threads
+[00:08:25] [Render thread/INFO]: Started 6 worker threads
+[00:09:08] [Render thread/INFO]: Stopping worker threads
+[00:09:09] [Render thread/INFO]: Started 6 worker threads
+[00:09:09] [Render thread/INFO]: Stopping worker threads
+[00:09:09] [Render thread/INFO]: Started 6 worker threads
+[01:02:23] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[01:02:28] [Render thread/INFO]: Stopping worker threads
+[01:02:28] [Render thread/INFO]: Started 6 worker threads
+[01:02:28] [Render thread/INFO]: Stopping worker threads
+[01:02:28] [Render thread/INFO]: Started 6 worker threads
+[01:02:52] [Render thread/INFO]: Stopping worker threads
+[01:02:52] [Render thread/INFO]: Started 6 worker threads
+[01:02:52] [Render thread/INFO]: Stopping worker threads
+[01:02:52] [Render thread/INFO]: Started 6 worker threads
+[01:04:42] [Render thread/INFO]: Stopping worker threads
+[01:04:42] [Render thread/INFO]: Started 6 worker threads
+[01:04:42] [Render thread/INFO]: Stopping worker threads
+[01:04:42] [Render thread/INFO]: Started 6 worker threads
+[01:05:03] [Render thread/INFO]: Stopping worker threads
+[01:05:03] [Render thread/INFO]: Started 6 worker threads
+[01:05:03] [Render thread/INFO]: Stopping worker threads
+[01:05:03] [Render thread/INFO]: Started 6 worker threads
+[01:05:07] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[01:23:11] [Render thread/INFO]: Loaded 868 advancements
+[01:49:10] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[01:50:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-66, y=13, z=-2} class_2338{x=-65, y=12, z=-2}
+[02:01:15] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:12:06] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:17:44] [Render thread/INFO]: Stopping worker threads
+[02:17:44] [Render thread/INFO]: Started 6 worker threads
+[02:17:44] [Render thread/INFO]: Stopping worker threads
+[02:17:44] [Render thread/INFO]: Started 6 worker threads
+[02:18:25] [Render thread/INFO]: Stopping worker threads
+[02:18:25] [Render thread/INFO]: Started 6 worker threads
+[02:18:25] [Render thread/INFO]: Stopping worker threads
+[02:18:25] [Render thread/INFO]: Started 6 worker threads
+[02:18:56] [Render thread/INFO]: Stopping worker threads
+[02:18:56] [Render thread/INFO]: Started 6 worker threads
+[02:18:56] [Render thread/INFO]: Stopping worker threads
+[02:18:56] [Render thread/INFO]: Started 6 worker threads
+[02:19:25] [Render thread/INFO]: Stopping worker threads
+[02:19:25] [Render thread/INFO]: Started 6 worker threads
+[02:19:25] [Render thread/INFO]: Stopping worker threads
+[02:19:25] [Render thread/INFO]: Started 6 worker threads
+[02:20:03] [Render thread/INFO]: Stopping worker threads
+[02:20:03] [Render thread/INFO]: Started 6 worker threads
+[02:20:03] [Render thread/INFO]: Stopping worker threads
+[02:20:03] [Render thread/INFO]: Started 6 worker threads
+[02:20:33] [Render thread/INFO]: Stopping worker threads
+[02:20:33] [Render thread/INFO]: Started 6 worker threads
+[02:20:33] [Render thread/INFO]: Stopping worker threads
+[02:20:33] [Render thread/INFO]: Started 6 worker threads
+[02:20:59] [Render thread/INFO]: Loaded 869 advancements
+[02:25:04] [Render thread/INFO]: Stopping worker threads
+[02:25:04] [Render thread/INFO]: Started 6 worker threads
+[02:25:04] [Render thread/INFO]: Stopping worker threads
+[02:25:04] [Render thread/INFO]: Started 6 worker threads
+[02:25:19] [Render thread/WARN]: Received passengers for unknown entity
+[02:25:33] [Render thread/INFO]: Stopping worker threads
+[02:25:33] [Render thread/INFO]: Started 6 worker threads
+[02:25:33] [Render thread/INFO]: Stopping worker threads
+[02:25:33] [Render thread/INFO]: Started 6 worker threads
+[02:25:47] [Render thread/INFO]: Stopping worker threads
+[02:25:47] [Render thread/INFO]: Started 6 worker threads
+[02:25:47] [Render thread/INFO]: Stopping worker threads
+[02:25:47] [Render thread/INFO]: Started 6 worker threads
+[02:26:14] [Render thread/INFO]: Stopping worker threads
+[02:26:14] [Render thread/INFO]: Started 6 worker threads
+[02:26:14] [Render thread/INFO]: Stopping worker threads
+[02:26:14] [Render thread/INFO]: Started 6 worker threads
+[02:34:34] [Render thread/INFO]: Stopping worker threads
+[02:34:34] [Render thread/INFO]: Started 6 worker threads
+[02:34:34] [Render thread/INFO]: Stopping worker threads
+[02:34:34] [Render thread/INFO]: Started 6 worker threads
+[02:35:03] [Render thread/INFO]: Stopping worker threads
+[02:35:03] [Render thread/INFO]: Started 6 worker threads
+[02:35:03] [Render thread/INFO]: Stopping worker threads
+[02:35:03] [Render thread/INFO]: Started 6 worker threads
+[02:35:42] [Render thread/INFO]: Stopping worker threads
+[02:35:42] [Render thread/INFO]: Started 6 worker threads
+[02:35:42] [Render thread/INFO]: Stopping worker threads
+[02:35:42] [Render thread/INFO]: Started 6 worker threads
+[02:36:15] [Render thread/INFO]: Stopping worker threads
+[02:36:15] [Render thread/INFO]: Started 6 worker threads
+[02:36:15] [Render thread/INFO]: Stopping worker threads
+[02:36:15] [Render thread/INFO]: Started 6 worker threads
+[02:52:34] [Server thread/INFO]: [16thGarden: Gave 1 [Wither Skeleton Skull] to 16thGarden]
+[02:52:34] [Render thread/INFO]: [System] [CHAT] Gave 1 [Wither Skeleton Skull] to 16thGarden
+[02:54:01] [Server thread/INFO]: [16thGarden: Gave 1 [Soul Sand] to 16thGarden]
+[02:54:01] [Render thread/INFO]: [System] [CHAT] Gave 1 [Soul Sand] to 16thGarden
+[02:55:26] [Render thread/INFO]: Stopping worker threads
+[02:55:26] [Render thread/INFO]: Started 6 worker threads
+[02:55:26] [Render thread/INFO]: Stopping worker threads
+[02:55:26] [Render thread/INFO]: Started 6 worker threads
+[02:56:31] [Render thread/INFO]: Stopping worker threads
+[02:56:31] [Render thread/INFO]: Started 6 worker threads
+[02:56:31] [Render thread/INFO]: Stopping worker threads
+[02:56:31] [Render thread/INFO]: Started 6 worker threads
+[02:57:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3890, y=61, z=-109} class_2338{x=-3885, y=61, z=-109}
+[03:22:20] [Render thread/INFO]: Stopping worker threads
+[03:22:20] [Render thread/INFO]: Started 6 worker threads
+[03:22:20] [Render thread/INFO]: Stopping worker threads
+[03:22:21] [Render thread/INFO]: Started 6 worker threads
+[03:22:35] [Render thread/WARN]: Received passengers for unknown entity
+[03:23:09] [Render thread/WARN]: Received passengers for unknown entity
+[03:23:50] [Render thread/INFO]: Stopping worker threads
+[03:23:50] [Render thread/INFO]: Started 6 worker threads
+[03:23:50] [Render thread/INFO]: Stopping worker threads
+[03:23:50] [Render thread/INFO]: Started 6 worker threads
+[03:28:23] [Render thread/INFO]: Stopping worker threads
+[03:28:23] [Render thread/INFO]: Started 6 worker threads
+[03:28:23] [Render thread/INFO]: Stopping worker threads
+[03:28:23] [Render thread/INFO]: Started 6 worker threads
+[03:28:38] [Render thread/WARN]: Received passengers for unknown entity
+[03:28:50] [Render thread/INFO]: Stopping worker threads
+[03:28:50] [Render thread/INFO]: Started 6 worker threads
+[03:28:50] [Render thread/INFO]: Stopping worker threads
+[03:28:50] [Render thread/INFO]: Started 6 worker threads
+[03:29:30] [Render thread/INFO]: Stopping worker threads
+[03:29:30] [Render thread/INFO]: Started 6 worker threads
+[03:29:30] [Render thread/INFO]: Stopping worker threads
+[03:29:30] [Render thread/INFO]: Started 6 worker threads
+[03:29:56] [Render thread/INFO]: Stopping worker threads
+[03:29:56] [Render thread/INFO]: Started 6 worker threads
+[03:29:56] [Render thread/INFO]: Stopping worker threads
+[03:29:56] [Render thread/INFO]: Started 6 worker threads
+[03:40:08] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[03:42:07] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[03:46:28] [Render thread/INFO]: Stopping worker threads
+[03:46:28] [Render thread/INFO]: Started 6 worker threads
+[03:46:28] [Render thread/INFO]: Stopping worker threads
+[03:46:28] [Render thread/INFO]: Started 6 worker threads
+[03:46:43] [Render thread/WARN]: Received passengers for unknown entity
+[03:46:57] [Render thread/INFO]: Stopping worker threads
+[03:46:57] [Render thread/INFO]: Started 6 worker threads
+[03:46:57] [Render thread/INFO]: Stopping worker threads
+[03:46:57] [Render thread/INFO]: Started 6 worker threads
+[03:49:57] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[03:50:30] [Render thread/INFO]: Stopping worker threads
+[03:50:30] [Render thread/INFO]: Started 6 worker threads
+[03:50:30] [Render thread/INFO]: Stopping worker threads
+[03:50:30] [Render thread/INFO]: Started 6 worker threads
+[03:50:47] [Render thread/WARN]: Received passengers for unknown entity
+[03:50:57] [Render thread/INFO]: Stopping worker threads
+[03:50:57] [Render thread/INFO]: Started 6 worker threads
+[03:50:57] [Render thread/INFO]: Stopping worker threads
+[03:50:57] [Render thread/INFO]: Started 6 worker threads
+[03:51:12] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[03:51:14] [Server thread/INFO]: 16thGarden has made the advancement [Tactical Fishing]
+[03:51:14] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Tactical Fishing]
+[03:51:14] [Render thread/INFO]: Loaded 869 advancements
+[03:51:16] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[03:52:58] [Render thread/INFO]: Stopping worker threads
+[03:52:58] [Render thread/INFO]: Started 6 worker threads
+[03:52:58] [Render thread/INFO]: Stopping worker threads
+[03:52:58] [Render thread/INFO]: Started 6 worker threads
+[03:53:08] [Render thread/WARN]: Received passengers for unknown entity
+[03:53:21] [Render thread/INFO]: Stopping worker threads
+[03:53:21] [Render thread/INFO]: Started 6 worker threads
+[03:53:21] [Render thread/INFO]: Stopping worker threads
+[03:53:21] [Render thread/INFO]: Started 6 worker threads
+[03:53:37] [Server thread/INFO]: 16thGarden has made the advancement [The Parrots and the Bats]
+[03:53:37] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [The Parrots and the Bats]
+[03:53:37] [Render thread/INFO]: Loaded 869 advancements
+[03:58:44] [Server thread/WARN]: 16thGarden moved wrongly!
+[03:58:45] [Server thread/WARN]: 16thGarden moved wrongly!
+[03:58:45] [Server thread/WARN]: 16thGarden moved wrongly!
+[03:58:45] [Server thread/WARN]: 16thGarden moved wrongly!
+[03:58:46] [Server thread/WARN]: 16thGarden moved wrongly!
+[03:58:46] [Server thread/WARN]: 16thGarden moved wrongly!
+[03:58:57] [Render thread/INFO]: Loaded 872 advancements
+[04:13:56] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[04:16:12] [Render thread/INFO]: Stopping worker threads
+[04:16:12] [Render thread/INFO]: Started 6 worker threads
+[04:16:12] [Render thread/INFO]: Stopping worker threads
+[04:16:12] [Render thread/INFO]: Started 6 worker threads
+[04:16:27] [Render thread/WARN]: Received passengers for unknown entity
+[04:16:40] [Render thread/INFO]: Stopping worker threads
+[04:16:40] [Render thread/INFO]: Started 6 worker threads
+[04:16:40] [Render thread/INFO]: Stopping worker threads
+[04:16:40] [Render thread/INFO]: Started 6 worker threads
+[04:17:37] [Render thread/INFO]: Stopping worker threads
+[04:17:37] [Render thread/INFO]: Started 6 worker threads
+[04:17:37] [Render thread/INFO]: Stopping worker threads
+[04:17:37] [Render thread/INFO]: Started 6 worker threads
+[04:17:39] [Render thread/WARN]: Received passengers for unknown entity
+[04:18:00] [Render thread/INFO]: Stopping worker threads
+[04:18:00] [Render thread/INFO]: Started 6 worker threads
+[04:18:00] [Render thread/INFO]: Stopping worker threads
+[04:18:00] [Render thread/INFO]: Started 6 worker threads
+[04:22:10] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[04:33:27] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:33:28] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[04:33:28] [Server thread/INFO]: 16thGarden left the game
+[04:33:28] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[04:33:28] [Server thread/INFO]: Stopping server
+[04:33:28] [Server thread/INFO]: Saving players
+[04:33:28] [Server thread/INFO]: Saving worlds
+[04:33:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:33:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:33:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[04:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:33:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:33:28] [Render thread/INFO]: Stopping worker threads
+[04:33:29] [Render thread/INFO]: Stopping!
+[04:33:29] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

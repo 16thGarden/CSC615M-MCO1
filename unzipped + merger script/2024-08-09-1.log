@@ -1,0 +1,1574 @@
+[00:00:14] [Client thread/INFO]: [CHAT] 
+[00:00:14] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:00:14] [Client thread/INFO]: [CHAT] Watchdog has banned 18,225 players in the last 7 days.
+[00:00:14] [Client thread/INFO]: [CHAT] Staff have banned an additional 18,073 in the last 7 days.
+[00:00:14] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:00:14] [Client thread/INFO]: [CHAT] 
+[00:01:23] [Client thread/INFO]: [CHAT] Guild > UltimateOP left.
+[00:01:44] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.
+[00:01:45] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (2)
+[00:01:47] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (3)
+[00:01:48] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (4)
+[00:01:49] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (5)
+[00:01:50] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[00:01:51] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[00:01:52] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[00:01:53] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[00:05:54] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[00:05:55] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[00:05:56] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[00:05:57] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[00:05:58] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (5)
+[00:07:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Scribbler §3[EGG]§f:   SKILL LEVEL UP Fishing XLIX?L
+[00:07:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§5+§b] SoutifDeLuxe §3[MOD]§f: gg
+[00:08:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: ggs
+[00:08:23] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:08:23] [Client thread/INFO]: [CHAT] [MVP+] Scribbler was promoted from Hydra Eggs to Hydra Hatchling
+[00:08:23] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:09:18] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §aBuy Order §efor §a1,728§7x §9Enchanted Mithril §ewas filled!
+[00:10:01] [Netty Client IO #22/ERROR]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:10:01] [Netty Client IO #22/ERROR]: Network Exception Caught
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:10:01] [Netty Client IO #22/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:10:01] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:10:01] [Client thread/INFO]: Applying holder lookups
+[00:10:01] [Client thread/INFO]: Holder lookups applied
+[00:10:16] [WebSocketConnectReadThread-3238/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 22m 12.017s
+[00:10:16] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:10:17] [DefaultDispatcher-worker-7/INFO]: Connecting to Essential Connection Manager...
+[00:10:20] [WebSocketConnectReadThread-3513/INFO]: Connected to Essential Connection Manager.
+[00:10:45] [DefaultDispatcher-worker-7/WARN]: Failed to fetch https://crafthead.net/helm/cd899a14de784de88d319d42fff31d7a: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor67.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy30.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$271/921773612.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$278/725580392.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[00:13:59] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:14:01] [Netty Client IO #0/INFO]: Server FML protocol version 1, no additional data received
+[00:14:01] [Netty Client IO #0/INFO]: Server protocol version 1
+[00:14:01] [Netty Client IO #0/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:14:01] [Netty Client IO #0/INFO]: Injecting existing block and item data into this client instance
+[00:14:01] [Netty Client IO #0/INFO]: Applying holder lookups
+[00:14:01] [Netty Client IO #0/INFO]: Holder lookups applied
+[00:14:02] [Netty Client IO #0/INFO]: [Netty Client IO #0] Client side modded connection established
+[00:14:02] [Netty Client IO #0/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:14:02] [Netty Client IO #0/INFO]: DungeonRooms: Packet Handler added
+[00:14:03] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:14:03] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:14:03] [Client thread/INFO]: [CHAT]                          
+[00:14:03] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:14:03] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] viibinq§f §6joined the lobby!
+[00:14:03] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:03] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby4C', serverType='PROTOTYPE', lobbyName='prototypelobby3', mode='null', map='null'} VersionedPacket{version=1}
+[00:14:04] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:14:04] [Client thread/INFO]: [CHAT] §b[MVP§e+§b] xBlank8§f §6joined the lobby!
+[00:14:05] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:14:06] [Thread-956/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:14:06] [Thread-956/INFO]: DungeonRooms: Checking for updates...
+[00:14:06] [Thread-956/INFO]: DungeonRooms: No update found
+[00:14:06] [Thread-956/INFO]: DungeonRooms: Getting MOTD...
+[00:14:06] [Thread-956/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$836/1118941409.run(Unknown Source)
+[00:14:06] [Thread-956/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:14:06] [Thread-956/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:14:06] [Client thread/INFO]: [CHAT] §b[MVP§3+§b] PlasmaSad§f §6joined the lobby!
+[00:14:08] [Client thread/INFO]: [CHAT] §b[MVP§a+§b] Empeurere§f §6joined the lobby!
+[00:14:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - The End
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bMonkefromrussia §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:14:10] [Client thread/INFO]: [CHAT] §b[MVP§9+§b] SuperMoomoo868§f §6joined the lobby!
+[00:14:10] [Client thread/INFO]: [CHAT] Sending to server mini197CJ...
+[00:14:10] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:11] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini197CJ', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:14:11] [Client thread/INFO]: [CHAT]        
+[00:14:11] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:14:11] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:14:13] [Client thread/INFO]: [CHAT] 
+[00:14:13] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:14:13] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[00:14:13] [Client thread/INFO]: [CHAT] 
+[00:14:13] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[00:14:14] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:14:14] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:14:14] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: RIFTASTIC! [MVP++] 1uc1d has secured SkyBlock Citizen Timecharm into their gallery! gg!
+[00:14:17] [Client thread/ERROR]: Signature is missing from textures payload
+[00:14:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: geegee
+[00:14:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§5+§b] SoutifDeLuxe §3[MOD]§f: gamer
+[00:14:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: i rly should do rift
+[00:14:33] [Client thread/INFO]: [CHAT] Warping...
+[00:14:33] [Client thread/INFO]: [CHAT] Sending to server mini268V...
+[00:14:33] [Client thread/INFO]: [CHAT]        
+[00:14:33] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:33] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini268V', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:14:36] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: its so easy
+[00:14:38] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[00:14:38] [Client thread/INFO]: [CHAT] Sending to server mini197CJ...§7 (2)
+[00:14:39] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:39] [Client thread/INFO]: [CHAT]        
+[00:14:39] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini197CJ', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:14:40] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[00:14:41] [Client thread/INFO]: [CHAT] Couldn't warp you! Try again later. (PLAYER_TRANSFER_COOLDOWN)
+[00:14:42] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:14:42] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:14:44] [Client thread/INFO]: [CHAT] Sending to server mini182CH...
+[00:14:44] [Client thread/INFO]: [CHAT] Warping...§7 (3)
+[00:14:44] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:44] [Client thread/INFO]: [CHAT]        
+[00:14:44] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini182CH', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:14:47] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:14:47] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:14:49] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...§7 (2)
+[00:14:49] [Client thread/INFO]: [CHAT] Sending to server mini197CJ...§7 (3)
+[00:14:49] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:49] [Client thread/INFO]: [CHAT]        
+[00:14:49] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini197CJ', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:14:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (4)
+[00:14:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (4)
+[00:14:53] [Client thread/INFO]: [CHAT] Warping...§7 (4)
+[00:14:54] [Client thread/INFO]: [CHAT] Sending to server mini67BE...
+[00:14:54] [Client thread/INFO]: [CHAT]        
+[00:14:54] [Netty Client IO #0/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:14:54] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini67BE', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:14:55] [Client thread/INFO]: [CHAT]  ? CrudeAnemone293 was killed by Voidgloom Seraph.
+[00:14:57] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (5)
+[00:14:57] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (5)
+[00:14:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] _Uncraftable_ §3[BABY]§f: gotta set up some lapis minions for it
+[00:15:03] [Client thread/INFO]: [CHAT] RARE DROP! Enchanted Ender Pearl (+221% ? Magic Find)
+[00:15:04] [Client thread/INFO]: [CHAT] Warped to Void Sepulture!
+[00:15:29] [Client thread/INFO]: [CHAT]  ? NHLBOY was killed by Nest Endermite.
+[00:15:30] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: nice dye
+[00:15:33] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: lol
+[00:15:34] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: looks cool
+[00:15:34] [Client thread/ERROR]: Signature is missing from textures payload
+[00:15:35] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: thanks
+[00:15:36] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: <3
+[00:15:38] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: yoi
+[00:15:40] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: u doing eman
+[00:16:03] [WebSocketConnectReadThread-3513/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 5m 43.086s
+[00:16:03] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:16:03] [DefaultDispatcher-worker-4/INFO]: Connecting to Essential Connection Manager...
+[00:16:04] [Netty Client IO #0/ERROR]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:16:04] [Netty Client IO #0/ERROR]: Network Exception Caught
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:16:04] [Netty Client IO #0/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:16:04] [Client thread/INFO]: Applying holder lookups
+[00:16:04] [Client thread/INFO]: Holder lookups applied
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:16:05] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:16:05] [WebSocketConnectReadThread-3983/INFO]: Connected to Essential Connection Manager.
+[00:16:06] [Netty Client IO #5/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:16:06] [Netty Client IO #4/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:16:07] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:16:08] [Netty Client IO #6/INFO]: Server FML protocol version 1, no additional data received
+[00:16:08] [Netty Client IO #6/INFO]: Server protocol version 1
+[00:16:08] [Netty Client IO #6/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:16:08] [Netty Client IO #6/INFO]: Injecting existing block and item data into this client instance
+[00:16:08] [Netty Client IO #6/INFO]: Applying holder lookups
+[00:16:08] [Netty Client IO #6/INFO]: Holder lookups applied
+[00:16:09] [Netty Client IO #6/INFO]: [Netty Client IO #6] Client side modded connection established
+[00:16:09] [Netty Client IO #6/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:16:09] [Netty Client IO #6/INFO]: DungeonRooms: Packet Handler added
+[00:16:10] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:16:10] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:16:10] [Client thread/INFO]: [CHAT]                          
+[00:16:10] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] Dedeko_San§f §6joined the lobby!
+[00:16:10] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:16:10] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby35E', serverType='PROTOTYPE', lobbyName='prototypelobby2', mode='null', map='null'} VersionedPacket{version=1}
+[00:16:11] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:16:12] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:16:13] [Client thread/INFO]: [CHAT] Sending to server mini67BE...
+[00:16:13] [Thread-1109/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:16:13] [Thread-1109/INFO]: DungeonRooms: Checking for updates...
+[00:16:13] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:16:13] [Client thread/INFO]: [CHAT]        
+[00:16:13] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini67BE', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:16:13] [Thread-1109/INFO]: DungeonRooms: No update found
+[00:16:13] [Thread-1109/INFO]: DungeonRooms: Getting MOTD...
+[00:16:13] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:16:13] [Thread-1109/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$836/1118941409.run(Unknown Source)
+[00:16:13] [Thread-1109/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:16:13] [Thread-1109/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:16:14] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$495/2084230091.apply(Unknown Source)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:16:14] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:16:16] [Client thread/INFO]: [CHAT] 
+[00:16:16] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:16:16] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[00:16:16] [Client thread/INFO]: [CHAT] 
+[00:16:16] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[00:16:16] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:16:16] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:16:23] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[00:16:24] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 61x ? Fine Peridot Gemstone worth 2,287,579 coins bought for 37,501 each!
+[00:16:25] [DefaultDispatcher-worker-7/WARN]: Failed to fetch https://crafthead.net/helm/cd899a14de784de88d319d42fff31d7a: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor67.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy30.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$271/921773612.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$278/725580392.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[00:16:32] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: since he had to go i can help u kill 'em
+[00:16:34] [Client thread/INFO]: [CHAT] You earned 2 GEXP + 83 Event EXP from playing SkyBlock!
+[00:16:39] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: lol
+[00:16:39] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[00:16:39] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 6,600,229 coins from cancelling Buy Order!
+[00:16:40] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: sure thing
+[00:16:49] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:16:49] [Client thread/INFO]: [CHAT] [Bazaar] Bought 176x ? Fine Peridot Gemstone for 7,372,268 coins!
+[00:16:57] [Client thread/INFO]: [CHAT] You removed a ? Fine Peridot Gemstone from your Bountiful Melon Dicer 3.0!
+[00:17:00] [Client thread/INFO]: [CHAT] You removed a ? Fine Peridot Gemstone from your Bountiful Melon Dicer 3.0!§7 (2)
+[00:17:03] [Client thread/INFO]: [CHAT] This slot currently has a ? Fine Peridot Gemstone applied! You must remove it before applying this Gemstone!
+[00:17:04] [Client thread/INFO]: [CHAT] You removed a ? Fine Peridot Gemstone from your Bountiful Melon Dicer 3.0!§7 (3)
+[00:17:14] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:17:22] [Client thread/INFO]: [CHAT] You applied a ? Flawless Peridot Gemstone to your Bountiful Melon Dicer 3.0!
+[00:17:24] [Client thread/INFO]: [CHAT] You applied a ? Flawless Peridot Gemstone to your Bountiful Melon Dicer 3.0!§7 (2)
+[00:17:26] [Client thread/INFO]: [CHAT] You applied a ? Flawless Peridot Gemstone to your Bountiful Melon Dicer 3.0!§7 (3)
+[00:17:33] [Client thread/INFO]: [CHAT] Guild > TheDonLover left.
+[00:17:41] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: cheers lad
+[00:17:42] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[00:17:43] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Recombobulator 3000 for 8,933,337 coins!
+[00:17:47] [Client thread/INFO]: [CHAT] You applied a Recombobulator 3000 to your Bountiful Melon Dicer 3.0!
+[00:17:48] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: u dont have to help me
+[00:17:49] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: but thanks
+[00:17:50] [Client thread/INFO]: [CHAT]  ? cyaannide was killed by Zealot Bruiser.
+[00:17:51] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: M3
+[00:17:53] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: <3
+[00:17:57] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: i have nothing better to do lol
+[00:17:58] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3eed1533
+[00:18:01] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: ey
+[00:18:02] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: join me
+[00:18:06] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: ill help with ur boss
+[00:18:06] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3eed1533
+[00:18:07] [Client thread/INFO]: [CHAT] [181] §a[VIP] _ejNova_§f: selling T4 carries for 1.5m / discount if going for slayer 7 or doing a big number of bosses /p me
+[00:18:09] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: u can help me with mine
+[00:18:14] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: nah ty im kinda fed up with slayers for now
+[00:18:18] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: hahaha
+[00:18:21] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: I need to grind
+[00:18:21] [Client thread/INFO]: [CHAT] Warped to Void Sepulture!
+[00:18:22] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: term
+[00:18:33] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: INSANE DROP! (Warden Heart) (+137% ? Magic Find)
+[00:18:39] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: stil got some nice rewards tho
+[00:18:41] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: SHEEEESHHH
+[00:19:05] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §aBuy Order §efor §a23§7x §9Null Atom §ewas filled!
+[00:19:08] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: gotta do doggy slayer 9 next TwT
+[00:19:35] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[00:19:35] [SkyblockAddons - #7/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:19:35] [SkyblockAddons - #7/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:19:38] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:19:38] [Client thread/INFO]: [CHAT] [Bazaar] Sold 15x Glacite Jewel for 574,693 coins!
+[00:19:43] [Client thread/INFO]: [CHAT] You feel a tremor from beneath the earth!
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: java.lang.Error: Could not read category for item §bCeleste Dye
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.test.command.ErrorManager.logError(ErrorManager.kt:129)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.test.command.ErrorManager.logErrorStateWithData(ErrorManager.kt:91)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.test.command.ErrorManager.logErrorStateWithData$default(ErrorManager.kt:83)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.utils.ItemUtils.readItemCategoryAndRarity(ItemUtils.kt:204)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.utils.ItemUtils.updateCategoryAndRarity(ItemUtils.kt:252)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.utils.ItemUtils.getItemCategoryOrNull(ItemUtils.kt:260)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.getStackTip(ItemDisplayOverlayFeatures.kt:147)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.features.inventory.ItemDisplayOverlayFeatures.onRenderItemTip(ItemDisplayOverlayFeatures.kt:104)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1128_ItemDisplayOverlayFeatures_onRenderItemTip_RenderItemTipEvent.invoke(.dynamic)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.events.LorenzEvent.postAndCatchAndBlock(LorenzEvent.kt:49)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.events.LorenzEvent.postAndCatchAndBlock$default(LorenzEvent.kt:36)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.events.LorenzEvent.postAndCatch(LorenzEvent.kt:24)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.data.ItemTipHelper.onRenderItemOverlayPost(ItemTipHelper.kt:29)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_334_ItemTipHelper_onRenderItemOverlayPost_GuiRenderItemPost.invoke(.dynamic)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.events.LorenzEvent.postAndCatchAndBlock(LorenzEvent.kt:49)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.events.LorenzEvent.postAndCatchAndBlock$default(LorenzEvent.kt:36)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.events.LorenzEvent.postAndCatch(LorenzEvent.kt:24)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at at.hannibal2.skyhanni.mixins.hooks.RenderItemHookKt.renderItemOverlayPost(RenderItemHook.kt:23)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.renderer.entity.RenderItem.handler$bmb001$renderItemOverlayPost(RenderItem.java:3857)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.renderer.entity.RenderItem.func_180453_a(RenderItem.java:693)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.util.Utils.drawItemStackWithoutGlint(Utils.java:260)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.NEUOverlay$12.consume(NEUOverlay.java:2610)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.NEUOverlay.iterateItemSlots(NEUOverlay.java:1627)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.NEUOverlay.renderItems(NEUOverlay.java:2567)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.NEUOverlay.renderItemsToImage(NEUOverlay.java:2387)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.NEUOverlay.render(NEUOverlay.java:2189)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at io.github.moulberry.notenoughupdates.listener.RenderListener.onGuiBackgroundDraw(RenderListener.java:365)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_28_RenderListener_onGuiBackgroundDraw_BackgroundDrawnEvent.invoke(.dynamic)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:49)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.gui.GuiScreen.func_146276_q_(GuiScreen.java:595)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.gui.inventory.GuiContainer.func_73863_a(GuiContainer.java:72)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.renderer.InventoryEffectRenderer.func_73863_a(InventoryEffectRenderer.java:49)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.gui.inventory.GuiInventory.func_73863_a(SourceFile:47)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraftforge.client.ForgeHooksClient.drawScreen(ForgeHooksClient.java:311)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.renderer.EntityRenderer.func_181560_a(EntityRenderer.java:1436)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1051)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:349)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at java.lang.Class.newInstance(Class.java:442)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98)
+[00:20:05] [Client thread/INFO]: [at.hannibal2.skyhanni.test.command.ErrorManager:logError:129]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[00:20:05] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.IllegalStateException: Failed to read category from item rarity via item lore
+[00:20:05] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at at.hannibal2.skyhanni.test.command.ErrorManager.logErrorStateWithData(ErrorManager.kt:92)
+[00:20:05] [Client thread/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 72 more
+[00:20:05] [Client thread/INFO]: [CHAT] §c[SkyHanni-0.26.Beta.20]: Could not read category for item §bCeleste Dye§c. Click here to copy the error into the clipboard.
+[00:20:18] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: why u jumped down XDD
+[00:20:18] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: goat
+[00:20:23] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: lol nah
+[00:20:26] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: I could not place
+[00:20:30] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: the zombies
+[00:20:32] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: for some reason
+[00:20:36] [Client thread/INFO]: [CHAT]  ? NHLBOY was killed by Enderman.
+[00:20:37] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: oh get to the edge of the block
+[00:20:37] [Client thread/INFO]: [CHAT]  ? TeamLesDeux was killed by Voidgloom Seraph.
+[00:20:39] [Client thread/INFO]: [CHAT] [235] ? §b[MVP§9+§b] AurelionSmoll§f: then spawn
+[00:20:45] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: yeh was trying
+[00:20:48] [Client thread/INFO]: [CHAT] [303] ? §b[MVP§f+§b] uywi§f: limbo
+[00:20:49] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: but then u have to uncrouch
+[00:20:52] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: and then fell
+[00:20:53] [Client thread/INFO]: [CHAT] [159] §a[VIP] ImDamned§f: Xd
+[00:20:59] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: theres only 7 timecharms right?
+[00:21:05] [Client thread/INFO]: [CHAT] Guild > Shiiboru left.
+[00:21:08] [Client thread/INFO]: [CHAT] [54] ? §a[VIP] free_chicken1§f: i have such bad fps rn :(
+[00:21:34] [Client thread/INFO]: [CHAT] [224] ? §a[VIP] GVelez§f: LOOKING FOR SOMEONE TO PLACE DRAGONS WITH 4/4 /party me
+[00:21:37] [Client thread/INFO]: [CHAT] You earned 5 GEXP + 238 Event EXP from playing SkyBlock!
+[00:21:45] [Client thread/INFO]: [CHAT]  ? PenMaster2207 was killed by Voidgloom Seraph.
+[00:21:55] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[00:22:04] [Client thread/INFO]: [CHAT] Guild > TheDonLover joined.
+[00:22:15] [Client thread/INFO]: [CHAT] Warping...
+[00:22:16] [Client thread/INFO]: [CHAT] Sending to server mini82BE...
+[00:22:16] [Client thread/INFO]: [CHAT] You were kicked while joining that server!
+[00:22:16] [Client thread/INFO]: [CHAT] §cCouldn't find which world to put you in!
+[00:22:18] [Client thread/INFO]: [CHAT]  ? DrunkenRaiinz was killed by Voidgloom Seraph.
+[00:22:23] [Client thread/INFO]: [CHAT] Something went wrong! (Warp timeout)
+[00:22:23] [Client thread/INFO]: [CHAT] A kick occurred in your connection, so you were put in the SkyBlock lobby!
+[00:22:23] [Client thread/INFO]: [CHAT] send:lobby
+[00:22:23] [Client thread/INFO]: [CHAT]                          
+[00:22:23] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:22:23] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby35E', serverType='PROTOTYPE', lobbyName='prototypelobby2', mode='null', map='null'} VersionedPacket{version=1}
+[00:22:23] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:22:25] [Client thread/INFO]: [CHAT] §b[MVP§a+§b] TechGuacamole§f §6joined the lobby!
+[00:22:26] [Client thread/INFO]: [CHAT] §b[MVP§a+§b] ZachPanda2903§f §6joined the lobby!
+[00:22:26] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:22:26] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] dquble§f §6joined the lobby!
+[00:22:29] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Qswop§f §6joined the lobby!
+[00:22:32] [Client thread/INFO]: [CHAT] Sending to server mini15BW...
+[00:22:32] [Client thread/INFO]: [CHAT] You were kicked while joining that server!§7 (2)
+[00:22:32] [Client thread/INFO]: [CHAT] §cYou tried to rejoin too fast, please try again in a moment!
+[00:22:32] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] DAVID_CZ§f §6joined the lobby!
+[00:22:33] [Client thread/INFO]: [CHAT]  §b>§c>§a>§r §b[MVP§3++§b] JHESS6648K§f §6joined the lobby! §a<§c<§b<
+[00:22:33] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Dannie413§f §6joined the lobby!
+[00:22:34] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] SoccerRy25§f §6joined the lobby!
+[00:22:35] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] ChildCZ§f §6joined the lobby!
+[00:22:35] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] JaxiMC§f §6joined the lobby!
+[00:22:36] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] Mobs1050§f §6joined the lobby!
+[00:22:37] [Client thread/INFO]: [CHAT] §b[MVP§4+§b] ZeTechians§f §6joined the lobby!
+[00:22:37] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] imnotlongestname§f §6joined the lobby!
+[00:22:38] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] yzox_§f §6joined the lobby!
+[00:22:44] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] Hungwai123§f §6joined the lobby!
+[00:22:44] [Client thread/INFO]: [CHAT] §b[MVP§e+§b] hotgirlxo§f §6joined the lobby!
+[00:22:45] [Client thread/INFO]: [CHAT]  §b>§c>§a>§r §6[MVP§3++§6] MushCrush§f §6joined the lobby! §a<§c<§b<
+[00:22:45] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] BBNICK31§f §6joined the lobby!
+[00:22:50] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] abllity§f §6joined the lobby!
+[00:22:50] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] pa_eung_e§f §6joined the lobby!
+[00:22:52] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Andromaqve69§f §6joined the lobby!
+[00:22:54] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] o7_zen§f §6joined the lobby!
+[00:22:57] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] Melkaa7§f §6joined the lobby!
+[00:22:58] [Client thread/INFO]: [CHAT] §b[MVP§0+§b] Spiget§f §6joined the lobby!
+[00:23:02] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Orphanian§f §6joined the lobby!
+[00:23:04] [Client thread/INFO]: [CHAT]  §b>§c>§a>§r §6[MVP§d++§6] RiceBeast§f §6joined the lobby! §a<§c<§b<
+[00:23:04] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] Littlekirkster§f §6joined the lobby!
+[00:23:05] [Client thread/INFO]: [CHAT] §b[MVP§9+§b] GigachadLuther§f §6joined the lobby!
+[00:23:05] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Toxxic_Noah§f §6joined the lobby!
+[00:23:07] [Client thread/INFO]: [CHAT] Sending to server mini69N...
+[00:23:07] [Client thread/INFO]: [CHAT] You were kicked while joining that server!§7 (3)
+[00:23:07] [Client thread/INFO]: [CHAT] §cYou tried to rejoin too fast, please try again in a moment!§7 (2)
+[00:23:10] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] lemiyun§f §6joined the lobby!
+[00:23:12] [Client thread/INFO]: [CHAT] §b[MVP§5+§b] WashedG§f §6joined the lobby!
+[00:23:12] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] Pike755§f §6joined the lobby!
+[00:23:13] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Kemkamii§f §6joined the lobby!
+[00:23:16] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Luck0821§f §6joined the lobby!
+[00:23:17] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] Adam3042§f §6joined the lobby!
+[00:23:18] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Ace127wt§f §6joined the lobby!
+[00:23:19] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] Zourcefr§f §6joined the lobby!
+[00:23:19] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] Entbannt§f §6joined the lobby!
+[00:23:22] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] THKlasen§f §6joined the lobby!
+[00:23:24] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] SchlauerBonsai§f §6joined the lobby!
+[00:23:24] [Client thread/INFO]: [CHAT] Sending to server mini258V...
+[00:23:24] [Client thread/INFO]: [CHAT]        
+[00:23:24] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:23:24] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini258V', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:23:24] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:23:24] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:23:26] [Client thread/INFO]: [CHAT]  ? BrokenWhistle was killed by Enderman.
+[00:23:26] [Client thread/INFO]: [CHAT] [72] ? §7Gundowngamer1§7: tell a good money making method
+[00:23:27] [Client thread/INFO]: [CHAT] 
+[00:23:27] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:23:27] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[00:23:27] [Client thread/INFO]: [CHAT] 
+[00:23:27] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[00:23:28] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:23:28] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:23:29] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - The End
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bMonkefromrussia §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:23:52] [Client thread/INFO]: [CHAT] Warping...
+[00:23:52] [Client thread/INFO]: [CHAT] Sending to server mini263G...
+[00:23:52] [Client thread/INFO]: [CHAT]        
+[00:23:52] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:23:52] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini263G', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:23:56] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:23:56] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:23:58] [Client thread/INFO]: [CHAT] You bought Kismet Feather!
+[00:23:58] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (2)
+[00:23:58] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (3)
+[00:23:58] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (4)
+[00:23:59] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (5)
+[00:23:59] [Client thread/INFO]: [CHAT] Please wait a bit before doing this!
+[00:23:59] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (6)
+[00:23:59] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (7)
+[00:23:59] [Client thread/INFO]: [CHAT] Please wait a bit before doing this!§7 (2)
+[00:23:59] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (8)
+[00:23:59] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (9)
+[00:24:00] [Client thread/INFO]: [CHAT] You don't have enough Bits!
+[00:24:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:24:09] [Client thread/INFO]: [CHAT] [Bazaar] Sold 9x Kismet Feather for 16,188,778 coins!
+[00:24:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] _Uncraftable_ §3[BABY]§f: RARE DROP! Magma Core (+167% ? Magic Find)
+[00:24:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] _Uncraftable_ §3[BABY]§f: 4 more to go
+[00:24:55] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:25:04] [Client thread/INFO]: [CHAT] Warped to Election Room!
+[00:25:27] [Client thread/INFO]: [CHAT] Warped to Community Center!
+[00:25:55] [Client thread/INFO]: [CHAT] Guild > FadiU left.
+[00:26:02] [Client thread/INFO]: [CHAT] Warping...
+[00:26:02] [Client thread/INFO]: [CHAT] Sending to server mini67BE...
+[00:26:03] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:26:03] [Client thread/INFO]: [CHAT]        
+[00:26:03] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini67BE', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:26:06] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:26:06] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:26:13] [Client thread/INFO]: [CHAT] Guild > FadiU joined.
+[00:26:14] [Client thread/INFO]: [CHAT] Warped to Void Sepulture!
+[00:26:38] [Client thread/INFO]: [CHAT] Guild > FadiU left.§7 (2)
+[00:26:44] [Client thread/INFO]: [CHAT]  ? ChunkyMonkey8888 was killed by Enderman.
+[00:26:51] [Client thread/INFO]: [CHAT]  ? ChunkyMonkey8888 was killed by Enderman.§7 (2)
+[00:27:00] [Client thread/INFO]: [CHAT] Putting coins in escrow...
+[00:27:00] [Client thread/INFO]: [CHAT] Processing purchase...
+[00:27:00] [Client thread/INFO]: [CHAT] You purchased Pest Repellent MAX for 280,000 coins!
+[00:27:00] [Client thread/INFO]: [CHAT] Visit the Auction House to collect your item!
+[00:27:04] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:27:04] [Client thread/INFO]: [CHAT] You claimed Pest Repellent MAX from [VIP+] GoldenDragon999's auction!
+[00:27:10] [Client thread/INFO]: [CHAT] Warping...
+[00:27:11] [Client thread/INFO]: [CHAT] Sending to server mini237B...
+[00:27:11] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:27:11] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini237B', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:27:11] [Client thread/INFO]: [CHAT]        
+[00:27:12] [Client thread/INFO]: [CHAT] Wizard has arrived on your Garden!
+[00:27:14] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[00:27:14] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:27:14] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:27:15] [Client thread/INFO]: [CHAT] §e[NPC] §aWizard§f: Where am I? Oh, it's you §716thGarden§f.
+[00:27:20] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:27:20] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Enchanted Baked Potato for 384,999 coins!
+[00:27:23] [Client thread/INFO]: [CHAT] You summoned your Chicken!
+[00:27:24] [Client thread/INFO]: [CHAT] Your Golem leveled up to level 71!
+[00:27:24] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Wizard (UNCOMMON)
+[00:27:24] [Client thread/INFO]: [CHAT] 
+[00:27:24] [Client thread/INFO]: [CHAT]   REWARDS
+[00:27:24] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[00:27:24] [Client thread/INFO]: [CHAT]     +25k Farming XP
+[00:27:24] [Client thread/INFO]: [CHAT]     +29 Copper
+[00:27:24] [Client thread/INFO]: [CHAT]     +10 Bits
+[00:27:24] [Client thread/INFO]: [CHAT] 
+[00:27:24] [Client thread/INFO]: [CHAT] §e[NPC] §aWizard§f: Thank you. This should be enough potatoes to generate about §b2.5 §fvolts. Might be just enough to cause a reaction.
+[00:27:28] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[00:27:32] [Client thread/INFO]: [CHAT] Teleported you to Plot - R2!
+[00:27:39] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[00:27:41] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[00:27:51] [Client thread/INFO]: [CHAT] YUM! Pests will now spawn 4x less while you break crops for the next 60m!
+[00:28:07] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:28:11] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:28:23] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:28:32] [Client thread/INFO]: [CHAT] Guild > EngeBoykie left.
+[00:28:34] [Client thread/INFO]: [CHAT] Guild > FadiU joined.
+[00:28:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[00:28:54] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[00:29:01] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[00:29:01] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[00:29:31] [Client thread/ERROR]: Signature is missing from textures payload
+[00:29:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[00:29:39] [Client thread/INFO]: [CHAT] §bCo-op > §7JPGomdol§f: mind if i borrow your ender slayer kit till the start of next mayor?
+[00:29:45] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (6)
+[00:29:57] [Client thread/INFO]: [CHAT] §bCo-op > §7JPGomdol§f: maybe after hitting e7 ill try my luck with jcore drop while i wait for aatrox
+[00:30:09] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:30:24] [Client thread/INFO]: [CHAT] Your Horse leveled up to level 71!
+[00:30:45] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:31:08] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:31:09] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[00:31:14] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[00:31:21] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 2x Enchanted Melon Block!
+[00:31:28] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[00:31:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (6)
+[00:31:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (7)
+[00:31:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (8)
+[00:31:42] [Client thread/INFO]: [CHAT] Leo has arrived on your Garden!
+[00:31:51] [Client thread/INFO]: [CHAT] Guild > QuiteShrewd joined.
+[00:31:59] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (9)
+[00:32:11] [Client thread/INFO]: [CHAT] You earned 16 GEXP + 590 Event EXP from playing SkyBlock!
+[00:32:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (10)
+[00:33:17] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:33:21] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:33:46] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[00:34:24] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[00:34:25] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:34:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[00:35:01] [Client thread/INFO]: [CHAT] [NPC] Jacob: The Farming Contest is over!
+[00:35:01] [Client thread/INFO]: [CHAT] [NPC] Jacob: Let me count the final results eh?
+[00:35:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You placed in the §c§lBRONZE §fbracket in the §aMelon Contest§f!
+[00:35:07] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (2)
+[00:35:09] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You collected §e750,006 §fitems!
+[00:35:36] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[00:35:48] [Client thread/INFO]: [CHAT] Friendly Hiker has arrived on your Garden!
+[00:36:43] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:36:45] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:37:05] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[00:37:12] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[00:37:24] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:37:51] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[00:37:51] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[00:38:14] [Client thread/INFO]: [CHAT] Guild > GodOfHades joined.
+[00:38:58] [Client thread/INFO]: [CHAT] Your Magma Cube leveled up to level 72!
+[00:39:11] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:39:12] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:39:28] [Client thread/INFO]: [CHAT] Guild > julithelol left.
+[00:39:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[00:39:52] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[00:40:08] [Client thread/INFO]: [CHAT] Rusty has arrived on your Garden!
+[00:40:16] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:40:23] [Client thread/INFO]: [CHAT] Guild > julithelol left.§7 (2)
+[00:40:37] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[00:40:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[00:40:54] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (2)
+[00:40:59] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[00:41:08] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (6)
+[00:41:36] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (7)
+[00:41:41] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (8)
+[00:42:12] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[00:42:37] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (9)
+[00:42:44] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:43:29] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (10)
+[00:43:52] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (11)
+[00:44:19] [Client thread/INFO]: [CHAT] Clerk Seraphine has arrived on your Garden!
+[00:44:28] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (12)
+[00:44:40] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - The End
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bMonkefromrussia §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:45:27] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (13)
+[00:45:41] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:45:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (14)
+[00:45:46] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (15)
+[00:46:28] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[00:46:29] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[00:46:31] [Client thread/INFO]: [CHAT] §e[NPC] §aLeo§f: §fSadly you can't gather logs in the §bGarden§f, however there are plenty of crops here!
+[00:46:33] [Client thread/INFO]: [CHAT] §e[NPC] §aFriendly Hiker§f: §fI'm planning to head back into the gorge to fetch my hiker friend, but I'll need some meat to cook before I head in there.
+[00:46:34] [Client thread/INFO]: [CHAT] §e[NPC] §9Rusty§f: Ever wondered how I find all the things that other players lost? I outsource it. Right now, someone is looking for their §aEnchanted Golden Carrot§f. Can you find that for me?
+[00:46:36] [Client thread/INFO]: [CHAT] §e[NPC] §6Clerk Seraphine§f: §fHey §716thGarden§f, the mayor elections are coming up and I've ran out of ballot paper! Could you help me out?
+[00:46:42] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:46:42] [Client thread/INFO]: [CHAT] [Bazaar] Bought 9x Enchanted Sugar Cane for 1,012,932 coins!
+[00:46:47] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[00:46:47] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Enchanted Golden Carrot for 697,233 coins!
+[00:46:49] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[00:46:49] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Grilled Pork for 156,537 coins!
+[00:46:54] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[00:46:55] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Enchanted Red Mushroom Block for 409,562 coins!
+[00:47:00] [Client thread/INFO]: [CHAT] You summoned your Chicken!
+[00:47:01] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Clerk Seraphine (LEGENDARY)
+[00:47:01] [Client thread/INFO]: [CHAT] 
+[00:47:01] [Client thread/INFO]: [CHAT]   REWARDS
+[00:47:01] [Client thread/INFO]: [CHAT]     +75 Garden Experience
+[00:47:01] [Client thread/INFO]: [CHAT]     +33k Farming XP
+[00:47:01] [Client thread/INFO]: [CHAT]     +378 Copper
+[00:47:01] [Client thread/INFO]: [CHAT]     +10 Bits
+[00:47:01] [Client thread/INFO]: [CHAT] 
+[00:47:01] [Client thread/INFO]: [CHAT] §e[NPC] §6Clerk Seraphine§f: §fThank you very much! I'll make sure to give these extra ballots to only the elites!
+[00:47:04] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Rusty (RARE)
+[00:47:04] [Client thread/INFO]: [CHAT] 
+[00:47:04] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[00:47:04] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[00:47:04] [Client thread/INFO]: [CHAT]     +46k Farming XP
+[00:47:04] [Client thread/INFO]: [CHAT]     +76 Copper
+[00:47:04] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[00:47:04] [Client thread/INFO]: [CHAT]     §7§fIron Hoe
+[00:47:04] [Client thread/INFO]: [CHAT] 
+[00:47:04] [Client thread/INFO]: [CHAT] §e[NPC] §9Rusty§f: §fThere we go, a job well done. I'll make sure to leave a good review for you!
+[00:47:06] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Friendly Hiker (UNCOMMON)
+[00:47:06] [Client thread/INFO]: [CHAT] 
+[00:47:06] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[00:47:06] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[00:47:06] [Client thread/INFO]: [CHAT]     +238 Farming XP
+[00:47:06] [Client thread/INFO]: [CHAT]     +16 Copper
+[00:47:06] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[00:47:06] [Client thread/INFO]: [CHAT] 
+[00:47:06] [Client thread/INFO]: [CHAT] §e[NPC] §aFriendly Hiker§f: §fThanks! I'll be heading to look for him as soon as possible.
+[00:47:07] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Leo (UNCOMMON)
+[00:47:07] [Client thread/INFO]: [CHAT] 
+[00:47:07] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[00:47:07] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[00:47:07] [Client thread/INFO]: [CHAT]     +12k Farming XP
+[00:47:07] [Client thread/INFO]: [CHAT]     +30 Copper
+[00:47:07] [Client thread/INFO]: [CHAT]     +20 Bits
+[00:47:07] [Client thread/INFO]: [CHAT] 
+[00:47:07] [Client thread/INFO]: [CHAT] §e[NPC] §aLeo§f: §fUntil next time!
+[00:47:13] [Client thread/INFO]: [CHAT] You sold Iron Hoe x1 for 3 Coins!
+[00:47:16] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - The End
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bMonkefromrussia §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:47:21] [Client thread/ERROR]: Signature is missing from textures payload
+[00:47:23] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: bobbin time or legion
+[00:47:26] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[00:47:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: bobbin time v
+[00:47:29] [Client thread/INFO]: [CHAT] Warping...
+[00:47:29] [Client thread/INFO]: [CHAT] Sending to server mini93BS...
+[00:47:29] [Client thread/INFO]: [CHAT]        
+[00:47:29] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:29] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini93BS', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:47:32] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:47:32] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:47:35] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[00:47:36] [Client thread/INFO]: [CHAT] Sending to server mini1021M...
+[00:47:36] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:37] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini1021M', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:47:37] [Client thread/INFO]: [CHAT]        
+[00:47:40] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:47:40] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:47:40] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[00:47:40] [Client thread/INFO]: [CHAT] Sending to server mini31M...
+[00:47:40] [Client thread/INFO]: [CHAT]        
+[00:47:40] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:40] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini31M', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:47:43] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:47:43] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:47:44] [Client thread/INFO]: [CHAT]  ? Snecek95 was killed by Enderman.
+[00:47:45] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...§7 (2)
+[00:47:45] [Client thread/INFO]: [CHAT] Sending to server mini1021M...§7 (2)
+[00:47:45] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:46] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini1021M', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:47:46] [Client thread/INFO]: [CHAT]        
+[00:47:47] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: oki
+[00:47:48] [Client thread/INFO]: [CHAT] Warping...§7 (3)
+[00:47:48] [Client thread/INFO]: [CHAT] Couldn't warp you! Try again later. (PLAYER_TRANSFER_COOLDOWN)
+[00:47:49] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (4)
+[00:47:49] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (4)
+[00:47:51] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: wait no im not a fisher
+[00:47:52] [Client thread/INFO]: [CHAT] Warping...§7 (4)
+[00:47:52] [Client thread/INFO]: [CHAT] Sending to server mini67BE...
+[00:47:53] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:53] [Client thread/INFO]: [CHAT]        
+[00:47:53] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini67BE', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:47:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: dont take tips from me
+[00:47:56] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (5)
+[00:47:56] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (5)
+[00:48:04] [Client thread/INFO]: [CHAT] Warped to Void Sepulture!
+[00:48:29] [Client thread/ERROR]: Signature is missing from textures payload
+[00:48:42] [Client thread/INFO]: [CHAT] ? s0smul4 placed a Summoning Eye! (1/8)
+[00:48:43] [Client thread/INFO]: [CHAT] ? s0smul4 placed a Summoning Eye! (2/8)
+[00:48:44] [Client thread/INFO]: [CHAT] ? Falcon_17 placed a Summoning Eye! (3/8)
+[00:48:44] [Client thread/INFO]: [CHAT] ? Falcon_17 placed a Summoning Eye! (4/8)
+[00:48:44] [Client thread/INFO]: [CHAT] ? s0smul4 placed a Summoning Eye! (5/8)
+[00:48:44] [Client thread/INFO]: [CHAT]  ? CEO_of_Hobbits was killed by Voidgloom Seraph.
+[00:48:45] [Client thread/INFO]: [CHAT] ? s0smul4 placed a Summoning Eye! (6/8)
+[00:48:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: for fishing bob time is best yea, but if its mf set then legion
+[00:48:46] [Client thread/INFO]: [CHAT] ? Falcon_17 placed a Summoning Eye! (7/8)
+[00:48:47] [Client thread/INFO]: [CHAT] ? Falcon_17 placed a Summoning Eye! Brace yourselves! (8/8)
+[00:48:54] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:48:56] [Client thread/INFO]: [CHAT] ? The §c§lYoung Dragon has spawned!
+[00:48:59] [Client thread/INFO]: [CHAT]  ? SMLS_Nexus was killed by SMLS_Nexus.
+[00:49:00] [Client thread/INFO]: [CHAT] ? ABT_ako destroyed an Ender Crystal!
+[00:49:05] [Client thread/INFO]: [CHAT] ? ABT_ako destroyed an Ender Crystal!§7 (2)
+[00:49:07] [Client thread/INFO]: [CHAT] ? The Dragon's Gate is weakening!
+[00:49:09] [Client thread/INFO]: [CHAT] ? The Dragon's Gate is starting to budge!
+[00:49:10] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: so if its magma then bobbin?
+[00:49:12] [Client thread/INFO]: [CHAT] ? The Dragon's Gate is nearly open!
+[00:49:39] [Netty Client IO #6/ERROR]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:49:39] [Netty Client IO #6/ERROR]: Network Exception Caught
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[00:49:39] [Netty Client IO #6/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:49:39] [Client thread/INFO]: Applying holder lookups
+[00:49:39] [Client thread/INFO]: Holder lookups applied
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:49:39] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:49:43] [Netty Client IO #11/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:49:43] [Netty Client IO #10/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:49:43] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:49:45] [Netty Client IO #12/INFO]: Server FML protocol version 1, no additional data received
+[00:49:45] [Netty Client IO #12/INFO]: Server protocol version 1
+[00:49:45] [Netty Client IO #12/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:49:45] [Netty Client IO #12/INFO]: Injecting existing block and item data into this client instance
+[00:49:45] [Netty Client IO #12/INFO]: Applying holder lookups
+[00:49:45] [Netty Client IO #12/INFO]: Holder lookups applied
+[00:49:46] [Netty Client IO #12/INFO]: [Netty Client IO #12] Client side modded connection established
+[00:49:46] [Netty Client IO #12/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:49:46] [Netty Client IO #12/INFO]: DungeonRooms: Packet Handler added
+[00:49:46] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:49:46] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:49:46] [Client thread/INFO]: [CHAT]                          
+[00:49:47] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:49:47] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby35E', serverType='PROTOTYPE', lobbyName='prototypelobby2', mode='null', map='null'} VersionedPacket{version=1}
+[00:49:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: yep
+[00:49:49] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:49:49] [Thread-1557/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:49:49] [Thread-1557/INFO]: DungeonRooms: Checking for updates...
+[00:49:50] [DefaultDispatcher-worker-15/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:49:50] [Thread-1557/INFO]: DungeonRooms: No update found
+[00:49:50] [Thread-1557/INFO]: DungeonRooms: Getting MOTD...
+[00:49:50] [Thread-1557/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$836/1118941409.run(Unknown Source)
+[00:49:50] [Thread-1557/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:49:50] [Thread-1557/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:49:50] [Client thread/INFO]: [CHAT] Sending to server mini148CV...
+[00:49:51] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:49:51] [Client thread/INFO]: [CHAT]        
+[00:49:51] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini148CV', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[00:49:51] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:49:53] [Client thread/INFO]: [CHAT] 
+[00:49:53] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:49:53] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[00:49:53] [Client thread/INFO]: [CHAT] 
+[00:49:53] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[00:49:54] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:49:54] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:49:57] [Client thread/INFO]: [CHAT] Warping...
+[00:49:57] [Client thread/INFO]: [CHAT] Sending to server mini18DS...
+[00:49:58] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:49:58] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini18DS', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:49:58] [Client thread/INFO]: [CHAT]        
+[00:50:01] [WebSocketConnectReadThread-3983/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 33m 55.927s
+[00:50:01] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:50:01] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:50:01] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:50:01] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[00:50:02] [WebSocketConnectReadThread-5627/INFO]: Connected to Essential Connection Manager.
+[00:50:04] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[00:50:07] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:50:09] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[00:50:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: I did that too
+[00:50:18] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[00:50:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: (bob time wasnt a thing yet)
+[00:50:23] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[00:50:23] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[00:50:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: it already existed when i started grinding, i was just too poor then
+[00:50:58] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:51:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: i mean arent u too poor rn too
+[00:51:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: well i am
+[00:52:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: but i earn more money faster now
+[00:52:14] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:52:30] [Client thread/INFO]: [CHAT] Dalbrek has arrived on your Garden!
+[00:52:39] [Client thread/INFO]: [CHAT] TIME TOWER! Your Chocolate Factory production has increased by +0.1x for 1h!
+[00:52:40] [Client thread/INFO]: [CHAT] Rabbit Dog has been promoted to [153] Manager!
+[00:52:41] [Client thread/INFO]: [CHAT] Rabbit Granny has been promoted to [160] Manager!
+[00:52:42] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [179] Director!
+[00:52:43] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [165] Manager!
+[00:52:43] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!
+[00:52:50] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [195] Director!
+[00:53:08] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:53:28] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[00:53:50] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[00:54:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[00:54:29] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (6)
+[00:54:32] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (7)
+[00:54:54] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (8)
+[00:54:58] [Client thread/INFO]: [CHAT] You earned 15 GEXP + 583 Event EXP from playing SkyBlock!
+[00:56:03] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:56:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] NyxsMercy §3[HYDRA]§f: gg
+[00:56:24] [Client thread/ERROR]: Signature is missing from textures payload
+[00:57:03] [Client thread/INFO]: [CHAT] Lumina has arrived on your Garden!
+[00:57:07] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:57:16] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[00:57:20] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[00:57:29] [Client thread/INFO]: [CHAT] Guild > NyxsMercy left.
+[00:58:20] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[00:58:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:58:29] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe left.
+[00:59:10] [Client thread/INFO]: [CHAT] Guild > VeryInterestings left.
+[00:59:12] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (2)
+[00:59:54] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: You claimed the Ender Chest Pages IV upgrade!
+[00:59:55] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[00:59:59] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:00:02] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (3)
+[01:00:07] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[01:00:10] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[01:00:16] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[01:00:16] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (4)
+[01:00:18] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[01:01:03] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (5)
+[01:01:07] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (6)
+[01:01:10] [Client thread/INFO]: [CHAT] Banker Broadjaw has arrived on your Garden!
+[01:01:37] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (6)
+[01:01:47] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (7)
+[01:02:14] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (8)
+[01:02:21] [Client thread/INFO]: [CHAT] Guild > julithelol left.
+[01:02:34] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (7)
+[01:02:48] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:03:00] [Client thread/INFO]: [CHAT] Guild > QuiteShrewd left.
+[01:03:02] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (9)
+[01:03:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (10)
+[01:03:34] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (8)
+[01:03:37] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[01:03:44] [Client thread/INFO]: [CHAT] Guild > 1uc1d left.
+[01:04:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: can you pause godpots?
+[01:04:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: if ur on ur is
+[01:04:59] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:05:08] [Client thread/INFO]: [CHAT] Guild > 1uc1d joined.
+[01:05:09] [WebSocketConnectReadThread-5627/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 15m 6.476s
+[01:05:09] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:05:09] [DefaultDispatcher-worker-4/INFO]: Connecting to Essential Connection Manager...
+[01:05:10] [WebSocketConnectReadThread-5687/INFO]: Connected to Essential Connection Manager.
+[01:05:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:05:22] [Client thread/INFO]: [CHAT] Emissary Sisko has arrived on your Garden!
+[01:06:49] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[01:06:50] [Client thread/INFO]: [CHAT] Guild > Jagwire_ left.
+[01:07:10] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:07:26] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[01:08:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[01:08:55] [Client thread/INFO]: [CHAT] Guild > EngeBoykie joined.
+[01:09:57] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:09:59] [Client thread/INFO]: [CHAT] Duke has arrived on your Garden!
+[01:10:00] [Client thread/INFO]: [CHAT] You earned 19 GEXP + 705 Event EXP from playing SkyBlock!
+[01:10:08] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[01:10:09] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[01:10:11] [Client thread/INFO]: [CHAT] §e[NPC] §9Dalbrek§f: §fI saw some weird guy in a mask go into a tiny hole inside the Dwarven Mines, maybe he's part of the Cult of the Fallen Star?
+[01:10:12] [Client thread/INFO]: [CHAT] §e[NPC] §9Lumina§f: §fI'm looking to make some Jack o' Lanterns to help light up the Crystal Hollows - maybe you can help me out?
+[01:10:13] [Client thread/INFO]: [CHAT] §e[NPC] §aBanker Broadjaw§f: §fStanding in that bank all day. Just me and the dwarves. But they are either all business, or drunk. Or both! I need better company!
+[01:10:15] [Client thread/INFO]: [CHAT] §e[NPC] §9Emissary Sisko§f: §fI've heard I can find the best mushrooms here, and as the King's favorite emissary I will bring them to him!
+[01:10:16] [Client thread/INFO]: [CHAT] §e[NPC] §aDuke§f: You seem new here. You should probably try to get some §9Enchanted Red Mushroom Block §ffor me.
+[01:10:18] [Client thread/INFO]: [CHAT] You can't build next to the barn!
+[01:10:25] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:10:25] [Client thread/INFO]: [CHAT] [Bazaar] Bought 19x Enchanted Red Mushroom Block for 972,701 coins!
+[01:10:30] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:10:31] [Client thread/INFO]: [CHAT] [Bazaar] Bought 246x Enchanted Cactus Green for 204,770 coins!
+[01:10:32] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:10:32] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Polished Pumpkin for 255,207 coins!
+[01:10:33] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[01:10:33] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Polished Pumpkin for 255,207 coins!§7 (2)
+[01:10:37] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[01:10:37] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Enchanted Baked Potato for 385,173 coins!
+[01:10:40] [Client thread/INFO]: [CHAT] You summoned your Chicken!
+[01:10:41] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Duke (UNCOMMON)
+[01:10:41] [Client thread/INFO]: [CHAT] 
+[01:10:41] [Client thread/INFO]: [CHAT]   REWARDS
+[01:10:41] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[01:10:41] [Client thread/INFO]: [CHAT]     +9.3k Farming XP
+[01:10:41] [Client thread/INFO]: [CHAT]     +22 Copper
+[01:10:41] [Client thread/INFO]: [CHAT]     +10 Bits
+[01:10:41] [Client thread/INFO]: [CHAT] 
+[01:10:41] [Client thread/INFO]: [CHAT] §e[NPC] §aDuke§f: §fSee ya next time!
+[01:10:44] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Emissary Sisko (RARE)
+[01:10:44] [Client thread/INFO]: [CHAT] 
+[01:10:44] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[01:10:44] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[01:10:44] [Client thread/INFO]: [CHAT]     +23k Farming XP
+[01:10:44] [Client thread/INFO]: [CHAT]     +95 Copper
+[01:10:44] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[01:10:44] [Client thread/INFO]: [CHAT]     §7§8+§d1,594 Gemstone Powder
+[01:10:44] [Client thread/INFO]: [CHAT] 
+[01:10:44] [Client thread/INFO]: [CHAT] §e[NPC] §9Emissary Sisko§f: §fMy standing as the King's favorite emissary is secured as soon as I bring these back home!
+[01:10:45] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Banker Broadjaw (UNCOMMON)
+[01:10:45] [Client thread/INFO]: [CHAT] 
+[01:10:45] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[01:10:45] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[01:10:45] [Client thread/INFO]: [CHAT]     +3.9k Farming XP
+[01:10:45] [Client thread/INFO]: [CHAT]     +18 Copper
+[01:10:45] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[01:10:45] [Client thread/INFO]: [CHAT] 
+[01:10:45] [Client thread/INFO]: [CHAT] §e[NPC] §aBanker Broadjaw§f: §fOh what a lovely specimen this is. I wonder, how should I name you?
+[01:10:47] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Lumina (RARE)
+[01:10:47] [Client thread/INFO]: [CHAT] 
+[01:10:47] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[01:10:47] [Client thread/INFO]: [CHAT]     +30 Garden Experience§7 (2)
+[01:10:47] [Client thread/INFO]: [CHAT]     +14k Farming XP
+[01:10:47] [Client thread/INFO]: [CHAT]     +87 Copper
+[01:10:47] [Client thread/INFO]: [CHAT]     +10 Bits§7 (4)
+[01:10:47] [Client thread/INFO]: [CHAT] 
+[01:10:47] [Client thread/INFO]: [CHAT] §e[NPC] §9Lumina§f: §fNice doin' business with ya! Here's some copper in return.
+[01:10:48] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Dalbrek (RARE)
+[01:10:48] [Client thread/INFO]: [CHAT] 
+[01:10:48] [Client thread/INFO]: [CHAT]   REWARDS§7 (5)
+[01:10:48] [Client thread/INFO]: [CHAT]     +30 Garden Experience§7 (3)
+[01:10:48] [Client thread/INFO]: [CHAT]     +32k Farming XP
+[01:10:48] [Client thread/INFO]: [CHAT]     +61 Copper
+[01:10:48] [Client thread/INFO]: [CHAT]     +10 Bits§7 (5)
+[01:10:48] [Client thread/INFO]: [CHAT] 
+[01:10:48] [Client thread/INFO]: [CHAT] §e[NPC] §9Dalbrek§f: §fThese guys... are scaring me. I'm not quite sure what they are planning in there, but I'd also rather not want to know.
+[01:10:54] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[01:10:59] [Client thread/INFO]: [CHAT] Teleported you to Plot - L1!
+[01:11:04] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[01:11:04] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §9Pesterminator I Book §6(§6+1,384?)
+[01:11:06] [Client thread/INFO]: [CHAT] Teleported you to Plot - L3!
+[01:11:12] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Sugar §efor killing a §6Mosquito§e!
+[01:11:12] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §9Enchanted Sugar Cane §6(§6+1,400?)
+[01:11:16] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[01:11:16] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Pesterminator I for 978,480 coins!
+[01:11:18] [Client thread/INFO]: [CHAT] Warping...
+[01:11:30] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:11:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:12:02] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:12:35] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[01:12:38] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:12:54] [Client thread/INFO]: [CHAT] Guild > KonlapL joined.
+[01:13:54] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:14:00] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:14:07] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[01:14:12] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[01:14:12] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[01:14:20] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[01:14:32] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (4)
+[01:14:40] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (5)
+[01:14:51] [Client thread/INFO]: [CHAT] Fear Mongerer has arrived on your Garden!
+[01:14:56] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (6)
+[01:15:00] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:15:04] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[01:15:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[01:15:07] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Mushroom Fortune §fduring the contest!
+[01:15:23] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (2)
+[01:15:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (7)
+[01:15:41] [Client thread/INFO]: [CHAT] PRAY TO RNGESUS DROP! Dicer dropped 8x Enchanted Melon Block!
+[01:15:54] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (3)
+[01:15:58] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (8)
+[01:16:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (9)
+[01:16:31] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (4)
+[01:16:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (10)
+[01:16:48] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (5)
+[01:17:00] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (11)
+[01:18:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: DonLover
+[01:18:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: ?
+[01:18:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: scatha ls have not been fixed btw according to scathapro discord
+[01:18:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: yeh ik
+[01:18:49] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:18:57] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: i dropped like 3 pets since the update already xd
+[01:19:01] [Client thread/INFO]: [CHAT] Gwendolyn has arrived on your Garden!
+[01:19:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: oh ggs
+[01:19:10] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: ANY LEGS?
+[01:19:10] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:19:11] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: caps
+[01:19:15] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: nah uh
+[01:19:17] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: 3 rares
+[01:19:23] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.
+[01:19:24] [Client thread/INFO]: [CHAT] Guild > Scribbler left.
+[01:19:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[01:19:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: and missed one  leg
+[01:19:36] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] TheDonLover §3[HYDRA]§f: second leg i missed
+[01:19:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: does that mean youre in a wheelchair now?
+[01:20:01] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:20:16] [Client thread/INFO]: [CHAT] Guild > Quantazy left.
+[01:20:16] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§f++§6] 1uc1d §3[HYDRA]§f: Compact IX on your Auspicious Jasper Drill X has been upgraded to Compact X!
+[01:20:48] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:21:13] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[01:21:25] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:21:44] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[01:22:11] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[01:22:50] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!
+[01:22:55] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 16x Enchanted Melon!§7 (2)
+[01:23:10] [Client thread/INFO]: [CHAT] Guy has arrived on your Garden!
+[01:23:14] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!
+[01:23:25] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (2)
+[01:23:50] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 4x Enchanted Melon!§7 (3)
+[01:24:12] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[01:24:13] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[01:24:15] [Client thread/INFO]: [CHAT] §e[NPC] §aFear Mongerer§f: §fMortal, the time of reckoning is near. The Past will light the future.
+[01:24:16] [Client thread/INFO]: [CHAT] §e[NPC] §9Gwendolyn§f: §fI don't really have a sweet tooth, but chocolate is probably my favorite thing in this world. But the supply is really poor mostly because of the mines' lack of accessibility.
+[01:24:17] [Client thread/INFO]: [CHAT] §e[NPC] §aGuy§f: §fHeard you may got some mushrooms...I've been looking for some...
+[01:24:20] [Client thread/INFO]: [CHAT] You can't build next to the barn!
+[01:24:25] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:24:25] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Enchanted Brown Mushroom Block for 412,670 coins!
+[01:24:30] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:24:30] [Client thread/INFO]: [CHAT] [Bazaar] Bought 450x Enchanted Cocoa Beans for 268,605 coins!
+[01:24:37] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:24:37] [Client thread/INFO]: [CHAT] [Bazaar] Bought 131x Enchanted Pumpkin for 210,124 coins!
+[01:24:38] [Client thread/INFO]: [CHAT] Guild > ThePietz joined.
+[01:24:40] [Client thread/INFO]: [CHAT] You summoned your Chicken!
+[01:24:41] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Guy (UNCOMMON)
+[01:24:41] [Client thread/INFO]: [CHAT] 
+[01:24:41] [Client thread/INFO]: [CHAT]   REWARDS
+[01:24:41] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[01:24:41] [Client thread/INFO]: [CHAT]     +12k Farming XP
+[01:24:41] [Client thread/INFO]: [CHAT]     +31 Copper
+[01:24:41] [Client thread/INFO]: [CHAT]     +10 Bits
+[01:24:41] [Client thread/INFO]: [CHAT] 
+[01:24:41] [Client thread/INFO]: [CHAT] §e[NPC] §aGuy§f: §fThank ya man, I knew I could trust you! These will come in good use!
+[01:24:43] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Gwendolyn (RARE)
+[01:24:43] [Client thread/INFO]: [CHAT] 
+[01:24:43] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[01:24:43] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[01:24:43] [Client thread/INFO]: [CHAT]     +17k Farming XP
+[01:24:43] [Client thread/INFO]: [CHAT]     +49 Copper
+[01:24:43] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[01:24:43] [Client thread/INFO]: [CHAT]     §7§8+§2Crystal Hollows Pass
+[01:24:43] [Client thread/INFO]: [CHAT] 
+[01:24:43] [Client thread/INFO]: [CHAT] §e[NPC] §9Gwendolyn§f: §fAmazing! I haven't eaten such chocolatey goodness in a long time...Maybe they should invest in that rusty old lift.
+[01:24:46] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Fear Mongerer (UNCOMMON)
+[01:24:46] [Client thread/INFO]: [CHAT] 
+[01:24:46] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[01:24:46] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[01:24:46] [Client thread/INFO]: [CHAT]     +4.7k Farming XP
+[01:24:46] [Client thread/INFO]: [CHAT]     +17 Copper
+[01:24:46] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[01:24:46] [Client thread/INFO]: [CHAT]     §7§aGreen Candy
+[01:24:46] [Client thread/INFO]: [CHAT] 
+[01:24:46] [Client thread/INFO]: [CHAT] §e[NPC] §aFear Mongerer§f: §fMay your destiny be ridded with fortune.
+[01:24:52] [Client thread/INFO]: [CHAT] You sold Red Mushroom x2 for 20 Coins!
+[01:24:53] [Client thread/INFO]: [CHAT] You sold Red Mushroom x64 for 640 Coins!
+[01:24:53] [Client thread/INFO]: [CHAT] You sold Melon x27 for 54 Coins!
+[01:24:53] [Client thread/INFO]: [CHAT] You sold Brown Mushroom x26 for 260 Coins!
+[01:24:53] [Client thread/INFO]: [CHAT] You sold Enchanted Melon x4 for 1,280 Coins!
+[01:24:54] [Client thread/INFO]: [CHAT] You sold Melon x64 for 128 Coins!
+[01:24:56] [Client thread/INFO]: [CHAT] Teleported you to Plot - L1!
+[01:25:00] [Client thread/INFO]: [CHAT] §eYou received §a12x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[01:25:01] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:25:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] Loaded Nether Wart milestone data from tab list!
+[01:25:05] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:05] [Client thread/INFO]: [CHAT]                            Top Guild Experience                            08/08/2024 (today)
+[01:25:05] [Client thread/INFO]: [CHAT] 1. [MVP+] Jagwire_ 61,519 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 2. [VIP+] TheDonLover 47,131 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 3. [VIP+] YouLoveMe 46,103 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 4. [MVP+] SoutifDeLuxe 41,329 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 5. Adidani 39,168 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 6. [VIP] VP8 36,424 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 7. [VIP+] Quantazy 35,463 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 8. [MVP+] PM_ME_MEMES 33,323 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 9. [MVP+] ThePietz 33,147 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] 10. [VIP] UltimateOP 32,770 Guild Experience
+[01:25:05] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - The End
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bMonkefromrussia §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[01:25:13] [Client thread/ERROR]: Signature is missing from textures payload
+[01:25:27] [Client thread/INFO]: [CHAT] Warping...
+[01:25:28] [Client thread/INFO]: [CHAT] Sending to server mini151N...
+[01:25:28] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:25:28] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini151N', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[01:25:28] [Client thread/INFO]: [CHAT]        
+[01:25:31] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:25:31] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:25:32] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[01:25:33] [Client thread/INFO]: [CHAT] Sending to server mini92AT...
+[01:25:33] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:25:33] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini92AT', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:25:33] [Client thread/INFO]: [CHAT]        
+[01:25:36] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:25:36] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:25:38] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[01:25:38] [Client thread/INFO]: [CHAT] Sending to server mini67BE...
+[01:25:39] [Client thread/INFO]: [CHAT]        
+[01:25:39] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:25:39] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini67BE', serverType='SKYBLOCK', lobbyName='null', mode='combat_3', map='The End'} VersionedPacket{version=1}
+[01:25:42] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[01:25:42] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[01:25:51] [Client thread/INFO]: [CHAT] Warped to Void Sepulture!
+[01:26:38] [Client thread/INFO]: [CHAT] [268] ? §b[MVP§d+§b] INFERNALDYE§f: xvnqqs how much ehp are you
+[01:26:39] [Client thread/INFO]: [CHAT]  ? Milian_potatoBOI was killed by Zealot.
+[01:26:40] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:26:45] [Client thread/INFO]: [CHAT] [261] ? §a[VIP] xvnqqs§f: 42k
+[01:26:49] [Client thread/INFO]: [CHAT] [261] ? §a[VIP] xvnqqs§f: ik its low
+[01:26:53] [Client thread/INFO]: [CHAT] Warped to The End!
+[01:27:04] [Client thread/INFO]: [CHAT]  ? Notakungz was killed by Nest Endermite.
+[01:27:04] [Client thread/INFO]: [CHAT]  ? KingKayD was killed by Zealot.
+[01:27:11] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:27:11] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:27:13] [Client thread/INFO]: [CHAT] [261] ? §a[VIP] xvnqqs§f: i have refregirate 4 on my cp
+[01:27:24] [Client thread/INFO]: [CHAT] You earned 3 GEXP + 103 Event EXP from playing SkyBlock!
+[01:27:39] [Client thread/INFO]: [CHAT] +5 Kill Combo +3? Magic Find
+[01:27:39] [Client thread/INFO]: [CHAT] RARE DROP! Ender Necklace (+228% ? Magic Find)
+[01:27:44] [Client thread/INFO]: [CHAT] You sold Ender Necklace x1 for 10,000 Coins!
+[01:27:47] [Client thread/INFO]: [CHAT] Your Kill Combo has expired! You reached a 9 Kill Combo!
+[01:28:19] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K joined.
+[01:28:22] [SkyblockAddons - #9/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:28:22] [SkyblockAddons - #9/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:28:22] [SkyblockAddons - #9/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:28:22] [SkyblockAddons - #9/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:28:35] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[01:28:36] [Client thread/INFO]: [CHAT] Sending to server mini241T...
+[01:28:36] [Netty Client IO #12/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:28:37] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini241T', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:28:37] [Client thread/INFO]: [CHAT]        
+[01:28:40] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:28:40] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:28:53] [Client thread/ERROR]: Signature is missing from textures payload
+[01:28:53] [Client thread/ERROR]: Signature is missing from textures payload
+[01:28:53] [Netty Client IO #12/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[01:28:53] [Client thread/INFO]: Applying holder lookups
+[01:28:53] [Client thread/INFO]: Holder lookups applied
+[01:28:54] [Client thread/ERROR]: Signature is missing from textures payload
+[01:28:54] [Client thread/ERROR]: Signature is missing from textures payload
+[01:28:54] [Netty Client IO #17/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:28:54] [Netty Client IO #16/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:28:54] [Client thread/INFO]: Stopping!
+[01:28:54] [Client thread/INFO]: SoundSystem shutting down...
+[01:28:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

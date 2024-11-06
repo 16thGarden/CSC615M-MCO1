@@ -1,0 +1,7 @@
+[00:24:39] [Thread-691/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[00:24:39] [Thread-691/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1728404679742
+[00:25:57] [Client thread/ERROR]: Signature is missing from textures payload
+[00:25:57] [Client thread/ERROR]: Signature is missing from textures payload
+[00:25:57] [Client thread/INFO]: Stopping!
+[00:25:57] [Client thread/INFO]: SoundSystem shutting down...
+[00:25:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

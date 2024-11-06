@@ -1,0 +1,122 @@
+[20:16:13] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[20:16:14] [main/WARN]: Warnings were found!
+ - Mod 'CIT Resewn' (citresewn) 1.1.4+1.20.4 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[20:16:14] [main/INFO]: Loading 74 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- citresewn 1.1.4+1.20.4
+	   \-- citresewn-defaults 1.1.4+1.20.4
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- nvidium 0.2.6-beta
+	- rebind_narrator 2.0.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[20:16:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[20:16:15] [main/INFO]: Compatibility level set to JAVA_17
+[20:16:15] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[20:16:15] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[20:16:18] [main/WARN]: Found newer Essential Loader (stage2) version 1.6.0 [stable], skipping at user request
+[20:16:18] [main/INFO]: Starting Essential Loader (stage2) version 1.4.1+fabric-1.20.4 (9cbd42842e1a0f4db9463ba79962010f) [stable]
+[20:16:19] [main/INFO]: Starting Essential v1.3.1.3 (#88238d7752) [stable]
+[20:16:19] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[20:16:19] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[20:16:19] [main/INFO]: Java Info: mixed mode
+[20:16:19] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.21.26
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx4G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[20:16:19] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[20:16:20] [main/INFO]: Searching for graphics cards...
+[20:16:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[20:16:20] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[20:16:20] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[20:16:20] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[20:16:20] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[20:16:27] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000

@@ -1,0 +1,14 @@
+[10:54:54] [Client thread/WARN]: Skipping bad option: lastServer:
+[10:54:54] [Client thread/WARN]: Skipping bad option: streamPreferredServer:
+[10:54:54] [Client thread/INFO]: LWJGL Version: 2.9.4
+[10:54:55] [Client thread/INFO]: Reloading ResourceManager: Default
+[10:54:55] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:54:55] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[10:54:55] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:54:55] [Thread-3/INFO]: OpenAL initialized.
+[10:54:56] [Sound Library Loader/INFO]: Sound engine started
+[10:54:57] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[10:54:58] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[11:00:06] [Client thread/INFO]: Stopping!
+[11:00:06] [Client thread/INFO]: SoundSystem shutting down...
+[11:00:06] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

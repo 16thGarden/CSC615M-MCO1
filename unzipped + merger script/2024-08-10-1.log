@@ -1,0 +1,1092 @@
+[00:03:31] [Netty Client IO #17/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:03:31] [Netty Client IO #19/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:03:32] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:03:33] [Netty Client IO #20/INFO]: Server FML protocol version 1, no additional data received
+[00:03:33] [Netty Client IO #20/INFO]: Server protocol version 1
+[00:03:33] [Netty Client IO #20/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:03:34] [Netty Client IO #20/INFO]: Injecting existing block and item data into this client instance
+[00:03:34] [Netty Client IO #20/INFO]: Applying holder lookups
+[00:03:34] [Netty Client IO #20/INFO]: Holder lookups applied
+[00:03:34] [Netty Client IO #20/INFO]: [Netty Client IO #20] Client side modded connection established
+[00:03:34] [Netty Client IO #20/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:03:34] [Netty Client IO #20/INFO]: DungeonRooms: Packet Handler added
+[00:03:35] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:03:35] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:03:35] [Client thread/INFO]: [CHAT]                          
+[00:03:35] [Client thread/INFO]: [CHAT] ? You earned 30 Mystery Dust!
+[00:03:36] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:03:37] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:03:37] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby15A', serverType='MAIN', lobbyName='lobby5', mode='null', map='null'} VersionedPacket{version=1}
+[00:03:38] [Client thread/INFO]: [CHAT] §b[MVP§4+§b] amdumb§f §6joined the lobby!
+[00:03:38] [Thread-1703/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:03:38] [Thread-1703/INFO]: DungeonRooms: Checking for updates...
+[00:03:38] [Thread-1703/INFO]: DungeonRooms: No update found
+[00:03:38] [Thread-1703/INFO]: DungeonRooms: Getting MOTD...
+[00:03:39] [Thread-1703/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$841/1823078534.run(Unknown Source)
+[00:03:39] [Thread-1703/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:03:39] [Thread-1703/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:03:39] [Client thread/INFO]: [CHAT] §b[MVP§e+§b] Radio_Blu§f §6joined the lobby!
+[00:03:40] [Client thread/INFO]: [CHAT] Sending you to a game of Murder Mystery!
+[00:03:40] [Client thread/INFO]: [CHAT] Sending you to mini148AK!
+[00:03:40] [Client thread/INFO]: [CHAT]        
+[00:03:40] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:03:40] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini148AK', serverType='MURDER_MYSTERY', lobbyName='null', mode='MURDER_INFECTION', map='Villa'} VersionedPacket{version=1}
+[00:03:40] [Client thread/INFO]: [CHAT] The game is starting in 2 seconds!
+[00:03:40] [Client thread/INFO]: [CHAT] 16thGarden has joined (16/16)!
+[00:03:40] [Client thread/INFO]: [CHAT] The game starts in 2 seconds!
+[00:03:41] [Client thread/INFO]: [CHAT] The game starts in 1 second!
+[00:03:45] [Client thread/INFO]: [CHAT]                          
+[00:03:45] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:03:45] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby29H', serverType='MURDER_MYSTERY', lobbyName='mmlobby1', mode='null', map='null'} VersionedPacket{version=1}
+[00:03:49] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] TheFYD§f §6joined the lobby!
+[00:03:52] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] rrapido§f §6joined the lobby!
+[00:03:55] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] Hoshiakari§f §6joined the lobby!
+[00:03:57] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] Domiinicc§f §6joined the lobby!
+[00:03:59] [Texture Downloader #1988/ERROR]: Couldn't download http texture: java.net.ConnectException: Connection timed out: connect
+[00:04:00] [Client thread/INFO]: [CHAT]  §b>§c>§a>§r §6[MVP§2++§6] Dark3ned§f §6joined the lobby! §a<§c<§b<
+[00:04:19] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] neneuokias§f §6joined the lobby!
+[00:04:22] [Client thread/INFO]: [CHAT]                          
+[00:04:23] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:04:23] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby14G', serverType='PROTOTYPE', lobbyName='prototypelobby4', mode='null', map='null'} VersionedPacket{version=1}
+[00:04:25] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:04:26] [Client thread/INFO]: [CHAT] Sending to server mini144CK...
+[00:04:26] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:04:26] [Client thread/INFO]: [CHAT]        
+[00:04:26] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini144CK', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[00:04:26] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:04:26] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:04:29] [Client thread/INFO]: [CHAT] 
+[00:04:29] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:04:29] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[00:04:29] [Client thread/INFO]: [CHAT] 
+[00:04:29] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[00:04:29] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:04:29] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:04:35] [Client thread/INFO]: [CHAT] Finding player...
+[00:04:37] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:04:38] [Client thread/INFO]: [CHAT] Sending to server mini12W...
+[00:04:38] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:04:38] [Client thread/INFO]: [CHAT]        
+[00:04:38] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini12W', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:04:39] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:04:41] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:04:41] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:04:42] [Client thread/INFO]: [CHAT] Sending to server mini1012B...
+[00:04:42] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:04:43] [DefaultDispatcher-worker-2/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini1012B, serverTime=243000, type=KhazadDum, x=467, y=66, z=111)
+[00:04:43] [DefaultDispatcher-worker-2/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini1012B, serverTime=236020, type=GoblinQueensDen, x=210, y=133, z=374)
+[00:04:43] [DefaultDispatcher-worker-2/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini1012B, serverTime=246020, type=Corleone, x=460, y=99, z=268)
+[00:04:43] [DefaultDispatcher-worker-2/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini1012B, serverTime=279020, type=MinesOfDivan, x=614, y=170, z=279)
+[00:04:43] [DefaultDispatcher-worker-2/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini1012B, serverTime=249000, type=LostPrecursorCity, x=448, y=95, z=430)
+[00:04:43] [DefaultDispatcher-worker-2/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini1012B, serverTime=219020, type=JungleTemple, x=248, y=123, z=250)
+[00:04:43] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini1012B', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:04:43] [Client thread/INFO]: [CHAT]        
+[00:04:43] [Client thread/INFO]: [CHAT] Guild > JPGomdol joined.
+[00:04:48] [Client thread/INFO]: [CHAT] This ability is on cooldown for 3s.
+[00:04:49] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:04:49] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:04:49] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.
+[00:04:51] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:04:51] [Client thread/INFO]: [CHAT]                           2X POWDER STARTED!
+[00:04:51] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:04:51] [Client thread/INFO]: [CHAT]                                         
+[00:04:51] [Client thread/INFO]: [CHAT]         Everybody gets twice as much powder of all types!
+[00:04:51] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:04:57] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on top of some Gold Ore!
+[00:04:58] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fAngus §7(§F§LCOMMON§7)!
+[00:04:58] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+4,837,416 Chocolate
+[00:04:58] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:05:07] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:05:07] [Client thread/INFO]: [CHAT] 16thGarden invited JPGomdol to the party! They have 60 seconds to accept.
+[00:05:07] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:05:13] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg on a ledge next to the stairwell!
+[00:05:13] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fRiley §7(§F§LCOMMON§7)!
+[00:05:13] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+4,521,245 Chocolate
+[00:05:13] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:05:21] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg on the arms of the Amethyst statue!
+[00:05:21] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aLulu §7(§A§LUNCOMMON§7)!
+[00:05:21] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+9,042,491 Chocolate
+[00:05:21] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:05:26] [Client thread/INFO]: [CHAT] Guild > IMainFishing left.
+[00:05:28] [Client thread/INFO]: [CHAT] Rabbit Granny has been promoted to [164] Manager!
+[00:05:30] [Client thread/INFO]: [CHAT] Rabbit Bro has been promoted to [197] Director!
+[00:05:33] [Client thread/INFO]: [CHAT]  ? Classic_Mushroom was killed by Kalhuiki Tribe Member.
+[00:05:44] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:05:51] [Client thread/INFO]: [CHAT] [341] §b[MVP§2+§b] Kaprrr §7?§f: HOPPITY'S HUNT You found Shadow (LEGENDARY)!DUPLICATE RABBIT! +194,987,081 Chocolate
+[00:05:55] [Client thread/INFO]: [CHAT] [203] ? §6[MVP§8++§6] Ophiliah§f: F
+[00:06:04] [Client thread/INFO]: [CHAT] You earned 1 GEXP + 45 Event EXP from playing SkyBlock!
+[00:06:04] [Client thread/INFO]: [CHAT] [329] 16thGarden: who wants to give me coins
+[00:06:07] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:07] [Client thread/INFO]: [CHAT] The party invite to JPGomdol has expired.
+[00:06:07] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:07] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:07] [Client thread/INFO]: [CHAT] The party was disbanded because all invites expired and the party was empty.
+[00:06:07] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:06:12] [Client thread/INFO]: [CHAT] [181] §b[MVP§d+§b] obeseredditor §7?§f: no one
+[00:06:17] [Client thread/INFO]: [CHAT] [181] §b[MVP§d+§b] obeseredditor §7?§f: broke boy
+[00:06:17] [Client thread/INFO]: [CHAT] [329] 16thGarden: :(
+[00:06:42] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:06:55] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aHub §e§lFOLLOW
+[00:07:01] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg in the middle of the Crystal Nucleus!
+[00:07:02] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aBilbo §7(§A§LUNCOMMON§7)!
+[00:07:02] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+9,052,712 Chocolate
+[00:07:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:07:04] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aHub §e§lFOLLOW
+[00:07:25] [Client thread/INFO]: [CHAT] Guild > Scribbler left.
+[00:08:10] [Client thread/ERROR]: Signature is missing from textures payload
+[00:09:00] [Client thread/INFO]: [CHAT] Guild > junior_v2 joined.
+[00:09:05] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b3m 24s§e.
+[00:09:14] [Client thread/INFO]: [CHAT] Guild > junior_v2 left.
+[00:10:27] [Client thread/INFO]: [CHAT] Guild > QuiteShrewd left.
+[00:11:09] [Client thread/INFO]: [CHAT] You earned 7 GEXP + 296 Event EXP from playing SkyBlock!
+[00:11:52] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe joined.
+[00:12:15] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[00:12:28] [Client thread/INFO]: [CHAT] Guild > Quantazy left.
+[00:12:33] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:12:34] [Client thread/INFO]: [CHAT] Guild > Quantazy joined.
+[00:12:34] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: jerman
+[00:13:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: guys
+[00:13:41] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: ?
+[00:13:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: would u say the the new magma lord helm skin will be over 400m ?
+[00:13:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: at release
+[00:13:58] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: does it look good?
+[00:14:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: not a chance in hell
+[00:14:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: not even close
+[00:14:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: ye
+[00:14:03] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aHub §e§lFOLLOW
+[00:14:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: no way
+[00:14:06] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: then Maybe
+[00:14:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: how much would it be
+[00:14:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: like what range
+[00:14:10] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: it looks ugly for me
+[00:14:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: like 80m
+[00:14:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: 80m ??
+[00:14:18] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: like 100-120m maybe
+[00:14:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: bruh its 20$
+[00:14:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: its worth 1800 gems
+[00:14:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: 150-200m after 1 or 2 days
+[00:14:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: ok ye im just gonna stick with buying dyes ig
+[00:14:33] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 joined.
+[00:14:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§4+§b] Its_Krios §3[MANIAC]§f: i think itll go like the griffin skin
+[00:14:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: you wanna make profit in 1 day?
+[00:14:58] [Client thread/INFO]: [CHAT] Guild > JPGomdol left.
+[00:15:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] FadiU §3[BABY]§f: ye why not
+[00:15:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] Jagwire_ §3[HYDRA]§f: dumbest way to make profit with skins
+[00:15:32] [Client thread/INFO]: [CHAT] Guild > notCube left.
+[00:15:56] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K joined.
+[00:17:48] [Client thread/INFO]: [CHAT] [51] §7That_Thicc_§7: who knows where key guardian is
+[00:17:55] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 left.
+[00:18:28] [Client thread/INFO]: [CHAT] Guild > VeryInterestings left.
+[00:18:36] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:18:36] [SkyblockAddons - #6/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:18:36] [SkyblockAddons - #6/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:19:12] [Client thread/INFO]: [CHAT] §6[Auction] §bhthg §ebought §fFabled Vorpal Katana §efor §615,666,666 coins §lCLICK
+[00:19:48] [Client thread/INFO]: [CHAT] Warping...
+[00:19:48] [Client thread/INFO]: [CHAT] Sending to server mini13BK...
+[00:19:48] [Client thread/INFO]: [CHAT]        
+[00:19:50] [Netty Client IO #20/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:19:50] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini13BK', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:19:58] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:20:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cCan not read profile name from tab list! Open /widget and enable Profile Widget. This is needed for the mod to function! And therefore this warning cannot be disabled
+[00:20:02] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:20:07] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cCan not read profile name from tab list! Open /widget and enable Profile Widget. This is needed for the mod to function! And therefore this warning cannot be disabled
+[00:20:09] [Client thread/ERROR]: Signature is missing from textures payload
+[00:20:09] [Client thread/ERROR]: Signature is missing from textures payload
+[00:20:10] [Client thread/ERROR]: Signature is missing from textures payload
+[00:20:10] [Client thread/ERROR]: Signature is missing from textures payload
+[00:20:11] [Netty Client IO #20/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:20:11] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:20:11] [Client thread/INFO]: Applying holder lookups
+[00:20:11] [Client thread/INFO]: Holder lookups applied
+[00:20:12] [Netty Client IO #23/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:20:12] [Netty Client IO #0/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:20:12] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:20:14] [Netty Client IO #2/INFO]: Server FML protocol version 1, no additional data received
+[00:20:14] [Netty Client IO #2/INFO]: Server protocol version 1
+[00:20:14] [Netty Client IO #2/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:20:15] [Netty Client IO #2/INFO]: Injecting existing block and item data into this client instance
+[00:20:15] [Netty Client IO #2/INFO]: Applying holder lookups
+[00:20:15] [Netty Client IO #2/INFO]: Holder lookups applied
+[00:20:15] [Netty Client IO #2/INFO]: [Netty Client IO #2] Client side modded connection established
+[00:20:15] [Netty Client IO #2/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:20:15] [Netty Client IO #2/INFO]: DungeonRooms: Packet Handler added
+[00:20:16] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:20:16] [Client thread/INFO]: [CHAT] Couldn't connect you to that server, so you were put in the Murder Mystery lobby!
+[00:20:16] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:20:16] [Client thread/INFO]: [CHAT]                          
+[00:20:16] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:20:16] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby28G', serverType='MURDER_MYSTERY', lobbyName='mmlobby3', mode='null', map='null'} VersionedPacket{version=1}
+[00:20:16] [DefaultDispatcher-worker-16/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:20:19] [Thread-1941/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:20:19] [Thread-1941/INFO]: DungeonRooms: Checking for updates...
+[00:20:20] [Thread-1941/INFO]: DungeonRooms: No update found
+[00:20:20] [Thread-1941/INFO]: DungeonRooms: Getting MOTD...
+[00:20:20] [Thread-1941/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$841/1823078534.run(Unknown Source)
+[00:20:20] [Thread-1941/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:20:20] [Thread-1941/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:20:20] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] NotNothing0§f §6joined the lobby!
+[00:20:23] [Client thread/INFO]: [CHAT] Unknown command. Type "help" for help. ('looby prototype')
+[00:20:26] [Client thread/INFO]: [CHAT] §b[MVP§e+§b] Nishi_Katashi§f §6joined the lobby!
+[00:20:29] [Client thread/INFO]: [CHAT]                          
+[00:20:29] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:20:29] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby35E', serverType='PROTOTYPE', lobbyName='prototypelobby2', mode='null', map='null'} VersionedPacket{version=1}
+[00:20:30] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] Kappa101§f §6joined the lobby!
+[00:20:31] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] Cavern§f §6joined the lobby!
+[00:20:31] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] Peparimov§f §6joined the lobby!
+[00:20:32] [Client thread/INFO]: [CHAT] §b[MVP§9+§b] girsh§f §6joined the lobby!
+[00:20:33] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:20:33] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] HypeBeanie§f §6joined the lobby!
+[00:20:33] [Client thread/INFO]: [CHAT] §b[MVP§e+§b] derp_mask§f §6joined the lobby!
+[00:20:33] [Client thread/INFO]: [CHAT] Sending to server mini195T...
+[00:20:34] [Client thread/INFO]: [CHAT]        
+[00:20:34] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:20:34] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini195T', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:20:37] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:20:37] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:20:53] [Client thread/INFO]: [CHAT] 
+[00:20:53] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:20:53] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[00:20:53] [Client thread/INFO]: [CHAT] 
+[00:20:53] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[00:20:53] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:20:53] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:20:55] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:20:55] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K left.
+[00:21:34] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:22:31] [Client thread/INFO]: [CHAT] [126] §7retslopess§7: ;
+[00:22:35] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:22:35] [SkyblockAddons - #7/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:22:35] [SkyblockAddons - #7/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:24:13] [Client thread/INFO]: [CHAT] Guild > IMainFishing joined.
+[00:24:41] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.
+[00:24:43] [Client thread/INFO]: [CHAT] You earned 3 GEXP + 161 Event EXP from playing SkyBlock!
+[00:25:51] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: SACRIFICE! You turned Ender Leggings into 3 Dragon Essence! [2]
+[00:25:55] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: BONUS LOOT! You also received Summoning Eye from your sacrifice!
+[00:25:58] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: Free 1m lel
+[00:26:42] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:26:53] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage10.
+[00:26:53] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:26:53] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:27:00] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[00:27:00] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:27:00] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:27:23] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage10.
+[00:27:23] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:27:23] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:28:00] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[00:28:00] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:28:00] [SkyblockAddons - #8/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:28:47] [Client thread/INFO]: [CHAT]  ? Mertany was killed by Crypt Ghoul.
+[00:29:17] [Client thread/INFO]: [CHAT] Guild > IMainFishing left.
+[00:29:45] [Client thread/INFO]: [CHAT] Guild > VP8 joined.
+[00:29:45] [Client thread/INFO]: [CHAT] You earned 4 GEXP + 211 Event EXP from playing SkyBlock!
+[00:30:37] [Client thread/INFO]: [CHAT]  ? Mertany was killed by Crypt Ghoul.
+[00:31:28] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:31:28] [SkyblockAddons - #9/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:31:28] [SkyblockAddons - #9/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:32:32] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:33:29] [Client thread/INFO]: [CHAT] Guild > QuiteShrewd joined.
+[00:34:28] [Client thread/INFO]: [CHAT] Guild > notCube joined.
+[00:34:49] [Client thread/INFO]: [CHAT] You earned 4 GEXP + 215 Event EXP from playing SkyBlock!
+[00:35:07] [pool-5-thread-9/INFO]: Mixing accessors.AccessorSettingsGui from mixins.skytils.json into gg.skytils.vigilance.gui.SettingsGui
+[00:36:09] [Client thread/INFO]: [CHAT] Unknown command. Type "/help" for help. ('at')
+[00:36:24] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: PET DROP! RARE Enderman (+171% ? Magic Find)
+[00:36:27] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: FUCK YOU GAMEEEEEE
+[00:36:38] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: THATS THE 3RD ONE I DON'T  WANT RARE ENDERMEN
+[00:36:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] PM_ME_MEMES §3[MANIAC]§f: rookie numbers
+[00:36:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] _Uncraftable_ §3[BABY]§f: skill issue
+[00:36:56] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:36:56] [SkyblockAddons - #10/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:36:56] [SkyblockAddons - #10/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:36:57] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:36:57] [SkyblockAddons - #10/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:36:57] [SkyblockAddons - #10/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:36:59] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: only 1.7k kills bro
+[00:37:02] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:37:02] [SkyblockAddons - #10/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:37:02] [SkyblockAddons - #10/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:37:09] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: i just started doing endermen for Dragon essences from  Ender armor
+[00:37:13] [Client thread/INFO]: [CHAT] Sending to server mini205C...
+[00:37:13] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:37:14] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini205C', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:37:14] [Client thread/INFO]: [CHAT]        
+[00:37:17] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:37:17] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:37:56] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:37:56] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1,280x Starfall for 2,388,266 coins!
+[00:38:02] [Client thread/INFO]: [CHAT] Warping...
+[00:38:02] [Client thread/INFO]: [CHAT] Sending to server mini76BJ...
+[00:38:02] [Client thread/INFO]: [CHAT]        
+[00:38:03] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:38:03] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini76BJ', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[00:38:07] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:38:16] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:38:16] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:39:03] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:39:21] [Client thread/INFO]: [CHAT]  ? MikeWolf6 was killed by Glacite Walker.
+[00:40:52] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:40:57] [Client thread/INFO]: [CHAT] Guild > junior_v2 joined.
+[00:41:04] [Client thread/INFO]: [CHAT] You earned 6 GEXP + 220 Event EXP from playing SkyBlock!
+[00:41:18] [Client thread/INFO]: [CHAT] Guild > junior_v2 left.
+[00:42:06] [Client thread/INFO]: [CHAT]  ? slugs666 was killed by Ghost.
+[00:42:41] [Client thread/INFO]: [CHAT] Finding player...
+[00:42:42] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:42:42] [Client thread/INFO]: [CHAT] Sending to server mini12W...
+[00:42:43] [Client thread/INFO]: [CHAT]        
+[00:42:43] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:42:43] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini12W', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:42:50] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:42:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:42:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:42:57] [Client thread/INFO]: [CHAT] Sending to server mini73CP...
+[00:42:58] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:42:58] [Client thread/INFO]: [CHAT]        
+[00:42:58] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini73CP', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:43:02] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:43:02] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:43:26] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:43:29] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg near the Diamond Essence Shop!
+[00:43:30] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §9Figaro §7(§9§LRARE§7)!
+[00:43:30] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+22,061,854 Chocolate
+[00:43:30] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:43:37] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on a lower platform!
+[00:43:38] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §5Rambo §7(§5§LEPIC§7)!
+[00:43:38] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+10 Chocolate §7and §6+0.005x Chocolate §7per second!
+[00:43:38] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:43:45] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg at an entrance to the Magma Fields near Amethyst!
+[00:43:46] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fHopper §7(§F§LCOMMON§7)!
+[00:43:46] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+4,426,384 Chocolate
+[00:43:46] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:43:50] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [183] Director!
+[00:43:51] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!
+[00:43:57] [Client thread/INFO]: [CHAT] Rabbit Sis has been promoted to [175] Director!
+[00:43:58] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:44:21] [Client thread/INFO]: [CHAT] The wind has changed direction!§7 (2)
+[00:45:43] [Client thread/INFO]: [CHAT]  ? IAmTheHyra was killed by Kalhuiki Tribe Member.
+[00:46:25] [Client thread/INFO]: [CHAT] Guild > VP8 left.
+[00:46:42] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:47:18] [Client thread/INFO]: [CHAT] Guild > UltimateOP joined.
+[00:47:45] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.
+[00:47:46] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.
+[00:47:46] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.§7 (2)
+[00:47:50] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.§7 (2)
+[00:48:27] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.§7 (3)
+[00:48:31] [Client thread/INFO]: [CHAT] Guild > Its_Krios left.
+[00:48:33] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:48:41] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.§7 (3)
+[00:48:42] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.§7 (4)
+[00:48:44] [Client thread/INFO]: [CHAT] Guild > SuspiciousScrap joined.
+[00:48:52] [Client thread/INFO]: [CHAT] You earned 4 GEXP + 178 Event EXP from playing SkyBlock!
+[00:49:59] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.
+[00:50:00] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.
+[00:50:03] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:50:11] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.§7 (2)
+[00:50:49] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.§7 (2)
+[00:50:51] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:50:51] [SkyblockAddons - #11/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:50:51] [SkyblockAddons - #11/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:51:01] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg on a ledge next to the stairwell!
+[00:51:01] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aCassidy §7(§A§LUNCOMMON§7)!
+[00:51:01] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+8,861,082 Chocolate
+[00:51:01] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:51:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 27s§e.
+[00:51:03] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 26s§e.
+[00:51:03] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 26s§e.§7 (2)
+[00:51:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 25s§e.
+[00:51:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 25s§e.§7 (2)
+[00:51:07] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.§7 (3)
+[00:51:08] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.§7 (3)
+[00:51:18] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.§7 (4)
+[00:51:23] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:51:56] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha left.§7 (4)
+[00:51:59] [Client thread/INFO]: [CHAT] The wind has changed direction!§7 (2)
+[00:52:33] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:52:40] [Client thread/INFO]: [CHAT] §9§lSkytils §8» §eFound coordinates in a chat message, click a button to set a waypoint.
+§f[§fLost Precursor City] §a[§aJungle Temple] §e[§eGoblin Queen's Den] §9[§9Mines of Divan] §6[§6King Yolkar] §c[§cKhazad-dûm] §d[§dFairy Grotto] §b[§bCorleone] §e[Custom]
+[00:52:40] [Client thread/INFO]: [CHAT] [245] ? §b[MVP§2+§b] mcolla§f: [CW] 'IcyRetro' has griefed before. Their last grief was on Sep 11 2001. bro cole weight trippin
+[00:52:42] [Client thread/INFO]: [CHAT] You sold Flint Arrow x62 for 124 Coins!
+[00:52:43] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[00:52:44] [Client thread/INFO]: [CHAT] Sending to server mini68DQ...
+[00:52:45] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:52:45] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini68DQ', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:52:45] [Client thread/INFO]: [CHAT]        
+[00:52:49] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:52:49] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:53:29] [Client thread/INFO]: [CHAT] Warping...
+[00:53:29] [Client thread/INFO]: [CHAT] Sending to server mini99F...
+[00:53:29] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:53:30] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini99F', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:53:30] [Client thread/INFO]: [CHAT]        
+[00:53:34] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:53:39] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:53:39] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:54:30] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:54:30] [Client thread/INFO]: [CHAT] Sending to server mini92AF...
+[00:54:30] [Netty Client IO #2/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:54:31] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini92AF', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:54:31] [Client thread/INFO]: [CHAT]        
+[00:54:35] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:54:35] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:54:45] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini73CP, serverTime=65020, type=MinesOfDivan, x=424, y=135, z=209)
+[00:55:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:55:01] [Client thread/INFO]: [CHAT] You collected 118,000 coins from selling Fairy's Galoshes to [VIP] _a_s_d_f_ in an auction!
+[00:55:01] [Client thread/INFO]: [CHAT] 16thGarden collected an auction for 118,000 coins!
+[00:55:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:55:01] [Client thread/INFO]: [CHAT] You collected 888,888 coins from selling Fairy's Fedora to [VIP] _ItzEli in an auction!
+[00:55:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:55:01] [Client thread/INFO]: [CHAT] 16thGarden collected an auction for 888,888 coins!
+[00:55:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:55:13] [Client thread/INFO]: [CHAT] Guild > tiedsinger left.
+[00:55:31] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:57:53] [Client thread/INFO]: [CHAT] Guild > Jagwire_ left.
+[00:57:57] [Client thread/INFO]: [CHAT] Guild > Quantazy left.
+[00:58:44] [Client thread/INFO]: [CHAT] Guild > UltimateOP joined.
+[00:58:45] [Client thread/INFO]: [CHAT] Guild > KnownAsBasha joined.
+[00:58:46] [Client thread/INFO]: [CHAT] Guild > UltimateOP left.
+[00:58:46] [Client thread/INFO]: [CHAT] Guild > UltimateOP left.§7 (2)
+[00:58:50] [Client thread/INFO]: [CHAT] Guild > 1monstras1 left.
+[00:59:32] [Client thread/INFO]: [CHAT] You earned 5 GEXP + 265 Event EXP from playing SkyBlock!
+[00:59:46] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bMonkefromrussia §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:59:48] [Client thread/INFO]: [CHAT] Guild > UltimateOP joined.
+[00:59:49] [Client thread/INFO]: [CHAT] Guild > UltimateOP left.
+[00:59:50] [Client thread/INFO]: [CHAT] Guild > UltimateOP joined.§7 (2)
+[00:59:55] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[00:59:56] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[00:59:58] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[01:00:08] [Client thread/INFO]: [CHAT] You summoned your Magma Cube!
+[01:00:18] [Client thread/INFO]: [CHAT] You summoned your Jerry!
+[01:00:27] [Client thread/INFO]: [CHAT] You summoned your Magma Cube!§7 (2)
+[01:01:40] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: how do you get coal collection fast
+[01:01:40] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: minions
+[01:01:42] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: or even faster
+[01:01:45] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: without minions
+[01:01:46] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: crystal hollows mining
+[01:01:53] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: where in crystal hollows
+[01:01:55] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: with coleweight mod thingy
+[01:01:58] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: random veins
+[01:02:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§5+§b] SoutifDeLuxe §3[MOD]§f: just powder mine
+[01:02:02] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: or something
+[01:02:02] [DefaultDispatcher-worker-1/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini73CP, serverTime=74000, type=LostPrecursorCity, x=549, y=82, z=472)
+[01:02:02] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: i see
+[01:02:21] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: should be way easier if u have gauntlent
+[01:02:27] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: divan armor is forging it will take 14 more hours
+[01:02:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: i got a gauntlet
+[01:02:34] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: noiceeeee
+[01:03:35] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: should i be mining in glacite lol
+[01:03:43] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[01:03:44] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: not for coal i don't think
+[01:03:44] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[01:03:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: i sold ghost armor already lol
+[01:03:47] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[01:03:48] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[01:03:59] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: sorrow*
+[01:04:04] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: yeah whatever
+[01:04:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] UltimateOP §3[EGG]§f: same shit
+[01:04:14] [Client thread/INFO]: [CHAT] §2Guild > §7KnownAsBasha §3[EGG]§f: :Unamused;
+[01:04:33] [Client thread/INFO]: [CHAT] You earned 6 GEXP + 255 Event EXP from playing SkyBlock!
+[01:04:50] [WebSocketConnectReadThread-1609/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 3h 20m 13.626s
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[01:04:50] [Netty Client IO #2/ERROR]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[01:04:50] [Netty Client IO #2/ERROR]: Network Exception Caught
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[01:04:50] [Netty Client IO #2/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:04:50] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: java.net.UnknownHostException: sessionserver.mojang.com
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.Socket.connect(Socket.java:589)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:153)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:42)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:152)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693)
+[01:04:50] [DefaultDispatcher-worker-8/WARN]: Got unexpected reply from Mojang: -1
+[01:04:50] [Client thread/INFO]: Applying holder lookups
+[01:04:50] [Client thread/INFO]: Holder lookups applied
+[01:04:50] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: java.net.UnknownHostException: sessionserver.mojang.com
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.Socket.connect(Socket.java:589)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:153)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:42)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:152)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706)
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693)
+[01:04:50] [DefaultDispatcher-worker-8/WARN]: Got unexpected reply from Mojang: -1
+[01:04:50] [DefaultDispatcher-worker-8/INFO]: Waiting 4s before re-trying
+[01:04:54] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: java.net.UnknownHostException: sessionserver.mojang.com
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.net.Socket.connect(Socket.java:589)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:275)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:371)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:988)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(HttpURLConnection.java:986)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:985)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:153)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:42)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:152)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:104)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706)
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: [gg.essential.util.LoginUtil:joinServer:49]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693)
+[01:04:54] [DefaultDispatcher-worker-8/WARN]: Got unexpected reply from Mojang: -1
+[01:04:54] [DefaultDispatcher-worker-8/INFO]: Waiting 8s before re-trying
+[01:05:02] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:05:02] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[01:05:04] [WebSocketConnectReadThread-8199/INFO]: Connected to Essential Connection Manager.
+[01:18:30] [Netty Client IO #4/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:18:30] [Netty Client IO #7/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:18:32] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[01:18:33] [Netty Client IO #8/INFO]: Server FML protocol version 1, no additional data received
+[01:18:33] [Netty Client IO #8/INFO]: Server protocol version 1
+[01:18:33] [Netty Client IO #8/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:18:33] [Netty Client IO #8/INFO]: Injecting existing block and item data into this client instance
+[01:18:33] [Netty Client IO #8/INFO]: Applying holder lookups
+[01:18:33] [Netty Client IO #8/INFO]: Holder lookups applied
+[01:18:34] [Netty Client IO #8/INFO]: [Netty Client IO #8] Client side modded connection established
+[01:18:34] [Netty Client IO #8/INFO]: DungeonRooms: Connecting to Hypixel...
+[01:18:34] [Netty Client IO #8/INFO]: DungeonRooms: Packet Handler added
+[01:18:35] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[01:18:35] [Client thread/INFO]: [CHAT] Couldn't connect you to that server, so you were put in the Murder Mystery lobby!
+[01:18:35] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[01:18:35] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[01:18:35] [Client thread/INFO]: [CHAT]                          
+[01:18:35] [Netty Client IO #8/ERROR]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[01:18:35] [Netty Client IO #8/ERROR]: Network Exception Caught
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[01:18:35] [Netty Client IO #8/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:18:36] [DefaultDispatcher-worker-7/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:18:36] [Client thread/INFO]: Applying holder lookups
+[01:18:36] [Client thread/INFO]: Holder lookups applied
+[01:18:38] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[01:18:38] [Thread-2371/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[01:18:38] [Thread-2371/INFO]: DungeonRooms: Checking for updates...
+[01:18:39] [Netty Client IO #10/INFO]: Server FML protocol version 1, no additional data received
+[01:18:39] [Netty Client IO #10/INFO]: Server protocol version 1
+[01:18:39] [Thread-2371/INFO]: DungeonRooms: No update found
+[01:18:39] [Thread-2371/INFO]: DungeonRooms: Getting MOTD...
+[01:18:39] [Netty Client IO #10/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:18:39] [Thread-2371/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.NullPointerException
+[01:18:39] [Thread-2371/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:246)
+[01:18:39] [Thread-2371/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$841/1823078534.run(Unknown Source)
+[01:18:39] [Thread-2371/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Thread.run(Thread.java:745)
+[01:18:39] [Netty Client IO #10/INFO]: Injecting existing block and item data into this client instance
+[01:18:39] [Netty Client IO #10/INFO]: Applying holder lookups
+[01:18:39] [Netty Client IO #10/INFO]: Holder lookups applied
+[01:18:40] [Netty Client IO #10/INFO]: [Netty Client IO #10] Client side modded connection established
+[01:18:40] [Netty Client IO #10/INFO]: DungeonRooms: Connecting to Hypixel...
+[01:18:40] [Netty Client IO #10/INFO]: DungeonRooms: Packet Handler added
+[01:18:40] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[01:18:40] [Client thread/INFO]: [CHAT] Couldn't connect you to that server, so you were put in the Murder Mystery lobby!§7 (2)
+[01:18:40] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[01:18:40] [Client thread/INFO]: [CHAT]                          
+[01:18:41] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[01:18:41] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:18:41] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby28G', serverType='MURDER_MYSTERY', lobbyName='mmlobby3', mode='null', map='null'} VersionedPacket{version=1}
+[01:18:43] [Thread-2377/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[01:18:43] [Thread-2377/INFO]: DungeonRooms: Checking for updates...
+[01:18:43] [Thread-2377/INFO]: DungeonRooms: No update found
+[01:18:43] [Thread-2377/INFO]: DungeonRooms: Getting MOTD...
+[01:18:44] [Thread-2377/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$841/1823078534.run(Unknown Source)
+[01:18:44] [Thread-2377/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[01:18:44] [Thread-2377/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[01:18:46] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:18:46] [Client thread/INFO]: [CHAT]                          
+[01:18:46] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby13E', serverType='MAIN', lobbyName='lobby1', mode='null', map='null'} VersionedPacket{version=1}
+[01:18:48] [Client thread/INFO]: [CHAT] §b[MVP§8+§b] ySweatingg§f §6joined the lobby!
+[01:18:49] [Client thread/INFO]: [CHAT] Sending to server mini185BG...
+[01:18:49] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:18:50] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini185BG', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:18:50] [Client thread/INFO]: [CHAT]        
+[01:18:50] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[01:18:50] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[01:18:52] [Client thread/INFO]: [CHAT] 
+[01:18:52] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[01:18:52] [Client thread/INFO]: [CHAT] BONUS! Temporarily earn 5% more skill experience!
+[01:18:52] [Client thread/INFO]: [CHAT] 
+[01:18:52] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.5 §e§lCLICK
+[01:18:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:18:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:18:53] [Client thread/INFO]: [CHAT] Finding player...
+[01:18:54] [Client thread/INFO]: [CHAT] Sending a visit request...
+[01:18:55] [Client thread/INFO]: [CHAT] Sending to server mini12W...
+[01:18:55] [Client thread/INFO]: [CHAT]        
+[01:18:55] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:18:55] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini12W', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:18:56] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[01:18:59] [Client thread/INFO]: [CHAT] Sending to server mini39AJ...
+[01:18:59] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:18:59] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:18:59] [Client thread/INFO]: [CHAT]        
+[01:18:59] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:18:59] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini39AJ', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[01:18:59] [DefaultDispatcher-worker-1/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini39AJ, serverTime=160000, type=KhazadDum, x=516, y=49, z=139)
+[01:18:59] [DefaultDispatcher-worker-1/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini39AJ, serverTime=188020, type=GoblinQueensDen, x=163, y=136, z=424)
+[01:18:59] [DefaultDispatcher-worker-1/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini39AJ, serverTime=183000, type=MinesOfDivan, x=389, y=70, z=259)
+[01:18:59] [DefaultDispatcher-worker-1/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini39AJ, serverTime=206020, type=LostPrecursorCity, x=471, y=117, z=481)
+[01:19:02] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[01:19:02] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[01:19:06] [Client thread/INFO]: [CHAT] You summoned your Rabbit!
+[01:19:09] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg near Geonathan Greatforge!
+[01:19:09] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fThalai §7(§F§LCOMMON§7)!
+[01:19:09] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[01:19:10] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:19:17] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg underneath the stairwell!
+[01:19:18] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §9Paddington §7(§9§LRARE§7)!
+[01:19:18] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+4 Chocolate §7and §6+0.004x Chocolate §7per second!
+[01:19:18] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:19:24] [Client thread/INFO]: [CHAT] Guild > EngeBoykie left.
+[01:19:28] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg next to a lava waterfall!
+[01:19:29] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aIrena §7(§A§LUNCOMMON§7)!
+[01:19:29] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+2 Chocolate §7and §6+0.003x Chocolate §7per second!
+[01:19:29] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:19:33] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 16s§e.
+[01:20:00] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:20:17] [Client thread/INFO]: [CHAT] You earned 33 Event EXP from playing SkyBlock!
+[01:20:20] [Client thread/INFO]: [CHAT] Rabbit Daddy has been promoted to [169] Manager!
+[01:20:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:20:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:20:27] [Netty Client IO #10/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:20:27] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:20:27] [Client thread/INFO]: Applying holder lookups
+[01:20:27] [Client thread/INFO]: Holder lookups applied
+[01:20:28] [Netty Client IO #14/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[01:20:28] [Client thread/ERROR]: Signature is missing from textures payload
+[01:20:28] [Client thread/ERROR]: Signature is missing from textures payload
+[01:20:28] [Client thread/INFO]: Stopping!
+[01:20:28] [Client thread/INFO]: SoundSystem shutting down...
+[01:20:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

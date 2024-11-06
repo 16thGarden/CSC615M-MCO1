@@ -1,0 +1,186 @@
+[00:07:39] [Render thread/INFO]: Loaded 7 recipes
+[00:07:39] [Render thread/INFO]: Loaded 1271 advancements
+[00:07:40] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.738 ms
+[00:07:40] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[00:07:40] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[00:07:40] [Server thread/INFO]: Generating keypair
+[00:07:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:07:43] [Render thread/INFO]: Preparing spawn area: 0%
+[00:07:43] [Render thread/INFO]: Preparing spawn area: 0%
+[00:07:43] [Render thread/INFO]: Preparing spawn area: 0%
+[00:07:43] [Render thread/INFO]: Preparing spawn area: 0%
+[00:07:43] [Render thread/INFO]: Preparing spawn area: 0%
+[00:07:44] [Render thread/INFO]: Preparing spawn area: 0%
+[00:07:44] [Render thread/INFO]: Preparing spawn area: 5%
+[00:07:45] [Render thread/INFO]: Preparing spawn area: 83%
+[00:07:45] [Render thread/INFO]: Time elapsed: 3562 ms
+[00:07:45] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:07:45] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[00:07:46] [Server thread/INFO]: 16thGarden[local:E:965a13af] logged in with entity id 189 at (-41.16999530427912, 64.0, -19.18475217893535)
+[00:07:46] [Server thread/INFO]: 16thGarden joined the game
+[00:07:46] [Render thread/INFO]: Started 6 worker threads
+[00:07:46] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[00:07:46] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[00:07:46] [Render thread/INFO]: Loaded 931 advancements
+[00:10:35] [Essential Thread 15/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 22m 51.584608s
+[00:10:35] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:10:36] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[00:10:38] [WebSocketConnectReadThread-434/INFO]: Connected to Essential Connection Manager.
+[00:13:40] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[00:16:28] [Server thread/INFO]: 16thGarden has made the advancement [Ol' Betsy]
+[00:16:28] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Ol' Betsy]
+[00:16:28] [Render thread/INFO]: Loaded 931 advancements
+[00:19:08] [Render thread/INFO]: Loaded 932 advancements
+[00:24:53] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:32:17] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:43:03] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:43:08] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:44:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=64, z=-66} class_2338{x=-42, y=65, z=-67}
+[00:53:34] [Server thread/INFO]: Saving and pausing game...
+[00:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:53:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:54:16] [Server thread/INFO]: Saving and pausing game...
+[00:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:54:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:54:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:57:56] [Server thread/INFO]: Saving and pausing game...
+[00:57:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:57:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:57:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:11:35] [Essential Thread 4/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 1h 0m 57.162895100s
+[01:11:35] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:11:36] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[01:11:38] [WebSocketConnectReadThread-472/INFO]: Connected to Essential Connection Manager.
+[01:27:41] [Server thread/WARN]: 16thGarden moved wrongly!
+[01:32:48] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[01:35:39] [Server thread/INFO]: Saving and pausing game...
+[01:35:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:35:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:35:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:39:15] [WebSocketConnectReadThread-472/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 27m 36.258616200s
+[01:39:15] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:39:15] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[01:39:18] [WebSocketConnectReadThread-505/INFO]: Connected to Essential Connection Manager.
+[01:45:24] [Server thread/INFO]: Saving and pausing game...
+[01:45:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:45:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:45:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:46:40] [Render thread/INFO]: Stopping worker threads
+[01:46:40] [Render thread/INFO]: Started 6 worker threads
+[01:46:40] [Render thread/INFO]: Stopping worker threads
+[01:46:40] [Render thread/INFO]: Started 6 worker threads
+[01:46:40] [Server thread/INFO]: Saving and pausing game...
+[01:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:46:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:46:48] [Render thread/INFO]: Stopping worker threads
+[01:46:48] [Render thread/INFO]: Started 6 worker threads
+[01:46:48] [Render thread/INFO]: Stopping worker threads
+[01:46:48] [Render thread/INFO]: Started 6 worker threads
+[01:46:48] [Server thread/INFO]: Saving and pausing game...
+[01:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:46:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:47:56] [Render thread/INFO]: Stopping worker threads
+[01:47:56] [Render thread/INFO]: Started 6 worker threads
+[01:47:56] [Render thread/INFO]: Stopping worker threads
+[01:47:56] [Render thread/INFO]: Started 6 worker threads
+[01:48:25] [Render thread/INFO]: Stopping worker threads
+[01:48:25] [Server thread/INFO]: Saving and pausing game...
+[01:48:25] [Render thread/INFO]: Started 6 worker threads
+[01:48:25] [Render thread/INFO]: Stopping worker threads
+[01:48:25] [Render thread/INFO]: Started 6 worker threads
+[01:48:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:48:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:48:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:48:25] [Render thread/WARN]: Received passengers for unknown entity
+[01:48:25] [Render thread/WARN]: Received passengers for unknown entity
+[01:48:25] [Render thread/WARN]: Received passengers for unknown entity
+[01:48:25] [Render thread/WARN]: Received passengers for unknown entity
+[01:48:25] [Render thread/WARN]: Received passengers for unknown entity
+[01:48:25] [Render thread/WARN]: Received passengers for unknown entity
+[01:48:48] [Render thread/INFO]: Stopping worker threads
+[01:48:48] [Render thread/INFO]: Started 6 worker threads
+[01:48:48] [Render thread/INFO]: Stopping worker threads
+[01:48:48] [Render thread/INFO]: Started 6 worker threads
+[01:48:48] [Server thread/INFO]: Saving and pausing game...
+[01:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:48:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:49:10] [Render thread/INFO]: Stopping worker threads
+[01:49:10] [Server thread/INFO]: Saving and pausing game...
+[01:49:10] [Render thread/INFO]: Started 6 worker threads
+[01:49:10] [Render thread/INFO]: Stopping worker threads
+[01:49:10] [Render thread/INFO]: Started 6 worker threads
+[01:49:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:49:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:49:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:49:16] [Render thread/INFO]: Stopping worker threads
+[01:49:16] [Render thread/INFO]: Started 6 worker threads
+[01:49:16] [Server thread/INFO]: Saving and pausing game...
+[01:49:16] [Render thread/INFO]: Stopping worker threads
+[01:49:16] [Render thread/INFO]: Started 6 worker threads
+[01:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:49:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:55:30] [Render thread/INFO]: Stopping worker threads
+[01:55:30] [Render thread/INFO]: Started 6 worker threads
+[01:55:30] [Render thread/INFO]: Stopping worker threads
+[01:55:30] [Render thread/INFO]: Started 6 worker threads
+[01:56:28] [Render thread/INFO]: Stopping worker threads
+[01:56:28] [Render thread/INFO]: Started 6 worker threads
+[01:56:28] [Render thread/INFO]: Stopping worker threads
+[01:56:28] [Render thread/INFO]: Started 6 worker threads
+[01:56:43] [Render thread/WARN]: Received passengers for unknown entity
+[01:56:48] [Render thread/INFO]: Stopping worker threads
+[01:56:48] [Server thread/INFO]: Saving and pausing game...
+[01:56:48] [Render thread/INFO]: Started 6 worker threads
+[01:56:48] [Render thread/INFO]: Stopping worker threads
+[01:56:48] [Render thread/INFO]: Started 6 worker threads
+[01:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:56:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:56:52] [Render thread/INFO]: Stopping worker threads
+[01:56:52] [Render thread/INFO]: Started 6 worker threads
+[01:56:52] [Server thread/INFO]: Saving and pausing game...
+[01:56:52] [Render thread/INFO]: Stopping worker threads
+[01:56:52] [Render thread/INFO]: Started 6 worker threads
+[01:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:01:45] [Render thread/INFO]: Stopping worker threads
+[02:01:45] [Render thread/INFO]: Started 6 worker threads
+[02:01:45] [Render thread/INFO]: Stopping worker threads
+[02:01:45] [Render thread/INFO]: Started 6 worker threads
+[02:01:45] [Server thread/INFO]: Saving and pausing game...
+[02:01:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:01:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:01:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:03:14] [Server thread/INFO]: Saving and pausing game...
+[02:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:03:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:03:15] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[02:03:15] [Server thread/INFO]: 16thGarden left the game
+[02:03:15] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[02:03:15] [Server thread/INFO]: Stopping server
+[02:03:15] [Server thread/INFO]: Saving players
+[02:03:15] [Server thread/INFO]: Saving worlds
+[02:03:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[02:03:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[02:03:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[02:03:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[02:03:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:03:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:03:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:03:15] [Render thread/INFO]: Stopping worker threads
+[02:03:15] [Render thread/INFO]: Stopping!
+[02:03:15] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

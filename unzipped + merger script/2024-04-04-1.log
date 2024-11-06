@@ -1,0 +1,1648 @@
+[13:43:38] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[13:43:38] [main/WARN]: Warnings were found!
+ - Mod 'CIT Resewn' (citresewn) 1.1.4+1.20.4 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[13:43:38] [main/INFO]: Loading 74 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- citresewn 1.1.4+1.20.4
+	   \-- citresewn-defaults 1.1.4+1.20.4
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- nvidium 0.2.6-beta
+	- rebind_narrator 2.0.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[13:43:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[13:43:38] [main/INFO]: Compatibility level set to JAVA_17
+[13:43:39] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[13:43:39] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[13:43:42] [main/INFO]: Found newer Essential Loader (stage2) version 1.6.0 [stable]
+[13:43:42] [main/INFO]: Starting Essential Loader (stage2) version 1.4.1+fabric-1.20.4 (9cbd42842e1a0f4db9463ba79962010f) [stable]
+[13:43:42] [main/INFO]: Preparing download...
+[13:43:43] [main/INFO]: Downloading 941KB of updates...
+[13:43:43] [main/INFO]: 0KB / 941KB (0%)
+[13:43:44] [main/INFO]: 941KB / 941KB (100%)
+[13:43:44] [main/INFO]: End of download.
+[13:43:45] [main/INFO]: Starting Essential v1.3.1.3 (#88238d7752) [stable]
+[13:43:45] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[13:43:45] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[13:43:45] [main/INFO]: Java Info: mixed mode
+[13:43:45] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.21.26
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx4G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[13:43:45] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[13:43:46] [main/INFO]: Searching for graphics cards...
+[13:43:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13:43:47] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[13:43:47] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[13:43:47] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[13:43:47] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[13:43:53] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[13:43:56] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 282 milliseconds
+[13:43:59] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:43:59] [Render thread/INFO]: Setting user: 16thGarden
+[13:44:01] [Render thread/INFO]: Starting DI!
+[13:44:01] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[13:44:01] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[13:44:01] [DefaultDispatcher-worker-1/INFO]: Using Default JreDnsResolver
+[13:44:01] [DefaultDispatcher-worker-1/INFO]: Using Default JreSocketFactory
+[13:44:01] [Render thread/INFO]: XRay mod has been initialized
+[13:44:02] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[13:44:02] [Render thread/INFO]: [citresewn] Registering CIT Types
+[13:44:02] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[13:44:02] [WebSocketConnectReadThread-77/INFO]: Connected to Essential Connection Manager.
+[13:44:02] [Render thread/INFO]: OptiFine not detected.
+[13:44:02] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[13:44:03] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[13:44:03] [Render thread/INFO]: All capabilities met
+[13:44:03] [Render thread/INFO]: Enabling Nvidium
+[13:44:03] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[13:44:03] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[13:44:03] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.29
+[13:44:04] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 137: Trying to set an inexistant local variable 9
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:529)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at gg.essential.universal.UGraphics.<clinit>(UGraphics.java:774)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at gg.essential.elementa.components.UIImage._init_$lambda-1(UIImage.kt:60)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: Caused by: java.lang.IndexOutOfBoundsException: Trying to set an inexistant local variable 9
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.setLocal(Frame.java:208)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:337)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[13:44:04] [ForkJoinPool.commonPool-worker-2/INFO]: [STDERR]: 	... 35 more
+[13:44:07] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VisibleAncientDebris.zip, file/Identifiable Powdered Snow Minecraft Modder, file/KonciPET UI 1.1 default hunger, file/axolotl totem, essential
+[13:44:07] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:44:07] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:44:08] [Worker-Main-9/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[13:44:08] [Worker-Main-7/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[13:44:08] [Worker-Main-10/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:44:08] [Render thread/INFO]: Client started, setting up xray store
+[13:44:09] [DefaultDispatcher-worker-6/INFO]: Connected to Discord as starbuckslarge
+[13:44:11] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:44:11] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:44:11] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[13:44:11] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[13:44:11] [Render thread/INFO]: Sound engine started
+[13:44:11] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:44:11] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:44:12] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:44:12] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:44:12] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:44:12] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:44:12] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:44:15] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[13:45:03] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:45:03] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:45:12] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:45:12] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:45:20] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:45:20] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/Spectral_v0.5.3.zip, file/VisibleAncientDebris.zip, file/Identifiable Powdered Snow Minecraft Modder, file/KonciPET UI 1.1 default hunger, file/axolotl totem, file/FreshAnimations_v1.9.zip, essential
+[13:45:20] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:45:20] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:45:20] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[13:45:20] [Worker-Main-10/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[13:45:20] [Worker-Main-10/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:45:20] [Worker-Main-10/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/torch.json' in resourcepack: 'file/Spectral_v0.5.3.zip' for variant: 'normal': Unknown blockstate property: 'normal'
+[13:45:21] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:45:21] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:45:21] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[13:45:21] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[13:45:21] [Render thread/INFO]: Sound engine started
+[13:45:21] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:45:21] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:45:21] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:45:21] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:45:27] [Render thread/INFO]: Loaded 7 recipes
+[13:45:27] [Render thread/INFO]: Loaded 1271 advancements
+[13:45:27] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.347 ms
+[13:45:27] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[13:45:27] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[13:45:27] [Server thread/INFO]: Generating keypair
+[13:45:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:32] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:33] [Render thread/INFO]: Preparing spawn area: 0%
+[13:45:33] [Render thread/INFO]: Preparing spawn area: 7%
+[13:45:34] [Render thread/INFO]: Preparing spawn area: 64%
+[13:45:34] [Render thread/INFO]: Time elapsed: 4825 ms
+[13:45:35] [Server thread/INFO]: Changing view distance to 16, from 10
+[13:45:35] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[13:45:36] [Server thread/INFO]: 16thGarden[local:E:ea374312] logged in with entity id 197 at (-43.34511984153612, 64.0, -9.582143367469895)
+[13:45:36] [Server thread/INFO]: 16thGarden joined the game
+[13:45:36] [Render thread/INFO]: Started 6 worker threads
+[13:45:36] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[13:45:36] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:36] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[13:45:37] [Render thread/INFO]: Loaded 964 advancements
+[13:45:37] [Render thread/WARN]: Received passengers for unknown entity
+[13:45:53] [Server thread/INFO]: Saving and pausing game...
+[13:45:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:45:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:45:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:45:56] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:45:56] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:45:58] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:45:58] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VisibleAncientDebris.zip, file/Identifiable Powdered Snow Minecraft Modder, file/KonciPET UI 1.1 default hunger, file/axolotl totem, file/FreshAnimations_v1.9.zip, essential
+[13:45:58] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:45:58] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:45:58] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[13:45:58] [Worker-Main-7/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[13:45:59] [Worker-Main-7/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:45:59] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:45:59] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:45:59] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[13:45:59] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[13:45:59] [Render thread/INFO]: Sound engine started
+[13:46:00] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:46:00] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:46:00] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:46:00] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:46:00] [Render thread/INFO]: Stopping worker threads
+[13:46:00] [Render thread/INFO]: Started 6 worker threads
+[13:46:28] [Render thread/INFO]: Stopping worker threads
+[13:46:28] [Render thread/INFO]: Started 6 worker threads
+[13:46:28] [Server thread/INFO]: Saving and pausing game...
+[13:46:28] [Render thread/INFO]: Stopping worker threads
+[13:46:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:46:28] [Render thread/INFO]: Started 6 worker threads
+[13:46:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:46:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:46:29] [Server thread/INFO]: Saving and pausing game...
+[13:46:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:46:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:46:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:47:30] [Server thread/INFO]: Saving and pausing game...
+[13:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:47:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:47:47] [Server thread/INFO]: Saving and pausing game...
+[13:47:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:47:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:47:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:47:48] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:47:48] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:47:56] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:47:56] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/FreshAnimations_v1.9.zip, essential
+[13:47:56] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[13:47:57] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:47:57] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:47:57] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[13:47:57] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[13:47:57] [Render thread/INFO]: Sound engine started
+[13:47:57] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:47:57] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:47:57] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:47:57] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:47:57] [Render thread/INFO]: Stopping worker threads
+[13:47:57] [Render thread/INFO]: Started 6 worker threads
+[13:48:09] [Server thread/INFO]: Saving and pausing game...
+[13:48:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:48:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:48:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:48:12] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:48:12] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:48:16] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:48:16] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:48:18] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:48:18] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:48:21] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:48:21] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[13:48:32] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[13:48:32] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VisibleAncientDebris.zip, file/Identifiable Powdered Snow Minecraft Modder, file/KonciPET UI 1.1 default hunger, file/axolotl totem, essential
+[13:48:32] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:48:32] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:48:32] [Worker-Main-3/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[13:48:32] [Worker-Main-1/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[13:48:33] [Worker-Main-10/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[13:48:33] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[13:48:33] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[13:48:33] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[13:48:33] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[13:48:33] [Render thread/INFO]: Sound engine started
+[13:48:33] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:48:33] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:48:33] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:48:33] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[13:48:33] [Render thread/INFO]: Stopping worker threads
+[13:48:33] [Render thread/INFO]: Started 6 worker threads
+[13:50:27] [Server thread/INFO]: Saving and pausing game...
+[13:50:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:50:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:50:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:31] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:50:31] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[13:51:07] [Render thread/INFO]: Stopping worker threads
+[13:51:08] [Server thread/INFO]: Saving and pausing game...
+[13:51:08] [Render thread/INFO]: Started 6 worker threads
+[13:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[13:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[13:51:08] [Render thread/INFO]: Stopping worker threads
+[13:51:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[13:51:08] [Render thread/INFO]: Started 6 worker threads
+[13:51:08] [Render thread/WARN]: Received passengers for unknown entity
+[13:52:13] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-38, y=53, z=-94} class_2338{x=-64, y=53, z=-94}
+[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-38, y=53, z=-94} class_2338{x=-64, y=53, z=-94}
+[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-38, y=53, z=-94} class_2338{x=-64, y=53, z=-94}
+[13:54:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-38, y=53, z=-94} class_2338{x=-64, y=53, z=-94}
+[13:59:17] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: shown
+[13:59:52] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[13:59:53] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[13:59:54] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: hidden
+[14:00:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-50, y=65, z=-4} class_2338{x=-24, y=53, z=-46}
+[14:00:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-50, y=65, z=-4} class_2338{x=-24, y=53, z=-46}
+[14:00:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-50, y=65, z=-4} class_2338{x=-24, y=53, z=-46}
+[14:00:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-50, y=65, z=-4} class_2338{x=-24, y=53, z=-46}
+[14:00:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-50, y=65, z=-4} class_2338{x=-24, y=53, z=-46}
+[14:02:18] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[14:02:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:02:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:02:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:02:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:02:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:02:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:02:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-49, y=53, z=-51} class_2338{x=-54, y=53, z=-51}
+[14:09:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-30, y=53, z=-80} class_2338{x=-43, y=53, z=-81}
+[14:12:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-72, y=52, z=-68} class_2338{x=-71, y=52, z=-68}
+[14:12:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-72, y=52, z=-68} class_2338{x=-71, y=52, z=-68}
+[14:12:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-72, y=52, z=-68} class_2338{x=-71, y=52, z=-68}
+[14:16:30] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[14:17:02] [Server thread/INFO]: Saving and pausing game...
+[14:17:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[14:17:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[14:17:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[14:17:03] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[14:17:03] [Server thread/INFO]: 16thGarden left the game
+[14:17:03] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:17:03] [Server thread/INFO]: Stopping server
+[14:17:03] [Server thread/INFO]: Saving players
+[14:17:03] [Server thread/INFO]: Saving worlds
+[14:17:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[14:17:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[14:17:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[14:17:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[14:17:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:17:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:17:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:17:03] [Render thread/INFO]: Stopping worker threads
+[14:17:09] [Render thread/INFO]: Loaded 7 recipes
+[14:17:09] [Render thread/INFO]: Loaded 1271 advancements
+[14:17:09] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 270.4 ?s
+[14:17:09] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[14:17:09] [Server thread/INFO]: Generating keypair
+[14:17:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:17:11] [Render thread/INFO]: Preparing spawn area: 0%
+[14:17:11] [Render thread/INFO]: Preparing spawn area: 0%
+[14:17:11] [Render thread/INFO]: Preparing spawn area: 0%
+[14:17:11] [Render thread/INFO]: Preparing spawn area: 0%
+[14:17:12] [Render thread/INFO]: Preparing spawn area: 0%
+[14:17:12] [Render thread/INFO]: Preparing spawn area: 4%
+[14:17:13] [Render thread/INFO]: Preparing spawn area: 49%
+[14:17:13] [Server thread/INFO]: Changing view distance to 16, from 10
+[14:17:13] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[14:17:13] [Render thread/INFO]: Time elapsed: 3396 ms
+[14:17:13] [Server thread/INFO]: 16thGarden[local:E:597b2880] logged in with entity id 40222 at (26.34128041526602, -39.059660363036215, -1.0659231915592418)
+[14:17:13] [Render thread/INFO]: Started 6 worker threads
+[14:17:13] [Server thread/INFO]: 16thGarden joined the game
+[14:17:13] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[14:17:13] [Render thread/INFO]: Loaded 130 advancements
+[14:18:46] [Essential Thread 20/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 34m 44.512852500s
+[14:18:46] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[14:18:47] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[14:18:48] [WebSocketConnectReadThread-306/INFO]: Connected to Essential Connection Manager.
+[14:39:34] [Render thread/INFO]: Loaded 131 advancements
+[14:39:41] [Render thread/INFO]: Loaded 132 advancements
+[15:05:28] [WebSocketConnectReadThread-306/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 46m 40.208150400s
+[15:05:28] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[15:05:28] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[15:05:29] [WebSocketConnectReadThread-339/INFO]: Connected to Essential Connection Manager.
+[15:42:45] [Render thread/INFO]: Loaded 135 advancements
+[15:46:30] [WebSocketConnectReadThread-339/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 41m 0.815769500s
+[15:46:30] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[15:46:30] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[15:46:31] [WebSocketConnectReadThread-387/INFO]: Connected to Essential Connection Manager.
+[15:58:47] [Server thread/INFO]: Saving and pausing game...
+[15:58:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[15:58:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[15:58:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[16:04:43] [Server thread/INFO]: Saving and pausing game...
+[16:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[16:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[16:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[16:04:43] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[16:04:43] [Server thread/INFO]: 16thGarden left the game
+[16:04:43] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:04:43] [Server thread/INFO]: Stopping server
+[16:04:43] [Server thread/INFO]: Saving players
+[16:04:43] [Server thread/INFO]: Saving worlds
+[16:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[16:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[16:04:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[16:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[16:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:04:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:04:43] [Render thread/INFO]: Stopping worker threads
+[16:05:05] [Render thread/WARN]: Missing data pack fabric/quickcarpet
+[16:05:05] [Render thread/INFO]: Found new data pack fabric, loading it automatically
+[16:05:05] [Render thread/INFO]: Found new data pack fabric-convention-tags-v1, loading it automatically
+[16:05:06] [Render thread/INFO]: Loaded 7 recipes
+[16:05:06] [Render thread/INFO]: Loaded 1271 advancements
+[16:05:07] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 287.8 ?s
+[16:05:07] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[16:05:07] [Server thread/INFO]: Generating keypair
+[16:05:07] [Server thread/INFO]: [CM] Loaded 3 settings from carpet.conf
+[16:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:24] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:25] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:26] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:26] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:28] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:28] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:28] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:28] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:29] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:29] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:29] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:37] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:38] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:38] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:38] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:39] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:39] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:40] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:44] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:45] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:45] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:48] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:48] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:48] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:51] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:51] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:51] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:54] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:54] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:54] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:55] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:55] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:56] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:56] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:56] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:57] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:58] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:58] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:58] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:58] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:58] [Render thread/INFO]: Preparing spawn area: 0%
+[16:05:59] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:00] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:01] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:01] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:01] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:01] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:02] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:04] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:04] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:04] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:05] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:05] [Render thread/INFO]: Preparing spawn area: 0%
+[16:06:05] [Render thread/INFO]: Preparing spawn area: 2%
+[16:06:06] [Render thread/INFO]: Preparing spawn area: 4%
+[16:06:06] [Render thread/INFO]: Preparing spawn area: 4%
+[16:06:07] [Render thread/INFO]: Preparing spawn area: 5%
+[16:06:07] [Render thread/INFO]: Preparing spawn area: 5%
+[16:06:08] [Render thread/INFO]: Preparing spawn area: 5%
+[16:06:08] [Render thread/INFO]: Preparing spawn area: 5%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 13%
+[16:07:28] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:30] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 17%
+[16:07:32] [Render thread/INFO]: Preparing spawn area: 22%
+[16:07:33] [Render thread/INFO]: Time elapsed: 146334 ms
+[16:07:33] [Server thread/INFO]: 0: minecraft:apple
+[16:07:33] [Server thread/INFO]: 1: minecraft:carrot
+[16:07:33] [Server thread/INFO]: 2: minecraft:cooked_porkchop
+[16:07:33] [Server thread/INFO]: 3: minecraft:cooked_beef
+[16:07:33] [Server thread/INFO]: 4: minecraft:wheat
+[16:07:33] [Server thread/INFO]: 5: minecraft:chorus_fruit
+[16:07:33] [Server thread/INFO]: 6: minecraft:sugar
+[16:07:33] [Server thread/INFO]: 7: minecraft:emerald
+[16:07:33] [Server thread/INFO]: 8: minecraft:blaze_rod
+[16:07:33] [Server thread/INFO]: 9: minecraft:stick
+[16:07:33] [Server thread/INFO]: 10: minecraft:paper
+[16:07:33] [Server thread/INFO]: 11: minecraft:iron_ingot
+[16:07:33] [Server thread/INFO]: 12: minecraft:gold_ingot
+[16:07:33] [Server thread/INFO]: 13: minecraft:prismarine_crystals
+[16:07:33] [Server thread/INFO]: 14: minecraft:prismarine_shard
+[16:07:33] [Server thread/INFO]: 15: minecraft:quartz
+[16:07:33] [Server thread/INFO]: 16: minecraft:string
+[16:07:33] [Server thread/INFO]: 17: minecraft:gunpowder
+[16:07:33] [Server thread/INFO]: 18: minecraft:leather
+[16:07:33] [Server thread/INFO]: 19: minecraft:ink_sac
+[16:07:33] [Server thread/INFO]: 20: minecraft:nether_brick
+[16:07:33] [Server thread/INFO]: 21: minecraft:nether_wart
+[16:07:33] [Server thread/INFO]: 22: minecraft:firework_rocket
+[16:07:33] [Server thread/INFO]: 23: minecraft:spider_eye
+[16:07:33] [Server thread/INFO]: 24: minecraft:bone
+[16:07:33] [Server thread/INFO]: 25: minecraft:slime_ball
+[16:07:33] [Server thread/INFO]: 26: minecraft:glowstone_dust
+[16:07:33] [Server thread/INFO]: 27: minecraft:ender_pearl
+[16:07:33] [Server thread/INFO]: 28: minecraft:snowball
+[16:07:33] [Server thread/INFO]: 29: minecraft:feather
+[16:07:33] [Server thread/INFO]: 30: minecraft:egg
+[16:07:33] [Server thread/INFO]: 31: minecraft:honey_bottle
+[16:07:33] [Server thread/INFO]: 32: minecraft:charcoal
+[16:07:33] [Server thread/INFO]: 33: minecraft:sugar_cane
+[16:07:33] [Server thread/INFO]: 34: minecraft:bamboo
+[16:07:33] [Server thread/INFO]: 35: minecraft:kelp
+[16:07:33] [Server thread/INFO]: 36: minecraft:cactus
+[16:07:33] [Server thread/INFO]: 37: minecraft:sea_pickle
+[16:07:33] [Server thread/INFO]: 38: minecraft:bone_meal
+[16:07:33] [Server thread/INFO]: 39: minecraft:fermented_spider_eye
+[16:07:33] [Server thread/INFO]: 40: minecraft:book
+[16:07:33] [Server thread/INFO]: 41: minecraft:glass_bottle
+[16:07:33] [Server thread/INFO]: storagetech_aid app loaded
+[16:07:33] [Server thread/INFO]: App storagetech_aid loaded in 157 ms
+[16:07:33] [Server thread/INFO]: storagetech_aidx app loaded
+[16:07:33] [Server thread/INFO]: App storagetech_aidx loaded in 7 ms
+[16:07:33] [Server thread/INFO]: 0: minecraft:stone
+[16:07:33] [Server thread/INFO]: 1: minecraft:granite
+[16:07:33] [Server thread/INFO]: 2: minecraft:diorite
+[16:07:33] [Server thread/INFO]: 3: minecraft:andesite
+[16:07:33] [Server thread/INFO]: 4: minecraft:grass_block
+[16:07:33] [Server thread/INFO]: 5: minecraft:dirt
+[16:07:33] [Server thread/INFO]: 6: minecraft:coarse_dirt
+[16:07:33] [Server thread/INFO]: 7: minecraft:sand
+[16:07:33] [Server thread/INFO]: 8: minecraft:gravel
+[16:07:33] [Server thread/INFO]: 9: minecraft:cobblestone
+[16:07:33] [Server thread/INFO]: 10: minecraft:clay
+[16:07:33] [Server thread/INFO]: 11: minecraft:end_stone
+[16:07:33] [Server thread/INFO]: 12: minecraft:netherrack
+[16:07:33] [Server thread/INFO]: 13: minecraft:soul_sand
+[16:07:33] [Server thread/INFO]: 14: minecraft:soul_soil
+[16:07:33] [Server thread/INFO]: 15: minecraft:basalt
+[16:07:33] [Server thread/INFO]: 16: minecraft:blackstone
+[16:07:33] [Server thread/INFO]: 17: minecraft:obsidian
+[16:07:33] [Server thread/INFO]: 18: minecraft:oak_log
+[16:07:33] [Server thread/INFO]: 19: minecraft:spruce_log
+[16:07:33] [Server thread/INFO]: 20: minecraft:birch_log
+[16:07:33] [Server thread/INFO]: 21: minecraft:jungle_log
+[16:07:33] [Server thread/INFO]: 22: minecraft:acacia_log
+[16:07:33] [Server thread/INFO]: 23: minecraft:dark_oak_log
+[16:07:33] [Server thread/INFO]: 24: minecraft:crimson_stem
+[16:07:33] [Server thread/INFO]: 25: minecraft:warped_stem
+[16:07:33] [Server thread/INFO]: 26: minecraft:crying_obsidian
+[16:07:33] [Server thread/INFO]: 27: minecraft:gold_block
+[16:07:33] [Server thread/INFO]: 28: minecraft:iron_block
+[16:07:33] [Server thread/INFO]: 29: minecraft:emerald_block
+[16:07:33] [Server thread/INFO]: 30: minecraft:redstone_block
+[16:07:33] [Server thread/INFO]: 31: minecraft:bone_block
+[16:07:33] [Server thread/INFO]: 32: minecraft:ice
+[16:07:33] [Server thread/INFO]: 33: minecraft:slime_block
+[16:07:33] [Server thread/INFO]: 34: minecraft:honey_block
+[16:07:33] [Server thread/INFO]: 35: minecraft:glass
+[16:07:33] [Server thread/INFO]: 36: minecraft:pumpkin
+[16:07:33] [Server thread/INFO]: 37: minecraft:scaffolding
+[16:07:33] [Server thread/INFO]: 38: minecraft:glowstone
+[16:07:33] [Server thread/INFO]: 39: minecraft:redstone
+[16:07:33] [Server thread/INFO]: 40: minecraft:white_concrete_powder
+[16:07:33] [Server thread/INFO]: 41: minecraft:light_gray_concrete_powder
+[16:07:33] [Server thread/INFO]: 42: minecraft:gray_concrete_powder
+[16:07:33] [Server thread/INFO]: 43: minecraft:black_concrete_powder
+[16:07:33] [Server thread/INFO]: 44: minecraft:white_stained_glass
+[16:07:33] [Server thread/INFO]: 45: minecraft:tnt
+[16:07:33] [Server thread/INFO]: 46: minecraft:terracotta
+[16:07:33] [Server thread/INFO]: 47: minecraft:cyan_terracotta
+[16:07:33] [Server thread/INFO]: 48: minecraft:white_wool
+[16:07:33] [Server thread/INFO]: 49: minecraft:white_concrete
+[16:07:33] [Server thread/INFO]: 50: minecraft:light_gray_concrete
+[16:07:33] [Server thread/INFO]: 51: minecraft:gray_concrete
+[16:07:33] [Server thread/INFO]: 52: minecraft:black_concrete
+[16:07:33] [Server thread/INFO]: 53: minecraft:black_stained_glass
+[16:07:33] [Server thread/INFO]: 54: minecraft:apple
+[16:07:33] [Server thread/INFO]: 55: minecraft:carrot
+[16:07:33] [Server thread/INFO]: 56: minecraft:cooked_porkchop
+[16:07:33] [Server thread/INFO]: 57: minecraft:cooked_beef
+[16:07:33] [Server thread/INFO]: 58: minecraft:wheat
+[16:07:33] [Server thread/INFO]: 59: minecraft:chorus_fruit
+[16:07:33] [Server thread/INFO]: 60: minecraft:sugar
+[16:07:33] [Server thread/INFO]: 61: minecraft:emerald
+[16:07:33] [Server thread/INFO]: 62: minecraft:blaze_rod
+[16:07:33] [Server thread/INFO]: 63: minecraft:stick
+[16:07:33] [Server thread/INFO]: 64: minecraft:paper
+[16:07:33] [Server thread/INFO]: 65: minecraft:iron_ingot
+[16:07:33] [Server thread/INFO]: 66: minecraft:gold_ingot
+[16:07:33] [Server thread/INFO]: 67: minecraft:prismarine_crystals
+[16:07:33] [Server thread/INFO]: 68: minecraft:prismarine_shard
+[16:07:33] [Server thread/INFO]: 69: minecraft:quartz
+[16:07:33] [Server thread/INFO]: 70: minecraft:string
+[16:07:33] [Server thread/INFO]: 71: minecraft:gunpowder
+[16:07:33] [Server thread/INFO]: 72: minecraft:leather
+[16:07:33] [Server thread/INFO]: 73: minecraft:ink_sac
+[16:07:33] [Server thread/INFO]: 74: minecraft:nether_brick
+[16:07:33] [Server thread/INFO]: 75: minecraft:nether_wart
+[16:07:33] [Server thread/INFO]: 76: minecraft:firework_rocket
+[16:07:33] [Server thread/INFO]: 77: minecraft:spider_eye
+[16:07:33] [Server thread/INFO]: 78: minecraft:bone
+[16:07:33] [Server thread/INFO]: 79: minecraft:slime_ball
+[16:07:33] [Server thread/INFO]: 80: minecraft:glowstone_dust
+[16:07:33] [Server thread/INFO]: 81: minecraft:ender_pearl
+[16:07:33] [Server thread/INFO]: 82: minecraft:snowball
+[16:07:33] [Server thread/INFO]: 83: minecraft:feather
+[16:07:33] [Server thread/INFO]: 84: minecraft:egg
+[16:07:33] [Server thread/INFO]: 85: minecraft:honey_bottle
+[16:07:33] [Server thread/INFO]: 86: minecraft:charcoal
+[16:07:33] [Server thread/INFO]: 87: minecraft:sugar_cane
+[16:07:33] [Server thread/INFO]: 88: minecraft:bamboo
+[16:07:33] [Server thread/INFO]: 89: minecraft:kelp
+[16:07:33] [Server thread/INFO]: 90: minecraft:cactus
+[16:07:33] [Server thread/INFO]: 91: minecraft:sea_pickle
+[16:07:33] [Server thread/INFO]: 92: minecraft:bone_meal
+[16:07:33] [Server thread/INFO]: 93: minecraft:fermented_spider_eye
+[16:07:33] [Server thread/INFO]: 94: minecraft:book
+[16:07:33] [Server thread/INFO]: 95: minecraft:glass_bottle
+[16:07:33] [Server thread/INFO]: 96: minecraft:air
+[16:07:33] [Server thread/INFO]: 97: minecraft:air
+[16:07:33] [Server thread/INFO]: 98: minecraft:air
+[16:07:33] [Server thread/INFO]: 99: minecraft:air
+[16:07:33] [Server thread/INFO]: 100: minecraft:air
+[16:07:33] [Server thread/INFO]: 101: minecraft:air
+[16:07:33] [Server thread/INFO]: 102: minecraft:air
+[16:07:33] [Server thread/INFO]: 103: minecraft:air
+[16:07:33] [Server thread/INFO]: 104: minecraft:air
+[16:07:33] [Server thread/INFO]: 105: minecraft:air
+[16:07:33] [Server thread/INFO]: 106: minecraft:air
+[16:07:33] [Server thread/INFO]: 107: minecraft:air
+[16:07:33] [Server thread/INFO]: storagetech_aidxxx app loaded
+[16:07:33] [Server thread/INFO]: App storagetech_aidxxx loaded in 25 ms
+[16:07:33] [Server thread/INFO]: Changing view distance to 16, from 10
+[16:07:33] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_cobblestone removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_cobblestone removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_carpet_from_white_carpet removed now.
+[16:07:34] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[16:07:34] [Server thread/INFO]: 16thGarden[local:E:8010487a] logged in with entity id 42875 at (-50.55082031146635, 40.5, -37.53679077897638)
+[16:07:34] [Server thread/INFO]: 16thGarden joined the game
+[16:07:34] [Render thread/INFO]: Started 6 worker threads
+[16:07:34] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[16:07:34] [Render thread/INFO]: Loaded 2 advancements
+[16:17:11] [Server thread/INFO]: Saving and pausing game...
+[16:17:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic Storage System]'/minecraft:overworld
+[16:17:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic Storage System]'/minecraft:the_end
+[16:17:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic Storage System]'/minecraft:the_nether
+[16:17:11] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[16:17:11] [Server thread/INFO]: 16thGarden left the game
+[16:17:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[16:17:12] [Server thread/INFO]: Stopping server
+[16:17:12] [Server thread/INFO]: Saving players
+[16:17:12] [Server thread/INFO]: Saving worlds
+[16:17:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic Storage System]'/minecraft:overworld
+[16:17:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic Storage System]'/minecraft:the_end
+[16:17:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic Storage System]'/minecraft:the_nether
+[16:17:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (Full Storage System): All chunks are saved
+[16:17:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:17:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:17:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:17:12] [Render thread/INFO]: Stopping worker threads
+[16:17:14] [Render thread/INFO]: Loaded 7 recipes
+[16:17:15] [Render thread/INFO]: Loaded 1271 advancements
+[16:17:15] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 425.6 ?s
+[16:17:15] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[16:17:15] [Server thread/INFO]: Generating keypair
+[16:17:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:17:16] [Render thread/INFO]: Preparing spawn area: 0%
+[16:17:16] [Render thread/INFO]: Preparing spawn area: 0%
+[16:17:16] [Render thread/INFO]: Preparing spawn area: 0%
+[16:17:16] [Render thread/INFO]: Preparing spawn area: 3%
+[16:17:17] [Render thread/INFO]: Preparing spawn area: 71%
+[16:17:17] [Server thread/INFO]: Changing view distance to 16, from 10
+[16:17:17] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[16:17:17] [Render thread/INFO]: Time elapsed: 2180 ms
+[16:17:17] [Server thread/INFO]: 16thGarden[local:E:b0d7ef27] logged in with entity id 43587 at (49.85089971487863, -42.62897518675787, 12.418153465528432)
+[16:17:17] [Server thread/INFO]: 16thGarden joined the game
+[16:17:17] [Render thread/INFO]: Started 6 worker threads
+[16:17:17] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[16:17:18] [Render thread/INFO]: Loaded 135 advancements
+[16:31:01] [Render thread/INFO]: Loaded 136 advancements
+[17:16:38] [WebSocketConnectReadThread-387/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 30m 6.931102800s
+[17:16:38] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:16:38] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:16:38] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:16:38] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:16:38] [DefaultDispatcher-worker-9/INFO]: Waiting 4s before re-trying
+[17:16:42] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:16:43] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:16:43] [DefaultDispatcher-worker-9/INFO]: Waiting 8s before re-trying
+[17:16:51] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:16:51] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:16:51] [DefaultDispatcher-worker-9/INFO]: Waiting 16s before re-trying
+[17:17:07] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:17:07] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:17:07] [DefaultDispatcher-worker-9/INFO]: Waiting 32s before re-trying
+[17:17:39] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:17:40] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:17:40] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:18:40] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:18:40] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:18:40] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:19:40] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:19:40] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:19:40] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:20:40] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:20:41] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:20:41] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:21:41] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:21:42] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:21:42] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:22:42] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:22:42] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:22:42] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:23:42] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:23:42] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: 503
+[17:23:42] [DefaultDispatcher-worker-9/INFO]: Waiting 1m before re-trying
+[17:24:42] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:24:43] [DefaultDispatcher-worker-9/INFO]: Connecting to Essential Connection Manager...
+[17:24:45] [WebSocketConnectReadThread-620/INFO]: Connected to Essential Connection Manager.
+[18:50:42] [Server thread/INFO]: Saving and pausing game...
+[18:50:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[18:50:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[18:50:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[18:50:42] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[18:50:42] [Server thread/INFO]: 16thGarden left the game
+[18:50:42] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:50:42] [Server thread/INFO]: Stopping server
+[18:50:42] [Server thread/INFO]: Saving players
+[18:50:42] [Server thread/INFO]: Saving worlds
+[18:50:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[18:50:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[18:50:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[18:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[18:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:50:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:50:43] [Render thread/INFO]: Stopping worker threads
+[19:43:53] [Render thread/INFO]: Loaded 7 recipes
+[19:43:53] [Render thread/INFO]: Loaded 1271 advancements
+[19:43:54] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 196.3 ?s
+[19:43:54] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[19:43:54] [Server thread/INFO]: Generating keypair
+[19:43:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:43:55] [Render thread/INFO]: Preparing spawn area: 0%
+[19:43:55] [Render thread/INFO]: Preparing spawn area: 0%
+[19:43:55] [Render thread/INFO]: Preparing spawn area: 0%
+[19:43:55] [Render thread/INFO]: Preparing spawn area: 0%
+[19:43:56] [Render thread/INFO]: Preparing spawn area: 82%
+[19:43:56] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:43:56] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[19:43:56] [Render thread/INFO]: Time elapsed: 2085 ms
+[19:43:56] [Server thread/INFO]: 16thGarden[local:E:82aaee18] logged in with entity id 46646 at (48.68798208845073, -47.73062159992645, 17.51079263136134)
+[19:43:56] [Server thread/INFO]: 16thGarden joined the game
+[19:43:56] [Render thread/INFO]: Started 6 worker threads
+[19:43:56] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[19:43:56] [Render thread/INFO]: Loaded 136 advancements
+[19:51:38] [Server thread/INFO]: [16thGarden: Set the time to 13000]
+[19:51:38] [Render thread/INFO]: [System] [CHAT] Set the time to 13000
+[19:51:46] [Render thread/INFO]: Loaded 137 advancements
+[20:02:41] [Render thread/INFO]: Loaded 139 advancements
+[20:03:05] [Render thread/INFO]: Loaded 148 advancements
+[20:12:53] [Render thread/INFO]: Loaded 162 advancements
+[20:12:56] [Server thread/INFO]: 16thGarden has made the advancement [Stone Age]
+[20:12:56] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Stone Age]
+[20:12:56] [Render thread/INFO]: Loaded 176 advancements
+[20:13:04] [Render thread/INFO]: Loaded 177 advancements
+[20:13:57] [Render thread/INFO]: [System] [CHAT] Expected float
+[20:13:57] [Render thread/INFO]: [System] [CHAT] time set daty<--[HERE]
+[20:13:59] [Server thread/INFO]: [16thGarden: Set the time to 1000]
+[20:13:59] [Render thread/INFO]: [System] [CHAT] Set the time to 1000
+[20:14:11] [Render thread/INFO]: Loaded 178 advancements
+[20:14:19] [Render thread/INFO]: Loaded 179 advancements
+[20:14:24] [Render thread/INFO]: Loaded 180 advancements
+[20:14:26] [Render thread/INFO]: Loaded 181 advancements
+[20:14:54] [Render thread/INFO]: Loaded 182 advancements
+[20:15:18] [Render thread/INFO]: Loaded 185 advancements
+[20:15:28] [Render thread/INFO]: Loaded 186 advancements
+[20:16:18] [Render thread/INFO]: Loaded 187 advancements
+[20:16:22] [Render thread/INFO]: Loaded 191 advancements
+[20:16:26] [Render thread/INFO]: Loaded 192 advancements
+[20:16:36] [Render thread/INFO]: Loaded 194 advancements
+[20:18:15] [Render thread/INFO]: Loaded 196 advancements
+[20:18:21] [Server thread/INFO]: Saving and pausing game...
+[20:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:18:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:18:22] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[20:18:22] [Server thread/INFO]: 16thGarden left the game
+[20:18:22] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:18:22] [Server thread/INFO]: Stopping server
+[20:18:22] [Server thread/INFO]: Saving players
+[20:18:22] [Server thread/INFO]: Saving worlds
+[20:18:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:18:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:18:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[20:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:18:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:18:22] [Render thread/INFO]: Stopping worker threads
+[20:19:09] [Render thread/INFO]: Loaded 7 recipes
+[20:19:09] [Render thread/INFO]: Loaded 1271 advancements
+[20:19:09] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 181.7 ?s
+[20:19:09] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[20:19:09] [Server thread/INFO]: Generating keypair
+[20:19:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:11] [Render thread/INFO]: Preparing spawn area: 0%
+[20:19:11] [Render thread/INFO]: Preparing spawn area: 0%
+[20:19:11] [Render thread/INFO]: Preparing spawn area: 0%
+[20:19:11] [Render thread/INFO]: Preparing spawn area: 0%
+[20:19:11] [Render thread/INFO]: Preparing spawn area: 0%
+[20:19:12] [Render thread/INFO]: Preparing spawn area: 55%
+[20:19:12] [Render thread/INFO]: Time elapsed: 2854 ms
+[20:19:12] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:19:12] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:19:12] [Server thread/INFO]: 16thGarden[local:E:3cde18f4] logged in with entity id 47921 at (75.70542058960174, -54.0, 2.104992621338033)
+[20:19:12] [Server thread/INFO]: 16thGarden joined the game
+[20:19:12] [Render thread/INFO]: Started 6 worker threads
+[20:19:12] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[20:19:12] [Render thread/INFO]: Loaded 196 advancements
+[20:19:23] [Render thread/INFO]: Loaded 199 advancements
+[20:20:17] [Server thread/INFO]: Saving and pausing game...
+[20:20:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:20:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:20:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:20:17] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[20:20:17] [Server thread/INFO]: 16thGarden left the game
+[20:20:17] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:20:17] [Server thread/INFO]: Stopping server
+[20:20:17] [Server thread/INFO]: Saving players
+[20:20:17] [Server thread/INFO]: Saving worlds
+[20:20:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:20:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:20:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[20:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:20:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:20:18] [Render thread/INFO]: Stopping worker threads
+[20:20:20] [Render thread/INFO]: Loaded 7 recipes
+[20:20:20] [Render thread/INFO]: Loaded 1271 advancements
+[20:20:20] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 173.2 ?s
+[20:20:20] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[20:20:20] [Server thread/INFO]: Generating keypair
+[20:20:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:20:23] [Render thread/INFO]: Preparing spawn area: 0%
+[20:20:23] [Render thread/INFO]: Preparing spawn area: 0%
+[20:20:23] [Render thread/INFO]: Preparing spawn area: 0%
+[20:20:23] [Render thread/INFO]: Preparing spawn area: 0%
+[20:20:24] [Render thread/INFO]: Preparing spawn area: 1%
+[20:20:24] [Render thread/INFO]: Preparing spawn area: 15%
+[20:20:25] [Render thread/INFO]: Time elapsed: 3000 ms
+[20:20:25] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:20:25] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:20:25] [Server thread/INFO]: 16thGarden[local:E:b52e7234] logged in with entity id 48209 at (-57.3725472232813, 64.0, -10.704179867483209)
+[20:20:25] [Server thread/INFO]: 16thGarden joined the game
+[20:20:25] [Render thread/INFO]: Started 6 worker threads
+[20:20:25] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[20:20:25] [Render thread/INFO]: Loaded 964 advancements
+[20:21:32] [Server thread/INFO]: Saving and pausing game...
+[20:21:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:21:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:21:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:21:32] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[20:21:32] [Server thread/INFO]: 16thGarden left the game
+[20:21:32] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:21:33] [Server thread/INFO]: Stopping server
+[20:21:33] [Server thread/INFO]: Saving players
+[20:21:33] [Server thread/INFO]: Saving worlds
+[20:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:21:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[20:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:21:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:21:33] [Render thread/INFO]: Stopping worker threads
+[20:21:34] [Render thread/INFO]: Loaded 7 recipes
+[20:21:34] [Render thread/INFO]: Loaded 1271 advancements
+[20:21:35] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 243.7 ?s
+[20:21:35] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[20:21:35] [Server thread/INFO]: Generating keypair
+[20:21:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:21:36] [Render thread/INFO]: Preparing spawn area: 0%
+[20:21:36] [Render thread/INFO]: Preparing spawn area: 0%
+[20:21:36] [Render thread/INFO]: Preparing spawn area: 0%
+[20:21:36] [Render thread/INFO]: Preparing spawn area: 0%
+[20:21:37] [Render thread/INFO]: Preparing spawn area: 40%
+[20:21:37] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:21:37] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:21:37] [Render thread/INFO]: Time elapsed: 2338 ms
+[20:21:37] [Server thread/INFO]: 16thGarden[local:E:d88b786d] logged in with entity id 48801 at (68.85791577768602, -54.0, 2.6397159709367144)
+[20:21:37] [Server thread/INFO]: 16thGarden joined the game
+[20:21:37] [Render thread/INFO]: Started 6 worker threads
+[20:21:37] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[20:21:37] [Render thread/INFO]: Loaded 199 advancements
+[20:21:59] [Render thread/INFO]: Loaded 205 advancements
+[20:22:01] [Render thread/INFO]: Loaded 216 advancements
+[20:22:31] [Render thread/INFO]: Loaded 226 advancements
+[20:22:32] [Render thread/INFO]: Loaded 237 advancements
+[20:22:34] [Render thread/INFO]: Loaded 247 advancements
+[20:22:47] [Render thread/INFO]: Loaded 248 advancements
+[20:23:13] [Render thread/INFO]: Loaded 269 advancements
+[20:25:40] [Render thread/INFO]: Loaded 270 advancements
+[20:25:43] [Server thread/INFO]: 16thGarden has made the advancement [Hidden in the Depths]
+[20:25:43] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Hidden in the Depths]
+[20:25:43] [Render thread/INFO]: Loaded 276 advancements
+[20:28:46] [Server thread/INFO]: Saving and pausing game...
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:28:46] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[20:28:46] [Server thread/INFO]: 16thGarden left the game
+[20:28:46] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:28:46] [Server thread/INFO]: Stopping server
+[20:28:46] [Server thread/INFO]: Saving players
+[20:28:46] [Server thread/INFO]: Saving worlds
+[20:28:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:28:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:28:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[20:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:28:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:28:47] [Render thread/INFO]: Stopping worker threads
+[20:28:48] [Render thread/INFO]: Loaded 7 recipes
+[20:28:48] [Render thread/INFO]: Loaded 1271 advancements
+[20:28:49] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 256.9 ?s
+[20:28:49] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[20:28:49] [Server thread/INFO]: Generating keypair
+[20:28:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:52] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:52] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:52] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:52] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:52] [Render thread/INFO]: Preparing spawn area: 0%
+[20:28:53] [Render thread/INFO]: Preparing spawn area: 4%
+[20:28:53] [Render thread/INFO]: Preparing spawn area: 84%
+[20:28:53] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:28:53] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:28:53] [Render thread/INFO]: Time elapsed: 3104 ms
+[20:28:53] [Server thread/INFO]: 16thGarden[local:E:514cf6bf] logged in with entity id 49088 at (-38.98961955457378, 64.0, -6.2950580993980845)
+[20:28:53] [Server thread/INFO]: 16thGarden joined the game
+[20:28:54] [Render thread/INFO]: Started 6 worker threads
+[20:28:54] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[20:28:54] [Render thread/INFO]: Loaded 964 advancements
+[20:29:14] [Server thread/INFO]: Saving and pausing game...
+[20:29:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:29:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:29:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:29:15] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[20:29:15] [Server thread/INFO]: 16thGarden left the game
+[20:29:15] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:29:15] [Server thread/INFO]: Stopping server
+[20:29:15] [Server thread/INFO]: Saving players
+[20:29:15] [Server thread/INFO]: Saving worlds
+[20:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:29:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[20:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:29:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:29:16] [Render thread/INFO]: Stopping worker threads
+[20:29:17] [Render thread/INFO]: Loaded 7 recipes
+[20:29:17] [Render thread/INFO]: Loaded 1271 advancements
+[20:29:18] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 339.2 ?s
+[20:29:18] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[20:29:18] [Server thread/INFO]: Generating keypair
+[20:29:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:29:19] [Render thread/INFO]: Preparing spawn area: 0%
+[20:29:19] [Render thread/INFO]: Preparing spawn area: 0%
+[20:29:19] [Render thread/INFO]: Preparing spawn area: 0%
+[20:29:19] [Render thread/INFO]: Preparing spawn area: 17%
+[20:29:20] [Render thread/INFO]: Preparing spawn area: 83%
+[20:29:20] [Render thread/INFO]: Time elapsed: 2102 ms
+[20:29:20] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:29:20] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[20:29:20] [Server thread/INFO]: 16thGarden[local:E:8e7f373f] logged in with entity id 49393 at (79.26643380526637, -60.0, 5.317267698780219)
+[20:29:20] [Server thread/INFO]: 16thGarden joined the game
+[20:29:20] [Render thread/INFO]: Started 6 worker threads
+[20:29:20] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[20:29:20] [Render thread/INFO]: Loaded 276 advancements
+[20:32:14] [Server thread/INFO]: Saving and pausing game...
+[20:32:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:32:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:32:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:32:14] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[20:32:14] [Server thread/INFO]: 16thGarden left the game
+[20:32:14] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:32:14] [Server thread/INFO]: Stopping server
+[20:32:14] [Server thread/INFO]: Saving players
+[20:32:14] [Server thread/INFO]: Saving worlds
+[20:32:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[20:32:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[20:32:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[20:32:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[20:32:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:32:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:32:15] [Render thread/INFO]: Stopping worker threads
+[20:32:15] [Render thread/INFO]: Stopping!
+[20:32:15] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

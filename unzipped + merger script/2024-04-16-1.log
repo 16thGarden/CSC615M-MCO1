@@ -1,0 +1,382 @@
+[00:00:44] [Render thread/INFO]: [System] [CHAT] Set JPGomdol's game mode to Survival Mode
+[00:00:44] [Server thread/INFO]: [16thGarden: Set JPGomdol's game mode to Survival Mode]
+[00:00:45] [Server thread/INFO]: JPGomdol was slain by 16thGarden
+[00:00:45] [Render thread/INFO]: [System] [CHAT] JPGomdol was slain by 16thGarden
+[00:00:51] [Server thread/INFO]: [16thGarden: Set JPGomdol's game mode to Creative Mode]
+[00:00:51] [Render thread/INFO]: [System] [CHAT] Set JPGomdol's game mode to Creative Mode
+[00:01:51] [Server thread/WARN]: JPGomdol moved too quickly! -111.63709712485063,0.0,-43.193591578700186
+[00:02:39] [Server thread/INFO]: 16thGarden has made the advancement [Spooky Scary Skeleton]
+[00:02:39] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Spooky Scary Skeleton]
+[00:02:39] [Render thread/INFO]: Loaded 410 advancements
+[00:02:48] [Server thread/INFO]: 16thGarden has made the advancement [Withering Heights]
+[00:02:48] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Withering Heights]
+[00:02:48] [Render thread/INFO]: Loaded 411 advancements
+[00:03:00] [Server thread/INFO]: 16thGarden has made the advancement [Monster Hunter]
+[00:03:00] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Monster Hunter]
+[00:03:00] [Render thread/INFO]: Loaded 414 advancements
+[00:04:46] [Render thread/INFO]: [System] [CHAT] Incorrect argument for command
+[00:04:46] [Render thread/INFO]: [System] [CHAT] ... JPGomdol 16 ~<--[HERE]
+[00:06:42] [WebSocketConnectReadThread-4529/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 2h 0m 31.242055200s
+[00:06:42] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:06:42] [DefaultDispatcher-worker-4/INFO]: Connecting to Essential Connection Manager...
+[00:06:45] [WebSocketConnectReadThread-4990/INFO]: Connected to Essential Connection Manager.
+[00:15:19] [WebSocketConnectReadThread-4990/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 8m 33.766377900s
+[00:15:19] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:15:19] [DefaultDispatcher-worker-5/INFO]: Connecting to Essential Connection Manager...
+[00:15:22] [WebSocketConnectReadThread-5018/INFO]: Connected to Essential Connection Manager.
+[00:24:42] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:24:42] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[00:24:42] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:24:42] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[00:24:42] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[00:24:42] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[00:24:42] [Server thread/INFO]: JPGomdol left the game
+[00:24:42] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[00:24:45] [Render thread/INFO]: Changing agent ICE Agent (stream-count=0 ice-pwd:5od93d0h611ogql7v83h0fie4k ice-ufrag:essential-qv63767-adegt1hrh96gpb tie-breaker:4782303007289112231):
+ role from controlling = true to controlling = false
+[00:24:45] [Render thread/INFO]: Gathering candidates for component minecraft.RTP.
+[00:24:46] [MergingDatagramSocket reader thread for: /192.168.50.170:54843 -> null/INFO]: Failed to receive: java.net.SocketException: Socket closed
+[00:24:46] [Render thread/INFO]: Closing.
+[00:24:46] [MergingDatagramSocket reader thread for: /192.168.50.170:54843 -> null/WARN]: Removing the active socket. Won't be able to send until a new one is elected.
+[00:24:46] [MergingDatagramSocket reader thread for: /[fe80:0:0:0:8c08:dc66:482d:6860%6]:54844 -> null/INFO]: Failed to receive: java.net.SocketException: Socket closed
+[00:24:46] [Essential 9/INFO]: Update remote candidate for minecraft.RTP: 180.190.34.171:64034/udp
+[00:24:46] [MergingDatagramSocket reader thread for: /192.168.50.170:54847 -> null/INFO]: Failed to receive: java.net.SocketException: Socket closed
+[00:24:46] [Essential Thread 19/INFO]: Start ICE connectivity establishment.
+[00:24:46] [Essential 3/INFO]: Update remote candidate for minecraft.RTP: 192.168.254.101:59746/udp
+[00:24:46] [Essential Thread 19/INFO]: Init checklist for stream minecraft
+[00:24:46] [ice?quic/INFO]: [STDERR]: gg.essential.lib.ice4j.socket.SocketClosedException: Socket closed
+[00:24:46] [Essential 9/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [Essential 7/INFO]: Update remote candidate for minecraft.RTP: 167.99.212.155:58825/udp
+[00:24:46] [Essential 5/INFO]: Update remote candidate for minecraft.RTP: 68.183.157.16:52591/udp
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.MergingDatagramSocket.receive(MergingDatagramSocket.java:491)
+[00:24:46] [Essential 7/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.DelegatingDatagramSocket.receive(DelegatingDatagramSocket.java:698)
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.SafeCloseDatagramSocket.receive(SafeCloseDatagramSocket.java:173)
+[00:24:46] [Essential 3/INFO]: existing Pair updated: 192.168.50.170:62674/udp/host -> 192.168.254.101:59746/udp/host (minecraft.RTP) to 192.168.50.170:62674/udp/host -> 192.168.254.101:59746/udp/host (minecraft.RTP).
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.MultiplexingDatagramSocket.multiplexingXXXSocketSupportDoReceive(MultiplexingDatagramSocket.java:414)
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.MultiplexingDatagramSocket.access$000(MultiplexingDatagramSocket.java:33)
+[00:24:46] [Essential Thread 19/INFO]: ICE state changed from Waiting to Running.
+[00:24:46] [Essential 5/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.MultiplexingDatagramSocket$1.doReceive(MultiplexingDatagramSocket.java:66)
+[00:24:46] [Essential Thread 19/INFO]: Start connectivity checks.
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.MultiplexingXXXSocketSupport.receive(MultiplexingXXXSocketSupport.java:649)
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.lib.ice4j.socket.MultiplexingDatagramSocket.receive(MultiplexingDatagramSocket.java:465)
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.sps.quic.jvm.UtilKt.forward(util.kt:30)
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at gg.essential.sps.quic.jvm.UtilKt.forwardAsync$lambda$2(util.kt:20)
+[00:24:46] [ice?quic/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 192.168.254.101:59746/udp/host (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 192.168.50.170:62674/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: new Pair added: 68.183.157.16:53008/udp/relay -> 192.168.254.101:59746/udp/host (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: new Pair added: 68.183.157.16:53008/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: new Pair added: 68.183.157.16:53008/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: new Pair added: 68.183.157.16:53008/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 167.99.212.155:58879/udp/relay -> 192.168.254.101:59746/udp/host (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 167.99.212.155:58879/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 167.99.212.155:58879/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: new Pair added: 167.99.212.155:58879/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:46] [pool-11-thread-13/INFO]: Add UPnP port mapping: 192.168.1.2 62678
+[00:24:46] [pool-11-thread-13/INFO]: new Pair added: 192.168.50.170:62678/udp/host -> 192.168.254.101:59746/udp/host (minecraft.RTP).
+[00:24:46] [pool-11-thread-13/INFO]: new Pair added: 192.168.50.170:62678/udp/host -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [pool-11-thread-13/INFO]: new Pair added: 192.168.50.170:62678/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:46] [pool-11-thread-13/INFO]: new Pair added: 192.168.50.170:62678/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Adding allowed address: 180.190.34.171:64034/udp
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:46] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Adding allowed address: 68.183.157.16:52591/udp
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair succeeded: 68.183.157.16:53008/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair validated: 68.183.157.16:53008/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair succeeded: 68.183.157.16:53008/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair validated: 68.183.157.16:53008/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Adding allowed address: 167.99.212.155:58825/udp
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair succeeded: 68.183.157.16:53008/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 167.99.212.155:58879/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 167.99.212.155:58879/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 68.183.157.16:53008/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 68.183.157.16:53008/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair succeeded: 167.99.212.155:58879/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair validated: 167.99.212.155:58879/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-9/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 167.99.212.155:58879/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 167.99.212.155:58879/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 68.183.157.16:53008/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair succeeded: 167.99.212.155:58879/udp/relay -> 180.190.34.171:64034/udp/srflx (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair succeeded: 192.168.50.170:62674/udp/host -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: Pair validated: 49.144.39.51:51832/udp/srflx -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:47] [ice4j.NetAccessManager-pool-13-thread-11/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:48] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 68.183.157.16:53008/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:48] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:48] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 167.99.212.155:58879/udp/relay -> 167.99.212.155:58825/udp/relay (minecraft.RTP).
+[00:24:48] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:48] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Pair succeeded: 167.99.212.155:58879/udp/relay -> 68.183.157.16:52591/udp/relay (minecraft.RTP).
+[00:24:48] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:24:49] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Selected pair for stream minecraft.RTP: 192.168.50.170:62674/udp/host -> 180.190.34.171:64034/udp/srflx (minecraft.RTP)
+[00:24:49] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: CheckList of stream minecraft is COMPLETED
+[00:24:49] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: ICE state changed from Running to Completed.
+[00:24:49] [ice4j.NetAccessManager-pool-13-thread-12/INFO]: Harvester used for selected pair for minecraft.RTP: host
+[00:24:49] [Netty Server IO ICE #8/INFO]: Using QUIC because both parties support it.
+[00:24:50] [MergingDatagramSocket reader thread for: 68.183.157.16:53008/udp -> null/INFO]: Failed to receive: java.net.SocketException: RelayedCandidateDatagramSocket has been closed.
+[00:24:50] [MergingDatagramSocket reader thread for: 167.99.212.155:58879/udp -> null/INFO]: Failed to receive: java.net.SocketException: RelayedCandidateDatagramSocket has been closed.
+[00:24:52] [ice4j.StunClientTransaction-executor-pool-16-thread-10/INFO]: timeout for pair: 192.168.50.170:62674/udp/host -> 192.168.254.101:59746/udp/host (minecraft.RTP), failing.
+[00:24:52] [ice4j.StunClientTransaction-executor-pool-16-thread-10/INFO]: timeout for pair: 192.168.50.170:62674/udp/host -> 192.168.254.101:59746/udp/host (minecraft.RTP), failing.
+[00:24:52] [ice4j.Agent-timer-pool-9-thread-1/INFO]: ICE state changed from Completed to Terminated.
+[00:25:01] [quic?ice/INFO]: Closing.
+[00:25:01] [Netty Server IO ICE #8/ERROR]: Unhandled error:
+java.util.concurrent.CompletionException: java.net.SocketTimeoutException: Accept timed out
+	at java.util.concurrent.CompletableFuture.encodeRelay(CompletableFuture.java:368) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeRelay(CompletableFuture.java:377) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1152) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.97.Final.jar:?]
+	at io.netty.channel.DefaultEventLoop.run(DefaultEventLoop.java:54) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.net.SocketTimeoutException: Accept timed out
+	at sun.nio.ch.NioSocketImpl.timedAccept(NioSocketImpl.java:713) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.accept(NioSocketImpl.java:757) ~[?:?]
+	at java.net.ServerSocket.implAccept(ServerSocket.java:675) ~[?:?]
+	at java.net.ServerSocket.platformImplAccept(ServerSocket.java:641) ~[?:?]
+	at java.net.ServerSocket.implAccept(ServerSocket.java:617) ~[?:?]
+	at java.net.ServerSocket.implAccept(ServerSocket.java:574) ~[?:?]
+	at java.net.ServerSocket.accept(ServerSocket.java:532) ~[?:?]
+	at gg.essential.sps.quic.jvm.ForkedJvmServerQuicStreamPool.accept(ForkedJvmServerQuicStreamPool.kt:59) ~[Essential%20(fabric_1.20.4).jar:?]
+	at gg.essential.network.connectionmanager.ice.IceManager.lambda$createServerAgent$8(IceManager.java:471) ~[Essential%20(fabric_1.20.4).jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	... 6 more
+[01:14:20] [WebSocketConnectReadThread-5018/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 58m 58.271907100s
+[01:14:20] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:14:20] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[01:14:23] [WebSocketConnectReadThread-5081/INFO]: Connected to Essential Connection Manager.
+[01:28:50] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[01:28:50] [Server thread/INFO]: 16thGarden left the game
+[01:28:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[01:28:50] [Server thread/INFO]: Stopping server
+[01:28:50] [Server thread/INFO]: Saving players
+[01:28:50] [Server thread/INFO]: Saving worlds
+[01:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[01:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[01:28:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[01:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[01:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:28:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:28:50] [Render thread/INFO]: Stopping worker threads
+[01:28:52] [Render thread/INFO]: Loaded 7 recipes
+[01:28:52] [Render thread/INFO]: Loaded 1271 advancements
+[01:28:52] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 308.0 ?s
+[01:28:52] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[01:28:52] [Server thread/INFO]: Generating keypair
+[01:28:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:28:55] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:55] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:55] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:55] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:55] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:56] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:56] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:57] [Render thread/INFO]: Preparing spawn area: 0%
+[01:28:57] [Render thread/INFO]: Preparing spawn area: 21%
+[01:28:58] [Render thread/INFO]: Time elapsed: 4453 ms
+[01:28:58] [Server thread/INFO]: Changing view distance to 16, from 10
+[01:28:58] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[01:28:58] [Server thread/INFO]: 16thGarden[local:E:b75581ca] logged in with entity id 125041 at (24.7185967721997, 100.89017048783, 432.5057768468832)
+[01:28:58] [Server thread/INFO]: 16thGarden joined the game
+[01:28:58] [Render thread/INFO]: Started 6 worker threads
+[01:28:58] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[01:28:58] [Render thread/INFO]: Loaded 507 advancements
+[01:29:59] [Server thread/INFO]: 16thGarden has made the advancement [Into Fire]
+[01:29:59] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Into Fire]
+[01:29:59] [Render thread/INFO]: Loaded 513 advancements
+[02:02:38] [WebSocketConnectReadThread-5081/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 48m 14.471926s
+[02:02:38] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[02:02:38] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[02:02:41] [WebSocketConnectReadThread-5208/INFO]: Connected to Essential Connection Manager.
+[02:51:54] [WebSocketConnectReadThread-5208/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 49m 13.349183100s
+[02:51:54] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[02:51:54] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[02:51:55] [WebSocketConnectReadThread-5247/INFO]: Connected to Essential Connection Manager.
+[03:07:18] [WebSocketConnectReadThread-5247/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 15m 22.823743300s
+[03:07:18] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[03:07:18] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[03:07:21] [WebSocketConnectReadThread-5275/INFO]: Connected to Essential Connection Manager.
+[03:28:09] [Server thread/INFO]: Saving and pausing game...
+[03:28:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:28:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:28:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:01:03] [Server thread/INFO]: Saving and pausing game...
+[04:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:01:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:01:03] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[04:01:03] [Server thread/INFO]: 16thGarden left the game
+[04:01:03] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[04:01:03] [Server thread/INFO]: Stopping server
+[04:01:03] [Server thread/INFO]: Saving players
+[04:01:03] [Server thread/INFO]: Saving worlds
+[04:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:01:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (300 days 6): All chunks are saved
+[04:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:01:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:01:04] [Render thread/INFO]: Stopping worker threads
+[04:01:06] [Render thread/INFO]: Audio device was lost!
+[04:01:06] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[04:01:06] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[04:01:06] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[04:01:06] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[04:01:06] [Render thread/INFO]: Sound engine started
+[04:01:08] [Render thread/INFO]: Loaded 7 recipes
+[04:01:08] [Render thread/INFO]: Loaded 1271 advancements
+[04:01:09] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 198.9 ?s
+[04:01:09] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[04:01:09] [Server thread/INFO]: Generating keypair
+[04:01:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:01:11] [Render thread/INFO]: Preparing spawn area: 0%
+[04:01:11] [Render thread/INFO]: Preparing spawn area: 0%
+[04:01:11] [Render thread/INFO]: Preparing spawn area: 0%
+[04:01:12] [Render thread/INFO]: Preparing spawn area: 0%
+[04:01:12] [Render thread/INFO]: Preparing spawn area: 0%
+[04:01:13] [Render thread/INFO]: Preparing spawn area: 33%
+[04:01:13] [Server thread/INFO]: Changing view distance to 16, from 10
+[04:01:13] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[04:01:13] [Render thread/INFO]: Time elapsed: 2965 ms
+[04:01:13] [Server thread/INFO]: 16thGarden[local:E:5a6eb699] logged in with entity id 125326 at (-45.69598530507885, 64.0, -14.513763870482268)
+[04:01:13] [Server thread/INFO]: 16thGarden joined the game
+[04:01:13] [Render thread/INFO]: Started 6 worker threads
+[04:01:13] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[04:01:13] [Render thread/INFO]: Loaded 991 advancements
+[04:02:06] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[04:05:00] [Server thread/WARN]: 16thGarden moved wrongly!
+[04:06:25] [Server thread/INFO]: Saving and pausing game...
+[04:06:25] [Render thread/INFO]: Stopping worker threads
+[04:06:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:06:25] [Render thread/INFO]: Started 6 worker threads
+[04:06:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:06:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:06:25] [Render thread/INFO]: Stopping worker threads
+[04:06:25] [Render thread/INFO]: Started 6 worker threads
+[04:06:26] [Render thread/WARN]: Received passengers for unknown entity
+[04:07:15] [Server thread/INFO]: Saving and pausing game...
+[04:07:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:07:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:07:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:15] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:16] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:16] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:16] [Server thread/INFO]: Saving and pausing game...
+[04:07:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:07:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:07:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:07:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[04:07:17] [Server thread/INFO]: Saving and pausing game...
+[04:07:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:07:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:07:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[08:05:47] [WebSocketConnectReadThread-5275/WARN]: Connection closed unexpectedly (CloseInfo(code=1001, reason=CloudFlare WebSocket proxy restarting, remote=true, outdated=false)) after 4h 58m 26.510492100s
+[08:05:47] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[08:05:48] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[08:05:49] [WebSocketConnectReadThread-5501/INFO]: Connected to Essential Connection Manager.
+[09:16:46] [WebSocketConnectReadThread-5501/WARN]: Connection closed unexpectedly (CloseInfo(code=1001, reason=CloudFlare WebSocket proxy restarting, remote=true, outdated=false)) after 1h 10m 57.495966300s
+[09:16:46] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[09:16:46] [DefaultDispatcher-worker-4/INFO]: Connecting to Essential Connection Manager...
+[09:16:49] [WebSocketConnectReadThread-5564/INFO]: Connected to Essential Connection Manager.
+[09:29:04] [WebSocketConnectReadThread-5564/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 12m 14.927483s
+[09:29:04] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[09:29:05] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[09:29:05] [WebSocketConnectReadThread-5598/INFO]: Connected to Essential Connection Manager.
+[11:20:28] [Server thread/INFO]: Saving and pausing game...
+[11:20:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[11:20:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[11:20:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[11:20:28] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[11:20:28] [Server thread/INFO]: 16thGarden left the game
+[11:20:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[11:20:29] [Server thread/INFO]: Stopping server
+[11:20:29] [Server thread/INFO]: Saving players
+[11:20:29] [Server thread/INFO]: Saving worlds
+[11:20:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[11:20:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[11:20:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[11:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[11:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:20:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:20:29] [Render thread/INFO]: Stopping worker threads
+[11:20:30] [Render thread/INFO]: Stopping!
+[11:20:30] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

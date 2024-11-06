@@ -1,0 +1,1159 @@
+[14:36:09] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[14:36:10] [main/WARN]: Warnings were found!
+ - Mod 'CIT Resewn' (citresewn) 1.1.4+1.20.4 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[14:36:10] [main/INFO]: Loading 75 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- citresewn 1.1.4+1.20.4
+	   \-- citresewn-defaults 1.1.4+1.20.4
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- itemscroller 0.22.0
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- nvidium 0.2.6-beta
+	- rebind_narrator 2.0.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[14:36:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[14:36:10] [main/INFO]: Compatibility level set to JAVA_17
+[14:36:11] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[14:36:11] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[14:36:13] [main/INFO]: Starting Essential Loader (stage2) version 1.6.0 (0500a9e0db06ef66767fc4dcffb05cd5) [stable]
+[14:36:14] [main/INFO]: Starting Essential v1.3.1.3 (#88238d7752) [stable]
+[14:36:14] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[14:36:14] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[14:36:14] [main/INFO]: Java Info: mixed mode
+[14:36:14] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.22.14
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx4G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[14:36:14] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[14:36:14] [main/INFO]: Searching for graphics cards...
+[14:36:14] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[14:36:15] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[14:36:15] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[14:36:15] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[14:36:15] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:36:24] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[14:36:27] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 457 milliseconds
+[14:36:33] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:36:33] [Render thread/INFO]: Setting user: 16thGarden
+[14:36:34] [Render thread/INFO]: Starting DI!
+[14:36:35] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[14:36:35] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[14:36:35] [DefaultDispatcher-worker-1/INFO]: Using Default JreDnsResolver
+[14:36:35] [DefaultDispatcher-worker-1/INFO]: Using Default JreSocketFactory
+[14:36:35] [Render thread/INFO]: XRay mod has been initialized
+[14:36:36] [WebSocketConnectReadThread-74/INFO]: Connected to Essential Connection Manager.
+[14:36:36] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[14:36:36] [Render thread/INFO]: [citresewn] Registering CIT Types
+[14:36:36] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[14:36:37] [Render thread/INFO]: OptiFine not detected.
+[14:36:37] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[14:36:37] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[14:36:38] [Render thread/INFO]: All capabilities met
+[14:36:38] [Render thread/INFO]: Enabling Nvidium
+[14:36:38] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[14:36:38] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[14:36:38] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.29
+[14:36:39] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 137: Trying to set an inexistant local variable 9
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:529)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.universal.UGraphics.<clinit>(UGraphics.java:774)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.elementa.components.UIImage._init_$lambda-1(UIImage.kt:60)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: Caused by: java.lang.IndexOutOfBoundsException: Trying to set an inexistant local variable 9
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.setLocal(Frame.java:208)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:337)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[14:36:39] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	... 35 more
+[14:36:43] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, itemscroller, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/Faithful 32x - 1.20.4.zip, file/axolotl totem, essential
+[14:36:43] [Worker-Main-6/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[14:36:44] [Render thread/INFO]: Client started, setting up xray store
+[14:36:45] [DefaultDispatcher-worker-11/INFO]: Connected to Discord as starbuckslarge
+[14:36:47] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:36:47] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:36:47] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:36:47] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:36:47] [Render thread/INFO]: Sound engine started
+[14:36:48] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/signs.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/chest.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/beds.png-atlas
+[14:36:48] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:36:48] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:36:49] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/particles.png-atlas
+[14:36:49] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/paintings.png-atlas
+[14:36:49] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:36:49] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/gui.png-atlas
+[14:36:51] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[14:36:59] [Render thread/INFO]: Loaded 7 recipes
+[14:36:59] [Render thread/INFO]: Loaded 1271 advancements
+[14:37:00] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.870 ms
+[14:37:00] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[14:37:00] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[14:37:00] [Server thread/INFO]: Generating keypair
+[14:37:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 0%
+[14:37:08] [Render thread/INFO]: Preparing spawn area: 4%
+[14:37:09] [Render thread/INFO]: Preparing spawn area: 55%
+[14:37:09] [Render thread/INFO]: Preparing spawn area: 84%
+[14:37:10] [Render thread/INFO]: Time elapsed: 6834 ms
+[14:37:10] [Server thread/INFO]: Changing view distance to 16, from 10
+[14:37:10] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[14:37:12] [Server thread/INFO]: 16thGarden[local:E:b0407b67] logged in with entity id 90 at (4.495929153064635, 56.0, 0.33298860962488547)
+[14:37:12] [Server thread/INFO]: 16thGarden joined the game
+[14:37:12] [Render thread/INFO]: Started 6 worker threads
+[14:37:13] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[14:37:13] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[14:37:13] [Render thread/INFO]: Loaded 1054 advancements
+[14:37:19] [Server thread/INFO]: Saving and pausing game...
+[14:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[14:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[14:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[14:37:21] [Server thread/INFO]: Saving and pausing game...
+[14:37:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[14:37:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[14:37:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[14:37:23] [Render thread/INFO]: Using default channel type
+[14:37:23] [Render thread/INFO]: Started serving on 54794
+[14:37:23] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [54794]
+[14:37:28] [Render thread/INFO]: [System] [CHAT] Can't summon entity of type minecraft:player
+[14:37:38] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[14:37:38] [Render thread/INFO]: [System] [CHAT] ...ayer spawn<--[HERE]
+[14:37:42] [Worker-Main-8/INFO]: Alex[local] logged in with entity id 285 at (3.735822941062028, 56.0, 0.49889018750120906)
+[14:37:42] [Worker-Main-8/INFO]: Alex joined the game
+[14:37:42] [Render thread/INFO]: [System] [CHAT] Alex joined the game
+[14:37:42] [Worker-Main-8/INFO]: Alex has made the advancement [The End?]
+[14:37:42] [Render thread/INFO]: [System] [CHAT] Alex has made the advancement [The End?]
+[14:38:00] [Render thread/INFO]: Stopping worker threads
+[14:38:00] [Render thread/INFO]: Started 6 worker threads
+[14:38:00] [Render thread/INFO]: Stopping worker threads
+[14:38:00] [Render thread/INFO]: Started 6 worker threads
+[14:44:25] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[14:44:26] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[14:44:26] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[14:50:20] [Render thread/INFO]: Audio device was lost!
+[14:50:20] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:50:20] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:50:20] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:50:22] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[14:50:22] [Render thread/INFO]: Sound engine started
+[14:50:22] [IO-Worker-9/INFO]: System default audio device has changed!
+[14:50:22] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:50:22] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:50:22] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:50:22] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[14:50:22] [Render thread/INFO]: Sound engine started
+[14:55:04] [IO-Worker-13/INFO]: System default audio device has changed!
+[14:55:04] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:55:04] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:55:04] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:55:04] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:55:04] [Render thread/INFO]: Sound engine started
+[14:55:12] [Render thread/INFO]: Audio device was lost!
+[14:55:12] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:55:12] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:55:12] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:55:12] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:55:12] [Render thread/INFO]: Sound engine started
+[14:55:13] [Render thread/INFO]: Audio device was lost!
+[14:55:13] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:55:13] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:55:13] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:55:14] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:55:14] [Render thread/INFO]: Sound engine started
+[14:59:56] [Render thread/INFO]: Stopping worker threads
+[14:59:56] [Render thread/INFO]: Started 6 worker threads
+[14:59:56] [Render thread/INFO]: Stopping worker threads
+[14:59:56] [Render thread/INFO]: Started 6 worker threads
+[15:00:26] [Render thread/INFO]: Stopping worker threads
+[15:00:26] [Render thread/INFO]: Started 6 worker threads
+[15:00:26] [Render thread/INFO]: Stopping worker threads
+[15:00:26] [Render thread/INFO]: Started 6 worker threads
+[15:01:18] [Render thread/INFO]: Stopping worker threads
+[15:01:18] [Render thread/INFO]: Started 6 worker threads
+[15:01:18] [Render thread/INFO]: Stopping worker threads
+[15:01:18] [Render thread/INFO]: Started 6 worker threads
+[15:01:32] [Render thread/WARN]: Received passengers for unknown entity
+[15:01:55] [Render thread/INFO]: Stopping worker threads
+[15:01:55] [Render thread/INFO]: Started 6 worker threads
+[15:01:55] [Render thread/INFO]: Stopping worker threads
+[15:01:55] [Render thread/INFO]: Started 6 worker threads
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[15:33:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:48] [Render thread/INFO]: Stopping worker threads
+[16:07:49] [Render thread/INFO]: Started 6 worker threads
+[16:07:49] [Render thread/INFO]: Stopping worker threads
+[16:07:49] [Render thread/INFO]: Started 6 worker threads
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:54] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:55] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:07:56] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[16:08:11] [Render thread/INFO]: Stopping worker threads
+[16:08:11] [Render thread/INFO]: Started 6 worker threads
+[16:08:11] [Render thread/INFO]: Stopping worker threads
+[16:08:11] [Render thread/INFO]: Started 6 worker threads
+[16:08:14] [Render thread/INFO]: Stopping worker threads
+[16:08:14] [Render thread/INFO]: Started 6 worker threads
+[16:08:14] [Render thread/INFO]: Stopping worker threads
+[16:08:14] [Render thread/INFO]: Started 6 worker threads
+[16:08:42] [Render thread/INFO]: Stopping worker threads
+[16:08:42] [Render thread/INFO]: Started 6 worker threads
+[16:08:42] [Render thread/INFO]: Stopping worker threads
+[16:08:42] [Render thread/INFO]: Started 6 worker threads
+[16:09:03] [WebSocketConnectReadThread-74/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 32m 27.644532100s
+[16:09:03] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[16:09:04] [DefaultDispatcher-worker-4/INFO]: Connecting to Essential Connection Manager...
+[16:09:05] [WebSocketConnectReadThread-391/INFO]: Connected to Essential Connection Manager.
+[16:09:09] [Server thread/WARN]: 16thGarden moved wrongly!
+[16:19:08] [Server thread/WARN]: 16thGarden moved wrongly!
+[16:23:10] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[16:23:14] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[16:32:12] [CullThread/INFO]: [STDERR]: java.lang.ArrayIndexOutOfBoundsException: Index 966 out of bounds for length 513
+[16:32:12] [CullThread/INFO]: [STDERR]: 	at it.unimi.dsi.fastutil.ints.Int2ObjectLinkedOpenHashMap$MapIterator.nextEntry(Int2ObjectLinkedOpenHashMap.java:1183)
+[16:32:12] [CullThread/INFO]: [STDERR]: 	at it.unimi.dsi.fastutil.ints.Int2ObjectLinkedOpenHashMap$ValueIterator.next(Int2ObjectLinkedOpenHashMap.java:1689)
+[16:32:12] [CullThread/INFO]: [STDERR]: 	at com.google.common.collect.Iterators$1.next(Iterators.java:146)
+[16:32:12] [CullThread/INFO]: [STDERR]: 	at dev.tr7zw.entityculling.CullTask.cullEntities(CullTask.java:90)
+[16:32:12] [CullThread/INFO]: [STDERR]: 	at dev.tr7zw.entityculling.CullTask.run(CullTask.java:71)
+[16:32:12] [CullThread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[16:35:24] [Render thread/INFO]: Stopping worker threads
+[16:35:24] [Render thread/INFO]: Started 6 worker threads
+[16:35:24] [Render thread/INFO]: Stopping worker threads
+[16:35:24] [Render thread/INFO]: Started 6 worker threads
+[16:35:55] [Render thread/INFO]: Stopping worker threads
+[16:35:55] [Render thread/INFO]: Started 6 worker threads
+[16:35:55] [Render thread/INFO]: Stopping worker threads
+[16:35:55] [Render thread/INFO]: Started 6 worker threads
+[16:35:57] [Render thread/INFO]: Stopping worker threads
+[16:35:57] [Render thread/INFO]: Started 6 worker threads
+[16:35:58] [Render thread/INFO]: Stopping worker threads
+[16:35:58] [Render thread/INFO]: Started 6 worker threads
+[16:36:28] [Render thread/INFO]: Stopping worker threads
+[16:36:28] [Render thread/INFO]: Started 6 worker threads
+[16:36:28] [Render thread/INFO]: Stopping worker threads
+[16:36:28] [Render thread/INFO]: Started 6 worker threads
+[16:37:34] [Render thread/INFO]: Stopping worker threads
+[16:37:34] [Render thread/INFO]: Started 6 worker threads
+[16:37:34] [Render thread/INFO]: Stopping worker threads
+[16:37:34] [Render thread/INFO]: Started 6 worker threads
+[16:37:48] [Render thread/WARN]: Received passengers for unknown entity
+[16:37:53] [Render thread/INFO]: Stopping worker threads
+[16:37:53] [Render thread/INFO]: Started 6 worker threads
+[16:37:53] [Render thread/INFO]: Stopping worker threads
+[16:37:53] [Render thread/INFO]: Started 6 worker threads
+[16:37:57] [Render thread/INFO]: Stopping worker threads
+[16:37:57] [Render thread/INFO]: Started 6 worker threads
+[16:37:57] [Render thread/INFO]: Stopping worker threads
+[16:37:57] [Render thread/INFO]: Started 6 worker threads
+[16:38:09] [Render thread/INFO]: Stopping worker threads
+[16:38:09] [Render thread/INFO]: Started 6 worker threads
+[16:38:09] [Render thread/INFO]: Stopping worker threads
+[16:38:09] [Render thread/INFO]: Started 6 worker threads
+[16:48:04] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: shown
+[16:48:08] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[16:48:10] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: hidden
+[16:48:11] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[16:54:28] [Render thread/INFO]: Stopping worker threads
+[16:54:28] [Render thread/INFO]: Started 6 worker threads
+[16:54:28] [Render thread/INFO]: Stopping worker threads
+[16:54:28] [Render thread/INFO]: Started 6 worker threads
+[16:54:29] [Render thread/WARN]: Received passengers for unknown entity
+[16:54:29] [Render thread/WARN]: Received passengers for unknown entity
+[16:54:46] [Render thread/INFO]: Stopping worker threads
+[16:54:46] [Render thread/INFO]: Started 6 worker threads
+[16:54:46] [Render thread/INFO]: Stopping worker threads
+[16:54:46] [Render thread/INFO]: Started 6 worker threads
+[16:54:49] [Render thread/INFO]: Stopping worker threads
+[16:54:49] [Render thread/INFO]: Started 6 worker threads
+[16:54:49] [Render thread/INFO]: Stopping worker threads
+[16:54:49] [Render thread/INFO]: Started 6 worker threads
+[16:55:26] [Render thread/INFO]: Stopping worker threads
+[16:55:26] [Render thread/INFO]: Started 6 worker threads
+[16:55:26] [Render thread/INFO]: Stopping worker threads
+[16:55:26] [Render thread/INFO]: Started 6 worker threads
+[16:56:36] [Render thread/INFO]: Stopping worker threads
+[16:56:36] [Render thread/INFO]: Started 6 worker threads
+[16:56:36] [Render thread/INFO]: Stopping worker threads
+[16:56:36] [Render thread/INFO]: Started 6 worker threads
+[16:58:37] [Render thread/WARN]: Received passengers for unknown entity
+[16:58:38] [Render thread/WARN]: Received passengers for unknown entity
+[16:58:38] [Render thread/WARN]: Received passengers for unknown entity
+[16:58:50] [Render thread/INFO]: Stopping worker threads
+[16:58:50] [Render thread/INFO]: Started 6 worker threads
+[16:58:50] [Render thread/INFO]: Stopping worker threads
+[16:58:50] [Render thread/INFO]: Started 6 worker threads
+[17:02:45] [Render thread/INFO]: Stopping worker threads
+[17:02:45] [Render thread/INFO]: Started 6 worker threads
+[17:02:45] [Render thread/INFO]: Stopping worker threads
+[17:02:45] [Render thread/INFO]: Started 6 worker threads
+[17:03:04] [Render thread/INFO]: Stopping worker threads
+[17:03:04] [Render thread/INFO]: Started 6 worker threads
+[17:03:04] [Render thread/INFO]: Stopping worker threads
+[17:03:04] [Render thread/INFO]: Started 6 worker threads
+[17:03:06] [Render thread/INFO]: Stopping worker threads
+[17:03:06] [Render thread/INFO]: Started 6 worker threads
+[17:03:06] [Render thread/INFO]: Stopping worker threads
+[17:03:06] [Render thread/INFO]: Started 6 worker threads
+[17:03:37] [Render thread/INFO]: Stopping worker threads
+[17:03:37] [Render thread/INFO]: Started 6 worker threads
+[17:03:37] [Render thread/INFO]: Stopping worker threads
+[17:03:37] [Render thread/INFO]: Started 6 worker threads
+[17:06:23] [Render thread/INFO]: Stopping worker threads
+[17:06:23] [Render thread/INFO]: Started 6 worker threads
+[17:06:23] [Render thread/INFO]: Stopping worker threads
+[17:06:23] [Render thread/INFO]: Started 6 worker threads
+[17:06:40] [Render thread/INFO]: Stopping worker threads
+[17:06:41] [Render thread/INFO]: Started 6 worker threads
+[17:06:41] [Render thread/INFO]: Stopping worker threads
+[17:06:41] [Render thread/INFO]: Started 6 worker threads
+[17:07:04] [Render thread/INFO]: Stopping worker threads
+[17:07:04] [Render thread/INFO]: Started 6 worker threads
+[17:07:04] [Render thread/INFO]: Stopping worker threads
+[17:07:04] [Render thread/INFO]: Started 6 worker threads
+[17:07:07] [Render thread/WARN]: Received passengers for unknown entity
+[17:07:07] [Render thread/WARN]: Received passengers for unknown entity
+[17:07:17] [Render thread/INFO]: Stopping worker threads
+[17:07:17] [Render thread/INFO]: Started 6 worker threads
+[17:07:17] [Render thread/INFO]: Stopping worker threads
+[17:07:17] [Render thread/INFO]: Started 6 worker threads
+[17:10:09] [Render thread/INFO]: Stopping worker threads
+[17:10:09] [Render thread/INFO]: Started 6 worker threads
+[17:10:09] [Render thread/INFO]: Stopping worker threads
+[17:10:09] [Render thread/INFO]: Started 6 worker threads
+[17:10:56] [Render thread/INFO]: Stopping worker threads
+[17:10:56] [Render thread/INFO]: Started 6 worker threads
+[17:10:56] [Render thread/INFO]: Stopping worker threads
+[17:10:56] [Render thread/INFO]: Started 6 worker threads
+[17:11:16] [CullThread/INFO]: [STDERR]: java.lang.ArrayIndexOutOfBoundsException
+[17:14:27] [Render thread/INFO]: Stopping worker threads
+[17:14:27] [Render thread/INFO]: Started 6 worker threads
+[17:14:27] [Render thread/INFO]: Stopping worker threads
+[17:14:27] [Render thread/INFO]: Started 6 worker threads
+[17:14:32] [Render thread/WARN]: Received passengers for unknown entity
+[17:14:32] [Render thread/WARN]: Received passengers for unknown entity
+[17:14:46] [Render thread/INFO]: Stopping worker threads
+[17:14:46] [Render thread/INFO]: Started 6 worker threads
+[17:14:46] [Render thread/INFO]: Stopping worker threads
+[17:14:46] [Render thread/INFO]: Started 6 worker threads
+[17:25:51] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[17:30:00] [Render thread/INFO]: Stopping worker threads
+[17:30:00] [Render thread/INFO]: Started 6 worker threads
+[17:30:00] [Render thread/INFO]: Stopping worker threads
+[17:30:00] [Render thread/INFO]: Started 6 worker threads
+[17:30:00] [Render thread/WARN]: Received passengers for unknown entity
+[17:30:16] [Render thread/WARN]: Received passengers for unknown entity
+[17:30:21] [Render thread/INFO]: Stopping worker threads
+[17:30:21] [Render thread/INFO]: Started 6 worker threads
+[17:30:21] [Render thread/INFO]: Stopping worker threads
+[17:30:21] [Render thread/INFO]: Started 6 worker threads
+[17:30:32] [Render thread/INFO]: Stopping worker threads
+[17:30:32] [Render thread/INFO]: Started 6 worker threads
+[17:30:32] [Render thread/INFO]: Stopping worker threads
+[17:30:32] [Render thread/INFO]: Started 6 worker threads
+[17:30:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-51, y=70, z=-7} class_2338{x=-3, y=60, z=1}
+[17:31:01] [Render thread/INFO]: Stopping worker threads
+[17:31:01] [Render thread/INFO]: Started 6 worker threads
+[17:31:01] [Render thread/INFO]: Stopping worker threads
+[17:31:01] [Render thread/INFO]: Started 6 worker threads
+[17:33:26] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[17:51:45] [WebSocketConnectReadThread-391/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 42m 40.446065900s
+[17:51:45] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:51:46] [DefaultDispatcher-worker-7/INFO]: Connecting to Essential Connection Manager...
+[17:51:46] [WebSocketConnectReadThread-935/INFO]: Connected to Essential Connection Manager.
+[17:55:34] [Render thread/INFO]: Stopping worker threads
+[17:55:34] [Render thread/INFO]: Started 6 worker threads
+[17:55:34] [Render thread/INFO]: Stopping worker threads
+[17:55:34] [Render thread/INFO]: Started 6 worker threads
+[17:55:50] [Render thread/WARN]: Received passengers for unknown entity
+[17:55:55] [Render thread/INFO]: Stopping worker threads
+[17:55:55] [Render thread/INFO]: Started 6 worker threads
+[17:55:55] [Render thread/INFO]: Stopping worker threads
+[17:55:56] [Render thread/INFO]: Started 6 worker threads
+[17:55:59] [Render thread/INFO]: Stopping worker threads
+[17:55:59] [Render thread/INFO]: Started 6 worker threads
+[17:55:59] [Render thread/INFO]: Stopping worker threads
+[17:55:59] [Render thread/INFO]: Started 6 worker threads
+[17:56:23] [Render thread/INFO]: Stopping worker threads
+[17:56:23] [Render thread/INFO]: Started 6 worker threads
+[17:56:23] [Render thread/INFO]: Stopping worker threads
+[17:56:23] [Render thread/INFO]: Started 6 worker threads
+[18:20:32] [Render thread/INFO]: Stopping worker threads
+[18:20:32] [Render thread/INFO]: Started 6 worker threads
+[18:20:32] [Render thread/INFO]: Stopping worker threads
+[18:20:32] [Render thread/INFO]: Started 6 worker threads
+[18:20:53] [Render thread/INFO]: Stopping worker threads
+[18:20:53] [Render thread/INFO]: Started 6 worker threads
+[18:20:53] [Render thread/INFO]: Stopping worker threads
+[18:20:53] [Render thread/INFO]: Started 6 worker threads
+[18:20:59] [Render thread/INFO]: Stopping worker threads
+[18:20:59] [Render thread/INFO]: Started 6 worker threads
+[18:20:59] [Render thread/INFO]: Stopping worker threads
+[18:20:59] [Render thread/INFO]: Started 6 worker threads
+[18:21:28] [Render thread/INFO]: Stopping worker threads
+[18:21:28] [Render thread/INFO]: Started 6 worker threads
+[18:21:28] [Render thread/INFO]: Stopping worker threads
+[18:21:28] [Render thread/INFO]: Started 6 worker threads
+[18:46:03] [Render thread/INFO]: Stopping worker threads
+[18:46:03] [Render thread/INFO]: Started 6 worker threads
+[18:46:03] [Render thread/INFO]: Stopping worker threads
+[18:46:03] [Render thread/INFO]: Started 6 worker threads
+[18:46:14] [Render thread/WARN]: Received passengers for unknown entity
+[18:46:20] [Render thread/INFO]: Stopping worker threads
+[18:46:20] [Render thread/INFO]: Started 6 worker threads
+[18:46:20] [Render thread/INFO]: Stopping worker threads
+[18:46:20] [Render thread/INFO]: Started 6 worker threads
+[18:46:22] [Render thread/INFO]: Stopping worker threads
+[18:46:22] [Render thread/INFO]: Started 6 worker threads
+[18:46:22] [Render thread/INFO]: Stopping worker threads
+[18:46:22] [Render thread/INFO]: Started 6 worker threads
+[18:46:59] [Render thread/INFO]: Stopping worker threads
+[18:46:59] [Render thread/INFO]: Started 6 worker threads
+[18:46:59] [Render thread/INFO]: Stopping worker threads
+[18:46:59] [Render thread/INFO]: Started 6 worker threads
+[18:47:37] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[18:47:37] [Server thread/INFO]: 16thGarden left the game
+[18:47:38] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:47:38] [Server thread/INFO]: Stopping server
+[18:47:38] [Server thread/INFO]: Saving players
+[18:47:38] [Server thread/INFO]: Saving worlds
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:47:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:47:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:47:38] [Render thread/INFO]: Stopping worker threads
+[19:13:31] [WebSocketConnectReadThread-935/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 21m 44.531988500s
+[19:13:31] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[19:13:31] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[19:13:32] [WebSocketConnectReadThread-1505/INFO]: Connected to Essential Connection Manager.
+[19:25:39] [Render thread/INFO]: Loaded 7 recipes
+[19:25:39] [Render thread/INFO]: Loaded 1271 advancements
+[19:25:39] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 260.5 ?s
+[19:25:39] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[19:25:39] [Server thread/INFO]: Generating keypair
+[19:25:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:25:41] [Render thread/INFO]: Preparing spawn area: 0%
+[19:25:41] [Render thread/INFO]: Preparing spawn area: 0%
+[19:25:41] [Render thread/INFO]: Preparing spawn area: 0%
+[19:25:42] [Render thread/INFO]: Preparing spawn area: 0%
+[19:25:42] [Render thread/INFO]: Preparing spawn area: 2%
+[19:25:43] [Render thread/INFO]: Preparing spawn area: 15%
+[19:25:43] [Render thread/INFO]: Preparing spawn area: 83%
+[19:25:43] [Render thread/INFO]: Time elapsed: 3113 ms
+[19:25:43] [Server thread/INFO]: Changing view distance to 16, from 10
+[19:25:43] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[19:25:43] [Server thread/INFO]: 16thGarden[local:E:210b28c7] logged in with entity id 1353589 at (-52.862800906491934, 64.0, -10.833476374144123)
+[19:25:43] [Server thread/INFO]: 16thGarden joined the game
+[19:25:43] [Render thread/INFO]: Started 6 worker threads
+[19:25:43] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[19:25:44] [Render thread/INFO]: Loaded 1054 advancements
+[19:32:48] [Render thread/INFO]: Stopping worker threads
+[19:32:48] [Render thread/INFO]: Started 6 worker threads
+[19:32:48] [Server thread/INFO]: Saving and pausing game...
+[19:32:48] [Render thread/INFO]: Stopping worker threads
+[19:32:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:32:48] [Render thread/INFO]: Started 6 worker threads
+[19:32:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:32:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:33:00] [Render thread/WARN]: Received passengers for unknown entity
+[19:33:06] [Render thread/INFO]: Stopping worker threads
+[19:33:06] [Render thread/INFO]: Started 6 worker threads
+[19:33:06] [Server thread/INFO]: Saving and pausing game...
+[19:33:06] [Render thread/INFO]: Stopping worker threads
+[19:33:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:33:06] [Render thread/INFO]: Started 6 worker threads
+[19:33:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:33:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:33:09] [Render thread/INFO]: Stopping worker threads
+[19:33:09] [Server thread/INFO]: Saving and pausing game...
+[19:33:09] [Render thread/INFO]: Started 6 worker threads
+[19:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:33:09] [Render thread/INFO]: Stopping worker threads
+[19:33:09] [Render thread/INFO]: Started 6 worker threads
+[19:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[19:33:10] [Server thread/INFO]: Saving and pausing game...
+[19:33:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:33:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:33:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:33:12] [Render thread/INFO]: Using default channel type
+[19:33:12] [Render thread/INFO]: Started serving on 57223
+[19:33:12] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [57223]
+[19:33:26] [Worker-Main-18/INFO]: Alex[local] logged in with entity id 1358898 at (3.459201212371906, 56.0, 0.49889018750120906)
+[19:33:26] [Worker-Main-18/INFO]: Alex joined the game
+[19:33:26] [Render thread/INFO]: [System] [CHAT] Alex joined the game
+[19:33:59] [Render thread/INFO]: Stopping worker threads
+[19:33:59] [Render thread/INFO]: Started 6 worker threads
+[19:33:59] [Render thread/INFO]: Stopping worker threads
+[19:33:59] [Render thread/INFO]: Started 6 worker threads
+[19:46:48] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[19:48:54] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[19:49:18] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[19:58:28] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[19:58:29] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[20:22:05] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[20:23:55] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[20:26:42] [Render thread/INFO]: Stopping worker threads
+[20:26:42] [Render thread/INFO]: Started 6 worker threads
+[20:26:42] [Render thread/INFO]: Stopping worker threads
+[20:26:42] [Render thread/INFO]: Started 6 worker threads
+[20:26:48] [Render thread/INFO]: Stopping worker threads
+[20:26:48] [Render thread/INFO]: Started 6 worker threads
+[20:26:48] [Render thread/INFO]: Stopping worker threads
+[20:26:48] [Render thread/INFO]: Started 6 worker threads
+[20:35:36] [Render thread/INFO]: Stopping worker threads
+[20:35:36] [Render thread/INFO]: Started 6 worker threads
+[20:35:36] [Render thread/INFO]: Stopping worker threads
+[20:35:36] [Render thread/INFO]: Started 6 worker threads
+[20:35:53] [Render thread/INFO]: Stopping worker threads
+[20:35:53] [Render thread/INFO]: Started 6 worker threads
+[20:35:53] [Render thread/INFO]: Stopping worker threads
+[20:35:53] [Render thread/INFO]: Started 6 worker threads
+[20:36:16] [Worker-Main-22/INFO]: Steve[local] logged in with entity id 1623173 at (207.93968671009742, 72.0, -1301.0008771798714)
+[20:36:16] [Worker-Main-22/INFO]: Steve joined the game
+[20:36:16] [Render thread/INFO]: [System] [CHAT] Steve joined the game
+[20:43:11] [Render thread/INFO]: Stopping worker threads
+[20:43:11] [Render thread/INFO]: Started 6 worker threads
+[20:43:11] [Render thread/INFO]: Stopping worker threads
+[20:43:11] [Render thread/INFO]: Started 6 worker threads
+[20:43:17] [Render thread/WARN]: Received passengers for unknown entity
+[20:43:17] [Render thread/WARN]: Received passengers for unknown entity
+[20:43:28] [Render thread/INFO]: Stopping worker threads
+[20:43:28] [Render thread/INFO]: Started 6 worker threads
+[20:43:28] [Render thread/INFO]: Stopping worker threads
+[20:43:28] [Render thread/INFO]: Started 6 worker threads
+[20:55:16] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:17] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[20:55:18] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:30:07] [Render thread/INFO]: Stopping worker threads
+[21:30:07] [Render thread/INFO]: Started 6 worker threads
+[21:30:07] [Render thread/INFO]: Stopping worker threads
+[21:30:07] [Render thread/INFO]: Started 6 worker threads
+[21:30:27] [Render thread/INFO]: Stopping worker threads
+[21:30:27] [Render thread/INFO]: Started 6 worker threads
+[21:30:27] [Render thread/INFO]: Stopping worker threads
+[21:30:27] [Render thread/INFO]: Started 6 worker threads
+[21:30:30] [Render thread/INFO]: Stopping worker threads
+[21:30:30] [Render thread/INFO]: Started 6 worker threads
+[21:30:30] [Render thread/INFO]: Stopping worker threads
+[21:30:30] [Render thread/INFO]: Started 6 worker threads
+[21:31:56] [Render thread/INFO]: Stopping worker threads
+[21:31:56] [Render thread/INFO]: Started 6 worker threads
+[21:31:56] [Render thread/INFO]: Stopping worker threads
+[21:31:56] [Render thread/INFO]: Started 6 worker threads
+[21:31:58] [Server thread/WARN]: 16thGarden moved wrongly!
+[21:38:42] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:28] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:40:35] [Render thread/INFO]: Stopping worker threads
+[21:40:35] [Render thread/INFO]: Started 6 worker threads
+[21:40:35] [Render thread/INFO]: Stopping worker threads
+[21:40:35] [Render thread/INFO]: Started 6 worker threads
+[21:40:50] [Render thread/WARN]: Received passengers for unknown entity
+[21:40:56] [Render thread/INFO]: Stopping worker threads
+[21:40:56] [Render thread/INFO]: Started 6 worker threads
+[21:40:56] [Render thread/INFO]: Stopping worker threads
+[21:40:56] [Render thread/INFO]: Started 6 worker threads
+[21:40:59] [Render thread/INFO]: Stopping worker threads
+[21:40:59] [Render thread/INFO]: Started 6 worker threads
+[21:40:59] [Render thread/INFO]: Stopping worker threads
+[21:40:59] [Render thread/INFO]: Started 6 worker threads
+[21:41:30] [Render thread/INFO]: Stopping worker threads
+[21:41:30] [Render thread/INFO]: Started 6 worker threads
+[21:41:30] [Render thread/INFO]: Stopping worker threads
+[21:41:30] [Render thread/INFO]: Started 6 worker threads
+[21:46:45] [WebSocketConnectReadThread-1505/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 2h 33m 12.689117800s
+[21:46:45] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[21:46:45] [DefaultDispatcher-worker-7/INFO]: Connecting to Essential Connection Manager...
+[21:46:46] [WebSocketConnectReadThread-2089/INFO]: Connected to Essential Connection Manager.
+[21:48:58] [Render thread/INFO]: Stopping worker threads
+[21:48:58] [Render thread/INFO]: Started 6 worker threads
+[21:48:58] [Render thread/INFO]: Stopping worker threads
+[21:48:58] [Render thread/INFO]: Started 6 worker threads
+[21:49:20] [Render thread/INFO]: Stopping worker threads
+[21:49:20] [Render thread/INFO]: Started 6 worker threads
+[21:49:20] [Render thread/INFO]: Stopping worker threads
+[21:49:20] [Render thread/INFO]: Started 6 worker threads
+[21:49:23] [Render thread/INFO]: Stopping worker threads
+[21:49:23] [Render thread/INFO]: Started 6 worker threads
+[21:49:23] [Render thread/INFO]: Stopping worker threads
+[21:49:23] [Render thread/INFO]: Started 6 worker threads
+[21:49:32] [Render thread/INFO]: Stopping worker threads
+[21:49:32] [Render thread/INFO]: Started 6 worker threads
+[21:49:32] [Render thread/INFO]: Stopping worker threads
+[21:49:32] [Render thread/INFO]: Started 6 worker threads
+[21:51:52] [Render thread/INFO]: Stopping worker threads
+[21:51:52] [Render thread/INFO]: Started 6 worker threads
+[21:51:52] [Render thread/INFO]: Stopping worker threads
+[21:51:52] [Render thread/INFO]: Started 6 worker threads
+[21:51:52] [Render thread/WARN]: Received passengers for unknown entity
+[21:51:52] [Render thread/WARN]: Received passengers for unknown entity
+[21:52:10] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:52:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:08] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:55:09] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:03] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[21:56:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:37:55] [WebSocketConnectReadThread-2089/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 51m 8.815515100s
+[22:37:55] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[22:37:56] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[22:37:58] [WebSocketConnectReadThread-2231/INFO]: Connected to Essential Connection Manager.
+[22:45:36] [WebSocketConnectReadThread-2231/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 7m 37.584611500s
+[22:45:36] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[22:45:36] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[22:45:40] [WebSocketConnectReadThread-2266/INFO]: Connected to Essential Connection Manager.
+[22:57:34] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:35] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:35] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:35] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:35] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:35] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:35] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:57:36] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[22:58:52] [Render thread/WARN]: Received passengers for unknown entity
+[22:58:52] [Render thread/WARN]: Received passengers for unknown entity
+[22:59:03] [Render thread/INFO]: Stopping worker threads
+[22:59:03] [Render thread/INFO]: Started 6 worker threads
+[22:59:03] [Render thread/INFO]: Stopping worker threads
+[22:59:03] [Render thread/INFO]: Started 6 worker threads
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:29] [Sound engine/ERROR]: Stop: Invalid name parameter.
+[23:03:29] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:03:30] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:09:32] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[23:09:33] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[23:18:00] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:18:01] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:18:01] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:18:01] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:18:01] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:18:02] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:18:02] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:27:28] [Render thread/INFO]: Stopping worker threads
+[23:27:28] [Render thread/INFO]: Started 6 worker threads
+[23:27:28] [Render thread/INFO]: Stopping worker threads
+[23:27:28] [Render thread/INFO]: Started 6 worker threads
+[23:28:43] [Render thread/INFO]: Stopping worker threads
+[23:28:43] [Render thread/INFO]: Started 6 worker threads
+[23:28:43] [Render thread/INFO]: Stopping worker threads
+[23:28:43] [Render thread/INFO]: Started 6 worker threads
+[23:30:20] [Render thread/INFO]: Stopping worker threads
+[23:30:20] [Render thread/INFO]: Started 6 worker threads
+[23:30:20] [Render thread/INFO]: Stopping worker threads
+[23:30:20] [Render thread/INFO]: Started 6 worker threads
+[23:30:24] [Render thread/WARN]: Received passengers for unknown entity
+[23:30:24] [Render thread/WARN]: Received passengers for unknown entity
+[23:30:38] [Render thread/INFO]: Stopping worker threads
+[23:30:38] [Render thread/INFO]: Started 6 worker threads
+[23:30:38] [Render thread/INFO]: Stopping worker threads
+[23:30:38] [Render thread/INFO]: Started 6 worker threads
+[23:46:34] [Render thread/INFO]: Stopping worker threads
+[23:46:34] [Render thread/INFO]: Started 6 worker threads
+[23:46:34] [Render thread/INFO]: Stopping worker threads
+[23:46:34] [Render thread/INFO]: Started 6 worker threads
+[23:46:45] [Render thread/WARN]: Received passengers for unknown entity
+[23:46:51] [Render thread/INFO]: Stopping worker threads
+[23:46:51] [Render thread/INFO]: Started 6 worker threads
+[23:46:51] [Render thread/INFO]: Stopping worker threads
+[23:46:51] [Render thread/INFO]: Started 6 worker threads
+[23:46:54] [Render thread/INFO]: Stopping worker threads
+[23:46:54] [Render thread/INFO]: Started 6 worker threads
+[23:46:54] [Render thread/INFO]: Stopping worker threads
+[23:46:54] [Render thread/INFO]: Started 6 worker threads
+[23:47:31] [Render thread/INFO]: Stopping worker threads
+[23:47:31] [Render thread/INFO]: Started 6 worker threads
+[23:47:31] [Render thread/INFO]: Stopping worker threads
+[23:47:31] [Render thread/INFO]: Started 6 worker threads
+[23:59:36] [Render thread/INFO]: Stopping worker threads
+[23:59:36] [Render thread/INFO]: Started 6 worker threads
+[23:59:36] [Render thread/INFO]: Stopping worker threads
+[23:59:36] [Render thread/INFO]: Started 6 worker threads
+[23:59:54] [Render thread/WARN]: Received passengers for unknown entity
+[23:59:59] [Render thread/INFO]: Stopping worker threads
+[23:59:59] [Render thread/INFO]: Started 6 worker threads
+[23:59:59] [Render thread/INFO]: Stopping worker threads
+[23:59:59] [Render thread/INFO]: Started 6 worker threads

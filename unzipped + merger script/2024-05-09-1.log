@@ -1,0 +1,316 @@
+[00:04:36] [WebSocketConnectReadThread-2886/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 6m 58.736566600s
+[00:04:36] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:04:37] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[00:04:37] [WebSocketConnectReadThread-2915/INFO]: Connected to Essential Connection Manager.
+[00:07:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1505, y=68, z=-854} class_2338{x=-1568, y=69, z=-935}
+[00:07:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1505, y=68, z=-854} class_2338{x=-1568, y=69, z=-935}
+[00:07:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1505, y=68, z=-854} class_2338{x=-1568, y=69, z=-935}
+[00:07:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1505, y=68, z=-854} class_2338{x=-1568, y=69, z=-935}
+[00:12:38] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[00:16:38] [Render thread/INFO]: Closing connection after 12m 0.571006300s due to SERVER_REQUESTED_RECONNECT
+[00:16:38] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:16:38] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[00:16:39] [WebSocketConnectReadThread-2935/INFO]: Connected to Essential Connection Manager.
+[00:16:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=68, z=-924} class_2338{x=-1541, y=69, z=-920}
+[00:16:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=68, z=-924} class_2338{x=-1541, y=69, z=-920}
+[00:26:18] [WebSocketConnectReadThread-2935/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 9m 38.967632s
+[00:26:18] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:26:18] [DefaultDispatcher-worker-5/INFO]: Connecting to Essential Connection Manager...
+[00:26:19] [WebSocketConnectReadThread-2961/INFO]: Connected to Essential Connection Manager.
+[00:33:08] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:43:21] [WebSocketConnectReadThread-2961/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 17m 1.596775500s
+[00:43:21] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:43:21] [DefaultDispatcher-worker-5/INFO]: Connecting to Essential Connection Manager...
+[00:43:22] [WebSocketConnectReadThread-2986/INFO]: Connected to Essential Connection Manager.
+[00:50:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1537, y=70, z=-960} class_2338{x=-1568, y=69, z=-935}
+[00:50:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1537, y=70, z=-960} class_2338{x=-1568, y=69, z=-935}
+[01:00:23] [Render thread/INFO]: Stopping worker threads
+[01:00:23] [Render thread/INFO]: Started 6 worker threads
+[01:00:23] [Render thread/INFO]: Stopping worker threads
+[01:00:23] [Render thread/INFO]: Started 6 worker threads
+[01:00:29] [Render thread/WARN]: Received passengers for unknown entity
+[01:00:29] [Render thread/WARN]: Received passengers for unknown entity
+[01:00:29] [Render thread/WARN]: Received passengers for unknown entity
+[01:00:39] [Render thread/INFO]: Stopping worker threads
+[01:00:39] [Render thread/INFO]: Started 6 worker threads
+[01:00:39] [Render thread/INFO]: Stopping worker threads
+[01:00:39] [Render thread/INFO]: Started 6 worker threads
+[01:01:06] [Render thread/INFO]: Stopping worker threads
+[01:01:06] [Render thread/INFO]: Started 6 worker threads
+[01:01:06] [Render thread/INFO]: Stopping worker threads
+[01:01:06] [Render thread/INFO]: Started 6 worker threads
+[01:01:20] [Render thread/INFO]: Stopping worker threads
+[01:01:20] [Render thread/INFO]: Started 6 worker threads
+[01:01:20] [Render thread/INFO]: Stopping worker threads
+[01:01:20] [Render thread/INFO]: Started 6 worker threads
+[01:02:23] [Render thread/INFO]: Stopping worker threads
+[01:02:23] [Render thread/INFO]: Started 6 worker threads
+[01:02:23] [Render thread/INFO]: Stopping worker threads
+[01:02:23] [Render thread/INFO]: Started 6 worker threads
+[01:02:26] [Render thread/WARN]: Received passengers for unknown entity
+[01:02:26] [Render thread/WARN]: Received passengers for unknown entity
+[01:02:49] [Render thread/INFO]: Stopping worker threads
+[01:02:49] [Render thread/INFO]: Started 6 worker threads
+[01:02:49] [Render thread/INFO]: Stopping worker threads
+[01:02:49] [Render thread/INFO]: Started 6 worker threads
+[01:13:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1557, y=70, z=-882} class_2338{x=-1548, y=69, z=-861}
+[01:13:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1557, y=70, z=-882} class_2338{x=-1548, y=69, z=-861}
+[01:13:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1557, y=70, z=-882} class_2338{x=-1548, y=69, z=-861}
+[01:13:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1557, y=70, z=-882} class_2338{x=-1548, y=69, z=-861}
+[01:16:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1506, y=68, z=-857} class_2338{x=-1568, y=69, z=-942}
+[01:16:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1506, y=68, z=-857} class_2338{x=-1568, y=69, z=-942}
+[01:16:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1506, y=68, z=-857} class_2338{x=-1568, y=69, z=-942}
+[01:16:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1506, y=68, z=-857} class_2338{x=-1568, y=69, z=-942}
+[01:16:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1566, y=68, z=-941} class_2338{x=-1566, y=69, z=-945}
+[01:16:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1566, y=68, z=-941} class_2338{x=-1566, y=69, z=-945}
+[01:16:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1566, y=68, z=-941} class_2338{x=-1566, y=69, z=-945}
+[01:18:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1516, y=68, z=-914} class_2338{x=-1516, y=69, z=-907}
+[01:28:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1507, y=68, z=-866} class_2338{x=-1502, y=69, z=-866}
+[01:28:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1507, y=68, z=-866} class_2338{x=-1502, y=69, z=-866}
+[01:28:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1507, y=68, z=-866} class_2338{x=-1502, y=69, z=-866}
+[01:28:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1507, y=68, z=-866} class_2338{x=-1502, y=69, z=-866}
+[01:33:55] [Render thread/INFO]: Stopping worker threads
+[01:33:55] [Render thread/INFO]: Started 6 worker threads
+[01:33:55] [Render thread/INFO]: Stopping worker threads
+[01:33:55] [Render thread/INFO]: Started 6 worker threads
+[01:34:02] [Render thread/WARN]: Received passengers for unknown entity
+[01:34:02] [Render thread/WARN]: Received passengers for unknown entity
+[01:34:03] [Render thread/WARN]: Received passengers for unknown entity
+[01:34:20] [Render thread/INFO]: Stopping worker threads
+[01:34:20] [Render thread/INFO]: Started 6 worker threads
+[01:34:20] [Render thread/INFO]: Stopping worker threads
+[01:34:20] [Render thread/INFO]: Started 6 worker threads
+[01:34:59] [Render thread/INFO]: Stopping worker threads
+[01:34:59] [Render thread/INFO]: Started 6 worker threads
+[01:34:59] [Render thread/INFO]: Stopping worker threads
+[01:34:59] [Render thread/INFO]: Started 6 worker threads
+[01:35:01] [Render thread/WARN]: Received passengers for unknown entity
+[01:35:06] [Render thread/WARN]: Received passengers for unknown entity
+[01:35:53] [Render thread/WARN]: Received passengers for unknown entity
+[01:36:01] [Render thread/INFO]: Stopping worker threads
+[01:36:01] [Render thread/INFO]: Started 6 worker threads
+[01:36:01] [Render thread/INFO]: Stopping worker threads
+[01:36:01] [Render thread/INFO]: Started 6 worker threads
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1575, y=68, z=-952} class_2338{x=-1571, y=69, z=-946}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1575, y=68, z=-952} class_2338{x=-1571, y=69, z=-946}
+[01:37:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1575, y=68, z=-952} class_2338{x=-1571, y=69, z=-946}
+[01:40:02] [Render thread/INFO]: Stopping worker threads
+[01:40:02] [Render thread/INFO]: Started 6 worker threads
+[01:40:02] [Render thread/INFO]: Stopping worker threads
+[01:40:02] [Render thread/INFO]: Started 6 worker threads
+[01:40:16] [Render thread/WARN]: Received passengers for unknown entity
+[01:42:37] [Render thread/WARN]: Received passengers for unknown entity
+[01:42:52] [Render thread/WARN]: Received passengers for unknown entity
+[01:42:58] [Render thread/INFO]: Stopping worker threads
+[01:42:58] [Render thread/INFO]: Started 6 worker threads
+[01:42:58] [Render thread/INFO]: Stopping worker threads
+[01:42:58] [Render thread/INFO]: Started 6 worker threads
+[01:43:21] [WebSocketConnectReadThread-2986/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 59m 58.553660500s
+[01:43:21] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:43:21] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[01:43:22] [WebSocketConnectReadThread-3221/INFO]: Connected to Essential Connection Manager.
+[01:54:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1532, y=68, z=-911} class_2338{x=-1533, y=69, z=-916}
+[01:54:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1532, y=68, z=-911} class_2338{x=-1533, y=69, z=-916}
+[01:54:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1502, y=68, z=-853} class_2338{x=-1504, y=69, z=-849}
+[02:01:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=68, z=-912} class_2338{x=-1568, y=69, z=-935}
+[02:01:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=68, z=-912} class_2338{x=-1568, y=69, z=-935}
+[02:02:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=68, z=-894} class_2338{x=-1543, y=69, z=-893}
+[02:02:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=68, z=-894} class_2338{x=-1543, y=69, z=-893}
+[02:02:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=68, z=-894} class_2338{x=-1543, y=69, z=-893}
+[02:21:37] [Render thread/INFO]: Stopping worker threads
+[02:21:37] [Render thread/INFO]: Started 6 worker threads
+[02:21:37] [Render thread/INFO]: Stopping worker threads
+[02:21:37] [Render thread/INFO]: Started 6 worker threads
+[02:21:44] [Render thread/WARN]: Received passengers for unknown entity
+[02:21:44] [Render thread/WARN]: Received passengers for unknown entity
+[02:22:03] [Render thread/INFO]: Stopping worker threads
+[02:22:03] [Render thread/INFO]: Started 6 worker threads
+[02:22:03] [Render thread/INFO]: Stopping worker threads
+[02:22:03] [Render thread/INFO]: Started 6 worker threads
+[02:23:09] [Render thread/INFO]: Stopping worker threads
+[02:23:09] [Render thread/INFO]: Started 6 worker threads
+[02:23:09] [Render thread/INFO]: Stopping worker threads
+[02:23:09] [Render thread/INFO]: Started 6 worker threads
+[02:23:12] [Render thread/WARN]: Received passengers for unknown entity
+[02:23:12] [Render thread/WARN]: Received passengers for unknown entity
+[02:23:21] [Render thread/INFO]: Stopping worker threads
+[02:23:21] [Render thread/INFO]: Started 6 worker threads
+[02:23:21] [Render thread/INFO]: Stopping worker threads
+[02:23:21] [Render thread/INFO]: Started 6 worker threads
+[02:26:55] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[02:27:26] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:28:33] [Render thread/INFO]: Stopping worker threads
+[02:28:33] [Render thread/INFO]: Started 6 worker threads
+[02:28:33] [Render thread/INFO]: Stopping worker threads
+[02:28:33] [Render thread/INFO]: Started 6 worker threads
+[02:30:29] [Render thread/INFO]: Stopping worker threads
+[02:30:29] [Render thread/INFO]: Started 6 worker threads
+[02:30:29] [Render thread/INFO]: Stopping worker threads
+[02:30:29] [Render thread/INFO]: Started 6 worker threads
+[02:30:47] [Render thread/INFO]: Stopping worker threads
+[02:30:47] [Render thread/INFO]: Started 6 worker threads
+[02:30:47] [Render thread/INFO]: Stopping worker threads
+[02:30:47] [Render thread/INFO]: Started 6 worker threads
+[02:30:48] [Render thread/WARN]: Received passengers for unknown entity
+[02:30:48] [Render thread/WARN]: Received passengers for unknown entity
+[02:31:01] [Render thread/INFO]: Stopping worker threads
+[02:31:01] [Render thread/INFO]: Started 6 worker threads
+[02:31:01] [Render thread/INFO]: Stopping worker threads
+[02:31:01] [Render thread/INFO]: Started 6 worker threads
+[02:33:24] [Render thread/INFO]: Stopping worker threads
+[02:33:24] [Render thread/INFO]: Started 6 worker threads
+[02:33:24] [Render thread/INFO]: Stopping worker threads
+[02:33:24] [Render thread/INFO]: Started 6 worker threads
+[02:33:45] [Render thread/WARN]: Received passengers for unknown entity
+[02:33:50] [Render thread/INFO]: Stopping worker threads
+[02:33:50] [Render thread/INFO]: Started 6 worker threads
+[02:33:50] [Render thread/INFO]: Stopping worker threads
+[02:33:50] [Render thread/INFO]: Started 6 worker threads
+[02:39:17] [Render thread/INFO]: Stopping worker threads
+[02:39:17] [Render thread/INFO]: Started 6 worker threads
+[02:39:17] [Render thread/INFO]: Stopping worker threads
+[02:39:17] [Render thread/INFO]: Started 6 worker threads
+[02:39:24] [Render thread/WARN]: Received passengers for unknown entity
+[02:39:24] [Render thread/WARN]: Received passengers for unknown entity
+[02:39:42] [Render thread/INFO]: Stopping worker threads
+[02:39:42] [Render thread/INFO]: Started 6 worker threads
+[02:39:42] [Render thread/INFO]: Stopping worker threads
+[02:39:42] [Render thread/INFO]: Started 6 worker threads
+[02:40:46] [WebSocketConnectReadThread-3221/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 57m 24.336761200s
+[02:40:46] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[02:40:46] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[02:40:47] [WebSocketConnectReadThread-3456/INFO]: Connected to Essential Connection Manager.
+[02:57:57] [Render thread/INFO]: Stopping worker threads
+[02:57:57] [Render thread/INFO]: Started 6 worker threads
+[02:57:57] [Render thread/INFO]: Stopping worker threads
+[02:57:57] [Render thread/INFO]: Started 6 worker threads
+[02:57:57] [Render thread/WARN]: Received passengers for unknown entity
+[02:57:57] [Render thread/WARN]: Received passengers for unknown entity
+[02:58:03] [Render thread/INFO]: Stopping worker threads
+[02:58:03] [Render thread/INFO]: Started 6 worker threads
+[02:58:03] [Render thread/INFO]: Stopping worker threads
+[02:58:03] [Render thread/INFO]: Started 6 worker threads
+[02:58:13] [Render thread/INFO]: Stopping worker threads
+[02:58:13] [Render thread/INFO]: Started 6 worker threads
+[02:58:13] [Render thread/INFO]: Stopping worker threads
+[02:58:13] [Render thread/INFO]: Started 6 worker threads
+[02:58:14] [Render thread/WARN]: Received passengers for unknown entity
+[02:58:14] [Render thread/WARN]: Received passengers for unknown entity
+[02:58:26] [Render thread/WARN]: Received passengers for unknown entity
+[02:58:32] [Render thread/INFO]: Stopping worker threads
+[02:58:32] [Render thread/INFO]: Started 6 worker threads
+[02:58:32] [Render thread/INFO]: Stopping worker threads
+[02:58:32] [Render thread/INFO]: Started 6 worker threads
+[03:02:44] [Render thread/INFO]: Stopping worker threads
+[03:02:44] [Render thread/INFO]: Started 6 worker threads
+[03:02:44] [Render thread/INFO]: Stopping worker threads
+[03:02:44] [Render thread/INFO]: Started 6 worker threads
+[03:02:53] [Render thread/WARN]: Received passengers for unknown entity
+[03:02:53] [Render thread/WARN]: Received passengers for unknown entity
+[03:03:04] [Render thread/INFO]: Stopping worker threads
+[03:03:04] [Render thread/INFO]: Started 6 worker threads
+[03:03:04] [Render thread/INFO]: Stopping worker threads
+[03:03:04] [Render thread/INFO]: Started 6 worker threads
+[03:04:02] [WebSocketConnectReadThread-3456/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 23m 15.188414100s
+[03:04:02] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[03:04:03] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[03:04:03] [WebSocketConnectReadThread-3585/INFO]: Connected to Essential Connection Manager.
+[03:04:35] [Render thread/INFO]: Stopping worker threads
+[03:04:35] [Render thread/INFO]: Started 6 worker threads
+[03:04:35] [Render thread/INFO]: Stopping worker threads
+[03:04:35] [Render thread/INFO]: Started 6 worker threads
+[03:04:36] [Render thread/WARN]: Received passengers for unknown entity
+[03:04:52] [Render thread/INFO]: Stopping worker threads
+[03:04:52] [Render thread/INFO]: Started 6 worker threads
+[03:04:53] [Render thread/INFO]: Stopping worker threads
+[03:04:53] [Render thread/INFO]: Started 6 worker threads
+[03:05:45] [Render thread/INFO]: Stopping worker threads
+[03:05:45] [Render thread/INFO]: Started 6 worker threads
+[03:05:45] [Render thread/INFO]: Stopping worker threads
+[03:05:45] [Render thread/INFO]: Started 6 worker threads
+[03:05:48] [Render thread/WARN]: Received passengers for unknown entity
+[03:06:11] [Render thread/INFO]: Stopping worker threads
+[03:06:11] [Render thread/INFO]: Started 6 worker threads
+[03:06:11] [Render thread/INFO]: Stopping worker threads
+[03:06:11] [Render thread/INFO]: Started 6 worker threads
+[03:08:08] [Render thread/INFO]: Stopping worker threads
+[03:08:08] [Render thread/INFO]: Started 6 worker threads
+[03:08:08] [Render thread/INFO]: Stopping worker threads
+[03:08:08] [Render thread/INFO]: Started 6 worker threads
+[03:08:14] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:09:40] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:22:57] [Render thread/WARN]: Received passengers for unknown entity
+[03:23:10] [Render thread/INFO]: Stopping worker threads
+[03:23:10] [Render thread/INFO]: Started 6 worker threads
+[03:23:10] [Render thread/INFO]: Stopping worker threads
+[03:23:10] [Render thread/INFO]: Started 6 worker threads
+[03:24:11] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[03:24:11] [Server thread/INFO]: 16thGarden left the game
+[03:24:11] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:24:11] [Server thread/INFO]: Stopping server
+[03:24:11] [Server thread/INFO]: Saving players
+[03:24:11] [Server thread/INFO]: Saving worlds
+[03:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:24:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[03:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:24:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:24:11] [Render thread/INFO]: Stopping worker threads
+[03:24:12] [Render thread/INFO]: Stopping!
+[03:24:12] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

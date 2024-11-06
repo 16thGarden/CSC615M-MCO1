@@ -1,0 +1,24 @@
+[00:05:40] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:05:40] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[00:05:40] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:05:40] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[00:05:40] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[00:05:40] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[00:05:40] [Server thread/INFO]: JPGomdol left the game
+[00:05:40] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[00:05:41] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:05:41] [Server thread/INFO]: 16thGarden left the game
+[00:05:41] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:05:41] [Server thread/INFO]: Stopping server
+[00:05:41] [Server thread/INFO]: Saving players
+[00:05:41] [Server thread/INFO]: Saving worlds
+[00:05:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:05:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:05:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (300 days 6): All chunks are saved
+[00:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:05:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:05:41] [Render thread/INFO]: Stopping worker threads
+[00:05:42] [Render thread/INFO]: Stopping!
+[00:05:42] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

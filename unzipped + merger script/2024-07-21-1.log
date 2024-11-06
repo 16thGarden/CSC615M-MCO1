@@ -1,0 +1,1926 @@
+[00:00:00] [Client thread/INFO]: [CHAT] §6[Auction] §bHolmesy98_ §ebought §fNot Just a Pest Vinyl §efor §669,000 coins §lCLICK
+[00:00:01] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i would have vet
+[00:00:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: t3 kuudra is so easy
+[00:00:16] [Client thread/INFO]: [CHAT] 
+[00:00:16] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:00:16] [Client thread/INFO]: [CHAT] Watchdog has banned 16,526 players in the last 7 days.
+[00:00:16] [Client thread/INFO]: [CHAT] Staff have banned an additional 18,102 in the last 7 days.
+[00:00:16] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:00:16] [Client thread/INFO]: [CHAT] 
+[00:00:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: now do t5
+[00:00:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:00:52] [Client thread/INFO]: [CHAT] §6[Auction] §aP1srmLife §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:00:54] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:00:54] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!
+[00:00:54] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:00:56] [Client thread/INFO]: [CHAT] §6[Auction] §aP1srmLife §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:00:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: yay ofu 125m
+[00:00:59] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:00:59] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!§7 (2)
+[00:00:59] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:01:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: payment time
+[00:01:16] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: GG
+[00:01:20] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K joined.
+[00:01:21] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: CRAZY RARE DROP! (? Couture Rune 1) (+213% ? Magic Find)
+[00:01:26] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: wqpppp
+[00:01:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: some noob has lbin 120 tho
+[00:02:08] [Client thread/INFO]: [CHAT]  §b? §eThe §b2x Powder §eevent starts in §a20 §eseconds!
+ §eThis is a passive event! §bIt's happening everywhere in the §bCrystal Hollows!
+[00:02:26] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §6Sell Offer §efor §a1§7x §9Gemstone Mixture §ewas filled!
+[00:02:28] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:02:28] [Client thread/INFO]: [CHAT]                           2X POWDER STARTED!
+[00:02:28] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:02:28] [Client thread/INFO]: [CHAT]                                         
+[00:02:28] [Client thread/INFO]: [CHAT]         Everybody gets twice as much powder of all types!
+[00:02:28] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:02:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Ritter_desRechts §3[MOD]§f: You bought Crooked Artifact!
+[00:02:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Ritter_desRechts §3[MOD]§f: 5 more to go
+[00:02:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: gg
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[00:02:58] [pool-10-thread-2/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$495/233407599.apply(Unknown Source)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[00:02:58] [pool-10-thread-2/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[00:02:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: early
+[00:02:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: early
+[00:03:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i also need seal
+[00:03:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Ritter_desRechts §3[MOD]§f: shut up noobs u suck ass
+[00:03:39] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[00:04:28] [Client thread/INFO]: [CHAT] Guild > Ritter_desRechts left.
+[00:04:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: CRAZY RARE DROP! (Grizzly Salmon) (+182% ? Magic Find)CRAZY RARE DROP! (Grizzly Salmon) (+182% ? Magic Find)CRAZY RARE DROP! (Grizzly Salmon) (+182% ? Magic Find)CRAZY RARE DROP! (Grizzly Salmon) (+182% ? Magic Find)
+[00:04:40] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: fuckkkk
+[00:04:48] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: stop spamming gc with 2 coin drops
+[00:04:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: 2 coins!!!!!
+[00:04:51] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: suck it in
+[00:04:57] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i will not suck it in
+[00:05:26] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i had almost a page worth of fish
+[00:05:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: wtf
+[00:05:43] [Client thread/INFO]: [CHAT] Guild > IMainFishing left.
+[00:06:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:06:54] [Client thread/INFO]: [CHAT] §6[Auction] §aSavrum §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:07:50] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[00:07:51] [Client thread/INFO]: [CHAT] Guild > julithelol left.
+[00:07:52] [Client thread/INFO]: [CHAT] Guild > julithelol left.§7 (2)
+[00:07:57] [Client thread/INFO]: [CHAT] Guild > julithelol joined.§7 (2)
+[00:08:20] [Client thread/INFO]: [CHAT] §6[Auction] §apandas2021 §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:08:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: im nearing 2k
+[00:08:53] [Client thread/INFO]: [CHAT] §6[Auction] §bTobias47167 §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:09:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: 2k what?
+[00:09:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: comms
+[00:09:17] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: no
+[00:09:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: damn
+[00:09:50] [Client thread/INFO]: [CHAT] §6[Auction] §aEdschle §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:10:07] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: CRAZY RARE DROP! (? Couture Rune 1) (+213% ? Magic Find)
+[00:10:11] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: im dying
+[00:10:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: STOP
+[00:10:15] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: overflux isnt meant to be today
+[00:10:18] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: ig
+[00:10:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: more 2 coin drops
+[00:10:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: runes arent rare
+[00:10:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: w
+[00:10:24] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: they are
+[00:10:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i just got 3
+[00:10:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: they arent copy worthy
+[00:10:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: overflux is x4 rarer
+[00:10:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: its copy worthy cuz we want overflux and we're being edged by hypixel
+[00:10:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i got 3 grizzlys
+[00:10:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: one of them ls
+[00:11:00] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: ffs
+[00:11:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: is there better farming equipment than lotus?
+[00:11:08] [Client thread/INFO]: [CHAT] §6[Auction] §bSuperDiamondHD14 §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[00:11:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:11:12] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!
+[00:11:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:11:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: runes arent edging
+[00:11:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: only fishes
+[00:11:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: technically zorro's cape is better during contest
+[00:11:36] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: im so brainr otted from all of this
+[00:11:42] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i gained like 150k xp today
+[00:11:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: but other than that not really?
+[00:11:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: no
+[00:12:32] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:12:56] [Client thread/INFO]: [CHAT] Guild > Foezy left.
+[00:13:02] [Client thread/INFO]: [CHAT] Guild > donavin855 joined.
+[00:13:07] [Client thread/INFO]: [CHAT] Guild > Foezy joined.
+[00:13:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: bro
+[00:14:52] [Client thread/INFO]: [CHAT] Guild > pipapolalala left.
+[00:14:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: i think it is a pity there is no legendary farming equipment
+[00:15:02] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: the rng edging
+[00:15:47] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: did they fix garden visitors
+[00:15:51] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:15:51] [Client thread/INFO]: [CHAT] [MVP+] Colb89 joined the guild!
+[00:15:51] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:15:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: Welcome!
+[00:15:54] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: wlc
+[00:15:55] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: wlc?
+[00:15:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: wlc
+[00:15:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] sadiedog §3[HYDRA]§f: wlc
+[00:15:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: haii
+[00:15:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: wdym?
+[00:16:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: did they fix garden visitors /////////
+[00:16:13] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: prolly
+[00:16:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: yo
+[00:16:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: what do you mean by that?
+[00:16:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: the finn one's visiting
+[00:16:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: welcome
+[00:16:38] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: who is finn?
+[00:16:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] sadiedog §3[HYDRA]§f: finnegan
+[00:16:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: finnegan
+[00:16:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: epic skull
+[00:16:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: he can visit?
+[00:16:55] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[00:16:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: ...
+[00:16:59] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[00:17:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: no comment
+[00:17:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] sadiedog §3[HYDRA]§f: ^
+[00:17:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: lmfao
+[00:17:15] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: dont u have abi
+[00:17:17] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: wc
+[00:17:26] [Client thread/INFO]: [CHAT] [212] ? §b[MVP§d+§b] ReiAyanamai§f: sthw
+[00:17:34] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: yea i do
+[00:17:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: ?
+[00:17:40] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:17:40] [Client thread/INFO]: [CHAT]                            2X POWDER ENDED!
+[00:17:40] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:17:40] [Client thread/INFO]: [CHAT] 
+[00:17:40] [Client thread/INFO]: [CHAT]    Powder amount is back to normal, but there will be another
+[00:17:40] [Client thread/INFO]: [CHAT]                                  event soon!
+[00:17:40] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:17:40] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: but i always have aatrox
+[00:17:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: then i dont get what you are talking about
+[00:17:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: ???
+[00:17:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: welp then u wont
+[00:17:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: ^
+[00:18:01] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 0.0845%
+[00:18:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: for a owoflux
+[00:18:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: wtf is this
+[00:18:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: i wish they would fix beth tho
+[00:18:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: isnt the meter thru the roof
+[00:18:20] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: my meter
+[00:18:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: yea
+[00:18:22] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: yea
+[00:18:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: how much
+[00:18:26] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 660k stored
+[00:18:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: after the questline she just stops visiting
+[00:18:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: ouch
+[00:18:39] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: does it go expotentially up
+[00:18:40] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: why would u need beth after quest
+[00:18:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: because she is a legendary visitor
+[00:19:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: faded from my experience it increases more in the beginning
+[00:19:10] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: bro
+[00:19:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: or just the same thru out
+[00:19:54] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: last 1 i wanna go dungeons
+[00:20:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: tyfr
+[00:20:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:20:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: those svens were so aids
+[00:21:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: fr
+[00:21:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: dont talk about sven like that
+[00:21:20] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: lamest shit ever
+[00:21:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: if it didnt have that immune phase while spawning
+[00:21:35] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: woulda been 10x better
+[00:21:35] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: thats why u dont get fluxes
+[00:21:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: immunte phase is good
+[00:21:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: tf u mean
+[00:21:55] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: elaborate
+[00:22:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: ur mean to sven so no drop
+[00:22:10] [Client thread/INFO]: [CHAT]  §b? §eThe §b2x Powder §eevent starts in §a20 §eseconds!
+ §eThis is a passive event! §bIt's happening everywhere in the §bCrystal Hollows!
+[00:22:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: but how are the iframes good
+[00:22:24] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: flamingbears dropped 4 fluxes in 2 days
+[00:22:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: oh
+[00:22:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: do you need wolf armor for sven?
+[00:22:31] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:22:31] [Client thread/INFO]: [CHAT]                           2X POWDER STARTED!
+[00:22:31] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:22:31] [Client thread/INFO]: [CHAT]                                         
+[00:22:31] [Client thread/INFO]: [CHAT]         Everybody gets twice as much powder of all types!
+[00:22:31] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:22:35] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: ?
+[00:22:40] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: ur fucking kidding me
+[00:22:41] [Client thread/INFO]: [CHAT] Guild > TastiestPizza joined.
+[00:22:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: idk either faded
+[00:22:43] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 4 in 2d?
+[00:22:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: u can swap stuff while its immunte
+[00:22:51] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i have sorrow the entire time
+[00:23:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: sub optimal
+[00:23:17] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: rod to switch to black cat...
+[00:23:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: mf swap on ls?
+[00:23:29] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: nah
+[00:23:34] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: only on ur own
+[00:23:36] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: no i use hound for that
+[00:23:39] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: yea thats the point]
+[00:23:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: just do "when boss spawn"
+[00:23:48] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: mf pet
+[00:23:53] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: whats the diff
+[00:23:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: less effort
+[00:23:58] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: kid named knockback
+[00:24:22] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: HOPPITY'S HUNT You found Jelly Bean (UNCOMMON)!
+[00:24:25] [Client thread/INFO]: [CHAT] Guild > Quantazy left.
+[00:24:25] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: jelly bean?
+[00:24:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: what about it?
+[00:24:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: bro if i see the austrian painter when i find a new rabbit im gonna end it
+[00:25:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: ?
+[00:25:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: ???
+[00:25:07] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: LOL
+[00:25:11] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: these names
+[00:25:13] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: fro rabbits
+[00:25:17] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: whats wrong w jelly bean
+[00:25:23] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: how did we get from jelly bean to a german politician?
+[00:25:31] [Client thread/INFO]: [CHAT] Guild > Kayotogon left.
+[00:25:33] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: tf u mean politician
+[00:25:42] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: bro done anything but politicsw
+[00:25:47] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: he used to be a politician
+[00:25:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: anyone in a spot of political power would be a politician
+[00:25:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: no?
+[00:26:00] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: no way im looking at this conversation right now
+[00:26:01] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: and hes moving to skyblock now
+[00:26:08] [Client thread/INFO]: [CHAT]  ? VERAIcheg was killed by Yog.
+[00:26:11] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: that painter guy
+[00:26:13] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: that we funding
+[00:26:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: i mean i dunno what hypixel mutes
+[00:26:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: we already had a dictator with dante
+[00:26:15] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: is dante
+[00:26:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: only 1 step away
+[00:26:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: and i was sure we all knew who i meant by saying that
+[00:26:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: alr i will keep checking
+[00:26:41] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:26:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i have 100m in bz but theres 0 chance it will sell
+[00:26:48] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: but back to the questiont
+[00:26:50] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: wallahi
+[00:26:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: whats wrong with jelly bean?
+[00:27:04] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: if you know
+[00:27:06] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: you know
+[00:27:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i got 31m of wheels
+[00:27:14] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: undercut me ichiko i kill you
+[00:27:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: DAMN THEY 67k PER
+[00:27:25] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: 39.3
+[00:27:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: yeah well we obvioulsy dont so enlighten us
+[00:27:27] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: yea
+[00:27:39] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: 39.3m in hamsters
+[00:28:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: 125m in flux B)
+[00:28:09] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: bro
+[00:28:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: D:
+[00:28:17] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: im gonna win that giveaway
+[00:28:21] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: frfr
+[00:28:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i gotta win it
+[00:28:38] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: nooo
+[00:30:28] [Client thread/INFO]: [CHAT] Guild > Gnasez left.
+[00:30:43] [Client thread/INFO]: [CHAT] [156] ? §a[VIP] Veroxiq§f: Gemstone Powder x7,000
+[00:30:45] [Client thread/INFO]: [CHAT] Guild > Gnasez joined.
+[00:30:46] [Client thread/INFO]: [CHAT] Guild > Gnasez left.§7 (2)
+[00:30:46] [Client thread/INFO]: [CHAT] [151] ? §a[VIP] 7784§f: king coords?
+[00:30:49] [Client thread/INFO]: [CHAT] [156] ? §a[VIP] Veroxiq§f: + 2x
+[00:30:50] [Client thread/INFO]: [CHAT] [156] ? §a[VIP] Veroxiq§f: W
+[00:30:55] [Client thread/INFO]: [CHAT] [177] §b[MVP§f+§b] OrangeCream_ §7?§f: Mithril Powder x312
+[00:30:56] [Client thread/INFO]: [CHAT] Guild > Gnasez joined.§7 (2)
+[00:31:03] [Client thread/INFO]: [CHAT] Guild > Gnasez left.§7 (3)
+[00:31:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i wanna kms so bad
+[00:31:10] [Client thread/INFO]: [CHAT] [156] ? §a[VIP] Veroxiq§f: Mithril Powder x216
+[00:31:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: please dont
+[00:31:20] [Client thread/INFO]: [CHAT] Guild > Gnasez joined.§7 (3)
+[00:31:21] [Client thread/INFO]: [CHAT] Guild > Gnasez left.§7 (4)
+[00:31:23] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: who wanna do f1 completions w me
+[00:31:23] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: you want a hug>
+[00:31:25] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[00:31:26] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[00:31:26] [Client thread/INFO]: [CHAT] Guild > 1zez left.§7 (2)
+[00:31:27] [Client thread/INFO]: [CHAT] Guild > 1zez joined.§7 (2)
+[00:31:29] [Client thread/INFO]: [CHAT] Guild > Gnasez joined.§7 (4)
+[00:31:29] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i want money
+[00:31:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: yeah at least give me ur stuff before u do >:(
+[00:31:34] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: same bro
+[00:31:38] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i want all the bands
+[00:31:40] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: and please beware who you say stuff like that around
+[00:31:42] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: w <31:33> Blue Goblin Egg
+[00:31:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i have 60m to my name
+[00:31:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: wallahi
+[00:31:49] [Client thread/INFO]: [CHAT] Guild > 1zez left.§7 (3)
+[00:31:50] [Client thread/INFO]: [CHAT] [239] ? §b[MVP§c+§b] ryajosta123§f: cords?
+[00:31:58] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: its a treasure chest
+[00:31:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: bro ur gonna piss that guy off again
+[00:32:02] [Client thread/INFO]: [CHAT] [239] ? §b[MVP§c+§b] ryajosta123§f: ahh
+[00:32:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: who
+[00:32:06] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: which one
+[00:32:10] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: no idea
+[00:32:15] [Client thread/INFO]: [CHAT] Guild > 1zez joined.§7 (3)
+[00:32:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: i didnt get pissed off
+[00:32:31] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:32:36] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: mining with leg goblin lvl 100 i have 50% chance to get rare eggs
+[00:32:51] [Client thread/INFO]: [CHAT] [200] ? §a[VIP] JondeOG§f: is it good?
+[00:32:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: is bone necklace worth anythin
+[00:32:59] [Client thread/INFO]: [CHAT] [60] §a[VIP] KingAKA1§f: theres a goblin pet?
+[00:33:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i might get it just to finish dungeon equip set
+[00:33:04] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: ye it quite good 10 in 2 hours
+[00:33:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: 16m lbin
+[00:33:16] [Client thread/INFO]: [CHAT] [200] ? §a[VIP] JondeOG§f: wait thats kinda cracked
+[00:33:19] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 16m lbin for scaling 30% crit dmg
+[00:33:20] [Client thread/INFO]: [CHAT] [151] ? §a[VIP] 7784§f: NEW AREA DISCOVERED!
+[00:33:22] [Client thread/INFO]: [CHAT] [151] ? §a[VIP] 7784§f: ? Crystal Hollows
+[00:33:25] [Client thread/INFO]: [CHAT] [151] ? §a[VIP] 7784§f: huh
+[00:33:25] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: wait no
+[00:33:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: juli why are you so pressed abt that tf
+[00:33:29] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 5% crit dmg
+[00:33:35] [Client thread/INFO]: [CHAT] [200] ? §a[VIP] JondeOG§f: i thought jungle powder grinding was the best for money
+[00:34:03] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: idk if im rng carried with gob or goblin is just op
+[00:34:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: it just sits in museum
+[00:34:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: also yeah bone necklace very good
+[00:34:13] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: carnivals tomorrow
+[00:34:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: good defense
+[00:34:20] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 30 tickets r
+[00:34:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: 58 here
+[00:34:25] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: after that 1.5b diana treatment i cant get over with these pathetic numbers in my purse
+[00:34:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: the thing is
+[00:34:34] [Client thread/INFO]: [CHAT] §6[Auction] §aKFCfryingpan §ebought §fClaw Fossil §efor §6900,000 coins §lCLICK
+[00:34:37] [Client thread/INFO]: [CHAT] [60] §a[VIP] KingAKA1§f: thats about 25m/h just from blue eggs
+[00:34:38] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: nvm
+[00:34:39] [Client thread/INFO]: [CHAT] [200] ? §a[VIP] JondeOG§f: eitherway imma have to try it
+[00:34:47] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: im at 48
+[00:34:50] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: breeeh
+[00:34:53] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 255% stat scaling in dungeons
+[00:34:55] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: im gonna spam the  marina perks
+[00:34:55] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i need em for the sack
+[00:34:58] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: u want a max lvl leg 100
+[00:35:00] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 6 x 2.55
+[00:35:04] [Client thread/INFO]: [CHAT] Guild > tiedsinger left.
+[00:35:06] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: not even accurate
+[00:35:13] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: dungeon fishing armor when?
+[00:35:16] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: fr
+[00:35:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: i want to fish up necron
+[00:35:33] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: true
+[00:35:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: 0.001% handle droprate
+[00:35:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i hope they add the fishing festival and spooky festival essence shops
+[00:35:40] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: 1% for gs from sadan
+[00:35:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: YES
+[00:35:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: i wish you could not do dungeons and get everything as fishing drops
+[00:35:51] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: the essence shops
+[00:36:01] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: yea its in the xp guide
+[00:36:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: what essence does it use?
+[00:36:11] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: no idea
+[00:36:17] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: spooky essence i would guess
+[00:36:19] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i bet they gonna make the perks purchasable with teeth
+[00:36:29] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: for marina
+[00:36:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: and scales
+[00:36:36] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: id stock up thinking ab that
+[00:36:41] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: but they're ridiculous rn
+[00:36:49] [Client thread/INFO]: [CHAT] Guild > YouLoveMe joined.
+[00:36:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: 2m/ea
+[00:36:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: not rly
+[00:36:58] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: yea nvm thats fine
+[00:37:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: but its not coming soon
+[00:37:04] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i bought them for finwave when they were 3m each
+[00:37:40] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: i got three stocks waiting to see how high it goes
+[00:37:42] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:37:42] [Client thread/INFO]: [CHAT]                            2X POWDER ENDED!
+[00:37:42] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:37:42] [Client thread/INFO]: [CHAT] 
+[00:37:42] [Client thread/INFO]: [CHAT]    Powder amount is back to normal, but there will be another
+[00:37:42] [Client thread/INFO]: [CHAT]                                  event soon!
+[00:37:42] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:37:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: ok js looked at the carnival things
+[00:37:55] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: it js uses tokens
+[00:38:01] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: the tickets?
+[00:38:02] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: i hate how annoying powder grinding is
+[00:38:04] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: life taught me to buy golden fragments during diaz and sell later
+[00:38:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: yeah tickets
+[00:38:15] [Client thread/INFO]: [CHAT] [115] §b[MVP§f+§b] Zapris§f: fr
+[00:38:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: ngl im surprised paul is losing to this rotation of foxy
+[00:38:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: paul has such good perks
+[00:38:33] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: breh
+[00:38:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: i'm just sad that we're getting minister paul
+[00:38:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: play the new upd
+[00:38:49] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: dumbass
+[00:38:51] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: actual shittiest perk for minister as well
+[00:38:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: 20% blessing
+[00:38:53] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: pog
+[00:38:54] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: uh uh
+[00:38:56] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: could be so much more fun then paul
+[00:39:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: no it's the 20% less expensive chests
+[00:39:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: not blessing
+[00:39:10] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: wow what a perk
+[00:39:15] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: feck
+[00:39:22] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: 40/99 blue goblin eggs atm grind for a blue goblin omlet for my coop
+[00:39:30] [Client thread/INFO]: [CHAT] [115] §b[MVP§f+§b] Zapris§f: bro do foraging and trophy fishing
+[00:39:35] [Client thread/INFO]: [CHAT] [115] §b[MVP§f+§b] Zapris§f: u need it
+[00:39:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: these people are getting more and more unhinged i swear
+[00:39:45] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: [121] [MVP+] CraftingAlexYT: did DIDDY DO IT? Vote on my auction! Green for Yes, Red for no!
+[00:39:51] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: foraging ewww
+[00:39:55] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: wtf
+[00:39:58] [Client thread/INFO]: [CHAT] [229] ? §a[VIP] onlyToxxc§f: corleone cords ?
+[00:40:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: TT
+[00:40:03] [Client thread/INFO]: [CHAT] [229] ? §a[VIP] onlyToxxc§f: need for coommmmmmmm
+[00:40:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: ok nvm the bone necklace gives me 208 def in dungeons
+[00:40:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: yeah
+[00:40:38] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: thats busted lowk
+[00:40:38] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: defense goog
+[00:40:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:40:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: imma try to solo f7
+[00:40:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: gl with pad
+[00:41:18] [Client thread/INFO]: [CHAT] [61] §a[VIP] KingAKA1§f: rabbit the fish obtained
+[00:41:19] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: pop a invis pot
+[00:41:21] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: :nerd:
+[00:41:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: they should make a sack for shitty rng
+[00:42:01] [Client thread/INFO]: [CHAT] Guild > Killerbee120 joined.
+[00:42:09] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: that would be so fucking funny
+[00:42:11] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] fadedmythfm §3[HYDRA]§f: coper 5000
+[00:42:12] [Client thread/INFO]: [CHAT]  §b? §eThe §b2x Powder §eevent starts in §a20 §eseconds!
+ §eThis is a passive event! §bIt's happening everywhere in the §bCrystal Hollows!
+[00:42:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: what
+[00:42:21] [Client thread/INFO]: [CHAT] [151] ? §a[VIP] 7784§f: HOPPITY'S HUNT You found April (LEGENDARY)!
+[00:42:32] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:42:32] [Client thread/INFO]: [CHAT]                           2X POWDER STARTED!
+[00:42:32] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:42:32] [Client thread/INFO]: [CHAT]                                         
+[00:42:32] [Client thread/INFO]: [CHAT]         Everybody gets twice as much powder of all types!
+[00:42:32] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:42:33] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: 2x again sheesh
+[00:42:44] [Client thread/INFO]: [CHAT] [61] §a[VIP] KingAKA1§f: nice
+[00:42:58] [Client thread/INFO]: [CHAT] [323] ? §b[MVP§3+§b] real_joey56798_§f: time to switch to scatha
+[00:45:40] [Client thread/INFO]: [CHAT] Guild > kindgrape joined.
+[00:45:44] [Client thread/INFO]: [CHAT] Guild > AriZze left.
+[00:46:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:46:40] [Client thread/INFO]: [CHAT] Guild > fadedmythfm left.
+[00:47:07] [Client thread/INFO]: [CHAT] §9§lSkytils §8» §eFound coordinates in a chat message, click a button to set a waypoint.
+§f[§fLost Precursor City] §a[§aJungle Temple] §e[§eGoblin Queen's Den] §9[§9Mines of Divan] §6[§6King Yolkar] §c[§cKhazad-dûm] §d[§dFairy Grotto] §b[§bCorleone] §e[Custom]
+[00:47:07] [Client thread/INFO]: [CHAT] [229] ? §a[VIP] onlyToxxc§f: [SkyHanni] Lunch Chocolate Egg located at x: 472, y: 106, z: 518 (near the Diamond Essence Shop)
+[00:47:40] [Client thread/INFO]: [CHAT] You are being transferred to the HUB for being AFK!
+[00:47:40] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: is spirit shortbow better than juju?
+[00:47:41] [Client thread/INFO]: [CHAT]        
+[00:47:41] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:41] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini197D', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:47:44] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:47:44] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:47:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: no
+[00:48:20] [Client thread/INFO]: [CHAT] [63] §7c7qv§7: someone wants to buy a epic rock for 2m?
+[00:48:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: would be insane if that was the case
+[00:48:26] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:48:32] [Client thread/INFO]: [CHAT] Finding player...
+[00:48:32] [Client thread/INFO]: [CHAT] This player's data is not available right now, ask them to log in or try again in a few days!
+[00:48:34] [Client thread/INFO]: [CHAT] Finding player...§7 (2)
+[00:48:34] [Client thread/INFO]: [CHAT] This command is on cooldown, please try again in a moment!
+[00:48:37] [Client thread/INFO]: [CHAT] Finding player...§7 (3)
+[00:48:38] [Client thread/INFO]: [CHAT] [163] ? §b[MVP] Luwucy_Quin§f: sell it to george
+[00:48:38] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:48:38] [Client thread/INFO]: [CHAT] Sending to server mini185DB...
+[00:48:39] [Client thread/INFO]: [CHAT]        
+[00:48:39] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:48:39] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini185DB', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:48:40] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:48:42] [Client thread/INFO]: [CHAT] Sending to server mini19BE...
+[00:48:42] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:48:42] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:48:42] [Client thread/INFO]: [CHAT]        
+[00:48:42] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.features.impl.mining.CHWaypoints$onHypixelPacket$1.invokeSuspend(CHWaypoints.kt:80)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:48:42] [DefaultDispatcher-worker-6/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@7c259e75, Dispatchers.IO]
+[00:48:42] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini19BE', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:48:46] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:48:46] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:48:55] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg in between Jade and Sapphire crystals!
+[00:48:55] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fPetunia §7(§F§LCOMMON§7)!
+[00:48:55] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:48:56] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:49:02] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on top of the Crystal Nucleus!
+[00:49:02] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aCarter §7(§A§LUNCOMMON§7)!
+[00:49:02] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+5,236,562 Chocolate
+[00:49:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:49:11] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg near the Diamond Essence Shop!
+[00:49:11] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fIggy §7(§F§LCOMMON§7)!
+[00:49:11] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+2,618,281 Chocolate
+[00:49:11] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:49:16] [Client thread/INFO]: [CHAT] Rabbit Uncle has been promoted to [164] Manager!
+[00:49:32] [Client thread/INFO]: [CHAT] Guild > qtwn joined.
+[00:49:44] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:49:56] [Client thread/INFO]: [CHAT] Guild > donavin855 left.
+[00:50:04] [Client thread/INFO]: [CHAT] Guild > AriZze joined.
+[00:51:20] [Client thread/INFO]: [CHAT] You earned 3 GEXP + 141 Event EXP from playing SkyBlock!
+[00:52:20] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3cd761dd
+[00:52:25] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3cd761dd
+[00:52:30] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:54:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: dude i just got baited by 2 exotic rabbits
+[00:54:47] [Client thread/INFO]: [CHAT] Guild > TheViolin joined.
+[00:54:50] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[00:56:08] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:56:08] [Client thread/INFO]: [CHAT]                            2X POWDER ENDED!
+[00:56:08] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:56:08] [Client thread/INFO]: [CHAT] 
+[00:56:08] [Client thread/INFO]: [CHAT]    Powder amount is back to normal, but there will be another
+[00:56:08] [Client thread/INFO]: [CHAT]                                  event soon!
+[00:56:08] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:56:59] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3cd761dd
+[00:57:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: guys which rat skin do I buy
+[00:57:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Flizyy §3[BABY]§f: gym rat
+[00:57:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: swavy just talked abt the rat skins
+[00:57:16] [Client thread/INFO]: [CHAT] Guild > Symetri joined.
+[00:57:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: none of them
+[00:57:25] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3cd761dd
+[00:57:31] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@3cd761dd
+[00:57:41] [Client thread/INFO]: [CHAT] Guild > MrFancyShirt joined.
+[00:58:38] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:58:49] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg underneath the stairwell!
+[00:58:50] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fRazzie §7(§F§LCOMMON§7)!
+[00:58:50] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+3,097,894 Chocolate
+[00:58:50] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:58:50] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 59s§e.
+[00:59:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: u guys think the rat skins are a good investment
+[00:59:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: no
+[00:59:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: theres 70 of them
+[00:59:36] [Client thread/INFO]: [CHAT] Warping...
+[00:59:36] [Client thread/INFO]: [CHAT] Sending to server mini148DC...
+[00:59:36] [Client thread/INFO]: [CHAT]        
+[00:59:36] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:59:36] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini148DC', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:59:39] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: nah
+[00:59:39] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:59:39] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:59:58] [Client thread/INFO]: [CHAT] [22] §b[MVP§c+§b] Cweener_Boy§f: wow
+[01:00:01] [Client thread/INFO]: [CHAT] [22] §b[MVP§c+§b] Cweener_Boy§f: thx
+[01:00:05] [Client thread/INFO]: [CHAT] §8[§e97§8] §7? §b[MVP§a+§b] Morlanos123§f§7 is holding §8[§5§dMelody's Hair§8]
+[01:00:07] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:00:07] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:00:07] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:00:08] [Client thread/INFO]: [CHAT] [22] §b[MVP§c+§b] Cweener_Boy§f: <3
+[01:00:25] [Client thread/INFO]: [CHAT] [94] §a[VIP§6+§a] MedrusGaming§f: how do you do the "is holding" thing
+[01:00:32] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[01:00:32] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 1x Pesterminator I from cancelling Sell Offer!
+[01:00:34] [Client thread/INFO]: [CHAT] [45] §a[VIP] Parzival392§f: you need booster cookie
+[01:00:35] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[01:00:35] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Pesterminator I for 1,168,012 coins!
+[01:00:37] [Client thread/INFO]: [CHAT] Warping...
+[01:00:37] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:00:37] [Client thread/INFO]: [CHAT] Sending to server mini73DM...
+[01:00:37] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:00:37] [Client thread/INFO]: [CHAT]        
+[01:00:37] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini73DM', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[01:00:41] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:00:41] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:00:51] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[01:00:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[01:00:54] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:00:54] [SkyblockAddons - #42/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:01:05] [Client thread/INFO]: [CHAT]  ? wakilzada77 was killed by Glacite Walker.
+[01:01:38] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[01:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Submitting buy order...
+[01:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Buy Order Setup! 64x Refined Mineral for 1,012,250 coins.
+[01:01:51] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:01:51] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Refined Titanium for 3,140,718 coins!
+[01:02:05] [Client thread/INFO]: [CHAT] Guild > HydrahXD joined.
+[01:02:06] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[01:02:06] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 1,012,250 coins from cancelling Buy Order!
+[01:02:18] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:02:18] [Client thread/INFO]: [CHAT] [Bazaar] Bought 64x Refined Mineral for 1,198,982 coins!
+[01:02:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Wakain §3[EGG]§f: my fastest f1 rn is 2m and 49s is it gud for me
+[01:02:21] [Client thread/INFO]: [CHAT]  ? wakilzada77 was killed by Goblin.
+[01:02:23] [Client thread/INFO]: [CHAT] Warping...
+[01:02:23] [Client thread/INFO]: [CHAT] Sending to server mini6CU...
+[01:02:23] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:02:24] [Client thread/INFO]: [CHAT]        
+[01:02:24] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini6CU', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[01:02:27] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:02:27] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:02:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Flizyy §3[BABY]§f: world record
+[01:02:35] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: depends on score
+[01:02:39] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §aBuy Order §efor §a167§7x §9? Fine Jasper Gemstone §ewas filled!
+[01:02:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: if its s+
+[01:02:48] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: thats quite good
+[01:02:56] [Client thread/INFO]: [CHAT] §e[SkyHanni] §bNo Bits Available! §eClick to buy booster cookies on the bazaar.
+[01:02:56] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:02:57] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:34]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@73db55e9
+[01:03:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Flizyy §3[BABY]§f:                              Level 279 ? [280]
+[01:03:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: YOOO
+[01:03:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: gg
+[01:03:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: gg
+[01:03:10] [Client thread/INFO]: [CHAT] You retrieved your Mithril Equipment from the Museum. It still counts towards your Museum progress, but not towards your total item value.
+[01:03:10] [Client thread/INFO]: [CHAT] You can return or replace the item in your Museum at any time!
+[01:03:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: now you have one of the worst colors
+[01:03:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: for a level
+[01:03:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Flizyy §3[BABY]§f: fr
+[01:03:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: ggs
+[01:03:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: you need 320
+[01:03:24] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:03:26] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: 320 is 2nd best
+[01:03:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: ok ok ranking time
+[01:03:47] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: aaa
+[01:03:48] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:03:49] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Shiny Prism for 1,639,990 coins!
+[01:03:55] [Client thread/INFO]: Shaders are available. OpenGL 2.0 is supported. 
+[01:03:55] [Client thread/INFO]: [CHAT] You applied a Shiny Prism to your Mithril Gauntlet!
+[01:04:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: worst place: 160 - 200 the dark green its trash...
+[01:04:05] [Client thread/INFO]: [CHAT] §2Guild > §7JTLitty §3[EGG]§f: how do i combine magma rods?
+[01:04:06] [Client thread/INFO]: [CHAT] You applied a Shiny Prism to your Mithril Necklace!
+[01:04:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: the yellow is bad too
+[01:04:11] [Client thread/INFO]: [CHAT] You applied a Shiny Prism to your Mithril Cloak!
+[01:04:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: ./attributemenu
+[01:04:15] [Client thread/INFO]: [CHAT] You applied a Shiny Prism to your Mithril Belt!
+[01:04:18] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Killerbee120 §3[EGG]§f: oh... i kinda like the dark green
+[01:04:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: same
+[01:04:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: the grey at beginning is rly bad
+[01:04:53] [Client thread/INFO]: [CHAT] You earned 1 GEXP + 83 Event EXP from playing SkyBlock!
+[01:04:54] [Client thread/INFO]: [CHAT] Warping...
+[01:04:54] [Client thread/INFO]: [CHAT] Sending to server mini23AG...
+[01:04:55] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:04:55] [Client thread/INFO]: [CHAT]        
+[01:04:55] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini23AG', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[01:04:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: the white isnt that bad
+[01:04:58] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:04:58] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:05:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: and then 280 after that
+[01:05:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: super mid
+[01:05:05] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:05:05] [Client thread/INFO]: [CHAT] [Bazaar] Bought 160x Enchanted Mithril for 274,224 coins!
+[01:05:07] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe left.
+[01:05:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: ok now the best ones
+[01:05:17] [Client thread/INFO]: [CHAT] Guild > Quantazy joined.
+[01:05:18] [Client thread/INFO]: [CHAT] §2Guild > §7JTLitty §3[EGG]§f: ty violin
+[01:05:19] [Client thread/INFO]: [CHAT] This ability is on cooldown for 36s.
+[01:05:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: 120 - 160 makes you look like a noob but the color isnt ugly
+[01:05:38] [Client thread/INFO]: [CHAT] Guild > Gnasez left.
+[01:05:47] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:05:47] [SkyblockAddons - #43/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:05:47] [SkyblockAddons - #43/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:05:49] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[01:05:50] [Client thread/INFO]: [CHAT] Sending to server mega18B...
+[01:05:50] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:05:50] [Client thread/INFO]: [CHAT]        
+[01:05:50] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mega18B', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[01:05:50] [Client thread/INFO]: [CHAT] [52] §b[MVP§5+§b] Laitning§f: need money for cookie
+[01:05:50] [Client thread/INFO]: [CHAT] [37] §7David___Gamerr§7: Looking for casino /P me
+[01:05:51] [Client thread/INFO]: [CHAT] [172] §b[MVP§d+§b] Arucen§f: cant believe its august already in 10 days
+[01:05:54] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:05:54] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:05:54] [Client thread/INFO]: [CHAT] That armor set cannot be donated to the Museum!
+[01:05:56] [Client thread/INFO]: [CHAT] [119] §a[VIP§6+§a] Charles201010§f: anyone want to 4/4 eyes for drags? /p me
+[01:05:56] [Client thread/INFO]: [CHAT] [253] ? §a[VIP§6+§a] the_3_mistakes§f: lowballing 1b purse
+[01:05:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: 200 - 240 is rly good, 4th place
+[01:05:59] [Client thread/INFO]: [CHAT] [253] ? §a[VIP§6+§a] the_3_mistakes§f: lowballing 1b purse /visit the_3_mistakes
+[01:06:00] [Client thread/INFO]: [CHAT] You donated your Great Spook Chestplate to the Museum!
+[01:06:00] [Client thread/INFO]: [CHAT] [92] ? §b[MVP§c+§b] juni15§f: how to get armour stand?????????????
+[01:06:02] [Client thread/INFO]: [CHAT] [49] §b[MVP§c+§b] Serpendrogon§f: lowballing magma cube minions p/visit me
+[01:06:03] [Client thread/INFO]: [CHAT] [39] §a[VIP] portalmaster585§f: buying 8 slime minion t11 aaaaaaaaaaaaaaa
+[01:06:04] [Client thread/INFO]: [CHAT] [49] §b[MVP§c+§b] Serpendrogon§f: sellng t11 snow minion 800k t11 oak 900k t11 accaia 1mil t11 diamond minion 3.3mil t11 cobblestone 700k t12 cobblestone 3.3mil t11 cave spider 2.2mil t11 gold minion 1.8mil t12 goldminion 5mil p/visit me
+[01:06:04] [Client thread/INFO]: [CHAT] [43] §a[VIP] Wallagamgam§f: selling sticks for 50 million on my island! Very Very cheap sticks!
+[01:06:05] [Client thread/INFO]: [CHAT] [276] ? §b[MVP§a+§b] Lwbler§f: need claymore lowballer w 4b
+[01:06:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: dark purple 5th place
+[01:06:09] [Client thread/INFO]: [CHAT] [0] §7sitoongttv§7: looking for dungeon carriers who can solo carry any floor 1-7 /p me if ur interested youll be paid well
+[01:06:15] [Client thread/INFO]: [CHAT] [50] §a[VIP] Python_ss§f: 150M LOWBALLING /VISIT ME
+[01:06:15] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:06:15] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Booster Cookie for 11,428,727 coins!
+[01:06:17] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: gold from lvl 400 3rd place
+[01:06:18] [Client thread/INFO]: [CHAT] Warping...§7 (3)
+[01:06:19] [Client thread/INFO]: [CHAT] [161] ? §a[VIP] Daddy69_§f: lowballing 1.7b purse /visit me for goated deals
+[01:06:21] [Client thread/INFO]: [CHAT] [92] ? §b[MVP§c+§b] juni15§f: how get armour stand???????
+[01:06:22] [Client thread/INFO]: [CHAT] [49] §b[MVP§c+§b] Serpendrogon§f: selling t11 diamond for 3.3mil
+[01:06:25] [Client thread/INFO]: [CHAT] You bought Kismet Feather!
+[01:06:25] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (2)
+[01:06:25] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (3)
+[01:06:25] [Client thread/INFO]: [CHAT] Please wait a bit before doing this!
+[01:06:25] [Client thread/INFO]: [CHAT] You don't have enough Bits!
+[01:06:25] [Client thread/INFO]: [CHAT] You don't have enough Bits!§7 (2)
+[01:06:26] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: lowballing 100 mil /visit starbond70
+[01:06:26] [Client thread/INFO]: [CHAT] [43] §a[VIP] Wallagamgam§f: selling sticks for 10million on my island! Very Very cheap sticks!
+[01:06:27] [Client thread/INFO]: [CHAT] [157] §a[VIP] Vici0usViper117§f: anyone need a flower minion for 30m?
+[01:06:30] [Client thread/INFO]: [CHAT] [50] §a[VIP] ifa42§f: lowballing 37m
+[01:06:30] [Client thread/INFO]: [CHAT] [50] §a[VIP§6+§a] Qualzy§f: i am lowballing 100m visit meee
+[01:06:30] [Client thread/INFO]: [CHAT] You consumed a Booster Cookie! 
+[01:06:34] [Client thread/INFO]: [CHAT] [41] ? §a[VIP] mighty_max§f: selling t11 dia for 3m
+[01:06:35] [Client thread/INFO]: [CHAT] Guild > Wakain left.
+[01:06:36] [Client thread/INFO]: [CHAT] [70] §a[VIP] AmbitiousHam§f: LOWBALLING 10b PURSE VISIT ME pls
+[01:06:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: and then pink is 2nd
+[01:06:37] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[01:06:38] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3x Kismet Feather for 5,245,276 coins!
+[01:06:39] [Client thread/INFO]: [CHAT] [158] §a[VIP§6+§a] Duhdude§f: Buying necron's handle for 800m, /p me
+[01:06:39] [Client thread/INFO]: [CHAT] [41] ? §a[VIP] mighty_max§f: selling t11 dia for 3m VISIT ME
+[01:06:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[01:06:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: and obv 440 is 1st
+[01:06:44] [Client thread/INFO]: [CHAT] [50] §a[VIP] Python_ss§f: LWOBALLING 200M
+[01:06:44] [Client thread/INFO]: [CHAT] [172] ? §a[VIP] Patatotron§f: selling t1 snow minion for 600k /p or /visit me
+[01:06:45] [Client thread/INFO]: [CHAT] Warping...§7 (4)
+[01:06:46] [Client thread/INFO]: [CHAT] [115] §a[VIP§6+§a] NotSpeed69§f: can skyclient hack your acc after upadting it?
+[01:06:49] [Client thread/INFO]: [CHAT] [41] ? §a[VIP] mighty_max§f: selling t11 dia for 3m VISIT ME////////
+[01:06:49] [Client thread/INFO]: [CHAT] You donated your Great Spook Helmet to the Museum!
+[01:06:49] [Client thread/INFO]: [CHAT] [129] ? §a[VIP] _Dessy_§f: Lowballing 1.3b purse visit me quick
+[01:06:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: is prosecute or execute better for hype?
+[01:06:51] [Client thread/INFO]: [CHAT] You donated your Great Spook Leggings to the Museum!
+[01:06:52] [Client thread/INFO]: [CHAT] You donated your Great Spook Boots to the Museum!
+[01:06:52] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:06:52] [Client thread/INFO]: [CHAT] [78] §a[VIP] Twinkie000§f: Lowballing 80m /visit me!@!!!
+[01:06:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: prosecute
+[01:06:53] [Client thread/INFO]: [CHAT] [278] ? §b[MVP§d+§b] Femboy_Thighs§f: <3 Lowballing with 10B+ on my island - /visit me for good deals! <3
+[01:06:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: for clearing
+[01:06:57] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed...........
+[01:07:00] [Client thread/INFO]: [CHAT] [39] §a[VIP] portalmaster585§f: buying 8 slime minion t11
+[01:07:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: execute for slayer
+[01:07:03] [Client thread/INFO]: [CHAT] [121] ? §a[VIP] Diazide§f: buying slime min 3m per /p
+[01:07:03] [Client thread/INFO]: [CHAT] [44] §a[VIP] fwmd§f: lowballing 30m purse /visit me @@@@!@1!!!1
+[01:07:04] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: ()lowballing 250m /visit me)))))))))))
+[01:07:05] [Client thread/INFO]: [CHAT] §8[§b230§8] §7§l? §a[VIP§6+§a] XdarkZ70§f§7 is holding §8[§7[Lvl 111] §6Golden Dragon§8]
+[01:07:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: execute 4 eman
+[01:07:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: execute > prosecute for dps tho
+[01:07:07] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed/////
+[01:07:09] [Client thread/INFO]: [CHAT] [93] §a[VIP] DarkPotatoz§f: rbuh bruh
+[01:07:09] [Client thread/INFO]: [CHAT] [230] ? §a[VIP§6+§a] XdarkZ70§f: selling or taking items
+[01:07:11] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me(((((((((((((
+[01:07:12] [Client thread/INFO]: [CHAT] [278] ? §b[MVP§d+§b] Femboy_Thighs§f: Lowballing with 10B+ purse on my island! - /visit me for quick'n'easy coins!
+[01:07:13] [Client thread/INFO]: [CHAT] [157] §a[VIP] Vici0usViper117§f: flower minions 30m no less
+[01:07:13] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me$$$$$$$$$
+[01:07:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: for dungeons
+[01:07:18] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed*****
+[01:07:18] [Client thread/INFO]: [CHAT] [93] §a[VIP] DarkPotatoz§f: what do u get from doin that
+[01:07:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: prosecute rightr
+[01:07:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: prosecute yeah
+[01:07:23] [Client thread/INFO]: [CHAT] [121] ? §a[VIP] Diazide§f: BUYING T11 SLIME MIN 3M PER /P me
+[01:07:27] [Client thread/INFO]: [CHAT] [142] ? §b[MVP§6+§b] KillStre3k§f: Lowballing /visit Killstre3k / / / [!] (?°?°??? ??? 150m Purse
+[01:07:28] [Client thread/INFO]: [CHAT] §8[§a120§8] §b[MVP§f+§b] lessfps§f§7 is holding §8[§dHeroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:07:28] [Client thread/INFO]: [CHAT] [139] ? §b[MVP§e+§b] mineFV§f: I sell glowtone gauntle 7/7 (mana pool / breeze)
+[01:07:28] [Client thread/INFO]: [CHAT] [280] ? §b[MVP§2+§b] ITZsnoekie§f: rbuh ngl it was very clever move u pulled on me
+[01:07:29] [Client thread/INFO]: [CHAT] [120] §b[MVP§f+§b] lessfps§f: selling
+[01:07:30] [Client thread/INFO]: [CHAT] [62] §a[VIP] Elteporto§f: LOWBALLING 3B PURSE /visit me
+[01:07:32] [Client thread/INFO]: [CHAT] §8[§3241§8] §6§l? §a[VIP] atishh§f§7 is holding §8[§6Midas Staff§8]
+[01:07:32] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: lowballing 100 mil ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`~~~~ /visit starbond70
+[01:07:34] [Client thread/INFO]: [CHAT] [241] ? §a[VIP] atishh§f: selling
+[01:07:34] [Client thread/INFO]: [CHAT] [226] ? §a[VIP§6+§a] Lxgendwya§f: Lowballing 580m Purse Visit Me
+[01:07:34] [Client thread/INFO]: [CHAT] [312] ? §a[VIP§6+§a] oRakann§f: Im buying your skins visit me fast
+[01:07:36] [Client thread/INFO]: [CHAT] [4] §7BooBooFox6§7: -----------)))))))))))Food stad at my IS FFFFFFFRRRRRRRREEEEEEEEEEEEE((((((((((((-----------
+[01:07:37] [Client thread/INFO]: [CHAT] [142] ? §b[MVP§6+§b] KillStre3k§f: [!] LOWBALLING [!] 150m Purse /visit me
+[01:07:38] [Client thread/INFO]: [CHAT] [4] §a[VIP§6+§a] donutdoughnut§f: need coins at map
+[01:07:40] [Client thread/INFO]: [CHAT] [172] ? §a[VIP] Patatotron§f: giving away 2 free t1 snow minion at my island virst to visit gets them
+[01:07:42] [Client thread/INFO]: [CHAT] [142] ? §b[MVP§6+§b] KillStre3k§f: Lowballing /visit Killstre3k / / / [!] (?°?°??? ??? 150m Purse - read rules
+[01:07:44] [Client thread/INFO]: [CHAT] [312] ? §a[VIP§6+§a] oRakann§f: Im buying your skins/dyes/fire sale items visit me fast
+[01:07:44] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] skibidipula§f: lowballing 170m
+[01:07:44] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me
+[01:07:45] [Client thread/INFO]: [CHAT] §8[§a120§8] §b[MVP§f+§b] lessfps§f§7 is holding §8[§dHeroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:07:47] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me$$$$$$$$$$$$$$$$
+[01:07:47] [Client thread/INFO]: [CHAT] [139] ? §b[MVP§e+§b] mineFV§f: I sell glowtone gauntle 7/7 (mana pool / breeze) /p MineFV
+[01:07:49] [Client thread/INFO]: [CHAT] [165] §a[VIP] obama101010§f: 230M LOWBALLING VISIT QUICK
+[01:07:49] [Client thread/INFO]: [CHAT] §8[§e115§8] §a[VIP] ILooveNi§f§7 is holding §8[§dFabled Livid Dagger §6?§6?§6?§6?§6?§8]
+[01:07:50] [Client thread/INFO]: [CHAT] [115] §a[VIP] ILooveNi§f: Selling for 25m /p me
+[01:07:51] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me************
+[01:07:51] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:07:51] [Client thread/INFO]: [CHAT] [Bazaar] Bought 18x Golden Tooth for 1,942,175 coins!
+[01:07:52] [Client thread/INFO]: [CHAT] [241] ? §a[VIP] atishh§f: selling 100m midas /p me
+[01:07:54] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me((((((((((((
+[01:07:55] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] skibidipula§f: lowballing 170m visit me
+[01:07:58] [Client thread/INFO]: [CHAT] [127] ? §7Tyt_tyt48§7: LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48
+[01:07:58] [Client thread/INFO]: [CHAT] §8[§e100§8] §7§l? §b[MVP§c+§b] Z15HAN§f§7 is holding §8[§5Necron's Handle§8]
+[01:07:58] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me###############
+[01:07:59] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:07:59] [Client thread/INFO]: [CHAT] [Bazaar] Bought 18x Enchanted Mutton for 97,528 coins!
+[01:07:59] [Client thread/INFO]: [CHAT] [21] §a[VIP§6+§a] polaczeksiema§f: if someone have glacite helmet/pants i will buy
+[01:08:00] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§c+§b] Z15HAN§f: selling
+[01:08:01] [Client thread/INFO]: [CHAT] [127] ? §7Tyt_tyt48§7: LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48
+[01:08:04] [Client thread/INFO]: [CHAT] [458] ? §6[MVP§4++§6] Hyflyy§f: Lowblaling with a 6.5b purse o/, fair deals visit me
+[01:08:05] [Client thread/INFO]: [CHAT] §8[§a120§8] §b[MVP§f+§b] lessfps§f§7 is holding §8[§dHeroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:08:06] [Client thread/INFO]: [CHAT] [129] ? §a[VIP] _Dessy_§f: Lowballing 1.3b purse visit _dessy_
+[01:08:06] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: lowballing 100 mil /visit starbond70 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+[01:08:08] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me@@@@@@@@@@@
+[01:08:11] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] skibidipula§f: lowballing 1b purse
+[01:08:12] [Client thread/INFO]: [CHAT] [127] ? §7Tyt_tyt48§7: LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48
+[01:08:13] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me§7 (2)
+[01:08:14] [Client thread/INFO]: [CHAT] [218] §a[VIP] WinsonX§f: selling t12 flower minion for 45m ./p WinsonX
+[01:08:14] [Client thread/INFO]: [CHAT] [78] §a[VIP] Twinkie000§f: Lowballing 80m /visit me (no skins, minions, pets)
+[01:08:14] [Client thread/INFO]: [CHAT] You donated your Edible Mace to the Museum!
+[01:08:15] [Client thread/INFO]: [CHAT] §aYou have earned a reward for donating an item! §e§lCLICK HERE §ato claim it!
+[01:08:16] [Client thread/INFO]: [CHAT] You retrieved your Edible Mace from the Museum. It still counts towards your Museum progress, but not towards your total item value.
+[01:08:16] [Client thread/INFO]: [CHAT] You can return or replace the item in your Museum at any time!
+[01:08:16] [Client thread/INFO]: [CHAT] [93] §a[VIP] DarkPotatoz§f: lb 1.18b
+[01:08:17] [Client thread/INFO]: [CHAT] [112] ? §b[MVP§6+§b] Tr1kkas§f: lowballing 250m /visit me!!!!!!!!!!!!!!!!!!!!!
+[01:08:18] [Client thread/INFO]: [CHAT] [78] §a[VIP] Twinkie000§f: Lowballing 80m /visit me (no skins, minions, pets)!!!!!!!!!!
+[01:08:20] [Client thread/INFO]: [CHAT] [219] ? §a[VIP] HypixelAddict§f: . . . . . ???? Visit My Island 200m Purse Lowball!!! /visit HypixelAddict ???? . . . . .. . . . . ???? Visit My Island 200m Purse Lowball!!!
+[01:08:21] [Client thread/INFO]: [CHAT] You claimed a Museum reward!
+[01:08:22] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] skibidipula§f: lowballing 1b purse ////////
+[01:08:22] [Client thread/INFO]: [CHAT]  
+[01:08:22] [Client thread/INFO]: [CHAT]                           SKYBLOCK LEVEL UP
+[01:08:22] [Client thread/INFO]: [CHAT]                              Level 326 ? [327]
+[01:08:22] [Client thread/INFO]: [CHAT]  
+[01:08:22] [Client thread/INFO]: [CHAT]                                   REWARDS
+[01:08:22] [Client thread/INFO]: [CHAT]                                  +5 ? Health
+[01:08:22] [Client thread/INFO]: [CHAT]  
+[01:08:27] [Client thread/INFO]: [CHAT] [222] §6[MVP§2++§6] freestyle3§f: lowballing 2b purse
+[01:08:29] [Client thread/INFO]: [CHAT] [249] §b[MVP§6+§b] 32423015§f: Buying Full LCM Set /p 32423015
+[01:08:37] [Client thread/INFO]: [CHAT] §8[§e100§8] §7§l? §b[MVP§c+§b] Z15HAN§f§7 is holding §8[§5Necron's Handle§8]
+[01:08:38] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§c+§b] Z15HAN§f: sell
+[01:08:43] [Client thread/INFO]: [CHAT] [141] §b[MVP§c+§b] Edge_of_duality2§f: LOWBALLING 2b /visit me
+[01:08:45] [Client thread/INFO]: [CHAT] [31] §7shetty07§7: lowballing 45mil /visit shetty07 ////////////
+[01:08:45] [Client thread/INFO]: [CHAT] [49] §b[MVP§c+§b] Serpendrogon§f: selling t11 diamond minion for 3.3milion
+[01:08:45] [Client thread/INFO]: [CHAT] [4] §b[MVP§2+§b] Pep_Z§f: can some1 please spare some money at map
+[01:08:46] [Client thread/INFO]: [CHAT] [50] §a[VIP] Python_ss§f: LOWBALLING WITH 140M /VISIT PYTHON_ss
+[01:08:50] [Client thread/INFO]: [CHAT] [15] §a[VIP] Ra_Dom§f: 600K /EA snowminions /visit me
+[01:08:50] [Client thread/INFO]: [CHAT] [74] §7SOI811§7: lowballing 20m its my first time
+[01:08:51] [Client thread/INFO]: [CHAT] [50] §a[VIP] Python_ss§f: 150M PURSE LWOBALLING /VISIT ME
+[01:08:51] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed
+[01:08:54] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: Z15HAN wanna sell it for 100 mil?
+[01:08:56] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed********
+[01:08:57] [Client thread/INFO]: [CHAT] [50] §a[VIP] Python_ss§f: ????????LOWBALLING 200M /VISIT ME????
+[01:08:59] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§c+§b] Z15HAN§f: yes starbond
+[01:09:00] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: :)
+[01:09:02] [Client thread/INFO]: [CHAT] [51] §a[VIP§6+§a] ydani§f: Lowballing 216m /visit me
+[01:09:02] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed....
+[01:09:03] [Client thread/INFO]: [CHAT] [50] §a[VIP] Python_ss§f: ?????200M PURSE LWOBALLING 10M+ ITEMS ONLY /VISIT ME
+[01:09:03] [Client thread/INFO]: [CHAT] [41] ? §a[VIP] mighty_max§f: ANYONE LOWBALLING MINIONS
+[01:09:04] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§c+§b] Z15HAN§f: ill sell a necrons handle for 100m
+[01:09:04] [Client thread/INFO]: [CHAT] [105] ? §a[VIP] BALCER69§f: who need godpot
+[01:09:05] [Client thread/INFO]: [CHAT] [15] §a[VIP] Ra_Dom§f: tier 11 snow minions /visit me 600k each ONLY
+[01:09:05] [Client thread/INFO]: [CHAT] [127] ? §7Tyt_tyt48§7: LOWBALLIN 30m purse /visit Tyt_tyt48
+[01:09:07] [Client thread/INFO]: [CHAT] [50] §7MB_PL§7: buying redstone minion t11 !! met me at the map !!
+[01:09:07] [Client thread/INFO]: [CHAT] [95] ? §b[MVP] KiatisukPolking§f: BUYING T11/12 GLOWSTONE MINION <----////---------!!!!!--------
+[01:09:07] [Client thread/INFO]: [CHAT] [230] ? §a[VIP§6+§a] XdarkZ70§f: deal
+[01:09:07] [Client thread/INFO]: [CHAT] [119] ? §7Fumsiy§7: CHECK MY AH for STORM BOOTS...............
+[01:09:07] [Client thread/INFO]: [CHAT] [139] ? §b[MVP§e+§b] mineFV§f: I sell glowtone gauntle 7/7 (mana pool / breeze) /p MineFV ///////////////////
+[01:09:09] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§c+§b] Z15HAN§f: balcer gimme
+[01:09:10] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: sure
+[01:09:10] [Client thread/INFO]: [CHAT] [127] ? §7Tyt_tyt48§7: LOWBALLIN 30m purse /visit Tyt_tyt48LOWBALLIN 30m purse /visit Tyt_tyt48
+[01:09:11] [Client thread/INFO]: [CHAT] [129] ? §a[VIP] _Dessy_§f: Lowballing 1.3b purse visit _dessy_
+[01:09:13] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:09:13] [Client thread/INFO]: [CHAT] [Bazaar] Bought 16x ? Fine Jasper Gemstone for 1,074,141 coins!
+[01:09:16] [Client thread/INFO]: [CHAT] You earned 7 GEXP + 283 Event EXP from playing SkyBlock!
+[01:09:16] [Client thread/INFO]: [CHAT] [252] §b[MVP§c+§b] Strontzakjesman§f: visit me and be amazed+++++
+[01:09:19] [Client thread/INFO]: [CHAT] [76] ? §a[VIP] 9Jke§f: warning yall mossad_ is a scammer watch out everyone !!!!!
+[01:09:21] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:09:21] [Client thread/INFO]: [CHAT] [Bazaar] Bought 48x Enchanted Paper for 58,301 coins!
+[01:09:21] [Client thread/INFO]: [CHAT] [52] §7NiVoDik§7: ***** ????? ????? ?????
+[01:09:22] [Client thread/INFO]: [CHAT] §8[§d344§8] §b§l? §a[VIP§6+§a] fafawitde§f§7 is holding §8[§dWithered Dark Claymore §6?§6?§6?§6?§6?§c?§8]
+[01:09:23] [Client thread/INFO]: [CHAT] [344] ? §a[VIP§6+§a] fafawitde§f: selling
+[01:09:25] [Client thread/INFO]: [CHAT] [168] §b[MVP§c+§b] Turt1ez_§f: ?
+[01:09:26] [Client thread/INFO]: [CHAT] [192] §b[MVP§f+§b] 32423013§f: Buying Full LCM Set /p 32423013
+[01:09:31] [Client thread/INFO]: [CHAT] [111] §b[MVP§c+§b] Itz_Trey_W3§f: lowballing 300m purse visit me 20m+ items no minions skins or runes
+[01:09:31] [Client thread/INFO]: [CHAT] [4] §b[MVP§2+§b] Pep_Z§f: can some1 please spare some money at map,,,,,,,,,,,,,,,,,,,,,
+[01:09:33] [Client thread/INFO]: [CHAT] §8[§2168§8] §6? §a[VIP] _Neon_Spirit_§f§7 is holding §8[§9Sheep Minion XI§8]
+[01:09:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: giant killer is always better than titan killer right
+[01:09:35] [Client thread/INFO]: [CHAT] [78] §a[VIP] Twinkie000§f: Lowballing 80m /visit me (no skins, minions, pets)Lowballing 80m /visit me
+[01:09:35] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] _Neon_Spirit_§f: seling
+[01:09:37] [Client thread/INFO]: [CHAT] [183] ? §b[MVP§4+§b] Laxism§f: lf someone who is buying skins /visit me
+[01:09:37] [Client thread/INFO]: [CHAT] [32] §7Pimiyo§7: buying minions /p me
+[01:09:39] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] skibidipula§f: buying term /p me
+[01:09:39] [Client thread/INFO]: [CHAT] [253] ? §a[VIP§6+§a] the_3_mistakes§f: lowballing 1b purse /visit the_3_mistakes 15m+ visit now
+[01:09:41] [Client thread/INFO]: [CHAT] [105] ? §a[VIP] BALCER69§f: not u
+[01:09:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: think so yeah
+[01:09:42] [Client thread/INFO]: [CHAT] [44] §a[VIP] fwmd§f: lowballing 30m /visit me
+[01:09:42] [Client thread/INFO]: [CHAT] §8[§2193§8] §7§l? §b[MVP§c+§b] hamusim§f§7 is holding §8[§5Wither Shield§8]
+[01:09:43] [Client thread/INFO]: [CHAT] [29] §7akshat45killer§7: selling t11 and t10 redstone minions visit me##$#$$#$$#$#$$#$#$#$#$
+[01:09:43] [Client thread/INFO]: [CHAT] [193] ? §b[MVP§c+§b] hamusim§f: selling
+[01:09:44] [Client thread/INFO]: [CHAT] [50] §7MB_PL§7: buying redstone minion t11 !! met me at the map !!!!!!!!!!!!!!!!!!!!
+[01:09:47] [Client thread/INFO]: [CHAT] [318] ? §b[MVP§0+§b] newyjsk§f: zccxv
+[01:09:48] [Client thread/INFO]: [CHAT] [318] ? §b[MVP§0+§b] newyjsk§f: asdf
+[01:09:48] [Client thread/INFO]: [CHAT] [168] ? §a[VIP] _Neon_Spirit_§f: lol
+[01:09:49] [Client thread/INFO]: [CHAT] [318] ? §b[MVP§0+§b] newyjsk§f: qwer
+[01:09:50] [Client thread/INFO]: [CHAT] [102] ? §b[MVP§d+§b] Clappyfire§f: Lowballing 150m /visit clappyfire
+[01:09:51] [Client thread/INFO]: [CHAT] §8[§a120§8] §b[MVP§f+§b] lessfps§f§7 is holding §8[§dHeroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:09:52] [Client thread/INFO]: [CHAT] [239] ? §7Scrien§7: SELLING 40sec T4 EMAN Carries /p me eman 7 900k per
+[01:09:52] [Client thread/INFO]: [CHAT] [458] ? §6[MVP§4++§6] Hyflyy§f: 6.5b purse Lowballing visit ('-')????.*???
+[01:09:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:09:54] [SkyblockAddons - #44/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:09:54] [SkyblockAddons - #44/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:09:55] [Client thread/INFO]: [CHAT] [318] ? §b[MVP§0+§b] newyjsk§f: 800M lowball /visit newyjsk
+[01:09:56] [Client thread/INFO]: [CHAT] [119] ? §a[VIP] Binaires§f: LOWBALLING 100M 5M+ VISIT ME
+[01:09:56] [Client thread/INFO]: [CHAT] [95] ? §b[MVP] KiatisukPolking§f: BUYING T11/12 GLOWSTONE MINION <---
+[01:09:57] [Client thread/INFO]: [CHAT] [105] ? §a[VIP] BALCER69§f: who asked me for godpots bruh
+[01:10:01] [Client thread/INFO]: [CHAT] [44] §a[VIP] fwmd§f: lowballing 30m /visit me!!!!!!@!!!
+[01:10:04] [Client thread/INFO]: [CHAT] [119] ? §a[VIP] Binaires§f: LOWBALLING 100M 5M+ VISIT ME ////////////////
+[01:10:06] [Client thread/INFO]: [CHAT] [157] §a[VIP] Vici0usViper117§f: selling flower minions for 30m
+[01:10:07] [Client thread/INFO]: [CHAT] [219] ? §a[VIP] HypixelAddict§f: . . . . . ???? Visit My Island 200m Purse Lowball!!! /visit HypixelAddict ???? . . . . .. . . . . ???? Visit My
+[01:10:09] [Client thread/INFO]: [CHAT] [32] §7Pimiyo§7: buying slime minions p me
+[01:10:12] [Client thread/INFO]: [CHAT] [121] §b[MVP§c+§b] CraftingAlexYT§f: YOOOOOOOOO! Who won the Kendrick/Drake Battle? VOTE on my AH! Green for Drake, Red for Kendrick!
+[01:10:14] [Client thread/INFO]: [CHAT] [78] §a[VIP] Twinkie000§f: Lowballing 80m /visit me (no skins, minions, pets)Lowballing 80m /visit me (no skins, minions, pets)
+[01:10:15] [Client thread/INFO]: [CHAT] [139] ? §b[MVP§e+§b] mineFV§f: I sell glowtone gauntle 7/7 (mana pool / breeze) /p MineFV !!!!!!!!!!!!!!!!!!!!!!!
+[01:10:17] [Client thread/INFO]: [CHAT] §8[§d344§8] §b§l? §a[VIP§6+§a] fafawitde§f§7 is holding §8[§dWithered Dark Claymore §6?§6?§6?§6?§6?§c?§8]
+[01:10:18] [Client thread/INFO]: [CHAT] [72] §7GyIe§7: bro ty
+[01:10:18] [Client thread/INFO]: [CHAT] [105] ? §a[VIP] BALCER69§f: enjoy
+[01:10:22] [Client thread/INFO]: [CHAT] [344] ? §a[VIP§6+§a] fafawitde§f: anyone want
+[01:10:22] [Client thread/INFO]: [CHAT] [183] ? §b[MVP§4+§b] Laxism§f: ? LF someone who buys skins nlf lowballers!! /visit me (2.5b+ prolly)
+[01:10:23] [Client thread/INFO]: [CHAT] [141] §b[MVP§c+§b] Edge_of_duality2§f: LOWBALLING 2b /visit meLOWBALLING 2b /visit me
+[01:10:23] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: lowballing 100 mil /visit starbond70 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+[01:10:24] [Client thread/INFO]: [CHAT] [95] ? §b[MVP] KiatisukPolking§f: BUYING T11/12 GLOWSTONE MINION <-------------
+[01:10:25] [Client thread/INFO]: [CHAT] [142] ? §b[MVP§6+§b] KillStre3k§f: [!] LOWBALLING [!] 150m Purse /visit me ?(^?^*)/
+[01:10:25] [Client thread/INFO]: [CHAT] [303] ? §b[MVP§3+§b] Zxeky7§f: selling maxed fishing minions with mithril infusion for 8m per and same for melon minions for 9m per p me
+[01:10:26] [Client thread/INFO]: [CHAT] §8[§e100§8] §7§l? §b[MVP§c+§b] Z15HAN§f§7 is holding §8[§5Necron's Handle§8]
+[01:10:26] [Client thread/INFO]: [CHAT] [36] §a[VIP§6+§a] DoorMans§f: what do snow minions sell for?
+[01:10:26] [Client thread/INFO]: [CHAT] [286] ? §b[MVP§c+§b] im2cool4u_yt§f: lowballing 1b taking items and skins
+[01:10:28] [Client thread/INFO]: [CHAT] [100] ? §b[MVP§c+§b] Z15HAN§f: selling
+[01:10:35] [Client thread/INFO]: [CHAT] [119] ? §b[MVP§c+§b] scienceman06§f: GUYS REPORT LOL BADNUB
+[01:10:35] [Client thread/INFO]: [CHAT] [126] ? §a[VIP] StarBond70§f: i'll give 100 mil for it
+[01:10:37] [Client thread/INFO]: [CHAT] [32] §7Pimiyo§7: guys buying slime minions p me
+[01:10:39] [Client thread/INFO]: [CHAT] [239] ? §7Scrien§7: LOWBALLING 250m Purse /visit me
+[01:10:41] [Client thread/INFO]: [CHAT] Unknown destination! Check the Fast Travel menu to view options!
+[01:10:41] [Client thread/INFO]: [CHAT] [54] §7MrKrab_§7: looking for a lballer
+[01:10:42] [Client thread/INFO]: [CHAT] Warping...
+[01:10:43] [Client thread/INFO]: [CHAT] Sending to server mini78A...
+[01:10:43] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:10:43] [Client thread/INFO]: [CHAT]        
+[01:10:43] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini78A', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[01:10:46] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:10:46] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:10:51] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[01:10:58] [Client thread/INFO]: [CHAT] Finding player...
+[01:11:00] [Client thread/INFO]: [CHAT] Sending a visit request...
+[01:11:00] [Client thread/INFO]: [CHAT] Sending to server mini185DB...
+[01:11:01] [Client thread/INFO]: [CHAT]        
+[01:11:01] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:11:01] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini185DB', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:11:01] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[01:11:03] [Client thread/INFO]: [CHAT] Sending to server mini75DK...
+[01:11:04] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.features.impl.mining.CHWaypoints$onHypixelPacket$1.invokeSuspend(CHWaypoints.kt:80)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:11:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@1f99c815, Dispatchers.IO]
+[01:11:04] [Client thread/INFO]: [CHAT]        
+[01:11:04] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini75DK', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[01:11:07] [Client thread/INFO]: [CHAT] You may only use this command after 4s on the server!
+[01:11:07] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:11:07] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:11:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: idfk i just want to drop giant sword finally
+[01:11:13] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:11:13] [SkyblockAddons - #45/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:11:13] [SkyblockAddons - #45/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:11:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: wc
+[01:11:21] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg at the base of the Sapphire pillar!
+[01:11:22] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §5Turbo §7(§5§LEPIC§7)!
+[01:11:22] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+10 Chocolate §7and §6+0.005x Chocolate §7per second!
+[01:11:22] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:11:29] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on the arms of the Amethyst statue!
+[01:11:30] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fJake §7(§F§LCOMMON§7)!
+[01:11:30] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+2,630,631 Chocolate
+[01:11:30] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:11:33] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b56s§e.
+[01:12:04] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:12:31] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[01:13:23] [Client thread/INFO]: [CHAT]  §d? §eThe §dBetter Together §eevent starts in §a20 §eseconds!
+ §eThis is a passive event! §bIt's happening everywhere in the §bCrystal Hollows!
+[01:13:43] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:13:43] [Client thread/INFO]: [CHAT]                     BETTER TOGETHER STARTED!
+[01:13:43] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[01:13:43] [Client thread/INFO]: [CHAT]                                         
+[01:13:43] [Client thread/INFO]: [CHAT]      The Better Together festival is underway! Dwarves love
+[01:13:43] [Client thread/INFO]: [CHAT]    working together, and this event celebrates friendship and
+[01:13:43] [Client thread/INFO]: [CHAT]                              jolly cooperation.
+[01:13:43] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:13:43] [Client thread/INFO]: [CHAT] You can hear cooperative chattering coming from town…
+[01:13:43] [Client thread/INFO]: [CHAT] The Better Together festival is active for 20 minutes!
+[01:13:52] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: sup
+[01:14:12] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: i just got the dyes and helm skin for my bday today
+[01:14:13] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: why would u do that to ur fermento
+[01:14:17] [Client thread/INFO]: [CHAT] Guild > qtwn left.
+[01:14:21] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: it was a gift
+[01:14:22] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: this is true peak
+[01:14:29] [Client thread/INFO]: [CHAT] You used your Mining Speed Boost Pickaxe Ability!
+[01:14:30] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: mine looks better
+[01:14:33] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:33] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:33] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:33] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:33] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:33] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:35] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:35] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:35] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:35] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:35] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:35] [Client thread/ERROR]: Signature is missing from textures payload
+[01:14:38] [Client thread/INFO]: [CHAT] Whow! Slow down there!
+[01:14:39] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: nuh uh
+[01:14:44] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: guys
+[01:14:46] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: judge it
+[01:14:46] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:14:46] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:14:46] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:14:49] [Client thread/INFO]: [CHAT] Your Mining Speed Boost has expired!
+[01:14:50] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: whos is better
+[01:14:55] [Client thread/INFO]: [CHAT] You earned 5 GEXP + 200 Event EXP from playing SkyBlock!
+[01:15:00] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: 16thGarden
+[01:15:05] [Client thread/INFO]: [CHAT] Guild > sadiedog left.
+[01:15:08] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:15:08] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:15:08] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:15:16] [Client thread/INFO]: [CHAT] [327] 16thGarden: skins suck
+[01:15:39] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:39] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:39] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:39] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:39] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:39] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:41] [Client thread/ERROR]: Signature is missing from textures payload
+[01:15:46] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: 16th
+[01:15:53] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:15:53] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:15:53] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:15:57] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: whos armour is better looking
+[01:16:02] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: winner gets ur edrag
+[01:16:10] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:16:10] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:16:10] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:16:14] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:16:14] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:16:14] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:16:26] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:16:26] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:16:26] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:16:30] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:16:34] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:16:34] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:16:34] [SkyblockAddons - #46/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:16:36] [Client thread/INFO]: [CHAT] §8[§b210§8] §6? §b[MVP§a+§b] Quriii§f§7 is holding §8[§dBountiful Melon Dicer 3.0§8]
+[01:16:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg near Geonathan Greatforge!
+[01:16:40] [Client thread/INFO]: [CHAT] §8[§3265§8] §6? §b[MVP§d+§b] CloakShot§f§7 is holding §8[§dBountiful Melon Dicer 3.0§8]
+[01:16:41] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fJake §7(§F§LCOMMON§7)!
+[01:16:41] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+2,869,779 Chocolate
+[01:16:41] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:16:43] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b4m 6s§e.
+[01:16:44] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b4m 5s§e.
+[01:16:45] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: MID
+[01:16:48] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: smh
+[01:16:49] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: damn
+[01:16:50] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: mb
+[01:16:54] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: sorry im poor
+[01:17:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: guys do I buy a decent hype
+[01:17:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: w/ looting 5 smoldering 5
+[01:17:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: yk
+[01:17:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: why not
+[01:17:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: go for it
+[01:17:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: great
+[01:17:24] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: that a hype?
+[01:17:33] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: its an aotv dawg what
+[01:17:41] [Client thread/INFO]: [CHAT] [36] §b[MVP§d+§b] Morthound§f: LMAO
+[01:17:43] [Client thread/INFO]: [CHAT] §8[§3265§8] §6? §b[MVP§d+§b] CloakShot§f§7 is holding §8[§dPrecise Terminator §6?§6?§6?§6?§6?§8]
+[01:17:47] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:17:47] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:17:47] [SkyblockAddons - #47/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:17:55] [Client thread/INFO]: [CHAT] §8[§b210§8] §6? §b[MVP§a+§b] Quriii§f§7 is holding §8[§6Spiritual Juju Shortbow §6?§6?§6?§6?§6?§8]
+[01:17:58] [Client thread/INFO]: [CHAT] §8[§3265§8] §6? §b[MVP§d+§b] CloakShot§f§7 is holding §8[§6Pitchin' Auger Rod§8]
+[01:17:59] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: chat am i poor
+[01:18:17] [Client thread/INFO]: [CHAT] §8[§3265§8] §6? §b[MVP§d+§b] CloakShot§f§7 is holding §8[§5Chomp Inferno Rod§8]
+[01:18:25] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: urs doesnt even have fire
+[01:18:29] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: pooron
+[01:18:34] [Client thread/INFO]: [CHAT] §8[§3265§8] §6? §b[MVP§d+§b] CloakShot§f§7 is holding §8[§dShiny Heroic Hyperion §6?§6?§6?§6?§6?§8]
+[01:18:36] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: ....
+[01:18:49] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: is yours shiny
+[01:18:59] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: i dont have a hyp what is bro smoking
+[01:18:59] [Client thread/INFO]: [CHAT] [327] 16thGarden: i got mine before they made that
+[01:19:01] [Client thread/INFO]: [CHAT] §8[§3265§8] §6? §b[MVP§d+§b] CloakShot§f§7 is wearing §8[§dShiny Ancient Necron's Chestplate §6?§6?§6?§6?§6?§8]
+[01:19:07] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: all my gear is shiny
+[01:19:10] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: i am cata 24 what do you want from me
+[01:19:15] [Client thread/INFO]: [CHAT] [36] §b[MVP§d+§b] Morthound§f: MONEY
+[01:19:16] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[01:19:16] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:19:16] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:19:20] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:19:20] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:19:20] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:19:22] [Client thread/INFO]: [CHAT] §8[§d327§8] §716thGarden§7§7 is holding §8[§fLight Blue Stained Glass Pane§7 x3§8]
+[01:19:26] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: im talking to timepulse
+[01:19:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: how much should I ask for
+[01:19:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: for his hype
+[01:19:34] [Client thread/INFO]: [CHAT] §8[§2195§8] §6? §b[MVP§4+§b] D3nailo§f§7 is holding §8[§aEnchanted Diamond§8]
+[01:19:39] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:19:39] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:19:39] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:19:55] [Client thread/INFO]: [CHAT] §8[§b210§8] §6? §b[MVP§a+§b] Quriii§f§7 is holding §8[§fLime Dye§8]
+[01:19:58] [Client thread/INFO]: [CHAT] You earned 9 GEXP + 347 Event EXP from playing SkyBlock!
+[01:20:07] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage14.
+[01:20:07] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:20:07] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:20:08] [Client thread/INFO]: [CHAT] §8[§2195§8] §6? §b[MVP§4+§b] D3nailo§f§7 is holding §8[§fPolished Pebble§8]
+[01:20:08] [Client thread/INFO]: [CHAT] The Dungeon Orb doesn't seem to do anything here.
+[01:20:08] [Client thread/INFO]: [CHAT] The Dungeon Orb doesn't seem to do anything here.§7 (2)
+[01:20:08] [Client thread/INFO]: [CHAT] The Dungeon Orb doesn't seem to do anything here.§7 (3)
+[01:20:12] [Client thread/INFO]: [CHAT] Guild > Killerbee120 left.
+[01:20:17] [Client thread/INFO]: [CHAT] Guild > BrBrEvCoSeGaO joined.
+[01:20:29] [Client thread/INFO]: [CHAT] [327] 16thGarden: ew
+[01:20:31] [Client thread/INFO]: [CHAT] §8[§b210§8] §6? §b[MVP§a+§b] Quriii§f§7 is holding §8[§9Premium Flesh§8]
+[01:20:34] [Client thread/INFO]: [CHAT] [327] 16thGarden: no perfect gems
+[01:20:36] [Client thread/INFO]: [CHAT] §8[§2195§8] §6? §b[MVP§4+§b] D3nailo§f§7 is holding §8[§5Remnant of the Eye§8]
+[01:20:47] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:20:47] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:20:47] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:20:49] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:20:49] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:20:49] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:20:51] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[01:20:57] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg in between Jade and Sapphire crystals!
+[01:20:57] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fAlfie §7(§F§LCOMMON§7)!
+[01:20:57] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+2,630,631 Chocolate
+[01:20:58] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:21:06] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: cloakshot gimme a hype ill give u head deal?
+[01:21:09] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: nah
+[01:21:14] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[01:21:14] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:21:14] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:21:15] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: l
+[01:21:27] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: thats why my armor is better looking
+[01:21:34] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:21:34] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:21:34] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:21:35] [Client thread/INFO]: [CHAT] [210] ? §b[MVP§a+§b] Quriii§f: okay buddy
+[01:21:44] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage14.
+[01:21:44] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:21:44] [SkyblockAddons - #48/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:21:51] [Client thread/ERROR]: Signature is missing from textures payload
+[01:21:51] [Client thread/ERROR]: Signature is missing from textures payload
+[01:21:51] [Client thread/ERROR]: Signature is missing from textures payload
+[01:21:51] [Client thread/ERROR]: Signature is missing from textures payload
+[01:21:51] [Client thread/ERROR]: Signature is missing from textures payload
+[01:21:51] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:04] [Client thread/INFO]: [CHAT] [265] ? §b[MVP§d+§b] CloakShot§f: sup
+[01:22:09] [Client thread/INFO]: [CHAT] Guild > sadiedog joined.
+[01:22:24] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:24] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:24] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:24] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:24] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:24] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/ERROR]: Signature is missing from textures payload
+[01:22:27] [Client thread/INFO]: [CHAT] [SkyBlock] [MVP+] Quriii is visiting Your Island!
+[01:22:31] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[01:22:32] [Client thread/INFO]: [CHAT] Sending to server mini185W...
+[01:22:32] [Client thread/INFO]: [CHAT]        
+[01:22:32] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:22:33] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini185W', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:22:35] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:22:35] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:22:36] [Client thread/INFO]: [CHAT] You have 1 guest on your island!
+[01:22:54] [Client thread/INFO]: [CHAT] [210] ? §a[?] §b[MVP§a+§b] Quriii§f: bonjour
+[01:23:00] [Client thread/INFO]: [CHAT] [210] ? §a[?] §b[MVP§a+§b] Quriii§f: i was curoius about ur garden
+[01:23:05] [Client thread/INFO]: [CHAT] [210] ? §a[?] §b[MVP§a+§b] Quriii§f: but u dont have it open
+[01:23:09] [Client thread/INFO]: [CHAT] Warping...
+[01:23:09] [Client thread/INFO]: [CHAT] Sending to server mini87DF...
+[01:23:10] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:23:10] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini87DF', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[01:23:10] [Client thread/INFO]: [CHAT]        
+[01:23:11] [Client thread/INFO]: [CHAT] Librarian has arrived on your Garden!
+[01:23:13] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:23:13] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:23:15] [Client thread/INFO]: [CHAT] Finding player...
+[01:23:16] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:23:16] [Client thread/INFO]: [CHAT] 16thGarden invited [MVP+] Quriii to visit Your Island!
+[01:23:16] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:23:19] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[01:23:26] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: me after learning what i can do with ketchup and mayo
+[01:23:34] [Client thread/INFO]: [CHAT] Finding player...§7 (2)
+[01:23:34] [Client thread/INFO]: [CHAT] This player was already sent an invite!
+[01:23:34] [Client thread/INFO]: [CHAT] The current invite will expire in 282 seconds!
+[01:23:36] [Client thread/INFO]: [CHAT] Guild > Shrouzr left.
+[01:23:38] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[01:23:38] [Client thread/INFO]: [CHAT] Sending to server mini185W...
+[01:23:38] [Client thread/INFO]: [CHAT]        
+[01:23:38] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:23:38] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini185W', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:23:41] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[01:23:41] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[01:23:42] [Client thread/INFO]: [CHAT] You have 1 guest on your island!
+[01:23:46] [Client thread/INFO]: [CHAT] [327] [OwO] 16thGarden: accept it
+[01:24:29] [Client thread/INFO]: [CHAT] [210] ? §a[?] §b[MVP§a+§b] Quriii§f: is that rem
+[01:24:35] [Client thread/INFO]: [CHAT] [327] [OwO] 16thGarden: yes
+[01:24:37] [Client thread/INFO]: [CHAT] [210] ? §a[?] §b[MVP§a+§b] Quriii§f: w
+[01:24:38] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:24:42] [Client thread/INFO]: [CHAT] [210] ? §a[?] §b[MVP§a+§b] Quriii§f: i love rezero
+[01:24:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:24:57] [Client thread/INFO]: [CHAT] [MVP+] Quriii accepted 16thGarden's invite!
+[01:24:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:01] [Client thread/INFO]: [CHAT] Warping...
+[01:25:01] [Client thread/INFO]: [CHAT] Sending to server mini35DT...
+[01:25:02] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:25:02] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini35DT', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[01:25:02] [Client thread/INFO]: [CHAT]        
+[01:25:05] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[01:25:05] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:25:05] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:25:05] [Client thread/INFO]: [CHAT] You have 1 guest on your island!
+[01:25:29] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:29] [Client thread/INFO]: [CHAT] JPGomdol created a BIN auction for Pickonimbus 2000 at 200,000 coins!
+[01:25:29] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:36] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:36] [Client thread/INFO]: [CHAT] JPGomdol created a BIN auction for Pickonimbus 2000 at 200,000 coins!§7 (2)
+[01:25:36] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:25:40] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aDwarven Mines §e§lFOLLOW
+[01:26:02] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:26:37] [Client thread/INFO]: [CHAT] Warping...
+[01:26:37] [Client thread/INFO]: [CHAT] Sending to server mini251P...
+[01:26:37] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:26:38] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini251P', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[01:26:38] [Client thread/INFO]: [CHAT]        
+[01:26:41] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:26:41] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:26:42] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aHub §e§lFOLLOW
+[01:26:42] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[01:26:55] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[01:27:12] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg overlooking The Mist!
+[01:27:13] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fNibbles §7(§F§LCOMMON§7)!
+[01:27:13] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[01:27:13] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:27:14] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b5m 15s§e.
+[01:27:22] [Client thread/INFO]: [CHAT] Warping...§7 (3)
+[01:27:22] [Client thread/INFO]: [CHAT] Sending to server mini15Q...
+[01:27:23] [Client thread/INFO]: [CHAT]        
+[01:27:23] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:27:23] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini15Q', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[01:27:26] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:27:26] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[01:27:58] [pool-10-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: java.lang.RuntimeException: java.net.SocketTimeoutException: Read timed out
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:269)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$495/233407599.apply(Unknown Source)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: java.net.SocketTimeoutException: Read timed out
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead0(Native Method)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:170)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:704)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:647)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1535)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(Native Method)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:232)
+[01:27:58] [pool-10-thread-1/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 7 more
+[01:28:19] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[01:28:19] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 16x Salt Cube from cancelling Sell Offer!
+[01:28:23] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:28:32] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[01:28:32] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[01:28:32] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 16x Salt Cube for 23,728 coins.
+[01:28:38] [Client thread/INFO]: [CHAT] Guild > donavin855 joined.
+[01:28:41] [Client thread/INFO]: [CHAT] You collected 69,000 coins from selling Not Just a Pest Vinyl to [MVP+] Holmesy98_ in an auction!
+[01:28:41] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:28:41] [Client thread/INFO]: [CHAT] 16thGarden collected an auction for 69,000 coins!
+[01:28:41] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:28:42] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Hub
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[01:28:50] [Client thread/INFO]: [CHAT] §6[Auction] §aGriffinH445 §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[01:28:54] [Client thread/INFO]: [CHAT] §e[NPC] Clerk Seraphine§f: §fWelcome to the §bCommunity Center§f!
+[01:28:55] [Client thread/INFO]: [CHAT] §e[NPC] Clerk Seraphine§f: §fContribute to community projects, upgrade your account, and more by talking to §dElizabeth§f!
+[01:28:56] [Client thread/INFO]: [CHAT] §e[NPC] Clerk Seraphine§f: §fYou can also vote in the §bmayor elections §fby heading through the warp behind me!
+[01:28:56] [Client thread/INFO]: [CHAT] §e[NPC] Clerk Seraphine§f: §fWelcome to the §bCommunity Center§f!§7 (2)
+[01:28:57] [Client thread/INFO]: [CHAT] §e[NPC] Clerk Seraphine§f: §fContribute to community projects, upgrade your account, and more by talking to §dElizabeth§f!§7 (2)
+[01:28:59] [Client thread/INFO]: [CHAT] §e[NPC] Clerk Seraphine§f: §fYou can also vote in the §bmayor elections §fby heading through the warp behind me!§7 (2)
+[01:29:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: LOOTING 5 ACQUIRED
+[01:29:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] sadiedog §3[HYDRA]§f: gg
+[01:29:16] [Client thread/INFO]: [CHAT] Warping...
+[01:29:17] [Client thread/INFO]: [CHAT] Sending to server mini144AG...
+[01:29:17] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:29:17] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini144AG', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[01:29:17] [Client thread/INFO]: [CHAT]        
+[01:29:18] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: all of tehm its like 40k
+[01:29:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: gz
+[01:29:20] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:29:20] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:29:35] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: dont matter i have more than enough just gotta ask the name
+[01:29:39] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: ohh jungle braclet
+[01:29:52] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:29:52] [Client thread/INFO]: [CHAT]                            2X POWDER ENDED!
+[01:29:52] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[01:29:52] [Client thread/INFO]: [CHAT] 
+[01:29:52] [Client thread/INFO]: [CHAT]    Powder amount is back to normal, but there will be another
+[01:29:52] [Client thread/INFO]: [CHAT]                                  event soon!
+[01:29:52] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:29:53] [Client thread/INFO]: [CHAT]  ? Qx1ly was killed by Goblin.
+[01:30:00] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: and tita talis
+[01:30:18] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:30:20] [pool-5-thread-4/INFO]: Mixing accessors.AccessorSettingsGui from mixins.skytils.json into gg.skytils.vigilance.gui.SettingsGui
+[01:30:29] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: is it on npc or bazaar
+[01:30:35] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: ah
+[01:30:40] [Client thread/INFO]: [CHAT] Friend > JPGomdol left.
+[01:31:05] [Client thread/ERROR]: Signature is missing from textures payload
+[01:31:05] [Client thread/ERROR]: Signature is missing from textures payload
+[01:31:32] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: titanium right?
+[01:31:42] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: yes
+[01:31:47] [Client thread/INFO]: [CHAT]  ? Qx1ly was killed by Knifethrower.
+[01:32:00] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: i think ist called that
+[01:32:01] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: tnx
+[01:32:11] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: np
+[01:32:12] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: +15 mining speed
+[01:32:18] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: yipeee
+[01:32:22] [Client thread/INFO]: [CHAT] Guild > CrashDeluxe left.
+[01:32:31] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[01:32:36] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: ohh important talis of power lin
+[01:32:39] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: line
+[01:32:42] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §6Sell Offer §efor §a1§7x §9Gemstone Mixture §ewas filled!
+[01:32:46] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: btw what are best way to farm HOTM
+[01:32:58] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: dungeon?
+[01:33:07] [Client thread/INFO]: [CHAT] You earned 3 GEXP + 146 Event EXP from playing SkyBlock!
+[01:33:23] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: is ikea_fish here
+[01:33:27] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: but idk where it's located
+[01:33:30] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: thaen wait
+[01:33:39] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: for the event
+[01:33:45] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[01:33:45] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: even if it start idk where it's located
+[01:34:08] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: it say in chat and you can tp to there
+[01:34:23] [Client thread/INFO]: [CHAT]  §6? §eThe §6Raffle §eevent starts in §a20 §eseconds!
+ §aClick here §eto teleport to §bGarry §eand prepare!
+[01:34:27] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: when you read in chat you know
+[01:34:44] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:34:44] [Client thread/INFO]: [CHAT]                             RAFFLE STARTED!
+[01:34:44] [Client thread/INFO]: [CHAT]                              Active Mining Event
+[01:34:44] [Client thread/INFO]: [CHAT]                                         
+[01:34:44] [Client thread/INFO]: [CHAT]               Bring tickets from the ground to the box!
+[01:34:44] [Client thread/INFO]: [CHAT]                     3 lucky players win 3x rewards!
+[01:34:44] [Client thread/INFO]: [CHAT]             More tickets = more chances & more rewards!
+[01:34:44] [Client thread/INFO]: [CHAT]                                         
+[01:34:44] [Client thread/INFO]: [CHAT]                  Go to Far Reserve (or talk to Garry)
+[01:34:44] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:34:48] [Thread-119/ERROR]: Error in class 'SourceLWJGL OpenAL'
+[01:34:48] [Thread-119/ERROR]: Channel null in method 'stop'
+[01:34:50] [Client thread/INFO]: [CHAT] [239] ? §b[MVP§f+§b] Myst1cThunder§f: finally
+[01:35:07] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §6Sell Offer §efor §a4§7x §9Kismet Feather §ewas filled!
+[01:35:32] [Thread-119/ERROR]: Error in class 'SourceLWJGL OpenAL'
+[01:35:32] [Thread-119/ERROR]: Channel null in method 'stop'
+[01:35:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: did I get a bad deal?
+[01:36:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: I paid 300m for smoldering 5 and looting 5 and 2 perfect sapphires
+[01:36:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: and fumings and art of war
+[01:36:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: but idc abt that
+[01:36:21] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: bro what
+[01:36:25] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: EVOLUTION! Your Bottle of Jyrre has evolved!
+[01:36:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: isnt l5 300m by itself
+[01:36:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: 270 rn
+[01:37:15] [Client thread/INFO]: [CHAT] RAFFLE CLOSING! in 10 seconds
+[01:37:21] [Thread-119/ERROR]: Error in class 'SourceLWJGL OpenAL'
+[01:37:21] [Thread-119/ERROR]: Channel null in method 'stop'
+[01:37:25] [Thread-119/ERROR]: Error in class 'SourceLWJGL OpenAL'
+[01:37:25] [Thread-119/ERROR]: Channel null in method 'stop'
+[01:37:45] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:37:45] [Client thread/INFO]: [CHAT]                               RAFFLE ENDED!
+[01:37:45] [Client thread/INFO]: [CHAT]                              Active Mining Event
+[01:37:45] [Client thread/INFO]: [CHAT]                           You didn't participate...
+[01:37:45] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:37:50] [Client thread/INFO]: [CHAT] The sound of pickaxes clashing against the rock has attracted the attention of the POWDER GHAST!
+[01:37:50] [Client thread/INFO]: [CHAT] Find the Powder Ghast near the Rampart's Quarry!
+[01:38:10] [Client thread/INFO]: [CHAT] You earned 1 GEXP + 78 Event EXP from playing SkyBlock!
+[01:38:19] [Client thread/INFO]: [CHAT]  ? Qx1ly was killed by Goblin.
+[01:38:38] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: they nerfed biomass
+[01:38:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: for composter
+[01:38:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: what
+[01:40:23] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:40:23] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:40:23] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:40:26] [Client thread/INFO]: [CHAT] Warping...
+[01:40:27] [Client thread/INFO]: [CHAT] [224] ? §7Schnupernase§7: tasty things in my ah
+[01:40:34] [Client thread/INFO]: [CHAT] ? You've earned 5,946 Glacite Powder from mining your first Glacite of the day!
+[01:40:35] [Client thread/INFO]: [CHAT] §e[NEU] You have enough Glacite powder to upgrade §cSurveyor§e!
+[01:40:36] [Client thread/INFO]: [CHAT] The warmth of the campfire reduced your ? Cold to 0!
+[01:40:43] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: no
+[01:40:45] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §6Sell Offer §efor §a8§7x §5Divan Fragment §ewas filled!
+[01:40:45] [Client thread/INFO]: [CHAT] You don't have enough Glacite Powder!
+[01:40:47] [Client thread/INFO]: [CHAT] [150] ? §a[VIP] GallantWave7851§f: not nice
+[01:40:48] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[01:40:51] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[01:40:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[01:40:54] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:40:54] [SkyblockAddons - #49/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:41:20] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: bidding war is kinda thrilling when u fight bidding for item xD
+[01:41:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: any sven
+[01:41:43] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: rachie pisc so much money
+[01:41:51] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: GEEEZZZ
+[01:41:52] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: 10m insta buy
+[01:41:55] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: lol
+[01:42:04] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: rachie
+[01:42:06] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[01:42:06] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:42:06] [SkyblockAddons - #50/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:42:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: NOO I CANT EVEN GROD
+[01:42:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: we need to cook
+[01:42:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: do u wanna trade
+[01:42:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: i wanna do some piscarying
+[01:42:29] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: y do u sven
+[01:42:37] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: Gallan
+[01:42:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i sven for xp mainly
+[01:42:47] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: raid gives mithril powder right?
+[01:42:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: ah
+[01:42:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: got 7.6m rn
+[01:42:53] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: jeez brooo
+[01:42:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: [Bazaar] Claimed 43,964,862 coins from selling 1x Skeleton Key
+[01:42:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: finally
+[01:43:00] [Client thread/INFO]: [CHAT] [145] ? §7vyi1x§7: ye i think so
+[01:43:09] [Client thread/INFO]: [CHAT] [108] §a[VIP] jaded9834 §7?§f: it give like 1k
+[01:43:13] [Client thread/INFO]: [CHAT] §6[Auction] §7Pafko_ §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[01:43:14] [Client thread/INFO]: [CHAT] Guild > Quantazy left.
+[01:43:14] [Client thread/INFO]: [CHAT] You earned 4 GEXP + 150 Event EXP from playing SkyBlock!
+[01:43:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i kinda need to pisc
+[01:43:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: these prices are crazy
+[01:43:23] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: lol
+[01:43:28] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[01:43:28] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 1,483 coins from selling 1x Salt Cube at 1,499.9 each!
+[01:43:28] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: ooh i guess 2x poweder is better
+[01:43:30] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[01:43:30] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 15x Salt Cube from cancelling Sell Offer!
+[01:43:33] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!
+[01:43:33] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (2)
+[01:43:33] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (3)
+[01:43:33] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (4)
+[01:43:33] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (5)
+[01:43:34] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (6)
+[01:43:34] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (7)
+[01:43:34] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (8)
+[01:43:34] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (9)
+[01:43:34] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (10)
+[01:43:34] [Client thread/INFO]: [CHAT] [16] §7GnarlyFearZ§7: powder
+[01:43:34] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (11)
+[01:43:35] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (12)
+[01:43:35] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (13)
+[01:43:35] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (14)
+[01:43:36] [Client thread/INFO]: [CHAT] You sold Salt Cube x1 for 1 Coin!§7 (15)
+[01:43:40] [Client thread/INFO]: [CHAT] ? A Fallen Star has crashed at Rampart's Quarry! Nearby ore and Powder drops are amplified!
+[01:43:54] [Client thread/INFO]: [CHAT] Finding player...
+[01:43:55] [Client thread/INFO]: [CHAT] Sending a visit request...
+[01:43:56] [Client thread/INFO]: [CHAT] Sending to server mini185DB...
+[01:43:56] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:43:56] [Client thread/INFO]: [CHAT]        
+[01:43:56] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini185DB', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:43:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[01:43:59] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:43:59] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:43:59] [Client thread/INFO]: [CHAT] Sending to server mini98BS...
+[01:44:00] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.features.impl.mining.CHWaypoints$onHypixelPacket$1.invokeSuspend(CHWaypoints.kt:80)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:44:00] [DefaultDispatcher-worker-8/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@35ce3d2, Dispatchers.IO]
+[01:44:00] [Client thread/INFO]: [CHAT]        
+[01:44:00] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini98BS', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[01:44:04] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:44:04] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:44:09] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on top of some Gold Ore!
+[01:44:10] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fChip §7(§F§LCOMMON§7)!
+[01:44:10] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[01:44:10] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:44:16] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b2m 23s§e.
+[01:44:19] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg at an entrance to the Magma Fields near Amethyst!
+[01:44:19] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aCotton §7(§A§LUNCOMMON§7)!
+[01:44:19] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+2 Chocolate §7and §6+0.003x Chocolate §7per second!
+[01:44:20] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:44:20] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b2m 19s§e.
+[01:44:41] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [187] Director!
+[01:44:44] [Client thread/INFO]: [CHAT] Rabbit Cousin has been promoted to [188] Director!
+[01:44:48] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: im so poor
+[01:44:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: looting 5 and smoldering 5 were so expensive
+[01:45:00] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: i want g drag rn
+[01:45:01] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:45:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: did u buy l5
+[01:45:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: yes
+[01:45:18] [Client thread/INFO]: [CHAT] You earned 1 GEXP + 35 Event EXP from playing SkyBlock!
+[01:45:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: its op
+[01:45:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: im too bork
+[01:45:51] [Client thread/INFO]: [CHAT] Guild > RachieCutie left.
+[01:45:55] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: bork
+[01:45:58] [Client thread/INFO]: [CHAT] Guild > RachieCutie joined.
+[01:46:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: you have l5...
+[01:46:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: already
+[01:46:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: me?
+[01:46:17] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: mhm
+[01:46:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: not on dae :x
+[01:46:26] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: broooo
+[01:46:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: why would you get it on dae...
+[01:46:34] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: more droppies
+[01:46:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[01:46:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: kindgrape
+[01:46:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: ill sell u gdrag
+[01:46:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: if u want
+[01:46:50] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: i dont have money
+[01:46:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: i only have prolly 350-400
+[01:47:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: im saving
+[01:47:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: hype for gdrag
+[01:47:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: jk
+[01:47:13] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: chim 5 dae
+[01:47:23] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg on top of the Crystal Nucleus!
+[01:47:23] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aBugs §7(§A§LUNCOMMON§7)!
+[01:47:24] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+2 Chocolate §7and §6+0.003x Chocolate §7per second!
+[01:47:24] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:47:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: why tf
+[01:47:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: racher lets abyss fish
+[01:47:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: what is abys fishing
+[01:47:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: or no balls
+[01:47:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: alr guys 2/3 abyss who else
+[01:47:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: piscing
+[01:47:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: rachie inv me
+[01:47:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: i wanna see what it is
+[01:47:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] kindgrape §3[HYDRA]§f: im good
+[01:47:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: i dont have any abysall miner bestiary
+[01:47:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[01:47:54] [SkyblockAddons - #51/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:47:54] [SkyblockAddons - #51/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:48:03] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:48:03] [SkyblockAddons - #51/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:48:03] [SkyblockAddons - #51/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:48:19] [Client thread/INFO]: [CHAT] Guild > Foezy left.
+[01:48:29] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:48:29] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1,140x Melon for 3,420 coins!
+[01:48:37] [Client thread/INFO]: [CHAT]  ? i6am was killed by Kalhuiki Tribe Member.
+[01:48:38] [Client thread/INFO]: [CHAT] Guild > Foezy joined.
+[01:48:39] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:48:39] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1,664x Melon for 4,992 coins!
+[01:48:54] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:48:54] [Client thread/INFO]: [CHAT] [Bazaar] Bought 64x Melon for 189.4 coins!
+[01:48:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: if any of the guild mods are on i can be put into hatchling
+[01:49:07] [Client thread/INFO]: [CHAT] You sold Melon Block x32 for 576 Coins!
+[01:49:08] [Client thread/INFO]: [CHAT] You sold Melon x20 for 40 Coins!
+[01:49:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: KAYO
+[01:49:09] [Client thread/INFO]: [CHAT] You sold Enchanted Melon x9 for 2,880 Coins!
+[01:49:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: hes offline
+[01:49:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: fishing lvl and lvl pls
+[01:49:17] [Client thread/INFO]: [CHAT] You enchanted your Bountiful Melon Dicer 3.0 with Silk Touch I!
+[01:49:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: fishing 38
+[01:49:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: lvl 248
+[01:49:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: thats him
+[01:49:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[EGG]§f: ^
+[01:49:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: not me
+[01:49:31] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:49:31] [Client thread/INFO]: [CHAT] [MVP+] Colb89 was promoted from Hydra Eggs to Hydra Hatchling
+[01:49:31] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:49:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Colb89 §3[BABY]§f: ty
+[01:50:22] [Client thread/INFO]: [CHAT] You earned 11 GEXP + 443 Event EXP from playing SkyBlock!
+[01:50:39] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: [Auction] lasereyes11 bought Overflux Capacitor for  123,123,123 coins CLICK
+[01:50:58] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:50:58] [Client thread/INFO]: [CHAT] 16thGarden cancelled an auction for Slow and Groovy Vinyl!
+[01:50:58] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:50:58] [Client thread/INFO]: [CHAT] You canceled your auction for Slow and Groovy Vinyl!
+[01:51:03] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:51:03] [Client thread/INFO]: [CHAT] 16thGarden cancelled an auction for Pretty Fly Vinyl!
+[01:51:03] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:51:03] [Client thread/INFO]: [CHAT] You canceled your auction for Pretty Fly Vinyl!
+[01:51:08] [Client thread/INFO]: [CHAT] Putting item in escrow...
+[01:51:08] [Client thread/INFO]: [CHAT] Setting up the auction...
+[01:51:08] [Client thread/INFO]: [CHAT] BIN Auction started for Slow and Groovy Vinyl!
+[01:51:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:51:08] [Client thread/INFO]: [CHAT] 16thGarden created a BIN auction for Slow and Groovy Vinyl at 90,000 coins!
+[01:51:08] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:51:18] [Client thread/INFO]: [CHAT] You sold Pretty Fly Vinyl x1 for 1,000 Coins!
+[01:51:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] donavin855 §3[EGG]§f: SKILL LEVEL UP Carpentry 31?32
+[01:51:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] donavin855 §3[EGG]§f: Made 21 e cookies
+[01:52:06] [Client thread/INFO]: [CHAT] Guild > MrFancyShirt left.
+[01:52:30] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[01:52:48] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[01:52:49] [Client thread/INFO]: [CHAT] Sending to server mini215T...
+[01:52:50] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:52:50] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini215T', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:52:51] [Client thread/INFO]: [CHAT]        
+[01:52:53] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:52:53] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:52:53] [Client thread/INFO]: [CHAT] You may only use this command after 4s on the server!
+[01:53:10] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[01:53:10] [SkyblockAddons - #52/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[01:53:10] [SkyblockAddons - #52/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[01:53:30] [Client thread/INFO]: [CHAT] Warping...
+[01:53:30] [Client thread/INFO]: [CHAT] Sending to server mini14AJ...
+[01:53:30] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:53:30] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini14AJ', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[01:53:30] [Client thread/INFO]: [CHAT]        
+[01:53:33] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[01:53:33] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[01:53:41] [Client thread/INFO]: [CHAT]  ? MuggleNov was killed by Glacite Walker.
+[01:53:43] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b7m 6s§e.
+[01:53:50] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K left.
+[01:54:14] [Client thread/INFO]: [CHAT] ? A Fallen Star has crashed at Royal Mines! Nearby ore and Powder drops are amplified!
+[01:54:16] [Client thread/INFO]: [CHAT] §6[Auction] §7JerrySmith_ §ebought §fSlow and Groovy Vinyl §efor §690,000 coins §lCLICK
+[01:54:20] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[01:54:30] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:54:30] [Client thread/INFO]: [CHAT] 16thGarden collected an auction for 90,000 coins!
+[01:54:30] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[01:54:30] [Client thread/INFO]: [CHAT] You collected 90,000 coins from selling Slow and Groovy Vinyl to JerrySmith_ in an auction!
+[01:54:31] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:54:52] [Client thread/INFO]: [CHAT]  ? MuggleNov was killed by Glacite Walker.
+[01:55:02] [Client thread/INFO]: [CHAT] Warping...
+[01:55:02] [Client thread/INFO]: [CHAT] Sending to server mini4BR...
+[01:55:03] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:55:03] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini4BR', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[01:55:03] [Client thread/INFO]: [CHAT]        
+[01:55:06] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:55:06] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:55:29] [Client thread/INFO]: [CHAT] You removed Silk Touch from your Bountiful Melon Dicer 3.0!
+[01:55:45] [Client thread/INFO]: [CHAT] You sold Melon Block x9 for 162 Coins!
+[01:56:03] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:56:03] [Client thread/INFO]: [CHAT] You summoned your Rabbit!
+[01:56:04] [Client thread/INFO]: [CHAT] §e[NPC] §aTarwen§f: §fBuurrrp? ... Burrp bURp!
+[01:56:05] [Client thread/INFO]: [CHAT] §e[NPC] §aAndrew§f: Did you know that SkyBlock has been running for §b4346 §fin-game months already? Time flies.
+[01:56:06] [Client thread/INFO]: [CHAT] §e[NPC] §aLibrarian§f: §fGreetings! I've been running low on paper recently for my Enchanted Books, could you bring me some Sugar Cane?
+[01:56:12] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:56:12] [Client thread/INFO]: [CHAT] [Bazaar] Bought 550x Enchanted Sugar for 361,570 coins!
+[01:56:16] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:56:16] [Client thread/INFO]: [CHAT] [Bazaar] Bought 6x Enchanted Melon Block for 305,206 coins!
+[01:56:19] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:56:20] [Client thread/INFO]: [CHAT] [Bazaar] Bought 21x Enchanted Hay Bale for 165,167 coins!
+[01:56:21] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Librarian (UNCOMMON)
+[01:56:21] [Client thread/INFO]: [CHAT] 
+[01:56:21] [Client thread/INFO]: [CHAT]   REWARDS
+[01:56:21] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[01:56:21] [Client thread/INFO]: [CHAT]     +8.7k Farming XP
+[01:56:21] [Client thread/INFO]: [CHAT]     +29 Copper
+[01:56:21] [Client thread/INFO]: [CHAT]     +10 Bits
+[01:56:21] [Client thread/INFO]: [CHAT]     §7§9Turbo-Carrot I Book
+[01:56:21] [Client thread/INFO]: [CHAT] 
+[01:56:21] [Client thread/INFO]: [CHAT] §e[NPC] §aLibrarian§f: §fI'll be sure to make some Enchanted Books out of these, I hope you come around some day!
+[01:56:23] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Andrew (UNCOMMON)
+[01:56:23] [Client thread/INFO]: [CHAT] 
+[01:56:23] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[01:56:23] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[01:56:23] [Client thread/INFO]: [CHAT]     +3.4k Farming XP
+[01:56:23] [Client thread/INFO]: [CHAT]     +25 Copper
+[01:56:23] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[01:56:23] [Client thread/INFO]: [CHAT] 
+[01:56:23] [Client thread/INFO]: [CHAT] §e[NPC] §aAndrew§f: §fSee you around!
+[01:56:24] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Tarwen (UNCOMMON)
+[01:56:24] [Client thread/INFO]: [CHAT] 
+[01:56:24] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[01:56:24] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[01:56:24] [Client thread/INFO]: [CHAT]     +5.3k Farming XP
+[01:56:24] [Client thread/INFO]: [CHAT]     +17 Copper
+[01:56:24] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[01:56:24] [Client thread/INFO]: [CHAT] 
+[01:56:24] [Client thread/INFO]: [CHAT] §e[NPC] §aTarwen§f: §fBuuuuurp!
+[01:56:30] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[01:56:30] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[01:56:30] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 1x Turbo-Carrot I for 7,810.9 coins.
+[01:56:56] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[01:56:59] [Client thread/INFO]: [CHAT] Warping...
+[01:57:00] [Client thread/INFO]: [CHAT] Sending to server mini4BW...
+[01:57:00] [Netty Client IO #8/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:57:00] [Client thread/INFO]: [CHAT]        
+[01:57:00] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini4BW', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[01:57:03] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:57:03] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:57:08] [Client thread/INFO]: [CHAT] You selected the Forceful power for your Accessory Bag!
+[01:58:01] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:58:46] [Client thread/ERROR]: Signature is missing from textures payload
+[01:58:46] [Client thread/ERROR]: Signature is missing from textures payload
+[01:58:46] [Client thread/ERROR]: Signature is missing from textures payload
+[01:58:46] [Client thread/ERROR]: Signature is missing from textures payload
+[01:58:46] [Client thread/ERROR]: Signature is missing from textures payload
+[01:58:46] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:00] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:00] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:00] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:00] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:00] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:00] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:04] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:04] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:04] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:04] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:04] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:04] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:08] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:08] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:08] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:08] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:08] [Client thread/ERROR]: Signature is missing from textures payload
+[01:59:08] [Client thread/ERROR]: Signature is missing from textures payload
+[02:00:01] [Client thread/INFO]: [CHAT] Guild > Ritter_desRechts joined.
+[02:00:02] [Client thread/INFO]: [CHAT] [44] §7Blijesamsam§7: guys is glacitre armour soul;bound and why cant i find it onj ah
+[02:00:17] [Client thread/INFO]: [CHAT] 
+[02:00:17] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[02:00:17] [Client thread/INFO]: [CHAT] Watchdog has banned 16,509 players in the last 7 days.
+[02:00:17] [Client thread/INFO]: [CHAT] Staff have banned an additional 18,093 in the last 7 days.
+[02:00:17] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[02:00:17] [Client thread/INFO]: [CHAT] 
+[02:00:21] [Client thread/INFO]: [CHAT] [222] §b[MVP§2+§b] _ThElite§f: reset your filters on ah
+[02:00:26] [Client thread/INFO]: [CHAT] [222] §b[MVP§2+§b] _ThElite§f: also look in the armor tab
+[02:00:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[02:01:06] [Client thread/INFO]: [CHAT] [162] §7yosthockey§7: theres no way were giving up 3 perk paul for a carnival
+[02:01:11] [Client thread/INFO]: [CHAT] [222] §b[MVP§2+§b] _ThElite§f: ^
+[02:01:21] [Client thread/INFO]: [CHAT] [162] §7yosthockey§7: actually wils
+[02:02:56] [Client thread/ERROR]: Signature is missing from textures payload
+[02:02:56] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:07] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:07] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:07] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:07] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:07] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:07] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:09] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:09] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:09] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:09] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:09] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:09] [Client thread/ERROR]: Signature is missing from textures payload
+[02:03:10] [Client thread/INFO]: [CHAT] You earned 6 GEXP + 293 Event EXP from playing SkyBlock!
+[02:03:22] [DefaultDispatcher-worker-5/WARN]: Failed to fetch https://crafthead.net/helm/dc0548c72c22450e91f52a17cfde2a12: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor72.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy30.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$271/771361791.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$278/234495848.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Couldn't find any buyers for Inflatable Jerry!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3x Enchanted Bone for 3,780.9 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Jacob's Ticket for 12,891 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3x Decoy for 4.2 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Fel Pearl for 193.0 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 6x Young Dragon Fragment for 47,663 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 55x Glacite for 2,046 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 7x Enchanted Melon for 2,170.7 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 10x Superboom TNT for 10.0 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 30x Spirit Leap for 2,799 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 4x Enchanted Rotten Flesh for 2,788.8 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 122x Melon for 73.2 coins!
+[02:03:51] [Client thread/INFO]: [CHAT] [Bazaar] Sold 4x Holy Dragon Fragment for 32,793 coins!
+[02:04:15] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[02:04:15] [Client thread/INFO]: [CHAT] [Bazaar] Submitting buy order...
+[02:04:15] [Client thread/INFO]: [CHAT] [Bazaar] Buy Order Setup! 4x Overgrown Grass for 178,154,876 coins.
+[02:04:19] [Client thread/ERROR]: Signature is missing from textures payload
+[02:04:19] [Client thread/ERROR]: Signature is missing from textures payload
+[02:04:20] [Client thread/ERROR]: Signature is missing from textures payload
+[02:04:20] [Client thread/ERROR]: Signature is missing from textures payload
+[02:04:20] [Netty Client IO #8/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[02:04:20] [Client thread/INFO]: Applying holder lookups
+[02:04:20] [Client thread/INFO]: Holder lookups applied
+[02:04:21] [Client thread/ERROR]: Signature is missing from textures payload
+[02:04:21] [Client thread/ERROR]: Signature is missing from textures payload
+[02:04:22] [Client thread/INFO]: Stopping!
+[02:04:22] [Client thread/INFO]: SoundSystem shutting down...
+[02:04:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

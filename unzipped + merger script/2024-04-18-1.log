@@ -1,0 +1,31 @@
+[00:00:43] [Server thread/INFO]: JPGomdol has made the advancement [Glow and Behold!]
+[00:00:43] [Render thread/INFO]: [System] [CHAT] JPGomdol has made the advancement [Glow and Behold!]
+[00:20:18] [WebSocketConnectReadThread-1628/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 34m 20.146501s
+[00:20:18] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:20:18] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[00:20:19] [WebSocketConnectReadThread-1665/INFO]: Connected to Essential Connection Manager.
+[00:23:56] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:23:56] [Netty Server IO ICE #12/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[00:23:56] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:23:56] [Netty Server IO ICE #12/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[00:23:56] [Netty Server IO ICE #12/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[00:23:56] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[00:23:56] [Server thread/INFO]: JPGomdol left the game
+[00:23:56] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[00:24:01] [Essential Thread 19/INFO]: Closing.
+[00:26:45] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:26:45] [Server thread/INFO]: 16thGarden left the game
+[00:26:45] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:26:45] [Server thread/INFO]: Stopping server
+[00:26:45] [Server thread/INFO]: Saving players
+[00:26:45] [Server thread/INFO]: Saving worlds
+[00:26:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:26:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:26:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:26:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[00:26:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:26:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:26:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:26:45] [Render thread/INFO]: Stopping worker threads
+[00:26:46] [Render thread/INFO]: Stopping!
+[00:26:46] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

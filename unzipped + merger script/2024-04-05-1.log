@@ -1,0 +1,802 @@
+[16:16:04] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[16:16:04] [main/WARN]: Warnings were found!
+ - Mod 'CIT Resewn' (citresewn) 1.1.4+1.20.4 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[16:16:04] [main/INFO]: Loading 74 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- citresewn 1.1.4+1.20.4
+	   \-- citresewn-defaults 1.1.4+1.20.4
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- nvidium 0.2.6-beta
+	- rebind_narrator 2.0.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[16:16:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[16:16:04] [main/INFO]: Compatibility level set to JAVA_17
+[16:16:05] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[16:16:05] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[16:16:07] [main/WARN]: Found newer Essential Loader (stage2) version 1.6.0 [stable], skipping at user request
+[16:16:07] [main/INFO]: Starting Essential Loader (stage2) version 1.4.1+fabric-1.20.4 (9cbd42842e1a0f4db9463ba79962010f) [stable]
+[16:16:08] [main/INFO]: Starting Essential v1.3.1.3 (#88238d7752) [stable]
+[16:16:08] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[16:16:08] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[16:16:08] [main/INFO]: Java Info: mixed mode
+[16:16:08] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.21.26
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx4G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[16:16:08] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[16:16:08] [main/INFO]: Searching for graphics cards...
+[16:16:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[16:16:09] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[16:16:09] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[16:16:09] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[16:16:09] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[16:16:14] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[16:16:17] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 241 milliseconds
+[16:16:20] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:16:20] [Render thread/INFO]: Setting user: 16thGarden
+[16:16:21] [Render thread/INFO]: Starting DI!
+[16:16:21] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[16:16:21] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[16:16:22] [DefaultDispatcher-worker-1/INFO]: Using Default JreDnsResolver
+[16:16:22] [DefaultDispatcher-worker-1/INFO]: Using Default JreSocketFactory
+[16:16:22] [Render thread/INFO]: XRay mod has been initialized
+[16:16:22] [Render thread/INFO]: [citresewn] Registering CIT Conditions
+[16:16:22] [Render thread/INFO]: [citresewn] Registering CIT Types
+[16:16:22] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[16:16:22] [WebSocketConnectReadThread-73/INFO]: Connected to Essential Connection Manager.
+[16:16:22] [Render thread/INFO]: OptiFine not detected.
+[16:16:23] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[16:16:23] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[16:16:23] [Render thread/INFO]: All capabilities met
+[16:16:23] [Render thread/INFO]: Enabling Nvidium
+[16:16:23] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[16:16:23] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[16:16:23] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.29
+[16:16:23] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 137: Trying to set an inexistant local variable 9
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:529)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.universal.UGraphics.<clinit>(UGraphics.java:774)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.elementa.components.UIImage._init_$lambda-1(UIImage.kt:60)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: Caused by: java.lang.IndexOutOfBoundsException: Trying to set an inexistant local variable 9
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.setLocal(Frame.java:208)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:337)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[16:16:24] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	... 35 more
+[16:16:26] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VisibleAncientDebris.zip, file/Identifiable Powdered Snow Minecraft Modder, file/KonciPET UI 1.1 default hunger, file/axolotl totem, essential
+[16:16:26] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[16:16:26] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[16:16:26] [Worker-Main-7/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[16:16:26] [Worker-Main-2/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[16:16:27] [Render thread/INFO]: Client started, setting up xray store
+[16:16:27] [Worker-Main-5/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[16:16:27] [DefaultDispatcher-worker-12/INFO]: Connected to Discord as starbuckslarge
+[16:16:29] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[16:16:29] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[16:16:29] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[16:16:29] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[16:16:29] [Render thread/INFO]: Sound engine started
+[16:16:29] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[16:16:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16:16:30] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[16:16:30] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[16:16:30] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16:16:30] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[16:16:30] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[16:16:32] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[16:16:46] [Render thread/INFO]: Loaded 7 recipes
+[16:16:46] [Render thread/INFO]: Loaded 1271 advancements
+[16:16:47] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 3.565 ms
+[16:16:47] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[16:16:47] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[16:16:47] [Server thread/INFO]: Generating keypair
+[16:16:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:52] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:53] [Render thread/INFO]: Preparing spawn area: 0%
+[16:16:53] [Render thread/INFO]: Preparing spawn area: 16%
+[16:16:54] [Render thread/INFO]: Preparing spawn area: 90%
+[16:16:54] [Render thread/INFO]: Time elapsed: 5067 ms
+[16:16:54] [Server thread/INFO]: Changing view distance to 16, from 10
+[16:16:54] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[16:16:55] [Server thread/INFO]: 16thGarden[local:E:d52fab26] logged in with entity id 199 at (-39.39138527850969, 64.0, -6.78793689838023)
+[16:16:55] [Server thread/INFO]: 16thGarden joined the game
+[16:16:55] [Render thread/INFO]: Started 6 worker threads
+[16:16:56] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[16:16:56] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[16:16:56] [Render thread/INFO]: Loaded 964 advancements
+[16:17:34] [Render thread/INFO]: Stopping worker threads
+[16:17:34] [Server thread/INFO]: Saving and pausing game...
+[16:17:35] [Render thread/INFO]: Started 6 worker threads
+[16:17:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[16:17:35] [Render thread/INFO]: Stopping worker threads
+[16:17:35] [Render thread/INFO]: Started 6 worker threads
+[16:17:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[16:17:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[16:17:49] [Render thread/WARN]: Received passengers for unknown entity
+[16:17:54] [Render thread/INFO]: Stopping worker threads
+[16:17:54] [Server thread/INFO]: Saving and pausing game...
+[16:17:54] [Render thread/INFO]: Started 6 worker threads
+[16:17:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[16:17:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[16:17:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[16:17:54] [Render thread/INFO]: Stopping worker threads
+[16:17:54] [Render thread/INFO]: Started 6 worker threads
+[16:17:57] [Render thread/INFO]: Stopping worker threads
+[16:17:57] [Render thread/INFO]: Started 6 worker threads
+[16:17:57] [Render thread/INFO]: Stopping worker threads
+[16:17:57] [Render thread/INFO]: Started 6 worker threads
+[16:19:12] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.snow_golem.ambient
+[16:20:37] [Server thread/INFO]: Saving and pausing game...
+[16:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[16:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[16:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[16:20:40] [Render thread/INFO]: Stopping worker threads
+[16:20:40] [Render thread/INFO]: Started 6 worker threads
+[16:20:40] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[16:20:41] [Server thread/INFO]: Changing view distance to 32, from 16
+[16:20:41] [Render thread/INFO]: Stopping worker threads
+[16:20:41] [Render thread/INFO]: Started 6 worker threads
+[16:20:47] [Server thread/INFO]: Saving and pausing game...
+[16:20:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[16:20:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[16:20:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[16:20:52] [Render thread/INFO]: Stopping worker threads
+[16:20:52] [Render thread/INFO]: Started 6 worker threads
+[16:20:52] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[16:20:52] [Server thread/INFO]: Changing view distance to 16, from 32
+[16:21:12] [Server thread/WARN]: 16thGarden moved wrongly!
+[16:23:38] [Render thread/WARN]: Received passengers for unknown entity
+[16:27:37] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: shown
+[16:27:43] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: hidden
+[16:31:02] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[16:31:06] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[16:31:41] [Server thread/INFO]: Saving and pausing game...
+[16:31:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[16:31:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[16:31:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[16:40:42] [Server thread/INFO]: Saving and pausing game...
+[16:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[16:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[16:40:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[16:41:47] [Server thread/WARN]: 16thGarden moved wrongly!
+[16:45:40] [WebSocketConnectReadThread-73/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 29m 18.097787500s
+[16:45:40] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[16:45:41] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[16:45:41] [WebSocketConnectReadThread-274/INFO]: Connected to Essential Connection Manager.
+[16:48:32] [Render thread/INFO]: Closing connection after 2m 50.765047500s due to SERVER_REQUESTED_RECONNECT
+[16:48:32] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[16:48:33] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[16:48:33] [WebSocketConnectReadThread-297/INFO]: Connected to Essential Connection Manager.
+[17:05:47] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[17:05:49] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[17:06:33] [WebSocketConnectReadThread-297/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 17m 59.701940600s
+[17:06:33] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: java.net.SocketException: Connection reset
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:328)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:355)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:808)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:484)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:478)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:589)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[17:06:33] [DefaultDispatcher-worker-7/WARN]: Got unexpected reply from Mojang: -1
+[17:06:33] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:06:33] [DefaultDispatcher-worker-7/INFO]: Connecting to Essential Connection Manager...
+[17:06:36] [WebSocketConnectReadThread-326/INFO]: Connected to Essential Connection Manager.
+[17:15:33] [Server thread/INFO]: Saving and pausing game...
+[17:15:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[17:15:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[17:15:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[17:27:18] [WebSocketConnectReadThread-326/WARN]: Connection closed unexpectedly (CloseInfo(code=4006, reason=RECONNECT_TIMEOUT, remote=true, outdated=false)) after 20m 41.769692400s
+[17:27:18] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: java.net.SocketException: Connection reset
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:328)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:355)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:808)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:966)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:484)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:478)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:111)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:589)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[17:27:18] [DefaultDispatcher-worker-12/WARN]: Got unexpected reply from Mojang: -1
+[17:27:18] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:27:18] [DefaultDispatcher-worker-12/INFO]: Connecting to Essential Connection Manager...
+[17:27:19] [WebSocketConnectReadThread-362/INFO]: Connected to Essential Connection Manager.
+[17:33:03] [Render thread/INFO]: Closing connection after 5m 44.001227500s due to SERVER_REQUESTED_RECONNECT
+[17:33:03] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[17:33:03] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[17:33:04] [WebSocketConnectReadThread-393/INFO]: Connected to Essential Connection Manager.
+[18:21:19] [Server thread/INFO]: Saving and pausing game...
+[18:21:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:21:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:21:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[18:21:23] [Render thread/INFO]: Stopping worker threads
+[18:21:23] [Server thread/INFO]: Saving and pausing game...
+[18:21:23] [Render thread/INFO]: Started 6 worker threads
+[18:21:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:21:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:21:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[18:21:23] [Render thread/INFO]: Stopping worker threads
+[18:21:23] [Render thread/INFO]: Started 6 worker threads
+[18:22:26] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[18:26:19] [Server thread/INFO]: Saving and pausing game...
+[18:26:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:26:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:26:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[18:26:21] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[18:26:21] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[18:26:29] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[18:26:29] [Render thread/WARN]: Failed to load icon from pack file/Identifiable Powdered Snow Minecraft Modder
+java.io.IOException: Bad PNG Signature
+	at net.minecraft.class_8800.method_54945(class_8800.java:44) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4303(class_1011.java:135) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4310(class_1011.java:107) ~[client-intermediary.jar:?]
+	at net.minecraft.class_1011.method_4309(class_1011.java:98) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30289(class_5375.java:289) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_30288(class_5375.java:300) ~[client-intermediary.jar:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at net.minecraft.class_5375.method_30287(class_5375.java:300) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5369$class_5372.method_30286(class_5369.java:126) ~[client-intermediary.jar:?]
+	at net.minecraft.class_521$class_4271.method_25343(class_521.java:137) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_44397(class_350.java:411) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_25311(class_350.java:396) ~[client-intermediary.jar:?]
+	at net.minecraft.class_350.method_48579(class_350.java:184) ~[client-intermediary.jar:?]
+	at net.minecraft.class_339.method_25394(class_339.java:66) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_25394(class_437.java:121) ~[client-intermediary.jar:?]
+	at net.minecraft.class_5375.method_25394(class_5375.java:182) ~[client-intermediary.jar:?]
+	at net.minecraft.class_437.method_47413(class_437.java:110) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.mixinextras$bridge$method_47413$201(class_757.java) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.wrapOperation$bgd000$fabric-screen-api-v1$onRenderScreen(class_757.java:2111) ~[client-intermediary.jar:?]
+	at net.minecraft.class_757.method_3192(class_757.java:931) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1523(class_310.java:1327) ~[client-intermediary.jar:?]
+	at net.minecraft.class_310.method_1514(class_310.java:888) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:265) ~[fabric-loader-0.15.7-1.20.4.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.15.7.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.7.jar:?]
+[18:26:31] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[18:26:31] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, citresewn, citresewn-defaults, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/! §ddefrosted §8[§f16x§8] 1.16.zip, file/VisibleAncientDebris.zip, file/Identifiable Powdered Snow Minecraft Modder, file/KonciPET UI 1.1 default hunger, file/axolotl totem, essential
+[18:26:31] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[18:26:31] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[18:26:31] [Worker-Main-10/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[18:26:31] [Worker-Main-6/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[18:26:31] [Worker-Main-2/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[18:26:32] [Render thread/WARN]: Skipped language file: minecraft:lang/en_us.json (com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1707 column 45 path $.item.minecraft.debug_stick.update)
+[18:26:32] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[18:26:32] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:26:32] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[18:26:33] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[18:26:33] [Render thread/INFO]: Sound engine started
+[18:26:33] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[18:26:33] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[18:26:33] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[18:26:33] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[18:26:33] [Render thread/INFO]: Stopping worker threads
+[18:26:33] [Render thread/INFO]: Started 6 worker threads
+[18:26:40] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[18:30:06] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[18:30:08] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[18:33:49] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[18:39:15] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[18:50:10] [WebSocketConnectReadThread-393/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 17m 5.449239100s
+[18:50:10] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[18:50:10] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[18:50:11] [WebSocketConnectReadThread-471/INFO]: Connected to Essential Connection Manager.
+[18:56:39] [Render thread/INFO]: Stopping worker threads
+[18:56:39] [Server thread/INFO]: Saving and pausing game...
+[18:56:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:56:39] [Render thread/INFO]: Started 6 worker threads
+[18:56:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:56:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[18:56:39] [Render thread/INFO]: Stopping worker threads
+[18:56:39] [Render thread/INFO]: Started 6 worker threads
+[18:56:50] [Render thread/INFO]: Stopping worker threads
+[18:56:50] [Server thread/INFO]: Saving and pausing game...
+[18:56:50] [Render thread/INFO]: Started 6 worker threads
+[18:56:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:56:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:56:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[18:56:50] [Render thread/INFO]: Stopping worker threads
+[18:56:50] [Render thread/INFO]: Started 6 worker threads
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:56:50] [Render thread/WARN]: Received passengers for unknown entity
+[18:59:29] [Render thread/INFO]: Stopping worker threads
+[18:59:29] [Server thread/INFO]: Saving and pausing game...
+[18:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[18:59:29] [Render thread/INFO]: Started 6 worker threads
+[18:59:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[18:59:29] [Render thread/INFO]: Stopping worker threads
+[18:59:30] [Render thread/INFO]: Started 6 worker threads
+[18:59:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:01:46] [Server thread/INFO]: Saving and pausing game...
+[19:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:01:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:09:59] [Server thread/WARN]: 16thGarden moved wrongly!
+[19:12:28] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[19:12:32] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[19:12:59] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[19:16:26] [Server thread/WARN]: 16thGarden moved wrongly!
+[19:21:27] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[19:21:32] [Server thread/INFO]: Saving and pausing game...
+[19:21:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:21:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:21:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:23:01] [Essential Thread 20/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 32m 50.117580300s
+[19:23:01] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[19:23:02] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[19:23:02] [WebSocketConnectReadThread-573/INFO]: Connected to Essential Connection Manager.
+[19:23:06] [Render thread/WARN]: Received passengers for unknown entity
+[19:23:27] [Render thread/INFO]: Stopping worker threads
+[19:23:27] [Render thread/INFO]: Started 6 worker threads
+[19:23:27] [Server thread/INFO]: Saving and pausing game...
+[19:23:27] [Render thread/INFO]: Stopping worker threads
+[19:23:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:23:27] [Render thread/INFO]: Started 6 worker threads
+[19:23:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:23:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:23:53] [Render thread/INFO]: Stopping worker threads
+[19:23:53] [Server thread/INFO]: Saving and pausing game...
+[19:23:53] [Render thread/INFO]: Started 6 worker threads
+[19:23:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:23:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:23:53] [Render thread/INFO]: Stopping worker threads
+[19:23:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:23:53] [Render thread/INFO]: Started 6 worker threads
+[19:24:47] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.snow_golem.ambient
+[19:36:52] [Server thread/INFO]: Saving and pausing game...
+[19:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[19:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[19:36:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[19:51:04] [Render thread/INFO]: Closing connection after 28m 1.815215700s due to SERVER_REQUESTED_RECONNECT
+[19:51:04] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[19:51:04] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[19:51:20] [WebSocketConnectReadThread-641/INFO]: Connected to Essential Connection Manager.
+[20:13:49] [WebSocketConnectReadThread-641/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 22m 28.333532400s
+[20:13:49] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[20:13:49] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[20:13:50] [WebSocketConnectReadThread-672/INFO]: Connected to Essential Connection Manager.
+[20:17:28] [Essential Thread 1/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 3m 38.060422600s
+[20:17:28] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[20:17:28] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[20:17:29] [WebSocketConnectReadThread-701/INFO]: Connected to Essential Connection Manager.
+[20:37:25] [Server thread/INFO]: Saving and pausing game...
+[20:37:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:37:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:37:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:37:51] [Render thread/INFO]: Stopping worker threads
+[20:37:51] [Render thread/INFO]: Started 6 worker threads
+[20:37:51] [Server thread/INFO]: Saving and pausing game...
+[20:37:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:37:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:37:51] [Render thread/INFO]: Stopping worker threads
+[20:37:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:37:51] [Render thread/INFO]: Started 6 worker threads
+[20:38:15] [Render thread/INFO]: Stopping worker threads
+[20:38:15] [Render thread/INFO]: Started 6 worker threads
+[20:38:15] [Server thread/INFO]: Saving and pausing game...
+[20:38:15] [Render thread/INFO]: Stopping worker threads
+[20:38:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:38:15] [Render thread/INFO]: Started 6 worker threads
+[20:38:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:38:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:38:47] [Render thread/WARN]: Received passengers for unknown entity
+[20:38:56] [Render thread/WARN]: Received passengers for unknown entity
+[20:38:56] [Render thread/WARN]: Received passengers for unknown entity
+[20:38:59] [Render thread/WARN]: Received passengers for unknown entity
+[20:40:52] [Render thread/INFO]: Stopping worker threads
+[20:40:52] [Server thread/INFO]: Saving and pausing game...
+[20:40:52] [Render thread/INFO]: Started 6 worker threads
+[20:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:40:52] [Render thread/INFO]: Stopping worker threads
+[20:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:40:52] [Render thread/INFO]: Started 6 worker threads
+[20:42:31] [Render thread/INFO]: Stopping worker threads
+[20:42:31] [Render thread/INFO]: Started 6 worker threads
+[20:42:31] [Server thread/INFO]: Saving and pausing game...
+[20:42:31] [Render thread/INFO]: Stopping worker threads
+[20:42:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:42:31] [Render thread/INFO]: Started 6 worker threads
+[20:42:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:42:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:43:02] [Render thread/INFO]: Stopping worker threads
+[20:43:02] [Server thread/INFO]: Saving and pausing game...
+[20:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:43:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:43:02] [Render thread/INFO]: Started 6 worker threads
+[20:43:02] [Render thread/INFO]: Stopping worker threads
+[20:43:02] [Render thread/INFO]: Started 6 worker threads
+[20:43:05] [Render thread/INFO]: Stopping worker threads
+[20:43:05] [Render thread/INFO]: Started 6 worker threads
+[20:43:05] [Server thread/INFO]: Saving and pausing game...
+[20:43:05] [Render thread/INFO]: Stopping worker threads
+[20:43:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:43:05] [Render thread/INFO]: Started 6 worker threads
+[20:43:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:43:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[20:49:02] [Server thread/INFO]: Saving and pausing game...
+[20:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[20:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[20:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:15:41] [Server thread/INFO]: Saving and pausing game...
+[21:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:15:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:16:14] [Render thread/INFO]: Stopping worker threads
+[21:16:14] [Server thread/INFO]: Saving and pausing game...
+[21:16:14] [Render thread/INFO]: Started 6 worker threads
+[21:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:16:14] [Render thread/INFO]: Stopping worker threads
+[21:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:16:14] [Render thread/INFO]: Started 6 worker threads
+[21:25:12] [Render thread/INFO]: Stopping worker threads
+[21:25:12] [Server thread/INFO]: Saving and pausing game...
+[21:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:25:12] [Render thread/INFO]: Started 6 worker threads
+[21:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:25:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:25:12] [Render thread/INFO]: Stopping worker threads
+[21:25:12] [Render thread/INFO]: Started 6 worker threads
+[21:25:42] [Server thread/INFO]: Saving and pausing game...
+[21:25:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:25:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:25:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:26:51] [Server thread/INFO]: Saving and pausing game...
+[21:26:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:26:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:26:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:29:31] [Render thread/INFO]: Stopping worker threads
+[21:29:31] [Server thread/INFO]: Saving and pausing game...
+[21:29:31] [Render thread/INFO]: Started 6 worker threads
+[21:29:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:29:31] [Render thread/INFO]: Stopping worker threads
+[21:29:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:29:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:29:31] [Render thread/INFO]: Started 6 worker threads
+[21:29:53] [Render thread/INFO]: Stopping worker threads
+[21:29:53] [Render thread/INFO]: Started 6 worker threads
+[21:29:53] [Server thread/INFO]: Saving and pausing game...
+[21:29:53] [Render thread/INFO]: Stopping worker threads
+[21:29:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:29:53] [Render thread/INFO]: Started 6 worker threads
+[21:29:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:29:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:32:31] [Render thread/WARN]: Received passengers for unknown entity
+[21:32:59] [Render thread/WARN]: Received passengers for unknown entity
+[21:33:05] [Render thread/INFO]: Stopping worker threads
+[21:33:05] [Server thread/INFO]: Saving and pausing game...
+[21:33:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:33:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:33:05] [Render thread/INFO]: Started 6 worker threads
+[21:33:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:33:05] [Render thread/INFO]: Stopping worker threads
+[21:33:06] [Render thread/INFO]: Started 6 worker threads
+[21:33:08] [Render thread/INFO]: Stopping worker threads
+[21:33:08] [Server thread/INFO]: Saving and pausing game...
+[21:33:08] [Render thread/INFO]: Started 6 worker threads
+[21:33:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:33:08] [Render thread/INFO]: Stopping worker threads
+[21:33:09] [Render thread/INFO]: Started 6 worker threads
+[21:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:33:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:35:25] [Server thread/INFO]: Saving and pausing game...
+[21:35:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[21:35:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[21:35:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[21:35:40] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[21:35:42] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[21:48:53] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[21:48:53] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[22:06:48] [Render thread/INFO]: Stopping worker threads
+[22:06:48] [Render thread/INFO]: Started 6 worker threads
+[22:06:48] [Server thread/INFO]: Saving and pausing game...
+[22:06:48] [Render thread/INFO]: Stopping worker threads
+[22:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:06:48] [Render thread/INFO]: Started 6 worker threads
+[22:06:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:07:35] [Server thread/INFO]: Saving and pausing game...
+[22:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:07:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:08:07] [Render thread/INFO]: Stopping worker threads
+[22:08:07] [Render thread/INFO]: Started 6 worker threads
+[22:08:07] [Server thread/INFO]: Saving and pausing game...
+[22:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:08:07] [Render thread/INFO]: Stopping worker threads
+[22:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:08:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:08:07] [Render thread/INFO]: Started 6 worker threads
+[22:08:18] [Render thread/WARN]: Received passengers for unknown entity
+[22:08:24] [Render thread/INFO]: Stopping worker threads
+[22:08:24] [Server thread/INFO]: Saving and pausing game...
+[22:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:08:24] [Render thread/INFO]: Started 6 worker threads
+[22:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:08:24] [Render thread/INFO]: Stopping worker threads
+[22:08:24] [Render thread/INFO]: Started 6 worker threads
+[22:08:28] [Render thread/INFO]: Stopping worker threads
+[22:08:28] [Server thread/INFO]: Saving and pausing game...
+[22:08:28] [Render thread/INFO]: Started 6 worker threads
+[22:08:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:08:28] [Render thread/INFO]: Stopping worker threads
+[22:08:28] [Render thread/INFO]: Started 6 worker threads
+[22:08:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:08:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:20:48] [Render thread/INFO]: Stopping worker threads
+[22:20:48] [Server thread/INFO]: Saving and pausing game...
+[22:20:48] [Render thread/INFO]: Started 6 worker threads
+[22:20:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:20:48] [Render thread/INFO]: Stopping worker threads
+[22:20:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:20:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:20:48] [Render thread/INFO]: Started 6 worker threads
+[22:22:27] [Render thread/INFO]: Stopping worker threads
+[22:22:27] [Server thread/INFO]: Saving and pausing game...
+[22:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:22:27] [Render thread/INFO]: Started 6 worker threads
+[22:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:22:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:22:27] [Render thread/INFO]: Stopping worker threads
+[22:22:27] [Render thread/INFO]: Started 6 worker threads
+[22:22:39] [Render thread/WARN]: Received passengers for unknown entity
+[22:22:44] [Render thread/INFO]: Stopping worker threads
+[22:22:44] [Server thread/INFO]: Saving and pausing game...
+[22:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:22:44] [Render thread/INFO]: Started 6 worker threads
+[22:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:22:44] [Render thread/INFO]: Stopping worker threads
+[22:22:44] [Render thread/INFO]: Started 6 worker threads
+[22:22:48] [Render thread/INFO]: Stopping worker threads
+[22:22:48] [Server thread/INFO]: Saving and pausing game...
+[22:22:48] [Render thread/INFO]: Started 6 worker threads
+[22:22:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:22:48] [Render thread/INFO]: Stopping worker threads
+[22:22:48] [Render thread/INFO]: Started 6 worker threads
+[22:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:22:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:27:55] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[22:27:56] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[22:36:29] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[22:36:30] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[22:52:55] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[22:56:44] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[22:57:04] [Server thread/INFO]: Saving and pausing game...
+[22:57:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[22:57:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[22:57:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[22:57:05] [Render thread/INFO]: Using default channel type
+[22:57:05] [Render thread/INFO]: Started serving on 55533
+[22:57:06] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [55533]
+[22:57:11] [Server thread/INFO]: [16thGarden: Gave 1 [Shulker Spawn Egg] to 16thGarden]
+[22:57:11] [Render thread/INFO]: [System] [CHAT] Gave 1 [Shulker Spawn Egg] to 16thGarden
+[23:00:39] [Server thread/INFO]: [16thGarden: Gave 1 [Shulker Spawn Egg] to 16thGarden]
+[23:00:39] [Render thread/INFO]: [System] [CHAT] Gave 1 [Shulker Spawn Egg] to 16thGarden
+[23:02:32] [Server thread/INFO]: [16thGarden: Gave 1 [Shulker Spawn Egg] to 16thGarden]
+[23:02:32] [Render thread/INFO]: [System] [CHAT] Gave 1 [Shulker Spawn Egg] to 16thGarden

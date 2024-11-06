@@ -1,0 +1,21 @@
+[00:03:35] [Render thread/INFO]: Loaded 222 advancements
+[00:20:37] [Server thread/INFO]: Saving and pausing game...
+[00:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[test]'/minecraft:overworld
+[00:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_nether
+[00:20:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_end
+[00:20:37] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:20:37] [Server thread/INFO]: 16thGarden left the game
+[00:20:37] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:20:38] [Server thread/INFO]: Stopping server
+[00:20:38] [Server thread/INFO]: Saving players
+[00:20:38] [Server thread/INFO]: Saving worlds
+[00:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[test]'/minecraft:overworld
+[00:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_nether
+[00:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_end
+[00:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (test): All chunks are saved
+[00:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:20:38] [Render thread/INFO]: Stopping worker threads
+[00:20:38] [Render thread/INFO]: Stopping!
+[00:20:38] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

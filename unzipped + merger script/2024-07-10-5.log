@@ -1,0 +1,318 @@
+[14:35:31] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 217 milliseconds
+[14:35:33] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:35:33] [Render thread/INFO]: Setting user: 16thGarden
+[14:35:33] [Render thread/ERROR]: Error parsing option value  for option Text Background Opacity: Not a boolean: ""
+[14:35:33] [Render thread/INFO]: Backend library: LWJGL version 3.3.2+13
+[14:35:34] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[14:35:34] [Render thread/WARN]: Removed resource pack ! ?3defrosted ?8[?f16x?8].zip from options because it doesn't seem to exist anymore
+[14:35:34] [Render thread/WARN]: Removed resource pack bluelavanowplsthanks.zip from options because it is no longer compatible
+[14:35:34] [Render thread/WARN]: Removed resource pack Amethyst Gemstone Sounds from options because it is no longer compatible
+[14:35:34] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[14:35:34] [Worker-Main-9/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[14:35:36] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:35:36] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:35:36] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:35:37] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:35:37] [Render thread/INFO]: Sound engine started
+[14:35:37] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:35:37] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:35:37] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:35:37] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[14:36:06] [Render thread/INFO]: Connecting to play.wynncraft.com, 25565
+[14:36:09] [Render thread/WARN]: Ignoring player info update for unknown player dc0548c7-2c22-450e-91f5-2a17cfde2a12 ([UPDATE_DISPLAY_NAME])
+[14:36:10] [Render thread/INFO]: [System] [CHAT] Loading Resource Pack...
+[14:36:10] [Render thread/INFO]: Loaded 829 advancements
+[14:36:10] [Render thread/INFO]: Loaded 1654 advancements
+[14:36:13] [Download-2/WARN]: Existing file C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\downloads\58483bd4-72f8-378e-a098-d99985b781dc\e97481349572b22fcee85ae3894d41b846b6aed2 not found or had mismatched hash
+[14:36:14] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[14:36:14] [Render thread/INFO]: Reloading ResourceManager: vanilla, server/00000000/58483bd4-72f8-378e-a098-d99985b781dc
+[14:36:14] [Worker-Main-1/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[14:36:15] [Worker-Main-6/WARN]: Texture minecraft:wynn/shaman_totem_2 with size 24x24 limits mip level from 4 to 3
+[14:36:15] [Worker-Main-6/WARN]: minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 3, because of minimum power of two: 8
+[14:36:16] [Worker-Main-10/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server/00000000/58483bd4-72f8-378e-a098-d99985b781dc' for variant: 'level=1': Unknown blockstate property: 'level'
+[14:36:16] [Worker-Main-10/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server/00000000/58483bd4-72f8-378e-a098-d99985b781dc' for variant: 'level=2': Unknown blockstate property: 'level'
+[14:36:16] [Worker-Main-10/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server/00000000/58483bd4-72f8-378e-a098-d99985b781dc' for variant: 'level=3': Unknown blockstate property: 'level'
+[14:36:16] [Worker-Main-10/WARN]: Exception loading blockstate definition: 'minecraft:blockstates/cauldron.json' in resourcepack: 'server/00000000/58483bd4-72f8-378e-a098-d99985b781dc' for variant: 'level=0': Unknown blockstate property: 'level'
+[14:36:17] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:36:17] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:36:17] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:36:17] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:36:17] [Render thread/INFO]: Sound engine started
+[14:36:18] [Render thread/INFO]: Created: 2048x2048x3 minecraft:textures/atlas/blocks.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:36:18] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:36:18] [Render thread/WARN]: Shader rendertype_armor_entity_glint could not find uniform named FogShape in the specified shader program.
+[14:36:18] [Render thread/WARN]: Shader rendertype_glint could not find uniform named FogShape in the specified shader program.
+[14:36:18] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named IViewRotMat in the specified shader program.
+[14:36:18] [Render thread/WARN]: Shader rendertype_glint_direct could not find uniform named FogShape in the specified shader program.
+[14:36:18] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:36:18] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[14:36:19] [Render thread/INFO]: [System] [CHAT] Thank you for using the WynnPack. Enjoy the game!
+[14:36:19] [Render thread/INFO]: [System] [CHAT] Select a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!
+[14:36:23] [Render thread/INFO]: [System] [CHAT] \n                  �6쬵Welcome to Wynncraft!\n            쬯play.wynncraft.com �7-/-쬯 wynncraft.com\n\n               쬫Link your Discord account for\n       쬭쬵24h of FREE Double XP: 쬫쬷discord.gg/yJkSQwp\n
+[14:36:23] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:36:23] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:36:23] [Render thread/WARN]: Received packet for unknown team _27: team action: REMOVE, player action: null
+[14:36:30] [Render thread/WARN]: Received packet for unknown team _29: team action: REMOVE, player action: null
+[14:36:31] [Render thread/WARN]: Received packet for unknown team _26: team action: REMOVE, player action: null
+[14:36:33] [Render thread/WARN]: Received packet for unknown team _2: team action: REMOVE, player action: null
+[14:36:33] [Render thread/WARN]: Received packet for unknown team _18: team action: REMOVE, player action: null
+[14:36:36] [Render thread/WARN]: Received packet for unknown team _9: team action: REMOVE, player action: null
+[14:36:47] [Render thread/WARN]: Received passengers for unknown entity
+[14:36:49] [Render thread/WARN]: Received packet for unknown team _6: team action: REMOVE, player action: null
+[14:36:54] [Render thread/WARN]: Received packet for unknown team _25: team action: REMOVE, player action: null
+[14:36:55] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:36:59] [Render thread/INFO]: [System] [CHAT] +2 minutes speed boost.
+[14:37:05] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664917307, l='ClientLevel', x=-727.68, y=60.00, z=-867.82]
+[14:37:05] [Render thread/WARN]: Received passengers for unknown entity
+[14:37:05] [Render thread/WARN]: Received packet for unknown team _17: team action: REMOVE, player action: null
+[14:37:07] [Render thread/WARN]: Received packet for unknown team _31: team action: REMOVE, player action: null
+[14:37:10] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664917421, l='ClientLevel', x=-736.05, y=60.00, z=-860.16]
+[14:37:10] [Render thread/WARN]: Received passengers for unknown entity
+[14:37:12] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664917307, l='ClientLevel', x=-641.47, y=59.00, z=-888.25]
+[14:37:12] [Render thread/WARN]: Received passengers for unknown entity
+[14:37:14] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664917602, l='ClientLevel', x=-676.29, y=59.00, z=-855.40]
+[14:37:14] [Render thread/WARN]: Received passengers for unknown entity
+[14:37:14] [Render thread/WARN]: Received packet for unknown team _19: team action: REMOVE, player action: null
+[14:37:22] [Render thread/INFO]: [System] [CHAT] 16thGarden's friends (2): JPGomdol, jakelookalike
+[14:37:26] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664915963, l='ClientLevel', x=-772.81, y=69.00, z=-918.18]
+[14:37:26] [Render thread/WARN]: Received passengers for unknown entity
+[14:37:31] [Render thread/WARN]: Received packet for unknown team _10: team action: REMOVE, player action: null
+[14:37:40] [Render thread/INFO]: [System] [CHAT] [Daily Rewards: 24 emeralds]
+[14:37:41] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:38:12] [Render thread/INFO]: [System] [CHAT] [!] Congratulations to nairikukoku for reaching combat level 105!
+[14:38:26] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:38:52] [Render thread/WARN]: Received passengers for unknown entity
+[14:38:56] [Render thread/INFO]: [System] [CHAT] [You are now entering Troms]
+[14:38:56] [Render thread/WARN]: Received packet for unknown team _8: team action: REMOVE, player action: null
+[14:38:59] [Render thread/WARN]: Received packet for unknown team _4: team action: REMOVE, player action: null
+[14:39:01] [Render thread/WARN]: Received packet for unknown team _14: team action: REMOVE, player action: null
+[14:39:12] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:39:19] [Render thread/WARN]: Received packet for unknown team _33: team action: REMOVE, player action: null
+[14:39:21] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664916886, l='ClientLevel', x=-889.26, y=77.06, z=-918.68]
+[14:39:21] [Render thread/WARN]: Received passengers for unknown entity
+[14:39:35] [Render thread/INFO]: [System] [CHAT] \n                   �6쬵Enjoying Wynncraft?\n     �7Recruit a friend and both of you will get rewards!\n\n                    쬭쬷Click here to recruit\n                     �8(or type /recruit)\n
+[14:39:43] [Render thread/WARN]: Received packet for unknown team _22: team action: REMOVE, player action: null
+[14:39:51] [Render thread/INFO]: [System] [CHAT] [Info] Follow us on Twitter to stay up to date with Wynncraft at twitter.com/wynncraft
+[14:39:57] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:40:15] [Render thread/INFO]: [System] [CHAT] ???? ???????????????????DENISDKT: doom
+[14:40:34] [Render thread/WARN]: Received packet for unknown team _21: team action: REMOVE, player action: null
+[14:40:42] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:40:48] [Render thread/WARN]: Received packet for unknown team _1: team action: REMOVE, player action: null
+[14:41:28] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:41:30] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664920444, l='ClientLevel', x=-831.42, y=94.00, z=-1026.17]
+[14:41:30] [Render thread/WARN]: Received passengers for unknown entity
+[14:41:32] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664916239, l='ClientLevel', x=-813.05, y=70.00, z=-913.80]
+[14:41:32] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:10] [Render thread/WARN]: Received packet for unknown team _36: team action: REMOVE, player action: null
+[14:42:13] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:42:23] [Render thread/WARN]: Received packet for unknown team _12: team action: REMOVE, player action: null
+[14:42:26] [Render thread/WARN]: Received packet for unknown team _24: team action: REMOVE, player action: null
+[14:42:33] [Render thread/WARN]: Received packet for unknown team _34: team action: REMOVE, player action: null
+[14:42:34] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664919651, l='ClientLevel', x=-675.11, y=59.00, z=-845.23]
+[14:42:34] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:36] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664921172, l='ClientLevel', x=-854.11, y=76.00, z=-910.73]
+[14:42:36] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:38] [Render thread/INFO]: [System] [CHAT] [You are now leaving Troms]
+[14:42:41] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664919651, l='ClientLevel', x=-608.55, y=58.00, z=-835.21]
+[14:42:41] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:42] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664921179, l='ClientLevel', x=-757.51, y=66.50, z=-919.49]
+[14:42:42] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:42] [Render thread/INFO]: [System] [CHAT] As the sun rises, you feel a little bit safer...
+[14:42:42] [Render thread/INFO]: [System] [CHAT] [+1 Soul Point]
+[14:42:45] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:47] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:47] [Render thread/INFO]: [System] [CHAT] [You are now entering Troms]
+[14:42:48] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664921179, l='ClientLevel', x=-726.33, y=61.00, z=-913.52]
+[14:42:48] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:50] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664921269, l='ClientLevel', x=-744.81, y=49.00, z=-803.11]
+[14:42:50] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:50] [Render thread/INFO]: [System] [CHAT] ??? ???????????????????????? ? ?????somen1000: stonehall
+[14:42:53] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664916239, l='ClientLevel', x=-675.68, y=59.00, z=-847.36]
+[14:42:53] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:56] [Render thread/INFO]: Loaded 829 advancements
+[14:42:56] [Render thread/INFO]: Loaded 1654 advancements
+[14:42:58] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664921539, l='ClientLevel', x=-739.05, y=63.50, z=-917.77]
+[14:42:58] [Render thread/WARN]: Received passengers for unknown entity
+[14:42:58] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:43:01] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664916239, l='ClientLevel', x=-720.77, y=59.00, z=-897.01]
+[14:43:01] [Render thread/WARN]: Received passengers for unknown entity
+[14:43:08] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664916239, l='ClientLevel', x=-735.32, y=63.00, z=-915.91]
+[14:43:08] [Render thread/WARN]: Received passengers for unknown entity
+[14:43:10] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664921539, l='ClientLevel', x=-840.91, y=76.00, z=-907.30]
+[14:43:10] [Render thread/WARN]: Received passengers for unknown entity
+[14:43:16] [Render thread/WARN]: Received packet for unknown team _7: team action: REMOVE, player action: null
+[14:43:24] [Render thread/INFO]: [System] [CHAT] [You are now leaving Troms]
+[14:43:37] [Render thread/INFO]: [System] [CHAT] [You are now entering Troms]
+[14:43:41] [Render thread/INFO]: [System] [CHAT] ???? ??????????????????????????? ? ?????Ragleh: thunder
+[14:43:44] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:43:54] [Render thread/WARN]: Duplicate entity UUID 30bba2c7-dc6c-44b2-81d7-ed6f6e10d858: bzz['Horse'/1664916239, l='ClientLevel', x=-779.77, y=70.00, z=-918.11]
+[14:43:54] [Render thread/WARN]: Received passengers for unknown entity
+[14:44:09] [Render thread/INFO]: [System] [CHAT] ??? ???????????????????????? ? ?????somen1000: 20000
+[14:44:21] [Render thread/INFO]: [System] [CHAT] Thank you for using the WynnPack. Enjoy the game!\nSelect a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!\n\n                  Welcome to Wynncraft!\n            play.wynncraft.com -/- wynncraft.com\n\n               Link your Discord account for\n       24h of FREE Double XP: discord.gg/yJkSQwp\n\n+2 minutes speed boost.\n16thGarden's friends (2): JPGomdol, jakelookalike
+[14:44:21] [Render thread/INFO]: [System] [CHAT] [Daily Rewards: 24 emeralds]\n[!] Congratulations to nairikukoku for reaching combat level 105!\n[You are now entering Troms]\n\n                   Enjoying Wynncraft?\n     Recruit a friend and both of you will get rewards!\n\n                    Click here to recruit\n                     (or type /recruit)\n\n[Info] Follow us on Twitter to stay up to date with Wynncraft at twitter.com/wynncraft�8
+[14:44:21] [Render thread/INFO]: [System] [CHAT] ???? ???????????????????DENISDKT: doom\n[You are now leaving Troms]\nAs the sun rises, you feel a little bit safer...\n[+1 Soul Point]\n[You are now entering Troms]
+[14:44:21] [Render thread/INFO]: [System] [CHAT] ??? ???????????????????????? ? ?????somen1000: stonehall\n[You are now leaving Troms]\n[You are now entering Troms]\n???? ??????????????????????????? ? ?????Ragleh: thunder\n??? ???????????????????????? ? ?????somen1000: 20000
+[14:44:21] [Render thread/INFO]: [System] [CHAT] \n응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응응�\n\n\n
+[14:44:21] [Render thread/INFO]: [System] [CHAT] Thank you for using the WynnPack. Enjoy the game!\nSelect a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!\n\n                  Welcome to Wynncraft!\n            play.wynncraft.com -/- wynncraft.com\n\n               Link your Discord account for\n       24h of FREE Double XP: discord.gg/yJkSQwp\n\n+2 minutes speed boost.\n16thGarden's friends (2): JPGomdol, jakelookalike
+[14:44:21] [Render thread/INFO]: [System] [CHAT] [Daily Rewards: 24 emeralds]\n[!] Congratulations to nairikukoku for reaching combat level 105!\n[You are now entering Troms]\n\n                   Enjoying Wynncraft?\n     Recruit a friend and both of you will get rewards!\n\n                    Click here to recruit\n                     (or type /recruit)\n\n[Info] Follow us on Twitter to stay up to date with Wynncraft at twitter.com/wynncraft�8
+[14:44:21] [Render thread/INFO]: [System] [CHAT] ???? ???????????????????DENISDKT: doom\n[You are now leaving Troms]\nAs the sun rises, you feel a little bit safer...\n[+1 Soul Point]\n[You are now entering Troms]
+[14:44:21] [Render thread/INFO]: [System] [CHAT] ??? ???????????????????????? ? ?????somen1000: stonehall\n[You are now leaving Troms]\n[You are now entering Troms]\n???? ??????????????????????????? ? ?????Ragleh: thunder\n??? ???????????????????????? ? ?????somen1000: 20000
+[14:44:21] [Render thread/INFO]: [System] [CHAT] \n[1/2] Troms Citizen: Have you heard of the Dernel Jungle? It lies to the south. The ruins of ancient civilizations scatter the lands.\n\n                   Press SHIFT to continue\n
+[14:44:24] [Render thread/INFO]: [System] [CHAT] Thank you for using the WynnPack. Enjoy the game!\nSelect a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!\n\n                  �6쬵Welcome to Wynncraft!\n            쬯play.wynncraft.com �7-/-쬯 wynncraft.com\n\n               쬫Link your Discord account for\n       쬭쬵24h of FREE Double XP: 쬫쬷discord.gg/yJkSQwp\n\n+2 minutes speed boost.\n16thGarden's friends (2): JPGomdol, jakelookalike
+[14:44:24] [Render thread/INFO]: [System] [CHAT] [Daily Rewards: 24 emeralds]\n[!] Congratulations to nairikukoku for reaching combat level 105!\n[You are now entering Troms]\n\n                   �6쬵Enjoying Wynncraft?\n     �7Recruit a friend and both of you will get rewards!\n\n                    쬭쬷Click here to recruit\n                     �8(or type /recruit)\n\n[Info] Follow us on Twitter to stay up to date with Wynncraft at twitter.com/wynncraft
+[14:44:24] [Render thread/INFO]: [System] [CHAT] ???? ???????????????????DENISDKT: doom\n[You are now leaving Troms]\nAs the sun rises, you feel a little bit safer...\n[+1 Soul Point]\n[You are now entering Troms]
+[14:44:24] [Render thread/INFO]: [System] [CHAT] ??? ???????????????????????? ? ?????somen1000: stonehall\n[You are now leaving Troms]\n[You are now entering Troms]\n???? ??????????????????????????? ? ?????Ragleh: thunder\n??? ???????????????????????? ? ?????somen1000: 20000
+[14:44:29] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:44:51] [Render thread/INFO]: [System] [CHAT] [You are now leaving Troms]
+[14:44:59] [Render thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.zombie_pigman.angry
+[14:45:04] [Render thread/WARN]: Received packet for unknown team _23: team action: REMOVE, player action: null
+[14:45:14] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:45:18] [Render thread/WARN]: Unable to play unknown soundEvent: minecraft:entity.zombie_pigman.hurt
+[14:45:20] [Render thread/WARN]: Received packet for unknown team _37: team action: REMOVE, player action: null
+[14:45:21] [Render thread/INFO]: [System] [CHAT] [You are now entering Ragni]
+[14:45:22] [Render thread/WARN]: Received passengers for unknown entity
+[14:45:22] [Render thread/WARN]: Received packet for unknown team _35: team action: REMOVE, player action: null
+[14:45:25] [Render thread/WARN]: Received packet for unknown team _3: team action: REMOVE, player action: null
+[14:45:28] [Render thread/WARN]: Received passengers for unknown entity
+[14:45:34] [Render thread/WARN]: Received packet for unknown team _11: team action: REMOVE, player action: null
+[14:45:44] [Render thread/INFO]: [System] [CHAT] +2 minutes speed boost.
+[14:45:50] [Render thread/INFO]: [System] [CHAT] [You are now leaving Ragni]
+[14:45:56] [Render thread/WARN]: Received packet for unknown team _15: team action: REMOVE, player action: null
+[14:45:59] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:46:11] [Render thread/WARN]: Received passengers for unknown entity
+[14:46:28] [Render thread/WARN]: Received packet for unknown team _20: team action: REMOVE, player action: null
+[14:46:44] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:47:30] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:48:15] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:48:42] [Render thread/INFO]: [System] [CHAT] [Info] Watch your personal progress at wynncraft.com/stats/player/16thGarden
+[14:49:00] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:49:21] [Render thread/INFO]: [System] [CHAT] [You are now entering Legendary응픇sland]
+[14:49:28] [Render thread/INFO]: [System] [CHAT] [You are now leaving Legendary응픇sland]
+[14:49:31] [Render thread/INFO]: [System] [CHAT] [You are now entering Legendary응픇sland]
+[14:49:41] [Render thread/INFO]: [System] [CHAT] [You are now leaving Legendary응픇sland]
+[14:49:46] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:49:58] [Render thread/INFO]: [System] [CHAT] [You are now entering Legendary응픇sland]
+[14:50:31] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:51:16] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:51:21] [Render thread/INFO]: [System] [CHAT] Did you mean /msg? If not, type /help to see the commands!
+[14:52:01] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:52:17] [Render thread/INFO]: [System] [CHAT] You have no items of this type to use. Buy some at our website, wynncraft.com/store
+[14:52:38] [Render thread/INFO]: [System] [CHAT] You have no items of this type to use. Buy some at our website, wynncraft.com/store
+[14:52:46] [Render thread/INFO]: [System] [CHAT] Wynnter Owl: *hoot*
+[14:52:46] [Render thread/INFO]: Loaded 829 advancements
+[14:52:46] [Render thread/INFO]: Loaded 1654 advancements
+[14:52:47] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:53:00] [Render thread/INFO]: [System] [CHAT] You have no items of this type to use. Buy some at our website, wynncraft.com/store
+[14:53:02] [Render thread/INFO]: [System] [CHAT] You have no items of this type to use. Buy some at our website, wynncraft.com/store
+[14:53:04] [Render thread/INFO]: [System] [CHAT] You are not in a guild!
+[14:53:04] [Render thread/INFO]: [System] [CHAT] You can join someone else's guild or make a guild in Cinfras [Lv. 75]
+[14:53:27] [Render thread/INFO]: [System] [CHAT] Blacksmith: I can't buy that item! I only accept weapons, accessories, armour, ingredients, resources, tomes, tools and crafted items.
+[14:53:32] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:54:17] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:54:27] [Render thread/INFO]: [System] [CHAT] �
+[14:54:27] [Render thread/INFO]: [System] [CHAT]                        Housing Island
+[14:54:27] [Render thread/INFO]: [System] [CHAT]                         by 16thGarden
+[14:54:27] [Render thread/INFO]: [System] [CHAT] �
+[14:54:27] [Render thread/INFO]: [System] [CHAT]                    A floating Housing Island
+[14:54:27] [Render thread/INFO]: [System] [CHAT] �
+[14:54:27] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:54:28] [Render thread/INFO]: [System] [CHAT] [You are now leaving Legendary응픇sland]
+[14:54:47] [Render thread/INFO]: [System] [CHAT] Interacting with the Block Bank automatically put you in housing edit mode.
+[14:54:51] [Render thread/INFO]: [System] [CHAT] You may not remove this NPC from your house!
+[14:54:52] [Render thread/INFO]: [System] [CHAT] You have flown to your original position.
+[14:54:52] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:54:52] [Render thread/INFO]: [System] [CHAT] [You are now entering Legendary응픇sland]
+[14:55:02] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:55:31] [Render thread/INFO]: [System] [CHAT] +2 minutes speed boost.
+[14:55:47] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:55:48] [Render thread/INFO]: [System] [CHAT] Invalid command... Type /help for a list of commands
+[14:55:51] [Render thread/INFO]: [System] [CHAT] ------------- Wynncraft Help -------------
+[14:55:51] [Render thread/INFO]: [System] [CHAT] -- For a proper help guide, visit our website --
+[14:55:51] [Render thread/INFO]: [System] [CHAT] --------- www.wynncraft.com ---------
+[14:55:51] [Render thread/INFO]: [System] [CHAT] 
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /friend [add/remove/list]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Manage your friends
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /ignore [add/remove]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Manage your ignored players
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /party [create/invite/kick/leave/list/promote/disband/ban/unban/finder]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Manage your party
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /p [message]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Chat with members of your party
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /msg [name] [message]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Send someone a message
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /r [message]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Quickly reply to a message
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /trade [name]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Trade with someone
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /crates
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Open a crate
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /totems
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Use a mob totem
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /sign
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Sign a crafted item
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /rename
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Rename a crafted item
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /relore
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Change the lore on a crafted item
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /itemlock
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Lock / unlock the item in your hand, making it so you can't accidentally drop it
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /classes 
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Choose a class to play as
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/autotracking/pouchmsg/combatbar/ghosts/popups/guildpopups/friendpopups/beacon/outlines/bombbell/pouchpickup/queststartbeacon/publicProfile]
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Toggle gameplay settings on or off
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /stream
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Hides you from non friends, party, and guild players.
+[14:55:51] [Render thread/INFO]: [System] [CHAT] /rules
+[14:55:51] [Render thread/INFO]: [System] [CHAT]       Check out the server rules.
+[14:56:28] [Render thread/INFO]: [System] [CHAT] Select a character! Each character is saved individually across all servers, you can come back at any time with /class and select another character!
+[14:56:51] [Render thread/INFO]: [System] [CHAT] \n                  �6쬵Welcome to Wynncraft!\n            쬯play.wynncraft.com �7-/-쬯 wynncraft.com\n\n 쬫Watch the hottest trailers: 쬭쬷youtube.com/WynncraftOfficial\n
+[14:56:51] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:56:51] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:57:17] [Render thread/INFO]: [System] [CHAT] [You are now leaving Legendary응픇sland]
+[14:57:18] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:57:21] [Render thread/INFO]: [System] [CHAT] [You are now entering Legendary응픇sland]
+[14:57:33] [Render thread/INFO]: [System] [CHAT] [Info] Link your Wynncraft forum account with "/forum" and get a stylish white username in chat! Visit wynncraft.com/forumlink for more!
+[14:58:03] [Render thread/WARN]: Ignoring player info update for unknown player d730e3f1-4ec9-3007-9298-8ebb73af6055 ([UPDATE_DISPLAY_NAME])
+[14:58:12] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[14:58:12] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[14:58:13] [Worker-Main-2/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[14:58:13] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[14:58:13] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[14:58:13] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[14:58:14] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[14:58:14] [Render thread/INFO]: Sound engine started
+[14:58:14] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[14:58:14] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[14:58:14] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[14:58:14] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[14:58:22] [Render thread/INFO]: Stopping!

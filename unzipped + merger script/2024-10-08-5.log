@@ -1,0 +1,1391 @@
+[20:23:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:23:17] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:23:17] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:23:18] [main/INFO]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[20:23:18] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\jre-legacy\windows-x64\jre-legacy
+[20:23:18] [main/INFO]: Loading tweaker cc.polyfrost.oneconfig.loader.stage0.LaunchWrapperTweaker from MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar
+[20:23:18] [main/INFO]: Loading tweaker io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker from NotEnoughUpdates-2.3.3.jar
+[20:23:18] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.8.9_HD_U_M5.jar
+[20:23:18] [main/INFO]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from Patcher-1.8.9 (1.8.9).jar
+[20:23:18] [main/INFO]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from Scrollable Tooltips-1.4 (1.8.9).jar
+[20:23:18] [main/INFO]: Loading tweaker at.hannibal2.skyhanni.tweaker.SkyHanniTweaker from SkyHanni-0.27.Beta.12.jar
+[20:23:18] [main/INFO]: Loading tweaker gg.skytils.skytilsmod.tweaker.SkytilsTweaker from Skytils-1.10.6.jar
+[20:23:18] [main/INFO]: Loading tweaker dev.desco.watersolver.core.WaterTweaker from WaterSolver.jar
+[20:23:18] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:23:18] [main/INFO]: Loading tweak class name cc.polyfrost.oneconfig.loader.stage0.LaunchWrapperTweaker
+[20:23:18] [main/INFO]: [cc.polyfrost.oneconfig.loader.stage0.OneConfigWrapperBase:addSSLStore:258]: Attempting to load Polyfrost certificate.
+[20:23:18] [main/INFO]: [cc.polyfrost.oneconfig.loader.stage0.OneConfigWrapperBase:<init>:49]: OneConfig has detected the version 1.8.9. If this is false, report this at https://inv.wtf/polyfrost
+[20:23:19] [main/INFO]: [cc.polyfrost.oneconfig.loader.OneConfigWrapperBase:<init>:49]: OneConfig has detected the version 1.8.9. If this is false, report this at https://inv.wtf/polyfrost
+[20:23:20] [main/INFO]: [cc.polyfrost.oneconfig.internal.plugin.asm.OneConfigTweaker:injectMixinTweaker:186]: Injecting MixinTweaker from EssentialSetupTweaker
+[20:23:20] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.7.11 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/mods/SkyHanni-0.27.Beta.12.jar Service=LaunchWrapper Env=CLIENT
+[20:23:20] [main/INFO]: [cc.polyfrost.oneconfig.loader.OneConfigLoaderBase:<init>:44]: OneConfig has detected the version 1.8.9. If this is false, report this at https://inv.wtf/polyfrost
+[20:23:20] [main/INFO]: Loading tweak class name io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker
+[20:23:20] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker:<init>:56]: NEU Delegating Tweaker is loaded with: [io.github.moulberry.notenoughupdates.loader.MixinLoadingTweaker, org.spongepowered.asm.launch.MixinTweaker, io.github.moulberry.notenoughupdates.loader.ModLoadingTweaker, io.github.moulberry.notenoughupdates.loader.KotlinLoadingTweaker]
+[20:23:20] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[20:23:20] [main/INFO]: Loading tweak class name gg.essential.loader.stage0.EssentialSetupTweaker
+[20:23:21] [main/INFO]: Starting Essential Loader (stage2) version 1.6.2 (04447d7f5abf361e4fe3d7d995d4d000) [stable]
+[20:23:22] [main/WARN]: Found an old version of ASM (5.0.3). This may cause issues.
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/WARN]: ==================================================================================
+[20:23:22] [main/WARN]: Attempting re-launch to load the newer version instead.
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/WARN]: If AND ONLY IF you know what you are doing, have fixed the issue manually and need
+[20:23:22] [main/WARN]: to suppress this behavior (did you really fix it then?), you can set the
+[20:23:22] [main/WARN]: "essential.loader.relaunch" system property to false.
+[20:23:22] [main/WARN]: ==================================================================================
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/WARN]: 
+[20:23:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:23:22] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:23:22] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:23:22] [main/DEBUG]: Injecting tracing printstreams for STDOUT/STDERR.
+[20:23:22] [main/INFO]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[20:23:22] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\jre-legacy\windows-x64\jre-legacy
+[20:23:22] [main/DEBUG]: Java classpath at launch is C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\minecraftforge\forge\1.8.9-11.15.1.2318-1.8.9\forge-1.8.9-11.15.1.2318-1.8.9.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\minecraft\launchwrapper\1.12\launchwrapper-1.12.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\ow2\asm\asm-all\5.0.3\asm-all-5.0.3.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\jline\jline\2.13\jline-2.13.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\typesafe\akka\akka-actor_2.11\2.3.3\akka-actor_2.11-2.3.3.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\typesafe\config\1.2.1\config-1.2.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-actors-migration_2.11\1.1.0\scala-actors-migration_2.11-1.1.0.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-compiler\2.11.1\scala-compiler-2.11.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-library_2.11\1.0.2\scala-continuations-library_2.11-1.0.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\plugins\scala-continuations-plugin_2.11.1\1.0.2\scala-continuations-plugin_2.11.1-1.0.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-library\2.11.1\scala-library-2.11.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-parser-combinators_2.11\1.0.1\scala-parser-combinators_2.11-1.0.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-reflect\2.11.1\scala-reflect-2.11.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-swing_2.11\1.0.1\scala-swing_2.11-1.0.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\scala-lang\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\4.6\jopt-simple-4.6.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\mojang\netty\1.8.8\netty-1.8.8.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\3.4.0\jna-3.4.0.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j-core-mojang\51.2\icu4j-core-mojang-51.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.0.23.Final\netty-all-4.0.23.Final.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\17.0\guava-17.0.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.3.2\commons-lang3-3.3.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.9\commons-codec-1.9.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\1.5.21\authlib-1.5.21.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\com\mojang\realms\1.7.59\realms-1.7.59.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.0-beta9\log4j-api-2.0-beta9.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.0-beta9\log4j-core-2.0-beta9.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl\2.9.4-nightly-20150209\lwjgl-2.9.4-nightly-20150209.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\lwjgl_util\2.9.4-nightly-20150209\lwjgl_util-2.9.4-nightly-20150209.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\libraries\tv\twitch\twitch\6.5\twitch-6.5.jar;C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\versions\1.8.9-forge1.8.9-11.15.1.2318-1.8.9\1.8.9-forge1.8.9-11.15.1.2318-1.8.9.jar
+[20:23:22] [main/DEBUG]: Java library path at launch is C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\ccfd043bc448a8069617aaeae457aca84bb95552
+[20:23:22] [main/DEBUG]: Enabling runtime deobfuscation
+[20:23:22] [main/DEBUG]: Instantiating coremod class FMLCorePlugin
+[20:23:22] [main/DEBUG]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[20:23:22] [main/DEBUG]: Enqueued coremod FMLCorePlugin
+[20:23:22] [main/DEBUG]: Instantiating coremod class FMLForgePlugin
+[20:23:22] [main/DEBUG]: Enqueued coremod FMLForgePlugin
+[20:23:22] [main/DEBUG]: All fundamental core mods are successfully located
+[20:23:22] [main/DEBUG]: Attempting to load commandline specified mods, relative to C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft
+[20:23:22] [main/DEBUG]: Discovering coremods
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy Dungeon_Rooms-3.4.1.jar
+[20:23:22] [main/DEBUG]: Not found coremod data in Dungeon_Rooms-3.4.1.jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar
+[20:23:22] [main/INFO]: Loading tweaker cc.polyfrost.oneconfig.loader.stage0.LaunchWrapperTweaker from MC.1.8.9.Danker.s.Skyblock.Mod.-.2.3.1.jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy NotEnoughUpdates-2.3.3.jar
+[20:23:22] [main/INFO]: Loading tweaker io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker from NotEnoughUpdates-2.3.3.jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy OptiFine_1.8.9_HD_U_M5.jar
+[20:23:22] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.8.9_HD_U_M5.jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy Patcher-1.8.9 (1.8.9).jar
+[20:23:22] [main/INFO]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from Patcher-1.8.9 (1.8.9).jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy Scrollable Tooltips-1.4 (1.8.9).jar
+[20:23:22] [main/INFO]: Loading tweaker gg.essential.loader.stage0.EssentialSetupTweaker from Scrollable Tooltips-1.4 (1.8.9).jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy SkyblockAddons-1.7.37380-for-MC-1.8.9.jar
+[20:23:22] [main/TRACE]: Found FMLCorePluginContainsFMLMod marker in SkyblockAddons-1.7.37380-for-MC-1.8.9.jar, it will be examined later for regular @Mod instances
+[20:23:22] [main/DEBUG]: Instantiating coremod class SkyblockAddonsLoadingPlugin
+[20:23:22] [main/DEBUG]: The coremod codes.biscuit.skyblockaddons.tweaker.SkyblockAddonsLoadingPlugin requested minecraft version 1.8.9 and minecraft is 1.8.9. It will be loaded.
+[20:23:22] [main/DEBUG]: Enqueued coremod SkyblockAddonsLoadingPlugin
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy SkyHanni-0.27.Beta.12.jar
+[20:23:22] [main/INFO]: Loading tweaker at.hannibal2.skyhanni.tweaker.SkyHanniTweaker from SkyHanni-0.27.Beta.12.jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy Skytils-1.10.6.jar
+[20:23:22] [main/INFO]: Loading tweaker gg.skytils.skytilsmod.tweaker.SkytilsTweaker from Skytils-1.10.6.jar
+[20:23:22] [main/DEBUG]: Examining for coremod candidacy WaterSolver.jar
+[20:23:22] [main/INFO]: Loading tweaker dev.desco.watersolver.core.WaterTweaker from WaterSolver.jar
+[20:23:22] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:23:22] [main/INFO]: Loading tweak class name cc.polyfrost.oneconfig.loader.stage0.LaunchWrapperTweaker
+[20:23:22] [main/INFO]: [cc.polyfrost.oneconfig.loader.stage0.OneConfigWrapperBase:addSSLStore:258]: Attempting to load Polyfrost certificate.
+[20:23:22] [main/INFO]: [cc.polyfrost.oneconfig.loader.stage0.OneConfigWrapperBase:<init>:49]: OneConfig has detected the version 1.8.9. If this is false, report this at https://inv.wtf/polyfrost
+[20:23:22] [main/INFO]: [cc.polyfrost.oneconfig.loader.OneConfigWrapperBase:<init>:49]: OneConfig has detected the version 1.8.9. If this is false, report this at https://inv.wtf/polyfrost
+[20:23:22] [main/INFO]: [cc.polyfrost.oneconfig.internal.plugin.asm.OneConfigTweaker:injectMixinTweaker:186]: Injecting MixinTweaker from EssentialSetupTweaker
+[20:23:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/essential/Essential%20(forge_1.8.9).processed.jar Service=LaunchWrapper Env=CLIENT
+[20:23:22] [main/WARN]: MixinEnvironment::addTransformerExclusion is deprecated!
+[20:23:22] [main/INFO]: [cc.polyfrost.oneconfig.loader.OneConfigLoaderBase:<init>:44]: OneConfig has detected the version 1.8.9. If this is false, report this at https://inv.wtf/polyfrost
+[20:23:22] [main/WARN]: MixinEnvironment::addTransformerExclusion is deprecated!
+[20:23:22] [main/INFO]: Loading tweak class name io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker
+[20:23:22] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker:<init>:56]: NEU Delegating Tweaker is loaded with: [io.github.moulberry.notenoughupdates.loader.MixinLoadingTweaker, org.spongepowered.asm.launch.MixinTweaker, io.github.moulberry.notenoughupdates.loader.ModLoadingTweaker, io.github.moulberry.notenoughupdates.loader.KotlinLoadingTweaker]
+[20:23:22] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[20:23:22] [main/INFO]: Loading tweak class name gg.essential.loader.stage0.EssentialSetupTweaker
+[20:23:22] [main/INFO]: Starting Essential Loader (stage2) version 1.6.2 (04447d7f5abf361e4fe3d7d995d4d000) [stable]
+[20:23:22] [main/DEBUG]: Instantiating coremod class PatcherTweaker
+[20:23:22] [main/DEBUG]: The coremod club.sk1er.patcher.tweaker.PatcherTweaker requested minecraft version 1.8.9 and minecraft is 1.8.9. It will be loaded.
+[20:23:22] [main/DEBUG]: Instantiating coremod class ModTweaker
+[20:23:22] [main/DEBUG]: The coremod club.sk1er.patcher.tweaker.other.ModTweaker requested minecraft version 1.8.9 and minecraft is 1.8.9. It will be loaded.
+[20:23:22] [main/DEBUG]: Enqueued coremod ModTweaker
+[20:23:22] [main/WARN]: Tweak class name gg.essential.loader.stage0.EssentialSetupTweaker has already been visited -- skipping
+[20:23:22] [main/INFO]: Loading tweak class name at.hannibal2.skyhanni.tweaker.SkyHanniTweaker
+[20:23:22] [main/INFO]: Loading tweak class name gg.skytils.skytilsmod.tweaker.SkytilsTweaker
+[20:23:22] [main/WARN]: The coremod gg.skytils.skytilsmod.tweaker.SkytilsLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:23:22] [main/INFO]: [gg.skytils.skytilsmod.tweaker.DependencyLoader:loadBrotli:83]: Native Brotli loaded
+[20:23:22] [main/INFO]: [gg.skytils.skytilsmod.tweaker.DependencyLoader:loadBCProv:64]: Bouncy Castle provider loaded
+[20:23:23] [main/INFO]: Data URL: https://data.skytils.gg/
+[20:23:23] [main/INFO]: Loading tweak class name dev.desco.watersolver.core.WaterTweaker
+[20:23:23] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:23:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:23:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:23:23] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[20:23:23] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[20:23:23] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[20:23:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[20:23:23] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\mods\OptiFine_1.8.9_HD_U_M5.jar
+[20:23:23] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:23:24] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:23:24] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[20:23:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:23:24] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:23:25] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[20:23:25] [main/INFO]: Compatibility level set to JAVA_8
+[20:23:25] [main/ERROR]: Mixin config patcher.mixins.json does not specify "minVersion" property
+[20:23:25] [main/WARN]: Reference map 'mixins.skytils-init.refmap.json' for mixins.skytils-init.json could not be read. If this is a development environment you can ignore this message
+[20:23:25] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7bef7505
+[20:23:25] [main/WARN]: MixinEnvironment::addTransformerExclusion is deprecated!
+[20:23:26] [main/INFO]: Calling tweak class cc.polyfrost.oneconfig.loader.stage0.LaunchWrapperTweaker
+[20:23:26] [main/INFO]: Selected the gg.skytils.asmhelper.remapping.ForgeRemapper@3c6b300a remapper
+[20:23:27] [main/INFO]: Calling tweak class io.github.moulberry.notenoughupdates.loader.NEUDelegatingTweaker
+[20:23:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:23:27] [main/INFO]: Calling tweak class gg.essential.loader.stage0.EssentialSetupTweaker
+[20:23:27] [main/INFO]: Calling tweak class at.hannibal2.skyhanni.tweaker.SkyHanniTweaker
+[20:23:27] [main/INFO]: Calling tweak class gg.skytils.skytilsmod.tweaker.SkytilsTweaker
+[20:23:27] [main/INFO]: Calling tweak class dev.desco.watersolver.core.WaterTweaker
+[20:23:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:23:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:23:27] [main/WARN]: MixinEnvironment::addTransformerExclusion is deprecated!
+[20:23:27] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:23:27] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:23:27] [main/INFO]: Loading tweak class name io.github.moulberry.notenoughupdates.loader.MixinLoadingTweaker
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.JARLoadingTweaker:performLoading:87]: Loading a JAR from /neu-mixin-libraries-wrapped
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.JARLoadingTweaker:performLoading:89]: Using temporary directory C:\Users\MIGUEL~1\AppData\Local\Temp\notenoughupdates-extracted-MixinLoadingTweaker4801537421579987080 to store extracted jars.
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.JARLoadingTweaker:performLoading:105]: Could successfully load a class from loaded library.
+[20:23:27] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[20:23:27] [main/INFO]: Loading tweak class name io.github.moulberry.notenoughupdates.loader.ModLoadingTweaker
+[20:23:27] [main/INFO]: Loading tweak class name io.github.moulberry.notenoughupdates.loader.KotlinLoadingTweaker
+[20:23:27] [main/INFO]: Loading tweak class name gg.essential.asm.compat.betterfps.tweaker.BetterFpsWrappingTweaker
+[20:23:27] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[20:23:27] [main/INFO]: Loading tweak class name at.hannibal2.skyhanni.tweaker.ModLoadingTweaker
+[20:23:27] [main/WARN]: Tweak class name gg.essential.asm.compat.betterfps.tweaker.BetterFpsWrappingTweaker has already been visited -- skipping
+[20:23:27] [main/INFO]: Loading tweak class name gg.skytils.hypixel-net.modapi.tweaker.HypixelModAPITweaker
+[20:23:27] [main/INFO]: Loaded bundled hypixel mod API version as 1.0.1.1
+[20:23:27] [main/INFO]: Loaded bundled hypixel mod API numeric version as 1000000010001
+[20:23:27] [main/WARN]: Tweak class name gg.essential.asm.compat.betterfps.tweaker.BetterFpsWrappingTweaker has already been visited -- skipping
+[20:23:27] [main/INFO]: Loading tweak class name dev.desco.mod-api.HypixelModAPITweaker
+[20:23:27] [main/INFO]: Loaded bundled hypixel mod API version as 1.0.1.1
+[20:23:27] [main/INFO]: Loaded bundled hypixel mod API numeric version as 1000000010001
+[20:23:27] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:23:27] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:23:27] [main/INFO]: Calling tweak class io.github.moulberry.notenoughupdates.loader.MixinLoadingTweaker
+[20:23:27] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[20:23:27] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7bef7505
+[20:23:27] [main/INFO]: Calling tweak class io.github.moulberry.notenoughupdates.loader.ModLoadingTweaker
+[20:23:27] [main/INFO]: Calling tweak class io.github.moulberry.notenoughupdates.loader.KotlinLoadingTweaker
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.KotlinLoadingTweaker:getFilesToLoad:100]: Attempting to load Kotlin from NEU wrapped libraries.
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.JARLoadingTweaker:performLoading:87]: Loading a JAR from /neu-kotlin-libraries-wrapped
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.JARLoadingTweaker:performLoading:89]: Using temporary directory C:\Users\MIGUEL~1\AppData\Local\Temp\notenoughupdates-extracted-KotlinLoadingTweaker4050325673800437558 to store extracted jars.
+[20:23:27] [main/INFO]: [io.github.moulberry.notenoughupdates.loader.JARLoadingTweaker:performLoading:105]: Could successfully load a class from loaded library.
+[20:23:27] [main/INFO]: Calling tweak class gg.essential.asm.compat.betterfps.tweaker.BetterFpsWrappingTweaker
+[20:23:27] [main/INFO]: Calling tweak class at.hannibal2.skyhanni.tweaker.ModLoadingTweaker
+[20:23:27] [main/ERROR]: Mixin config mixins.skyhanni.json does not specify "minVersion" property
+[20:23:27] [main/INFO]: Calling tweak class gg.skytils.hypixel-net.modapi.tweaker.HypixelModAPITweaker
+[20:23:27] [main/INFO]: Offering newer version 1000000010001 > -9223372036854775808
+[20:23:27] [main/INFO]: Re-added mod C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\mods\Skytils-1.10.6.jar to the mod candidate list.
+[20:23:27] [main/INFO]: Calling tweak class dev.desco.mod-api.HypixelModAPITweaker
+[20:23:27] [main/INFO]: Re-added mod C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\mods\WaterSolver.jar to the mod candidate list.
+[20:23:27] [main/WARN]: Tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker has already been visited -- skipping
+[20:23:27] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[20:23:27] [main/INFO]: Injecting mod API of version 1.0.1.1
+[20:23:27] [main/INFO]: Unpacking mod API to C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\hypixel-mod-api\HypixelModAPI-1.0.1.1.jar
+[20:23:27] [main/INFO]: Successfully extracted mod API file
+[20:23:27] [main/INFO]: Added mod API to classpath
+[20:23:27] [main/INFO]: Someone else with the same version number 1000000010001 offered to inject themselves first. Skipping injecting API.
+[20:23:27] [main/INFO]: Starting Essential v1.3.4.1 (#311f9c466c) [stable]
+[20:23:27] [main/WARN]: Registration of InjectionPoint SKYHANNI_FORLOOP_LOCAL_VAR with at.hannibal2.skyhanni.mixins.init.BeforeForLoopInjectionPoint without specifying namespace is deprecated.
+[20:23:27] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.FontRendererTransformer on net.minecraft.client.gui.FontRenderer...
+[20:23:27] [main/INFO]: A re-entrant transformer '$wrapper.codes.biscuit.skyblockaddons.tweaker.SkyblockAddonsTransformer' was detected and will no longer process meta class data
+[20:23:27] [main/INFO]: Transforming class net.minecraft.client.gui.GuiIngame
+[20:23:27] [main/INFO]: Applying AsmWriter ModifyWriter{className=net/minecraft/client/gui/GuiIngame} to class net.minecraft.client.gui.GuiIngame
+[20:23:27] [main/INFO]: A re-entrant transformer '$wrapper.gg.skytils.skytilsmod.asm.SkytilsTransformer' was detected and will no longer process meta class data
+[20:23:28] [main/WARN]: Error loading class: club/sk1er/mods/levelhead/render/AboveHeadRender (java.lang.ClassNotFoundException: The specified class 'club.sk1er.mods.levelhead.render.AboveHeadRender' was not found)
+[20:23:28] [main/WARN]: Error loading class: club/sk1er/mods/levelhead/render/AboveHeadRender (java.lang.ClassNotFoundException: The specified class 'club.sk1er.mods.levelhead.render.AboveHeadRender' was not found)
+[20:23:28] [main/WARN]: Error loading class: club/sk1er/mods/levelhead/render/AboveHeadRender (java.lang.ClassNotFoundException: The specified class 'club.sk1er.mods.levelhead.render.AboveHeadRender' was not found)
+[20:23:28] [main/WARN]: Error loading class: io/github/moulberry/notenoughupdates/auction/CustomAH (java.lang.ClassNotFoundException: The specified class 'io.github.moulberry.notenoughupdates.auction.CustomAH' was not found)
+[20:23:28] [main/WARN]: Error loading class: club/sk1er/oldanimations/AnimationHandler (java.lang.ClassNotFoundException: The specified class 'club.sk1er.oldanimations.AnimationHandler' was not found)
+[20:23:28] [main/WARN]: Error loading class: mynameisjeff/skyblockclientupdater/UpdateChecker (java.lang.ClassNotFoundException: The specified class 'mynameisjeff.skyblockclientupdater.UpdateChecker' was not found)
+[20:23:28] [main/ERROR]: Critical problem: mixins.oneconfig.json:VigilantMixin target gg.essential.vigilance.Vigilant was loaded too early.
+[20:23:28] [main/WARN]: Error loading class: net/wyvest/redaction/features/NameHighlight (java.lang.ClassNotFoundException: The specified class 'net.wyvest.redaction.features.NameHighlight' was not found)
+[20:23:28] [main/WARN]: Error loading class: org/polyfrost/redaction/features/NameHighlight (java.lang.ClassNotFoundException: The specified class 'org.polyfrost.redaction.features.NameHighlight' was not found)
+[20:23:29] [main/INFO]: Found 1 transformers for net.minecraftforge.fml.client.config.GuiUtils
+[20:23:29] [main/INFO]: Applying transformer club.sk1er.mods.scrollabletooltips.transform.impl.GuiUtilsTransformer on net.minecraftforge.fml.client.config.GuiUtils...
+[20:23:29] [main/INFO]: [at.hannibal2.skyhanni.mixins.init.SkyhanniMixinPlugin:getMixins:90]: Trying to discover mixins
+[20:23:29] [main/INFO]: [at.hannibal2.skyhanni.mixins.init.SkyhanniMixinPlugin:getMixins:93]: Found classes at jar:file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/mods/SkyHanni-0.27.Beta.12.jar!/at/hannibal2/skyhanni/mixins/init/SkyhanniMixinPlugin.class
+[20:23:29] [main/INFO]: [at.hannibal2.skyhanni.mixins.init.SkyhanniMixinPlugin:getMixins:100]: Base directory found at C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\mods\SkyHanni-0.27.Beta.12.jar
+[20:23:29] [main/INFO]: [at.hannibal2.skyhanni.mixins.init.SkyhanniMixinPlugin:walkJar:112]: Trying to find mixins from jar file
+[20:23:29] [main/INFO]: [at.hannibal2.skyhanni.mixins.init.SkyhanniMixinPlugin:getMixins:106]: Found mixins: [AccessorChatComponentText, AccessorEventBus, AccessorFontRenderer, AccessorGuiEditSign, AccessorGuiPlayerTabOverlay, AccessorKeyBinding, AccessorMinecraft, AccessorRender, AccessorRendererLivingEntity, AccessorWorldBorderPacket, CustomRenderGlobal, ExtendedColorPatch, MixinBlockFire, MixinEntity, MixinEntityBlaze, MixinEntityEnderman, MixinEntityFireball, MixinEntityPlayer, MixinEntityRenderer, MixinFontRenderer, MixinGuiChat, MixinGuiIngame, MixinGuiPlayerTabOverlay, MixinItemStack, MixinKeyBinding, MixinNEUOverlay, MixinNetHandlerPlayClient, MixinNetworkManager, MixinOptifineConnectedTextures, MixinPatcherFontRendererHook, MixinRenderGlobal, MixinRenderItem, MixinRenderManager, MixinRenderPlayer, MixinRendererLivingEntity, MixinXPInformation, UpdateDataWatcherEventPatch, gui.AccessorGuiContainer, gui.MixinGuiContainer, gui.MixinGuiNewChat, gui.MixinGuiScreen, gui.MixinInventoryBasic, renderer.MixinBlockRendererDispatcher, renderer.MixinContributorRendererEntityLiving, renderer.MixinRendererLivingEntity, renderer.MixinRendererLivingEntityHookSBA]
+[20:23:29] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:23:29] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.MinecraftTransformer on net.minecraft.client.Minecraft...
+[20:23:29] [main/INFO]: Initializing MixinExtras via gg.skytils.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.2).
+[20:23:29] [main/INFO]: Mixing MixinMinecraft from mixins.skytils.json into net.minecraft.client.Minecraft
+[20:23:29] [main/INFO]: Mixing accessors.AccessorMinecraft from mixins.skytils.json into net.minecraft.client.Minecraft
+[20:23:29] [main/INFO]: Mixing MixinMinecraft from mixins.skytils-events.json into net.minecraft.client.Minecraft
+[20:23:29] [main/INFO]: Mixing MinecraftMixin from mixins.oneconfig.json into net.minecraft.client.Minecraft
+[20:23:29] [main/INFO]: Renaming synthetic method lambda$onStart$0()V to md78e6bf$lambda$onStart$0$0 in mixins.oneconfig.json:MinecraftMixin
+[20:23:29] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.EntityPlayerTransformer on net.minecraft.entity.player.EntityPlayer...
+[20:23:30] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.EntityLivingBaseTransformer on net.minecraft.entity.EntityLivingBase...
+[20:23:30] [main/INFO]: Mixing entity.MixinEntityLivingBase from mixins.skytils.json into net.minecraft.entity.EntityLivingBase
+[20:23:30] [main/INFO]: Mixing accessors.AccessorEntity from mixins.skytils.json into net.minecraft.entity.Entity
+[20:23:30] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.EntityPlayerSPTransformer on net.minecraft.client.entity.EntityPlayerSP...
+[20:23:30] [main/INFO]: Mixing entity.MixinEntityPlayerSP from mixins.skytils.json into net.minecraft.client.entity.EntityPlayerSP
+[20:23:30] [main/INFO]: Mixing EntityPlayerSPMixin from mixins.oneconfig.json into net.minecraft.client.entity.EntityPlayerSP
+[20:23:30] [main/INFO]: Mixing entity.MixinAbstractClientPlayer from mixins.skytils.json into net.minecraft.client.entity.AbstractClientPlayer
+[20:23:30] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.GuiScreenTransformer on net.minecraft.client.gui.GuiScreen...
+[20:23:30] [main/INFO]: Mixing gui.MixinGuiScreen from mixins.skytils.json into net.minecraft.client.gui.GuiScreen
+[20:23:30] [main/INFO]: Mixing GuiScreenMixin from mixins.oneconfig.json into net.minecraft.client.gui.GuiScreen
+[20:23:30] [main/INFO]: Mixing accessors.AccessorGuiChat from mixins.skytils.json into net.minecraft.client.gui.GuiChat
+[20:23:30] [main/INFO]: Mixing renderer.MixinInventoryEffectRenderer from mixins.skytils.json into net.minecraft.client.renderer.InventoryEffectRenderer
+[20:23:30] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.GuiContainerTransformer on net.minecraft.client.gui.inventory.GuiContainer...
+[20:23:30] [main/INFO]: Mixing accessors.AccessorGuiContainer from mixins.skytils.json into net.minecraft.client.gui.inventory.GuiContainer
+[20:23:30] [main/INFO]: Mixing gui.MixinGuiContainer from mixins.skytils.json into net.minecraft.client.gui.inventory.GuiContainer
+[20:23:30] [main/INFO]: Mixing world.MixinWorld from mixins.skytils.json into net.minecraft.world.World
+[20:23:30] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.WorldClientTransformer on net.minecraft.client.multiplayer.WorldClient...
+[20:23:30] [main/INFO]: Mixing WorldClientMixin from mixins.oneconfig.json into net.minecraft.client.multiplayer.WorldClient
+[20:23:30] [main/INFO]: Mixing accessors.AccessorGuiMainMenu from mixins.skytils.json into net.minecraft.client.gui.GuiMainMenu
+[20:23:30] [main/INFO]: Mixing gui.MixinGuiMainMenu from mixins.skytils.json into net.minecraft.client.gui.GuiMainMenu
+[20:23:30] [main/INFO]: Transforming class net.minecraft.client.gui.GuiIngame
+[20:23:30] [main/INFO]: Applying AsmWriter ModifyWriter{className=net/minecraft/client/gui/GuiIngame} to class net.minecraft.client.gui.GuiIngame
+[20:23:30] [main/INFO]: Mixing gui.MixinGuiIngame from mixins.skytils.json into net.minecraft.client.gui.GuiIngame
+[20:23:30] [main/INFO]: Mixing gui.MixinGuiIngameForge from mixins.skytils.json into net.minecraftforge.client.GuiIngameForge
+[20:23:30] [main/INFO]: Mixing GuiIngameForgeMixin from mixins.oneconfig.json into net.minecraftforge.client.GuiIngameForge
+[20:23:30] [main/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.GuiIngameMenuTransformer on net.minecraft.client.gui.GuiIngameMenu...
+[20:23:30] [main/INFO]: Mixing util.MixinUtil from mixins.skytils.json into net.minecraft.util.Util
+[20:23:30] [Client thread/INFO]: Mixing util.MixinIChatComponentSerializer from mixins.skytils.json into net.minecraft.util.IChatComponent$Serializer
+[20:23:30] [Client thread/INFO]: Mixing accessors.AccessorChatComponentText from mixins.skytils.json into net.minecraft.util.ChatComponentText
+[20:23:30] [Client thread/INFO]: Mixing util.MixinChatStyle from mixins.skytils.json into net.minecraft.util.ChatStyle
+[20:23:30] [Client thread/INFO]: Setting user: 16thGarden
+[20:23:30] [Client thread/INFO]: Mixing accessors.AccessorCommandHandler from mixins.skytils.json into net.minecraft.command.CommandHandler
+[20:23:30] [Client thread/INFO]: Mixing command.MixinCommandHandler from mixins.skytils.json into net.minecraft.command.CommandHandler
+[20:23:30] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.ItemTransformer on net.minecraft.item.Item...
+[20:23:30] [Client thread/INFO]: Mixing block.MixinBlockSlab from mixins.skytils.json into net.minecraft.block.BlockSlab
+[20:23:31] [Client thread/INFO]: Mixing accessors.AccessorEnumDyeColor from mixins.skytils.json into net.minecraft.item.EnumDyeColor
+[20:23:31] [Client thread/INFO]: Mixing accessors.AccessorEnumChatFormatting from mixins.skytils.json into net.minecraft.util.EnumChatFormatting
+[20:23:31] [Client thread/INFO]: Mixing block.MixinBlockStairs from mixins.skytils.json into net.minecraft.block.BlockStairs
+[20:23:31] [Client thread/INFO]: Mixing item.MixinItemBow from mixins.skytils.json into net.minecraft.item.ItemBow
+[20:23:31] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.ItemArmorTransformer on net.minecraft.item.ItemArmor...
+[20:23:31] [Client thread/INFO]: Mixing item.MixinItemArmor from mixins.skytils.json into net.minecraft.item.ItemArmor
+[20:23:31] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.ItemArmorDispenserBehaviorTransformer on net.minecraft.item.ItemArmor$1...
+[20:23:31] [Client thread/INFO]: Mixing entity.MixinEntityFishHook from mixins.skytils.json into net.minecraft.entity.projectile.EntityFishHook
+[20:23:31] [Client thread/INFO]: Mixing accessors.AccessorEntityArmorstand from mixins.skytils.json into net.minecraft.entity.item.EntityArmorStand
+[20:23:31] [Client thread/INFO]: Mixing item.MixinItemStack from mixins.skytils.json into net.minecraft.item.ItemStack
+[20:23:31] [Client thread/WARN]: @Redirect conflict. Skipping mixins.notenoughupdates.json:MixinItemStack->@Redirect::getTooltip_toHexString(I)Ljava/lang/String; with priority 1000, already redirected by patcher.mixins.json:bugfixes.render.item.ItemStackMixin_HexColorTooltip->@Redirect::patcher$fixHexColorString(I)Ljava/lang/String; with priority 1000
+[20:23:31] [Client thread/INFO]: Mixing EventBusMixin from mixins.oneconfig.json into net.minecraftforge.fml.common.eventhandler.EventBus
+[20:23:32] [Client thread/INFO]: Mixing accessors.AccessorEntitySlime from mixins.skytils.json into net.minecraft.entity.monster.EntitySlime
+[20:23:32] [Client thread/INFO]: Mixing entity.MixinEntityBlaze from mixins.skytils.json into net.minecraft.entity.monster.EntityBlaze
+[20:23:32] [Client thread/INFO]: Mixing entity.MixinEntityDragon from mixins.skytils.json into net.minecraft.entity.boss.EntityDragon
+[20:23:34] [Client thread/INFO]: Starting DI!
+[20:23:35] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[20:23:35] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[20:23:35] [Client thread/INFO]: Mixing OptifineConfigMixin from mixins.oneconfig.json into Config
+[20:23:35] [Client thread/INFO]: OptiFine version OptiFine_1.8.9_HD_U_M5 detected.
+[20:23:35] [DefaultDispatcher-worker-3/INFO]: Using LegacyJreDnsResolver
+[20:23:35] [DefaultDispatcher-worker-3/INFO]: Using LegacyJreSocketFactory
+[20:23:36] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[20:23:36] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.EntityRendererTransformer on net.minecraft.client.renderer.EntityRenderer...
+[20:23:36] [Client thread/INFO]: Mixing renderer.MixinEntityRenderer from mixins.skytils.json into net.minecraft.client.renderer.EntityRenderer
+[20:23:36] [Client thread/INFO]: Mixing EntityRendererMixin from mixins.oneconfig.json into net.minecraft.client.renderer.EntityRenderer
+[20:23:36] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.RenderManagerTransformer on net.minecraft.client.renderer.entity.RenderManager...
+[20:23:36] [Client thread/INFO]: Mixing accessors.AccessorRenderManager from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderManager
+[20:23:36] [Client thread/INFO]: Mixing renderer.MixinRenderManager from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderManager
+[20:23:36] [Client thread/INFO]: Mixing renderer.MixinRender from mixins.skytils.json into net.minecraft.client.renderer.entity.Render
+[20:23:36] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.RendererLivingEntityTransformer on net.minecraft.client.renderer.entity.RendererLivingEntity...
+[20:23:36] [Client thread/INFO]: Transforming class net.minecraft.client.renderer.entity.RendererLivingEntity
+[20:23:36] [Client thread/INFO]: Applying AsmWriter ModifyWriter{className=net.minecraft.client.renderer.entity.RendererLivingEntity} to class net.minecraft.client.renderer.entity.RendererLivingEntity
+[20:23:36] [Client thread/INFO]: Mixing renderer.MixinRendererLivingEntity from mixins.skytils.json into net.minecraft.client.renderer.entity.RendererLivingEntity
+[20:23:36] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[20:23:36] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.GuiChestTransformer on net.minecraft.client.gui.inventory.GuiChest...
+[20:23:36] [Client thread/INFO]: Mixing model.MixinModelBlaze from mixins.skytils.json into net.minecraft.client.model.ModelBlaze
+[20:23:36] [Client thread/INFO]: Mixing accessors.AccessorModelDragon from mixins.skytils.json into net.minecraft.client.model.ModelDragon
+[20:23:36] [Client thread/INFO]: Mixing renderer.MixinTileEntityChestRenderer from mixins.skytils.json into net.minecraft.client.renderer.tileentity.TileEntityChestRenderer
+[20:23:36] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.TileEntityEnderChestRendererTransformer on net.minecraft.client.renderer.tileentity.TileEntityEnderChestRenderer...
+[20:23:36] [Client thread/INFO]: Mixing renderer.MixinTileEntitySkullRenderer from mixins.skytils.json into net.minecraft.client.renderer.tileentity.TileEntitySkullRenderer
+[20:23:36] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:23:37] [WebSocketConnectReadThread-72/INFO]: Connected to Essential Connection Manager.
+[20:23:37] [Client thread/INFO]: [OptiFine] 
+[20:23:37] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[20:23:37] [Client thread/INFO]: [OptiFine] Build: 20210124-163719
+[20:23:37] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[20:23:37] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[20:23:37] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[20:23:37] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[20:23:37] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2, version 4.6.0 NVIDIA 546.29, NVIDIA Corporation
+[20:23:37] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[20:23:37] [Client thread/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[20:23:37] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[20:23:37] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 546.29
+[20:23:37] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[20:23:37] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[20:23:37] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[20:23:37] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[20:23:37] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[20:23:37] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[20:23:37] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[20:23:37] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[20:23:37] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[20:23:37] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[20:23:37] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[20:23:37] [Client thread/WARN]: =============================================================
+[20:23:37] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[20:23:37] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[20:23:37] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[20:23:37] [Client thread/WARN]: =============================================================
+[20:23:37] [Client thread/INFO]: Transforming class net.minecraftforge.fml.client.SplashProgress
+[20:23:37] [Client thread/INFO]: Applying AsmWriter ModifyWriter{className=net.minecraftforge.fml.client.SplashProgress} to class net.minecraftforge.fml.client.SplashProgress
+[20:23:37] [Client thread/INFO]: Mixing patcher.MixinHUDCaching from mixins.skytils.json into club.sk1er.patcher.screen.render.caching.HUDCaching
+[20:23:38] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[20:23:38] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.8.9_HD_U_M5, enabling compatibility features
+[20:23:38] [Client thread/INFO]: Mixing crash.MixinCrashReport from mixins.skytils.json into net.minecraft.crash.CrashReport
+[20:23:38] [Client thread/INFO]: Mixing accessors.AccessorWorldInfo from mixins.skytils.json into net.minecraft.world.storage.WorldInfo
+[20:23:38] [Client thread/INFO]: Mixing network.MixinNetworkManager from mixins.skytils.json into net.minecraft.network.NetworkManager
+[20:23:38] [Client thread/INFO]: Mixing NetworkManagerMixin from mixins.oneconfig.json into net.minecraft.network.NetworkManager
+[20:23:38] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  FMLLoadingPlugin (Scrollable Tooltips-1.4 (1.8.9).jar)
+  Skytils On Top (Skytils-1.10.6.jar)
+  ModTweaker (Patcher-1.8.9 (1.8.9).jar)
+  SkyblockAddonsLoadingPlugin (SkyblockAddons-1.7.37380-for-MC-1.8.9.jar)
+  PatcherTweaker (Patcher-1.8.9 (1.8.9).jar)
+Contact their authors BEFORE contacting forge
+
+// I let you down. Sorry :(
+
+Time: 10/8/24 8:23 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Game Directory: C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft
+	Minecraft Version: 1.8.9
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 621014232 bytes (592 MB) / 1073741824 bytes (1024 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+FMLLoadingPlugin (Scrollable Tooltips-1.4 (1.8.9).jar)
+  club.sk1er.mods.scrollabletooltips.forge.ClassTransformer
+Skytils On Top (Skytils-1.10.6.jar)
+  gg.skytils.skytilsmod.asm.SkytilsTransformer
+ModTweaker (Patcher-1.8.9 (1.8.9).jar)
+  club.sk1er.patcher.tweaker.other.ModClassTransformer
+SkyblockAddonsLoadingPlugin (SkyblockAddons-1.7.37380-for-MC-1.8.9.jar)
+  codes.biscuit.skyblockaddons.tweaker.SkyblockAddonsTransformer
+PatcherTweaker (Patcher-1.8.9 (1.8.9).jar)
+  club.sk1er.patcher.tweaker.ClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 546.29' Renderer: 'NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2'
+	Skytils Debug Info: {HasBetterFPS=false, BetterFPS Version=NONE, Disabled Start Checks=false}
+[20:23:39] [Client thread/INFO]: [gg.skytils.skytilsmod.asm.transformers.SplashProgressTransformer:setForgeGif:108]: Rolled a 96.85766157098179, displaying splashes/bigrat.png
+[20:23:39] [Client thread/INFO]: Mixing forge.MixinSplashProgressThread from mixins.skytils.json into net.minecraftforge.fml.client.SplashProgress$3
+[20:23:39] [Client thread/INFO]: MinecraftForge v11.15.1.2318 Initialized
+[20:23:39] [Thread-33/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.FontRendererTransformer on net.minecraft.client.gui.FontRenderer...
+[20:23:39] [Client thread/INFO]: Replaced 229 ore recipies
+[20:23:39] [Thread-33/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.FontRendererTransformer on club.sk1er.patcher.hooks.FontRendererHook...
+[20:23:39] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:23:39] [Client thread/INFO]: Searching C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\mods for mods
+[20:23:41] [Thread-33/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.WorldVertexBufferUploaderTransformer on net.minecraft.client.renderer.WorldVertexBufferUploader...
+[20:23:43] [Client thread/ERROR]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:417) [ave.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329) [ave.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.8.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) [stage1.jar:8]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:8]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) [Patcher-1.8.9%20(1.8.9).jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) [Patcher-1.8.9%20(1.8.9).jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[20:23:43] [Client thread/ERROR]: There was a problem reading the entry META-INF/versions/11/org/bouncycastle/jcajce/provider/asymmetric/edec/BC11XDHPrivateKey.class in the jar C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\.\libraries\org\bouncycastle\bcprov-jdk18on\1.78.1\bcprov-jdk18on-1.78.1.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:417) [ave.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329) [ave.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.8.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) [stage1.jar:8]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:8]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) [Patcher-1.8.9%20(1.8.9).jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) [Patcher-1.8.9%20(1.8.9).jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 43 more
+[20:23:43] [Client thread/WARN]: Zip file bcprov-jdk18on-1.78.1.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:417) [ave.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329) [ave.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:124) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage2.relaunch.Relaunch.relaunch(Relaunch.java:124) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.preloadEssential(EssentialLoader.java:220) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoader.loadPlatform(EssentialLoader.java:116) [stage2.forge_1.8.9.jar:?]
+	at gg.essential.loader.stage2.EssentialLoaderBase.load(EssentialLoaderBase.java:148) [stage2.forge_1.8.9.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at gg.essential.loader.stage1.EssentialLoaderBase.load(EssentialLoaderBase.java:293) [stage1.jar:8]
+	at gg.essential.loader.stage1.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:44) [stage1.jar:8]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.loadStage1(EssentialSetupTweaker.java:53) [Patcher-1.8.9%20(1.8.9).jar:?]
+	at gg.essential.loader.stage0.EssentialSetupTweaker.<init>(EssentialSetupTweaker.java:26) [Patcher-1.8.9%20(1.8.9).jar:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_51]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_51]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_51]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422) [?:1.8.0_51]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[Essential%20(forge_1.8.9).processed.jar:?]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 43 more
+[20:23:45] [Client thread/INFO]: Forge Mod Loader has identified 15 mods to load
+[20:23:46] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at CLIENT
+[20:23:46] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[20:23:47] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.PlayerControllerMPTransformer on net.minecraft.client.multiplayer.PlayerControllerMP...
+[20:23:47] [Client thread/INFO]: Mixing multiplayer.MixinPlayerControllerMP from mixins.skytils.json into net.minecraft.client.multiplayer.PlayerControllerMP
+[20:23:47] [Client thread/INFO]: Mixing world.MixinChunk from mixins.skytils.json into net.minecraft.world.chunk.Chunk
+[20:23:48] [Client thread/INFO]: Reloading ResourceManager: Essential Assets, Essential (forge_1.8.9).processed.jar, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Essential, FMLFileResourcePack:OneConfig, FMLFileResourcePack:Hypixel Mod API, FMLFileResourcePack:Dungeon Rooms Mod, FMLFileResourcePack:Danker's Skyblock Mod, FMLFileResourcePack:NotEnoughUpdates, FMLFileResourcePack:Patcher, FMLFileResourcePack:Scrollable Tooltips, FMLFileResourcePack:SkyblockAddons, FMLFileResourcePack:SkyHanni, FMLFileResourcePack:Skytils, FMLFileResourcePack:SomeWaterSolver, NEU Repo Resources, Prism custom, graylavanowplsthanks, Bare Bones Glass, Amethyst Gemstone Sounds, Small Icons
+[20:23:48] [Client thread/INFO]: Processing ObjectHolder annotations
+[20:23:48] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[20:23:48] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[20:23:48] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[20:23:48] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[20:23:48] [Client thread/INFO]: Mixing forge.MixinClientCommandHandler from mixins.skytils.json into net.minecraftforge.client.ClientCommandHandler
+[20:23:48] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:23:48] [Client thread/INFO]: Mixing neu.MixinStorageManager from mixins.skytils.json into io.github.moulberry.notenoughupdates.miscfeatures.StorageManager
+[20:23:49] [Client thread/INFO]: Mixing inventory.MixinSlot from mixins.skytils.json into net.minecraft.inventory.Slot
+[20:23:49] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.RenderGlobalTransformer on net.minecraft.client.renderer.RenderGlobal...
+[20:23:49] [Client thread/INFO]: Mixing accessors.AccessorGuiEditSign from mixins.skytils.json into net.minecraft.client.gui.inventory.GuiEditSign
+[20:23:49] [Client thread/INFO]: Mixing gui.MixinGuiEditSign from mixins.skytils.json into net.minecraft.client.gui.inventory.GuiEditSign
+[20:23:50] [Client thread/INFO]: Mixing renderer.MixinLayerArmorBase from mixins.skytils.json into net.minecraft.client.renderer.entity.layers.LayerArmorBase
+[20:23:50] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.SoundManagerTransformer on net.minecraft.client.audio.SoundManager...
+[20:23:50] [Client thread/INFO]: Mixing audio.MixinSoundManager from mixins.skytils.json into net.minecraft.client.audio.SoundManager
+[20:23:50] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.GuiNewChatTransformer on net.minecraft.client.gui.GuiNewChat...
+[20:23:50] [Client thread/INFO]: Transforming class net.minecraft.client.gui.GuiNewChat
+[20:23:50] [Client thread/INFO]: Applying AsmWriter ModifyWriter{className=net.minecraft.client.gui.GuiNewChat} to class net.minecraft.client.gui.GuiNewChat
+[20:23:50] [Client thread/INFO]: Mixing accessors.AccessorGuiNewChat from mixins.skytils.json into net.minecraft.client.gui.GuiNewChat
+[20:23:50] [Client thread/INFO]: Mixing gui.MixinGuiNewChat from mixins.skytils.json into net.minecraft.client.gui.GuiNewChat
+[20:23:50] [Client thread/INFO]: Mixing neu.MixinGuiProfileViewer from mixins.skytils.json into io.github.moulberry.notenoughupdates.profileviewer.GuiProfileViewer
+[20:23:53] [Client thread/INFO]: Mixing gui.MixinChatLine from mixins.skytils.json into net.minecraft.client.gui.ChatLine
+[20:23:54] [Client thread/INFO]: Mixing ShaderGroupAccessor from mixins.oneconfig.json into net.minecraft.client.shader.ShaderGroup
+[20:23:54] [Client thread/INFO]: Applying holder lookups
+[20:23:54] [Client thread/INFO]: Holder lookups applied
+[20:23:54] [Client thread/INFO]: Injecting itemstacks
+[20:23:54] [Client thread/INFO]: Itemstack injection complete
+[20:23:55] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[20:23:55] [Client thread/INFO]: [OptiFine] Resource packs: Prism custom, graylavanowplsthanks, Bare Bones Glass, Amethyst Gemstone Sounds, Small Icons
+[20:23:56] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:23:56] [Thread-111/INFO]: Initializing LWJGL OpenAL
+[20:23:56] [Thread-111/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:23:56] [Thread-111/INFO]: OpenAL initialized.
+[20:23:57] [Sound Library Loader/INFO]: Sound engine started
+[20:23:58] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.MouseHelperTransformer on net.minecraft.util.MouseHelper...
+[20:23:58] [Client thread/INFO]: Mixing util.MixinMouseHelper from mixins.skytils.json into net.minecraft.util.MouseHelper
+[20:24:05] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.RenderItemTransformer on net.minecraft.client.renderer.entity.RenderItem...
+[20:24:05] [Client thread/INFO]: Mixing accessors.AccessorRenderItem from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderItem
+[20:24:05] [Client thread/INFO]: Mixing renderer.MixinRenderItem from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderItem
+[20:24:05] [Client thread/INFO]: Mixing renderer.MixinItemRenderer from mixins.skytils.json into net.minecraft.client.renderer.ItemRenderer
+[20:24:05] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.EffectRendererTransformer on net.minecraft.client.particle.EffectRenderer...
+[20:24:05] [Client thread/INFO]: Mixing particle.MixinEffectRenderer from mixins.skytils.json into net.minecraft.client.particle.EffectRenderer
+[20:24:05] [Client thread/INFO]: Mixing renderer.MixinBlockRendererDispatcher from mixins.skytils.json into net.minecraft.client.renderer.BlockRendererDispatcher
+[20:24:09] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[20:24:09] [Client thread/INFO]: [OptiFine] Multitexture: false
+[20:24:09] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[20:24:09] [Client thread/INFO]: Mixing renderer.MixinModelBiped from mixins.skytils.json into net.minecraft.client.model.ModelBiped
+[20:24:09] [Client thread/INFO]: Created: 16x16 textures-atlas
+[20:24:09] [Client thread/INFO]: [OptiFine] Animated sprites: 0
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinLayerCreeperCharge from mixins.skytils.json into net.minecraft.client.renderer.entity.layers.LayerCreeperCharge
+[20:24:10] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.RenderEndermanTransformer on net.minecraft.client.renderer.entity.RenderEnderman...
+[20:24:10] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.ModelEndermanTransformer on net.minecraft.client.model.ModelEnderman...
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinLayerCustomHead from mixins.skytils.json into net.minecraft.client.renderer.entity.layers.LayerCustomHead
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinRenderBat from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderBat
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinRenderDragon from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderDragon
+[20:24:10] [Client thread/INFO]: Renaming synthetic method func_177070_b(Lnet/minecraft/entity/EntityLivingBase;)Z to md78e6bf$func_177070_b$0 in mixins.skytils.json:renderer.MixinRenderDragon
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinLayerEnderDragonDeath from mixins.skytils.json into net.minecraft.client.renderer.entity.layers.LayerEnderDragonDeath
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinRenderEntityItem from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderEntityItem
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinRenderLightningBolt from mixins.skytils.json into net.minecraft.client.renderer.entity.RenderLightningBolt
+[20:24:10] [Client thread/INFO]: Mixing renderer.MixinLayerCape from mixins.skytils.json into net.minecraft.client.renderer.entity.layers.LayerCape
+[20:24:10] [Essential Thread 2/WARN]: Error when trying to parse installer telemetry!
+java.nio.file.NoSuchFileException: C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\essential\installer-metadata.json
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:90) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsLinkSupport.getRealPath(WindowsLinkSupport.java:259) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:836) ~[?:1.8.0_51]
+	at sun.nio.fs.WindowsPath.toRealPath(WindowsPath.java:44) ~[?:1.8.0_51]
+	at gg.essential.network.connectionmanager.telemetry.TelemetryManager.lambda$queueInstallerTelemetryPacket$1(TelemetryManager.java:204) [TelemetryManager.class:?]
+	at gg.essential.network.connectionmanager.telemetry.TelemetryManager$$Lambda$1177/1068538536.run(Unknown Source) [TelemetryManager.class:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[20:24:10] [Essential Thread 7/INFO]: Found MCP method mappings: mappings-1.8.9-forge1.8.9-11.15.1.2318-1.8.9.csv
+[20:24:11] [Client thread/INFO]: DungeonRooms: Loaded dungeonrooms.json
+[20:24:11] [Client thread/INFO]: DungeonRooms: Loaded secretlocations.json
+[20:24:11] [pool-18-thread-3/INFO]: DungeonRooms: Loaded 7 1x3 rooms
+[20:24:11] [pool-18-thread-4/INFO]: DungeonRooms: Loaded 6 1x4 rooms
+[20:24:11] [pool-18-thread-2/INFO]: DungeonRooms: Loaded 14 1x2 rooms
+[20:24:11] [pool-18-thread-2/INFO]: DungeonRooms: Loaded 12 Puzzle rooms
+[20:24:11] [pool-18-thread-2/INFO]: DungeonRooms: Loaded 2 Trap rooms
+[20:24:11] [pool-18-thread-4/INFO]: DungeonRooms: Loaded 11 L-shape rooms
+[20:24:11] [pool-18-thread-1/INFO]: DungeonRooms: Loaded 71 1x1 rooms
+[20:24:11] [pool-18-thread-3/INFO]: DungeonRooms: Loaded 9 2x2 rooms
+[20:24:11] [Client thread/INFO]: Transforming class me.Danker.features.ColouredNames
+[20:24:11] [Client thread/INFO]: Applying AsmWriter ModifyWriter{className=me.Danker.features.ColouredNames} to class me.Danker.features.ColouredNames
+[20:24:11] [Thread-111/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[20:24:11] [Thread-111/ERROR]: Invalid enumerated parameter value.
+[20:24:11] [Thread-113/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[20:24:11] [Thread-113/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1728390251939
+[20:24:12] [DefaultDispatcher-worker-55/INFO]: [gg.skytils.skytilsmod.core.UpdateChecker$downloadDeleteTask$1:invokeSuspend:112]: Checking for Skytils install task...
+[20:24:12] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsmod.core.UpdateChecker$UpdateGetter:run:157]: Checking for updates...
+[20:24:12] [Client thread/INFO]: Mixing accessors.AccessorHypixelModAPI from mixins.skytils.json into net.hypixel.modapi.HypixelModAPI
+[20:24:12] [Client thread/INFO]: Mixing accessors.AccessorHypixelPacketRegistry from mixins.skytils.json into net.hypixel.modapi.packet.PacketRegistry
+[20:24:13] [Client thread/INFO]: Mixing network.MixinNetHandlerPlayClient from mixins.skytils.json into net.minecraft.client.network.NetHandlerPlayClient
+[20:24:13] [Client thread/INFO]: Injecting itemstacks
+[20:24:13] [Client thread/INFO]: Itemstack injection complete
+[20:24:13] [Client thread/INFO]: DungeonRooms: SBP Dungeon Secrets detection: false
+[20:24:13] [Client thread/INFO]: [me.Danker.DankersSkyblockMod:postInit:251]: OAM detection: false
+[20:24:13] [Client thread/INFO]: [me.Danker.DankersSkyblockMod:postInit:254]: LabyMod detection: false
+[20:24:16] [Client thread/INFO]: Minecraft started in 53 seconds.
+[20:24:16] [Client thread/INFO]: Forge Mod Loader has successfully loaded 15 mods
+[20:24:16] [Client thread/INFO]: Reloading ResourceManager: Essential Assets, Essential (forge_1.8.9).processed.jar, Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Essential, FMLFileResourcePack:OneConfig, FMLFileResourcePack:Hypixel Mod API, FMLFileResourcePack:Dungeon Rooms Mod, FMLFileResourcePack:Danker's Skyblock Mod, FMLFileResourcePack:NotEnoughUpdates, FMLFileResourcePack:Patcher, FMLFileResourcePack:Scrollable Tooltips, FMLFileResourcePack:SkyblockAddons, FMLFileResourcePack:SkyHanni, FMLFileResourcePack:Skytils, FMLFileResourcePack:SomeWaterSolver, NEU Repo Resources, Prism custom, graylavanowplsthanks, Bare Bones Glass, Amethyst Gemstone Sounds, Small Icons
+[20:24:16] [DefaultDispatcher-worker-53/INFO]: [gg.skytils.skytilsmod.Skytils$checkSystemTime$1:invokeSuspend:688]: Got local clock offset: -4.999637603759766E-4
+[20:24:16] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[20:24:16] [Client thread/INFO]: [OptiFine] Resource packs: Prism custom, graylavanowplsthanks, Bare Bones Glass, Amethyst Gemstone Sounds, Small Icons
+[20:24:16] [Client thread/INFO]: SoundSystem shutting down...
+[20:24:16] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:24:16] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:24:16] [Thread-124/INFO]: Initializing LWJGL OpenAL
+[20:24:16] [Thread-124/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:24:16] [Thread-124/INFO]: OpenAL initialized.
+[20:24:17] [Sound Library Loader/INFO]: Sound engine started
+[20:24:28] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[20:24:28] [Client thread/INFO]: [OptiFine] Multitexture: false
+[20:24:28] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[20:24:29] [Client thread/INFO]: [OptiFine] Custom loader sprites: 1
+[20:24:29] [Client thread/INFO]: [OptiFine] Custom loader sprites (skipped): 1
+[20:24:29] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:24:29] [Client thread/INFO]: [OptiFine] Animated sprites: 15
+[20:24:31] [DefaultDispatcher-worker-5/INFO]: Connected to Discord as starbuckslarge
+[20:24:33] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[20:24:33] [Client thread/INFO]: Mixing accessors.AccessorServerListEntryNormal from mixins.skytils.json into net.minecraft.client.gui.ServerListEntryNormal
+[20:24:33] [Client thread/INFO]: Renaming @Accessor method getPingerPool()Ljava/util/concurrent/ThreadPoolExecutor; to getPingerPool_$md$78e6bf$0 in mixins.skytils.json:accessors.AccessorServerListEntryNormal
+[20:24:33] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.InventoryPlayerTransformer on net.minecraft.entity.player.InventoryPlayer...
+[20:24:33] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[20:24:34] [Client thread/INFO]: [OptiFine] CustomColors: Colormap mcpatcher/colormap/water.png
+[20:24:34] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky1.properties
+[20:24:34] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky2.properties
+[20:24:34] [Client thread/INFO]: [OptiFine] CustomSky properties: mcpatcher/sky/world0/sky3.properties
+[20:24:35] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[20:24:35] [Client thread/INFO]: Mixing neu.MixinTradeWindow from mixins.skytils.json into io.github.moulberry.notenoughupdates.miscgui.TradeWindow
+[20:24:37] [Client thread/INFO]: Mixing accessors.AccessorS3BPacketScoreboardObjective from mixins.skytils.json into net.minecraft.network.play.server.S3BPacketScoreboardObjective
+[20:24:37] [Client thread/INFO]: Mixing accessors.AccessorC0EPacketClickWindow from mixins.skytils.json into net.minecraft.network.play.client.C0EPacketClickWindow
+[20:24:37] [Client thread/INFO]: [SkyblockAddons/SkyblockAddonsTransformer] Applying transformer codes.biscuit.skyblockaddons.asm.GuiDisconnectedTransformer on net.minecraft.client.gui.GuiDisconnected...
+[20:24:37] [Client thread/ERROR]: Signature is missing from textures payload
+[20:24:37] [Client thread/ERROR]: Signature is missing from textures payload
+[20:24:40] [Netty Client IO #2/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[20:24:41] [Client thread/INFO]: Connecting to eu.hypixel.net, 25565
+[20:24:42] [Netty Client IO #3/INFO]: Server FML protocol version 1, no additional data received
+[20:24:42] [Netty Client IO #3/INFO]: Server protocol version 1
+[20:24:43] [Netty Client IO #3/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[20:24:43] [Netty Client IO #3/INFO]: Injecting existing block and item data into this client instance
+[20:24:43] [Netty Client IO #3/INFO]: Applying holder lookups
+[20:24:43] [Netty Client IO #3/INFO]: Holder lookups applied
+[20:24:43] [Netty Client IO #3/INFO]: [Netty Client IO #3] Client side modded connection established
+[20:24:43] [Netty Client IO #3/INFO]: DungeonRooms: Connecting to Hypixel...
+[20:24:43] [Netty Client IO #3/INFO]: DungeonRooms: Packet Handler added
+[20:24:43] [Netty Client IO #3/INFO]: [me.Danker.DankersSkyblockMod:onServerConnect:494]: Added packet handler to channel pipeline.
+[20:24:44] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hypixel:hello
+[20:24:44] [Thread-131/INFO]: [me.Danker.features.UpdateChecker:lambda$onJoin$0:29]: Checking for updates...
+[20:24:44] [Client thread/INFO]: Mixing neu.MixinStorageOverlay from mixins.skytils.json into io.github.moulberry.notenoughupdates.miscgui.StorageOverlay
+[20:24:45] [Client thread/INFO]: Starting update check
+[20:24:45] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscgui.DynamicLightItemsEditor$Companion:autoloadOptifine:232]: Loaded dynamic lights successfully.
+[20:24:45] [Client thread/INFO]: Mixing entity.MixinBossStatus from mixins.skytils.json into net.minecraft.entity.boss.BossStatus
+[20:24:45] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:103]: Sent Hypixel packet hypixel:register
+[20:24:45] [Client thread/INFO]: [CHAT]                          
+[20:24:45] [Client thread/INFO]: Mixing renderer.MixinTileEntityItemStackRenderer from mixins.skytils.json into net.minecraft.client.renderer.tileentity.TileEntityItemStackRenderer
+[20:24:46] [DefaultDispatcher-worker-28/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:49]: Received packet: S2CPacketAcknowledge(wsVersion=3)
+[20:24:46] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] koishi614§f §6spooked into the lobby!
+[20:24:46] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[20:24:46] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='dynamiclobby9F', serverType='MAIN', lobbyName='lobby4', mode='null', map='null'} VersionedPacket{version=1}
+[20:24:47] [Client thread/INFO]: Mixing sba.MixinContainerPreviewManager from mixins.skytils.json into codes.biscuit.skyblockaddons.features.backpacks.ContainerPreviewManager
+[20:24:47] [Client thread/INFO]: Found 1 transformers for net.minecraftforge.fml.client.config.GuiUtils
+[20:24:47] [Client thread/INFO]: Applying transformer club.sk1er.mods.scrollabletooltips.transform.impl.GuiUtilsTransformer on net.minecraftforge.fml.client.config.GuiUtils...
+[20:24:47] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.TabListData:workaroundDelayedTabListUpdateAgain$lambda$9:155]: workaroundDelayedTabListUpdateAgain
+[20:24:47] [Thread-130/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[20:24:47] [Thread-130/INFO]: [CHAT] §d§l--- Dungeon Rooms Mod ---
+ §r§cThe hotkey "Button 3", which is used to Show Waypoints in Practice Mode, has a conflict with a keybinding from "key.categories.gameplay".
+ §c§lPlease go into the Minecraft Controls menu and change one of the keybindings.
+§d§l------------------------
+[20:24:47] [Thread-130/INFO]: DungeonRooms: Checking for updates...
+[20:24:48] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.TabListData:workaroundDelayedTabListUpdateAgain$lambda$9:155]: workaroundDelayedTabListUpdateAgain
+[20:24:48] [Thread-130/INFO]: DungeonRooms: No update found
+[20:24:48] [Thread-130/INFO]: DungeonRooms: Getting MOTD...
+[20:24:48] [Thread-130/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$1571/2137790516.run(Unknown Source)
+[20:24:48] [Thread-130/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[20:24:48] [Thread-130/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[20:24:48] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.TabListData:workaroundDelayedTabListUpdateAgain$lambda$9:155]: workaroundDelayedTabListUpdateAgain
+[20:24:49] [Client thread/INFO]: [CHAT] Sending to server mini158CT...
+[20:24:49] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[20:24:49] [Client thread/INFO]: [CHAT]        
+[20:24:49] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini158CT', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[20:24:50] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[20:24:50] [Client thread/INFO]: Shaders are available. OpenGL 2.0 is supported. 
+[20:24:50] [Client thread/INFO]: [SkyblockAddons/ShaderHelper] VAOs are available. OpenGL 3.0 is supported. Shaders are available. OpenGL 2.0 is supported. VBOs are available. OpenGL 1.5 is supported. 
+[20:24:51] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:24:51] [Client thread/INFO]: [CHAT] §6§lGROSS! §7While you were offline, §6Pests §7spawned in §aPlots §b5§7 and §bA1§7!
+[20:24:51] [Client thread/INFO]: [CHAT] Your ? Farming Fortune has been reduced by 15%!
+[20:24:51] [Client thread/INFO]: [CHAT] Click on a plots name in chat to teleport to it!
+[20:24:51] [ForkJoinPool.commonPool-worker-11/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _jani.asc
+[20:24:51] [ForkJoinPool.commonPool-worker-11/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _lulonaut.asc
+[20:24:51] [ForkJoinPool.commonPool-worker-11/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _nea.asc
+[20:24:51] [ForkJoinPool.commonPool-worker-11/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _nopo.asc
+[20:24:51] [Client thread/INFO]: Update check completed
+[20:24:51] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _jani.asc
+[20:24:51] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _lulonaut.asc
+[20:24:51] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _nea.asc
+[20:24:51] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.updater.SignedGithubUpdateData:verifyAnySignature:48]: Accepted signature from _nopo.asc
+[20:24:51] [Client thread/INFO]: [CHAT] §e[NEU] §aNEU found a new update: NotEnoughUpdates 2.4.0. Click here to automatically install this update.
+[20:24:51] [Client thread/INFO]: [CHAT] 
+[20:24:51] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[20:24:51] [Client thread/INFO]: [CHAT] 
+[20:24:51] [Client thread/INFO]: [CHAT] MAINTENANCE!
+[20:24:51] [Client thread/INFO]: [CHAT]  SkyBlock will be temporarily unavailable on October 21st @ 12am EDT for maintenance.
+[20:24:51] [Client thread/INFO]: [CHAT]  Check the status page for more info: https://status.hypixel.net
+[20:24:51] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.6 §e§lCLICK
+[20:24:52] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[20:24:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[20:24:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[20:25:05] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[20:25:05] [Client thread/INFO]: [CHAT] [Bazaar] Bought 24x Enchanted Hay Bale for 188,796 coins!
+[20:25:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[20:25:09] [Client thread/INFO]: [CHAT] [Bazaar] Bought 229x Enchanted Sugar for 152,285 coins!
+[20:25:14] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[20:25:15] [Client thread/INFO]: [CHAT] [Bazaar] Bought 361x Enchanted Pumpkin for 595,650 coins!
+[20:25:16] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[20:25:17] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Sugar Cane for 104,258 coins!
+[20:25:17] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[20:25:17] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Sugar Cane for 104,258 coins!§7 (2)
+[20:25:19] [Client thread/INFO]: [CHAT] 
+[20:25:19] [Client thread/INFO]: [CHAT] 
+[20:25:19] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJacob§6§l!§r §215§7, §36.2k§7, §c20§7, §b10§7, §7§aJacob's Ticket
+[20:25:20] [Client thread/INFO]: [CHAT] 
+[20:25:20] [Client thread/INFO]: [CHAT] 
+[20:25:20] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aXalx§6§l!§r §215§7, §33.6k§7, §c24§7, §b10§7, §7§fMysterious Crop
+[20:25:22] [Client thread/INFO]: [CHAT] 
+[20:25:22] [Client thread/INFO]: [CHAT] 
+[20:25:22] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Queen Mismyla§6§l!§r §230§7, §315k§7, §c88§7, §b10
+[20:25:23] [Client thread/INFO]: [CHAT] 
+[20:25:23] [Client thread/INFO]: [CHAT] 
+[20:25:23] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aLibrarian§6§l!§r §215§7, §35.5k§7, §c18§7, §b10§7, §7§9Delicate V Book
+[20:25:28] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[20:25:28] [SkyblockAddons - #0/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[20:25:28] [SkyblockAddons - #0/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[20:25:31] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[20:25:31] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[20:25:31] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 1x Delicate V for 832,930 coins.
+[20:25:48] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (6)
+[20:25:48] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Box of Seeds for 767,602 coins!
+[20:25:49] [Client thread/INFO]: [CHAT] Added 256,000 organic matter to the composter!
+[20:25:56] [Client thread/INFO]: [CHAT] You sold Nether Wart x64 for 256 Coins!
+[20:25:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[20:25:57] [Client thread/INFO]: [CHAT] Guild Name: Water Hydras
+[20:25:57] [Client thread/INFO]: [CHAT] 
+[20:25:57] [Client thread/INFO]: [CHAT]                            -- Maniac Hydras --
+[20:25:57] [Client thread/INFO]: [CHAT] [MVP+] Its_Krios ?  
+[20:25:57] [Client thread/INFO]: [CHAT] 
+[20:25:57] [Client thread/INFO]: [CHAT]                             -- Water Hydras --
+[20:25:57] [Client thread/INFO]: [CHAT] 16thGarden ?  [MVP+] 1monstras1 ?  [MVP+] Carrant ?  [MVP+] IamBOREDwelp ?  [MVP] mikraxxl ?  
+[20:25:57] [Client thread/INFO]: [CHAT] 
+[20:25:57] [Client thread/INFO]: [CHAT]                              -- Hydra Eggs --
+[20:25:57] [Client thread/INFO]: [CHAT] maxim755 ?  [MVP+] panwexik1156 ?  [MVP+] Dragolot1 ?  [MVP+] metchaos ?  
+[20:25:57] [Client thread/INFO]: [CHAT] 
+[20:25:57] [Client thread/INFO]: [CHAT] Total Members: 87
+[20:25:57] [Client thread/INFO]: [CHAT] Online Members: 10
+[20:25:57] [Client thread/INFO]: [CHAT] Offline Members: 77
+[20:25:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[20:27:38] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §6Sell Offer §efor §a1§7x §aDelicate V §ewas filled!
+[20:29:50] [Client thread/INFO]: [CHAT] You earned 225 GEXP + 225 Event EXP from playing SkyBlock!
+[20:29:52] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:34:52] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:36:50] [Client thread/INFO]: [CHAT] Jamie has arrived on your Garden!
+[20:39:53] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:40:33] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[20:40:33] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 832,930 coins from selling 1x Delicate V at 842,407 each!
+[20:40:40] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[20:40:40] [Client thread/INFO]: [CHAT] [Bazaar] Bought 213x Enchanted Pumpkin for 351,411 coins!
+[20:40:42] [Client thread/INFO]: [CHAT] 
+[20:40:42] [Client thread/INFO]: [CHAT] 
+[20:40:42] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJamie§6§l!§r §215§7, §37.6k§7, §c26§7, §b10
+[20:41:51] [Client thread/INFO]: [CHAT] Guild > LogiBear10 joined.
+[20:44:50] [Client thread/INFO]: [CHAT] You earned 128 GEXP + 128 Event EXP from playing SkyBlock!
+[20:44:53] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:46:50] [Client thread/INFO]: [CHAT] Guild > mikraxxl left.
+[20:47:53] [Client thread/INFO]: [CHAT] Guild > 1monstras1 left.
+[20:48:50] [Client thread/INFO]: [CHAT] Pete has arrived on your Garden!
+[20:49:49] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.
+[20:49:54] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:50:16] [Client thread/INFO]: [CHAT] Teleported you to Plot - A1!
+[20:50:23] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[20:50:23] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Mooshroom Cow§e! §a§lVIEW RULE
+[20:50:25] [Client thread/INFO]: [CHAT] Teleported you to Plot - A3!
+[20:50:27] [Client thread/INFO]: [CHAT] Guild > maxim755 left.
+[20:50:31] [Client thread/INFO]: [CHAT] Your Garden is no longer infested and your ? Farming Fortune has returned to normal!
+[20:50:31] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Sugar §efor killing a §6Mosquito§e!
+[20:50:33] [Client thread/INFO]: [CHAT] Teleported you to Plot - 5!
+[20:50:40] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Cocoa Beans §efor killing a §6Moth§e!
+[20:50:43] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Pumpkin §efor killing a §6Rat§e!
+[20:50:44] [Client thread/INFO]: [CHAT] Teleported you to Plot - A5!
+[20:50:52] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[20:51:11] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[20:51:11] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Sugar Cane for 104,260 coins!
+[20:51:12] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[20:51:13] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Sugar Cane for 104,260 coins!§7 (2)
+[20:51:13] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[20:51:14] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Sugar Cane for 104,260 coins!§7 (3)
+[20:51:16] [Client thread/INFO]: [CHAT] 
+[20:51:16] [Client thread/INFO]: [CHAT] 
+[20:51:16] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Pete§6§l!§r §230§7, §38.3k§7, §c91§7, §b10
+[20:51:20] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[20:51:20] [SkyblockAddons - #1/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[20:51:20] [SkyblockAddons - #1/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[20:51:40] [Client thread/INFO]: [CHAT] Guild > maxim755 joined.
+[20:53:42] [Client thread/INFO]: [CHAT] TIME TOWER! Your Chocolate Factory production has increased by +2.2x for 1h!
+[20:54:51] [Client thread/INFO]: [CHAT] You earned 291 GEXP + 291 Event EXP from playing SkyBlock!
+[20:54:55] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: java.util.concurrent.CompletionException: HttpStatusCodeException(url=https://api.mojang.com/users/profiles/minecraft/goh07?, statusCode=404, serverMessage={
+  "path" : "/users/profiles/minecraft/goh07",
+  "errorMessage" : "Couldn't find any profile with name goh07"
+})
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:604)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:442)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+[20:55:26] [pool-13-thread-1/INFO]: [io.github.moulberry.notenoughupdates.util.ApiUtil$Request:lambda$requestString0$3:273]: 	at java.lang.Thread.run(Thread.java:745)
+[20:55:26] [pool-13-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: HttpStatusCodeException(url=https://api.mojang.com/users/profiles/minecraft/goh07?, statusCode=404, serverMessage={
+  "path" : "/users/profiles/minecraft/goh07",
+  "errorMessage" : "Couldn't find any profile with name goh07"
+})
+[20:55:26] [pool-13-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request.lambda$requestString0$2(ApiUtil.java:254)
+[20:55:26] [pool-13-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at io.github.moulberry.notenoughupdates.util.ApiUtil$Request$$Lambda$615/575313641.apply(Unknown Source)
+[20:55:26] [pool-13-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+[20:55:26] [pool-13-thread-1/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 5 more
+[20:55:31] [Client thread/INFO]: [CHAT] Finding player...
+[20:55:31] [Client thread/INFO]: [CHAT] Couldn't find this Hypixel player!
+[20:56:05] [Client thread/INFO]: [CHAT] Finding player...§7 (2)
+[20:56:10] [Client thread/INFO]: [CHAT] Finding player...§7 (3)
+[20:56:10] [Client thread/INFO]: [CHAT] This player's data is not available right now, ask them to log in or try again in a few days!
+[20:56:19] [Client thread/ERROR]: Signature is missing from textures payload
+[20:57:41] [Client thread/INFO]: [CHAT] Finding player...
+[20:57:48] [Client thread/ERROR]: Signature is missing from textures payload
+[20:57:57] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.
+[20:57:57] [Client thread/INFO]: [CHAT] Guild > 1monstras1 left.
+[20:57:59] [Client thread/INFO]: [CHAT] Guild > 1monstras1 left.§7 (2)
+[20:58:03] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.§7 (2)
+[20:58:20] [Client thread/INFO]: [CHAT] Andrew has arrived on your Garden!
+[20:59:01] [Client thread/ERROR]: Signature is missing from textures payload
+[20:59:06] [Client thread/INFO]: [CHAT] Finding player...
+[20:59:12] [Client thread/ERROR]: Signature is missing from textures payload
+[20:59:33] [Client thread/ERROR]: Signature is missing from textures payload
+[20:59:52] [Client thread/INFO]: [CHAT] You earned 278 GEXP + 278 Event EXP from playing SkyBlock!
+[20:59:55] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:00:05] [Client thread/ERROR]: Signature is missing from textures payload
+[21:00:22] [Client thread/ERROR]: Signature is missing from textures payload
+[21:03:39] [Client thread/ERROR]: Signature is missing from textures payload
+[21:04:56] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:06:16] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+
+-----------------------------------------------------
+[21:06:45] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 89] §6Slug§e! §a§lVIEW RULE
+[21:06:52] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[21:06:52] [Client thread/INFO]: [CHAT] [Bazaar] Bought 6x Enchanted Melon Block for 308,471 coins!
+[21:06:53] [Client thread/INFO]: [CHAT] 
+[21:06:53] [Client thread/INFO]: [CHAT] 
+[21:06:53] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aAndrew§6§l!§r §215§7, §33.6k§7, §c27§7, §b10§7, §7§9Flowering Bouquet
+[21:07:00] [Client thread/INFO]: [CHAT] Added 6,000 organic matter to the composter!
+[21:09:53] [Client thread/INFO]: [CHAT] You earned 180 GEXP + 180 Event EXP from playing SkyBlock!
+[21:09:57] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:10:21] [Client thread/INFO]: [CHAT] Banker Broadjaw has arrived on your Garden!
+[21:14:57] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:15:03] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[21:15:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Nether Wart Fortune §fduring the contest!
+[21:16:24] [Client thread/INFO]: [CHAT] Guild > LogiBear10 left.
+[21:19:58] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:22:21] [Client thread/INFO]: [CHAT] Guild > Xtron00 joined.
+[21:22:21] [Client thread/INFO]: [CHAT] Tom has arrived on your Garden!
+[21:22:34] [Client thread/INFO]: [CHAT] Guild > Xtron00 left.
+[21:24:39] [Thread-232/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[21:24:39] [Thread-232/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1728393879425
+[21:24:59] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:25:04] [Client thread/INFO]: [CHAT] Guild > NotTXM joined.
+[21:30:00] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:33:41] [Client thread/INFO]: [CHAT] Guild > Michtraatje joined.
+[21:34:22] [Client thread/INFO]: [CHAT] Tammy has arrived on your Garden!
+[21:35:01] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:35:23] [Client thread/INFO]: [CHAT] Guild > Xtron00 joined.
+[21:36:30] [Client thread/INFO]: [CHAT] Guild > Its_Krios left.
+[21:38:31] [Client thread/INFO]: [CHAT] Guild > Its_Krios joined.
+[21:40:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:42:34] [Client thread/INFO]: [CHAT] Guild > TitaniumNon joined.
+[21:45:03] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:46:22] [Client thread/INFO]: [CHAT] Sirius has arrived on your Garden!
+[21:47:59] [Client thread/INFO]: [CHAT] Guild > rugg3rbuns joined.
+[21:50:03] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:51:32] [Client thread/INFO]: [CHAT] Guild > Its_Krios left.
+[21:55:02] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[21:55:02] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Enchanted Baked Potato for 784,472 coins!
+[21:55:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[21:55:06] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[21:55:06] [Client thread/INFO]: [CHAT] [Bazaar] Bought 232x Enchanted Cactus Green for 206,625 coins!
+[21:55:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[21:55:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 6x Enchanted Cactus for 743,450 coins!
+[21:55:11] [Client thread/INFO]: [CHAT] Your Lion leveled up to level 52!
+[21:55:11] [Client thread/INFO]: [CHAT] 
+[21:55:11] [Client thread/INFO]: [CHAT] 
+[21:55:11] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§6Sirius§6§l!§r §275§7, §373k§7, §c265§7, §b20
+[21:55:13] [Client thread/INFO]: [CHAT] 
+[21:55:13] [Client thread/INFO]: [CHAT] 
+[21:55:13] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Tammy§6§l!§r §230§7, §312k§7, §c90§7, §b10
+[21:55:15] [Client thread/INFO]: [CHAT] 
+[21:55:15] [Client thread/INFO]: [CHAT] 
+[21:55:15] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aTom§6§l!§r §215§7, §33.7k§7, §c16§7, §b10
+[21:55:18] [Client thread/INFO]: [CHAT] 
+[21:55:18] [Client thread/INFO]: [CHAT] 
+[21:55:18] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aBanker Broadjaw§6§l!§r §215§7, §34.7k§7, §c20§7, §b10
+[21:58:23] [Client thread/INFO]: [CHAT] Lazy Miner has arrived on your Garden!
+[21:58:54] [Client thread/INFO]: [CHAT] Guild > Xtron00 left.
+[21:59:58] [Client thread/INFO]: [CHAT] You earned 24 GEXP + 251 Event EXP from playing SkyBlock!
+[22:00:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:00:20] [Client thread/INFO]: [CHAT] 
+[22:00:20] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[22:00:20] [Client thread/INFO]: [CHAT] Watchdog has banned 11,770 players in the last 7 days.
+[22:00:20] [Client thread/INFO]: [CHAT] Staff have banned an additional 11,216 in the last 7 days.
+[22:00:20] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[22:00:20] [Client thread/INFO]: [CHAT] 
+[22:05:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:08:51] [Client thread/INFO]: [CHAT] Guild > Xtron00 joined.
+[22:10:05] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:10:23] [Client thread/INFO]: [CHAT] Queen Mismyla has arrived on your Garden!
+[22:15:02] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[22:15:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Potato Fortune §fduring the contest!
+[22:15:05] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:18:38] [Client thread/INFO]: [CHAT] Guild > TitaniumNon left.
+[22:18:52] [Client thread/INFO]: [CHAT] Guild > TitaniumNon joined.
+[22:20:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:22:24] [Client thread/INFO]: [CHAT] Friendly Hiker has arrived on your Garden!
+[22:23:31] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[22:23:31] [Client thread/INFO]: [CHAT] [Bazaar] Bought 245x Enchanted Raw Rabbit for 190,316 coins!
+[22:23:36] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[22:23:36] [Client thread/INFO]: [CHAT] [Bazaar] Bought 52x Enchanted Hay Bale for 407,774 coins!
+[22:23:40] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[22:23:40] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Enchanted Cookie for 541,696 coins!
+[22:23:43] [Client thread/INFO]: [CHAT] 
+[22:23:43] [Client thread/INFO]: [CHAT] 
+[22:23:43] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aFriendly Hiker§6§l!§r §215§7, §3196§7, §c25§7, §b10
+[22:23:45] [Client thread/INFO]: [CHAT] 
+[22:23:45] [Client thread/INFO]: [CHAT] 
+[22:23:45] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Queen Mismyla§6§l!§r §230§7, §316k§7, §c88§7, §b10
+[22:23:46] [Client thread/INFO]: [CHAT] 
+[22:23:46] [Client thread/INFO]: [CHAT] 
+[22:23:46] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§9Lazy Miner§6§l!§r §230§7, §334k§7, §c92§7, §b20
+[22:24:01] [Client thread/INFO]: [CHAT] Warping...
+[22:24:01] [Client thread/INFO]: [CHAT] Sending to server mini1024C...
+[22:24:01] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[22:24:01] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini1024C', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[22:24:01] [Client thread/INFO]: [CHAT]        
+[22:24:08] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[22:24:08] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[22:24:19] [Client thread/INFO]: [CHAT] [45] ? §7VascoPC§7: i have both miining ring and artifact
+[22:24:28] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[22:24:28] [Client thread/INFO]: [CHAT] [Bazaar] Bought 792x Enchanted Glacite for 5,542,733 coins!
+[22:24:36] [Client thread/INFO]: [CHAT] [82] §a[VIP] THEbrickPUGlord§f: where do you find golden goblins
+[22:24:39] [Thread-287/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[22:24:39] [Thread-287/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1728397479682
+[22:24:41] [Client thread/INFO]: [CHAT]  ? jakeovsames was killed by Glacite Walker.
+[22:24:43] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[22:24:43] [SkyblockAddons - #2/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[22:24:43] [SkyblockAddons - #2/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[22:24:49] [Client thread/INFO]: [CHAT] [31] §a[VIP§6+§a] Ultranix§f: THEbrickPUGlord they spawn RNG based
+[22:24:51] [Client thread/INFO]: [CHAT] [31] §a[VIP§6+§a] Ultranix§f: When you mine stuff
+[22:24:59] [Client thread/INFO]: [CHAT] [31] §a[VIP§6+§a] Ultranix§f: They're rare though
+[22:25:01] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[22:25:01] [Client thread/INFO]: [CHAT] [Bazaar] Bought 28x ? Fine Aquamarine Gemstone for 1,199,940 coins!
+[22:25:06] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:25:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (6)
+[22:25:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 28x ? Fine Citrine Gemstone for 600,315 coins!
+[22:25:15] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (7)
+[22:25:16] [Client thread/INFO]: [CHAT] [Bazaar] Bought 28x ? Fine Peridot Gemstone for 1,122,673 coins!
+[22:25:22] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (8)
+[22:25:22] [Client thread/INFO]: [CHAT] [Bazaar] Bought 28x ? Fine Onyx Gemstone for 611,568 coins!
+[22:25:22] [Client thread/INFO]: [CHAT] ? Hoppity ? 
+[22:25:22] [Client thread/INFO]: [CHAT] §a? RING...  §2§l[PICK UP]
+[22:25:23] [Client thread/INFO]: [CHAT] §a? RING... RING...  §2§l[PICK UP]
+[22:25:23] [Client thread/INFO]: [CHAT] §a? RING... RING... RING...  §2§l[PICK UP]
+[22:25:24] [Client thread/INFO]: [CHAT] §e[NPC] §aHoppity§f: §b? §fWhat's up, §716thGarden§f?
+[22:25:26] [Client thread/INFO]: [CHAT] §e[NPC] §aHoppity§f: §b? §fI just got a new Chocolate Rabbit and was wondering if you wanted to buy it.
+[22:25:27] [Client thread/INFO]: [CHAT] §eSelect an option: §a[Yes] §c[No] 
+[22:25:31] [Client thread/INFO]: [CHAT] §e[NPC] §aHoppity§f: §b? §fAlright, maybe next time.
+[22:25:32] [Client thread/INFO]: [CHAT] §e[NPC] §aHoppity§f: §b? §fSee you around!
+[22:25:43] [Client thread/INFO]: [CHAT] You earned 7 GEXP + 73 Event EXP from playing SkyBlock!
+[22:25:49] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (9)
+[22:25:49] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1,000x Enchanted Glacite for 6,998,400 coins!
+[22:26:09] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[22:26:09] [Client thread/INFO]: [CHAT] [Bazaar] Submitting buy order...
+[22:26:10] [Client thread/INFO]: [CHAT] [Bazaar] Buy Order Setup! 1,792x Enchanted Glacite for 11,856,051 coins.
+[22:26:14] [Client thread/INFO]: [CHAT]  ? Teclis1222 was killed by Ghost.
+[22:26:16] [Client thread/INFO]: [CHAT]  ? SolaireDS1 was killed by Treasure Hoarder.
+[22:26:17] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...§7 (2)
+[22:26:17] [Client thread/INFO]: [CHAT] [Bazaar] Submitting buy order...§7 (2)
+[22:26:17] [Client thread/INFO]: [CHAT] [Bazaar] Buy Order Setup! 1,792x Enchanted Glacite for 11,856,051 coins.§7 (2)
+[22:27:40] [Client thread/INFO]: [CHAT] Guild > rugg3rbuns left.
+[22:28:09] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§bYukimiko §cis currently offline
+
+-----------------------------------------------------
+[22:28:15] [Client thread/INFO]: [CHAT] You can only use the Social Menu in lobbies!
+[22:28:35] [Client thread/INFO]: [CHAT] Guild > Xtron00 left.
+[22:30:07] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:30:45] [Client thread/INFO]: [CHAT] You earned 35 GEXP + 364 Event EXP from playing SkyBlock!
+[22:31:01] [Client thread/INFO]: [CHAT] Warping...
+[22:31:01] [Client thread/INFO]: [CHAT] Sending to server mini22AF...
+[22:31:01] [Client thread/INFO]: [CHAT]        
+[22:31:01] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[22:31:01] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini22AF', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[22:31:11] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[22:31:11] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[22:31:24] [Client thread/INFO]: [CHAT] You bought Enchanted Book!
+[22:31:24] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (2)
+[22:31:24] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (3)
+[22:31:24] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (4)
+[22:31:25] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (5)
+[22:31:26] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (6)
+[22:31:27] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (7)
+[22:31:27] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (8)
+[22:31:28] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (9)
+[22:31:28] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (10)
+[22:31:40] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[22:31:40] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[22:31:40] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 10x Cultivating I for 64,365,027 coins.
+[22:31:46] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...§7 (2)
+[22:31:47] [Client thread/INFO]: [CHAT] [Bazaar] Submitting buy order...
+[22:31:47] [Client thread/INFO]: [CHAT] [Bazaar] Buy Order Setup! 2x Booster Cookie for 26,800,000 coins.
+[22:31:57] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §aBuy Order §efor §a2§7x §6Booster Cookie §ewas filled!
+[22:32:04] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[22:32:04] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 2x Booster Cookie worth 26,800,000 coins bought for 13,400,000 each!
+[22:32:07] [Client thread/INFO]: [CHAT] You consumed a Booster Cookie! 
+[22:32:08] [Client thread/INFO]: [CHAT] You consumed a Booster Cookie! Yummy!
+[22:33:05] [Client thread/INFO]: [CHAT] [240] ? §b[MVP§2+§b] Gotlib§f: hi
+[22:33:37] [Client thread/ERROR]: Signature is missing from textures payload
+[22:33:37] [Client thread/ERROR]: Signature is missing from textures payload
+[22:34:02] [DefaultDispatcher-worker-3/WARN]: Failed to fetch https://crafthead.net/helm/dc0548c72c22450e91f52a17cfde2a12: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor67.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy33.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$290/1607399179.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$296/141574534.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[22:34:08] [Client thread/INFO]: [CHAT] Guild > Xtron00 joined.
+[22:34:35] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[22:34:35] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 10x Cultivating I from cancelling Sell Offer!
+[22:34:40] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[22:34:40] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[22:34:40] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 10x Cultivating I for 64,365,025 coins.
+[22:35:07] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:35:16] [Client thread/INFO]: [gg.skytils.skytilsmod.features.impl.handlers.MayorInfo:onDrawSlot:127]: Jerry has Marina's perks ([Fishing XP Buff, Luck of the Sea 2.0, Fishing Festival, Double Trouble]) and is ending in 1728400499999 ($Next set of perks in 0h 39m!)
+[22:35:20] [DefaultDispatcher-worker-12/INFO]: [gg.skytils.skytilsmod.features.impl.handlers.MayorInfo$sendJerryData$1:invokeSuspend:178]: {"success":false,"error":"Already Registered"}
+[22:36:06] [Client thread/INFO]: [CHAT] You earned 50 GEXP + 523 Event EXP from playing SkyBlock!
+[22:36:59] [Client thread/INFO]: [CHAT] Guild > rugg3rbuns joined.
+[22:37:48] [Client thread/INFO]: [CHAT] Warping...
+[22:40:07] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:40:22] [Client thread/INFO]: [CHAT] Guild > NotTXM left.
+[22:41:10] [Client thread/INFO]: [CHAT] You earned 14 GEXP + 159 Event EXP from playing SkyBlock!
+[22:42:45] [Client thread/INFO]: [CHAT] [167] ? §a[VIP] FAFAQQ§f: anyone want buy a jasper drill /p me//////////////_________________
+[22:43:15] [Client thread/INFO]: [CHAT] You must have Shen's Regalia to be in this room!
+[22:44:16] [Client thread/INFO]: [CHAT] Guild > Xtron00 left.
+[22:45:07] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:45:20] [Client thread/INFO]: [CHAT] Warped to Election Room!
+[22:45:42] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[22:45:42] [Client thread/INFO]: [CHAT] You voted for Aatrox in the Year 378 Elections!
+[22:45:42] [Client thread/INFO]: [CHAT] §eAs an §bAttaché§e, your vote counts for §a25§e.
+[22:45:42] [Client thread/INFO]: [CHAT] Aatrox now has 15.5% of votes with 52,264 votes!
+[22:45:42] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[22:45:55] [Client thread/INFO]: [CHAT] Warped to Community Center!
+[22:46:15] [Client thread/INFO]: [CHAT] You earned 33 GEXP + 341 Event EXP from playing SkyBlock!
+[22:46:19] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[22:46:19] [Client thread/INFO]: [CHAT] Usage: /party promote <user>
+[22:46:19] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[22:46:22] [Client thread/INFO]: [CHAT] §aYou have 5550 hours and 41 minutes playtime!
+[22:46:26] [Client thread/INFO]: [CHAT] 
+[22:46:26] [Client thread/INFO]: [CHAT] §6§k§lA§r §c§lFIRE SALE §r§6§k§lA
+§c? §eSelling an item for a limited time!
+§c   ? §5Loafed Tiger Skin §e(§61,518 left§e)§c
+§c? §a§l[WARP] §eTo Elizabeth in the next §c1d 1h 13m §eto grab yours!
+[22:46:26] [Client thread/INFO]: [CHAT] 
+[22:47:48] [Client thread/INFO]: [CHAT] Warping...
+[22:47:48] [Client thread/INFO]: [CHAT] Sending to server mini14E...
+[22:47:49] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[22:47:49] [Client thread/INFO]: [CHAT]        
+[22:47:49] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini14E', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[22:47:51] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[22:47:52] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[22:47:52] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[22:47:58] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[22:47:58] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Enchanted Baked Potato for 312,960 coins!
+[22:47:59] [Client thread/INFO]: [CHAT] Your Slug leveled up to level 90!
+[22:47:59] [Client thread/INFO]: [CHAT] 
+[22:47:59] [Client thread/INFO]: [CHAT] 
+[22:48:00] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aMason§6§l!§r §215§7, §318k§7, §c20§7, §b10
+[22:48:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[22:48:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Box of Seeds for 537,333 coins!
+[22:48:12] [Client thread/INFO]: [CHAT] Added 179,200 organic matter to the composter!
+[22:48:18] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[22:48:18] [Client thread/INFO]: [CHAT] [Bazaar] Bought 20x Oil Barrel for 59,988 coins!
+[22:48:19] [Client thread/INFO]: [CHAT] Added 200,000 fuel to the composter!
+[22:49:37] [Client thread/INFO]: [CHAT] Guild > WaterHydras_Bot joined.
+[22:50:08] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:52:51] [Client thread/INFO]: [CHAT] You earned 28 GEXP + 291 Event EXP from playing SkyBlock!
+[22:55:09] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[22:57:52] [Client thread/INFO]: [CHAT] You earned 5 GEXP + 50 Event EXP from playing SkyBlock!
+[22:59:27] [Client thread/INFO]: [CHAT] Warping...
+[22:59:27] [Client thread/INFO]: [CHAT] Sending to server mini31C...
+[22:59:28] [Client thread/INFO]: [CHAT]        
+[22:59:28] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[22:59:28] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini31C', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[22:59:48] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[22:59:48] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[23:00:02] [Client thread/INFO]: [CHAT] You bought God Potion!
+[23:00:03] [Client thread/INFO]: [CHAT] You bought God Potion!§7 (2)
+[23:00:04] [Client thread/INFO]: [CHAT] You bought God Potion!§7 (3)
+[23:00:09] [Client thread/INFO]: [CHAT] §e[SkyHanni] The Perkpocalypse Mayor is not known! Click here to update the temporary Mayor.
+[23:00:25] [Client thread/INFO]: [CHAT] You bought Zombie Brain Mixin for 123,675 Coins!
+[23:00:26] [Client thread/INFO]: [CHAT] You bought Spider Egg Mixin for 123,675 Coins!
+[23:00:28] [Client thread/INFO]: [CHAT] You bought Wolf Fur Mixin for 123,675 Coins!
+[23:00:29] [Client thread/INFO]: [CHAT] You bought End Portal Fumes for 123,675 Coins!
+[23:01:04] [Client thread/INFO]: [CHAT] You earned 5 GEXP + 58 Event EXP from playing SkyBlock!
+[23:01:04] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[23:01:04] [Client thread/INFO]: [CHAT] [Bazaar] Bought 64x Mite Gel for 138,394 coins!
+[23:01:11] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[23:01:11] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Ritual Residue for 2,116,024 coins!
+[23:01:35] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[23:01:35] [Client thread/INFO]: [CHAT] [Bazaar] Bought 80x Glowing Mushroom for 79,936 coins!
+[23:01:41] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[23:01:41] [Client thread/INFO]: [CHAT] [Bazaar] Bought 64x Full Chum Bucket for 796,794 coins!
+[23:01:43] [Client thread/INFO]: [CHAT] Warping...
+[23:01:43] [Client thread/INFO]: [CHAT] Sending to server mini96BH...
+[23:01:43] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[23:01:44] [Client thread/INFO]: [CHAT]        
+[23:01:44] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini96BH', serverType='SKYBLOCK', lobbyName='null', mode='farming_1', map='The Farming Islands'} VersionedPacket{version=1}
+[23:01:47] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[23:01:47] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[23:02:01] [Client thread/INFO]: [CHAT] You bought Glowing Mush Mixin!
+[23:02:05] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[23:02:06] [Client thread/INFO]: [CHAT] Sending to server mini218G...
+[23:02:07] [Netty Client IO #3/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[23:02:07] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini218G', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[23:02:07] [Client thread/INFO]: [CHAT]        
+[23:02:10] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[23:02:10] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[23:02:13] [Client thread/INFO]: [CHAT] §6You have §e1 §6unclaimed delivery!
+§eClick here or talk to Jerry to claim them!
+[23:02:28] [Client thread/INFO]: [CHAT] Successfully claimed your delivery of Corrupt Eye Guardian Skin!
+[23:02:39] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[23:02:39] [SkyblockAddons - #3/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[23:02:39] [SkyblockAddons - #3/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[23:02:58] [Client thread/INFO]: [CHAT] SLURP! The God Potion grants you powers for 28h 48m!
+[23:03:44] [Client thread/INFO]: [CHAT] Guild > rugg3rbuns left.
+[23:03:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] 1monstras1 §3[HYDRA]§f:                           Lava Flame XIV ? XV
+[23:04:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] metchaos §3[EGG]§f: i made like
+[23:04:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] metchaos §3[EGG]§f: 4m this hour
+[23:04:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] metchaos §3[EGG]§f: while watching a movie
+[23:04:53] [Client thread/ERROR]: Signature is missing from textures payload
+[23:04:53] [Client thread/ERROR]: Signature is missing from textures payload
+[23:04:54] [Netty Client IO #3/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[23:04:54] [Client thread/INFO]: Applying holder lookups
+[23:04:54] [Client thread/INFO]: Holder lookups applied
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[23:04:54] [DefaultDispatcher-worker-6/INFO]: [gg.skytils.skytilsws.client.WSClient$openConnection$1:invokeSuspend:82]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[23:04:55] [Netty Client IO #7/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[23:05:15] [DefaultDispatcher-worker-3/WARN]: Failed to fetch https://crafthead.net/helm/dc0548c72c22450e91f52a17cfde2a12: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor67.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy33.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$290/1607399179.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$296/141574534.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[23:09:22] [WebSocketConnectReadThread-72/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 2h 45m 45.098s
+[23:09:22] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[23:09:22] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[23:09:26] [WebSocketConnectReadThread-2456/INFO]: Connected to Essential Connection Manager.
+[23:24:39] [Thread-670/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[23:24:39] [Thread-670/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1728401079659

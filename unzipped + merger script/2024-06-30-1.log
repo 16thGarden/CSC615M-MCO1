@@ -1,0 +1,663 @@
+[00:00:03] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[00:00:03] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[00:00:03] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 15x Synthetic Heart for 3,122,036 coins.
+[00:00:07] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...§7 (6)
+[00:00:08] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 15x Synthetic Heart from cancelling Sell Offer!§7 (2)
+[00:00:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (4)
+[00:00:09] [Client thread/INFO]: [CHAT] [Bazaar] Sold 15x Synthetic Heart for 2,812,608 coins!
+[00:00:15] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (5)
+[00:00:15] [Client thread/INFO]: [CHAT] [Bazaar] Sold 5x Robotron Reflector for 765,034 coins!
+[00:00:24] [Client thread/INFO]: [CHAT] 
+[00:00:24] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:00:24] [Client thread/INFO]: [CHAT] Watchdog has banned 14,178 players in the last 7 days.
+[00:00:24] [Client thread/INFO]: [CHAT] Staff have banned an additional 14,811 in the last 7 days.
+[00:00:24] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:00:24] [Client thread/INFO]: [CHAT] 
+[00:00:24] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (6)
+[00:00:25] [Client thread/INFO]: [CHAT] [Bazaar] Sold 19x Control Switch for 3,714,468 coins!
+[00:00:29] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (7)
+[00:00:29] [Client thread/INFO]: [CHAT] [Bazaar] Sold 8x Electron Transmitter for 1,484,027 coins!
+[00:00:31] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (8)
+[00:00:31] [Client thread/INFO]: [CHAT] [Bazaar] Sold 13x FTX 3070 for 2,215,512 coins!
+[00:00:44] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:00:44] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:00:44] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:00:50] [Client thread/INFO]: [CHAT] 
+[00:00:50] [Client thread/INFO]: [CHAT] §6§k§lA§r §c§lFIRE SALE §r§6§k§lA
+§c? §eSelling an item for a limited time!
+§c   ? §dHarlequin Flying Fish Skin §e(§e3,102 left§e)§c
+§c? §a§l[WARP] §eTo Elizabeth in the next §c3d 23h 59m §eto grab yours!
+[00:00:50] [Client thread/INFO]: [CHAT] 
+[00:00:57] [Client thread/INFO]: [CHAT] Rabbit Dog has been promoted to [149] Manager!
+[00:01:02] [Client thread/INFO]: [CHAT] Finding player...
+[00:01:03] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:01:04] [Client thread/INFO]: [CHAT] Sending to server mini148R...
+[00:01:04] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:01:04] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini148R', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:01:04] [Client thread/INFO]: [CHAT]        
+[00:01:05] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:01:07] [Client thread/INFO]: [CHAT] Sending to server mini196BG...
+[00:01:07] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:01:07] [Client thread/INFO]: [CHAT]        
+[00:01:07] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini196BG', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:01:07] [DefaultDispatcher-worker-4/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini196BG, serverTime=403020, type=GoblinQueensDen, x=83, y=126, z=467)
+[00:01:07] [DefaultDispatcher-worker-4/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini196BG, serverTime=302020, type=MinesOfDivan, x=497, y=155, z=104)
+[00:01:07] [DefaultDispatcher-worker-4/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini196BG, serverTime=404000, type=Corleone, x=476, y=125, z=190)
+[00:01:07] [DefaultDispatcher-worker-4/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini196BG, serverTime=301000, type=LostPrecursorCity, x=541, y=115, z=535)
+[00:01:09] [Client thread/INFO]: [CHAT] You may only use this command after 4s on the server!
+[00:01:10] [Client thread/INFO]: [CHAT] You may only use this command after 4s on the server!§7 (2)
+[00:01:10] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:01:10] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:01:17] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:01:17] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:01:17] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:01:18] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:01:18] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:01:18] [SkyblockAddons - #31/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:01:24] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg in between Jade and Sapphire crystals!
+[00:01:24] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fBob §7(§F§LCOMMON§7)!
+[00:01:24] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:01:24] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:01:33] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:01:33] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg underneath the stairwell!
+[00:01:34] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aPancake §7(§A§LUNCOMMON§7)!
+[00:01:34] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+2,753,188 Chocolate
+[00:01:34] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:01:42] [Client thread/INFO]: [CHAT] Guild > TheDonLover left.
+[00:01:44] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg at an entrance to the Magma Fields near Amethyst!
+[00:01:45] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fLotte §7(§F§LCOMMON§7)!
+[00:01:45] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+1,376,594 Chocolate
+[00:01:45] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:01:57] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §9Orange Obsidian §7(§9§LRARE§7)!
+[00:01:57] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+4 Chocolate §7and §6+0.004x Chocolate §7per second!
+[00:02:08] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:02:08] [Client thread/INFO]: [CHAT] The wind has changed direction!§7 (2)
+[00:02:55] [Client thread/INFO]: [CHAT] Warping...
+[00:02:55] [Client thread/INFO]: [CHAT] Sending to server mini157AH...
+[00:02:56] [Client thread/INFO]: [CHAT]        
+[00:02:56] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:02:56] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini157AH', serverType='SKYBLOCK', lobbyName='null', mode='dungeon_hub', map='Dungeon Hub'} VersionedPacket{version=1}
+[00:02:59] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:02:59] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:03:02] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:03:02] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:03:02] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay:getPotentialChest:159]: Finished analyzing slow croesus slot. Took 11 ms
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §7Contents
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §aEnchanted Book (§d§lBank I§a)
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §dUndead Essence §8x28
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §dWither Essence §8x35
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: 
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §7Cost
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §aFREE
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: 
+[00:03:04] [Client thread/INFO]: [io.github.moulberry.notenoughupdates.miscfeatures.DungeonNpcProfitOverlay$$Lambda$1404/483230305:accept:-1]: §eClick to open!
+[00:03:10] [Client thread/INFO]: [CHAT] 
+[00:03:10] [Client thread/INFO]: [CHAT]   BEDROCK CHEST REWARDS
+[00:03:10] [Client thread/INFO]: [CHAT]     Giant Tooth
+[00:03:10] [Client thread/INFO]: [CHAT]     RARE REWARD! Recombobulator 3000
+[00:03:10] [Client thread/INFO]: [CHAT]     Undead Essence x117
+[00:03:10] [Client thread/INFO]: [CHAT]     Wither Essence x91
+[00:03:10] [Client thread/INFO]: [CHAT] 
+[00:03:16] [Client thread/INFO]: [CHAT] 
+[00:03:16] [Client thread/INFO]: [CHAT]   GOLD CHEST REWARDS
+[00:03:16] [Client thread/INFO]: [CHAT]     Enchanted Book (Wisdom I)
+[00:03:16] [Client thread/INFO]: [CHAT]     Enchanted Book (Combo I)
+[00:03:16] [Client thread/INFO]: [CHAT]     Wither Essence x37
+[00:03:16] [Client thread/INFO]: [CHAT]     Undead Essence x43
+[00:03:16] [Client thread/INFO]: [CHAT] 
+[00:03:17] [Client thread/INFO]: [CHAT] §e[NPC] Croesus§f: It's always best to keep a §ohandle §ron things!
+[00:03:27] [Client thread/INFO]: [CHAT] 
+[00:03:27] [Client thread/INFO]: [CHAT]   DIAMOND CHEST REWARDS
+[00:03:27] [Client thread/INFO]: [CHAT]     Enchanted Book (Rejuvenate I)
+[00:03:27] [Client thread/INFO]: [CHAT]     Enchanted Book (Wisdom I)§7 (2)
+[00:03:27] [Client thread/INFO]: [CHAT]     Enchanted Book (Ultimate Wise I)
+[00:03:27] [Client thread/INFO]: [CHAT]     Undead Essence x66
+[00:03:27] [Client thread/INFO]: [CHAT]     Wither Essence x53
+[00:03:27] [Client thread/INFO]: [CHAT] 
+[00:03:31] [Client thread/INFO]: [CHAT] 
+[00:03:31] [Client thread/INFO]: [CHAT]   WOOD CHEST REWARDS
+[00:03:31] [Client thread/INFO]: [CHAT]     Enchanted Book (Infinite Quiver VI)
+[00:03:31] [Client thread/INFO]: [CHAT]     Enchanted Book (Rejuvenate I)§7 (2)
+[00:03:31] [Client thread/INFO]: [CHAT]     Wither Essence x29
+[00:03:31] [Client thread/INFO]: [CHAT]     Undead Essence x28
+[00:03:31] [Client thread/INFO]: [CHAT] 
+[00:03:37] [Client thread/INFO]: [CHAT] 
+[00:03:37] [Client thread/INFO]: [CHAT]   GOLD CHEST REWARDS§7 (2)
+[00:03:37] [Client thread/INFO]: [CHAT]     Enchanted Book (Infinite Quiver VI)§7 (2)
+[00:03:37] [Client thread/INFO]: [CHAT]     Enchanted Book (Wisdom I)§7 (3)
+[00:03:37] [Client thread/INFO]: [CHAT]     Wither Essence x41
+[00:03:37] [Client thread/INFO]: [CHAT]     Undead Essence x43§7 (2)
+[00:03:37] [Client thread/INFO]: [CHAT] 
+[00:03:42] [Client thread/INFO]: [CHAT] Guild > TastiestPizza joined.
+[00:03:49] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[00:03:49] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:03:49] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:03:53] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage12.
+[00:03:53] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:03:53] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:03:55] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[00:03:55] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:03:55] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:03:56] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:04:24] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[00:04:24] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:04:24] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:04:28] [Client thread/INFO]: [CHAT] [117] §b[MVP§a+§b] ironfst88§f: true
+[00:04:29] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:04:29] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Giant Tooth for 41,005 coins!
+[00:04:29] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Recombobulator 3000 for 7,700,002 coins!
+[00:05:18] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[00:05:18] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:05:18] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:05:20] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage8.
+[00:05:20] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:05:20] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:05:28] [Client thread/INFO]: [CHAT] You earned 15 GEXP + 158 Event EXP from playing SkyBlock!
+[00:05:29] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:05:29] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:05:29] [SkyblockAddons - #32/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:05:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: will it go over 80m
+[00:05:42] [Client thread/INFO]: [CHAT] Guild > Kayotogon joined.
+[00:05:45] [Client thread/INFO]: [CHAT] §aYou salvaged §b12 §aitems for:
+[00:05:45] [Client thread/INFO]: [CHAT]    135x Undead Essence!
+[00:05:45] [Client thread/INFO]: [CHAT]    5x Wither Essence!
+[00:05:55] [Client thread/INFO]: [CHAT] Warping...
+[00:05:55] [Client thread/INFO]: [CHAT] Sending to server mini18AV...
+[00:05:55] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:05:55] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini18AV', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[00:05:55] [Client thread/INFO]: [CHAT]        
+[00:05:58] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:05:58] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:06:15] [Client thread/INFO]: [CHAT] The sound of pickaxes clashing against the rock has attracted the attention of the POWDER GHAST!
+[00:06:15] [Client thread/INFO]: [CHAT] Find the Powder Ghast near the Forge Basin!
+[00:06:26] [Client thread/INFO]: [CHAT] You unlocked Unbreaking III!
+[00:06:26] [Client thread/INFO]: [CHAT] §e[SkyHanni] §b+3 SkyBlock XP §7(Essence Shop§7)§b (93/100)
+[00:06:39] [Client thread/INFO]: [CHAT] Finding player...
+[00:06:40] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:06:40] [Client thread/INFO]: [CHAT] Sending to server mini148R...
+[00:06:40] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:06:41] [Client thread/INFO]: [CHAT]        
+[00:06:41] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini148R', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:06:41] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:06:44] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:06:44] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:06:44] [Client thread/INFO]: [CHAT] Sending to server mini141CH...
+[00:06:44] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:06:45] [Client thread/INFO]: [CHAT]        
+[00:06:45] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini141CH', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:06:45] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini141CH, serverTime=255000, type=GoblinQueensDen, x=295, y=118, z=501)
+[00:06:45] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini141CH, serverTime=251020, type=LostPrecursorCity, x=571, y=123, z=582)
+[00:06:48] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:06:48] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:06:54] [Client thread/INFO]: [CHAT] Guild > Kayotogon left.
+[00:06:56] [Client thread/INFO]: [CHAT] Guild > Kayotogon joined.
+[00:07:16] [Client thread/INFO]: [CHAT] You unlocked Radiant Fisher V!
+[00:07:17] [Client thread/INFO]: [CHAT] §e[SkyHanni] §b+7 SkyBlock XP §7(Essence Shop§7)§b (0/100)
+[00:07:18] [Client thread/INFO]: [CHAT]  
+[00:07:18] [Client thread/INFO]: [CHAT]                           SKYBLOCK LEVEL UP
+[00:07:18] [Client thread/INFO]: [CHAT]                              Level 302 ? [303]
+[00:07:18] [Client thread/INFO]: [CHAT]  
+[00:07:18] [Client thread/INFO]: [CHAT]                                   REWARDS
+[00:07:18] [Client thread/INFO]: [CHAT]                                  +5 ? Health
+[00:07:18] [Client thread/INFO]: [CHAT]  
+[00:07:37] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:07:37] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:07:37] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:07:38] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:07:38] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:07:38] [SkyblockAddons - #33/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:07:43] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg behind Emissary Sisko!
+[00:07:44] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §5Ace §7(§5§LEPIC§7)!
+[00:07:44] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+10 Chocolate §7and §6+0.005x Chocolate §7per second!
+[00:07:44] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:07:45] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:07:47] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b4m 42s§e.
+[00:08:04] [Client thread/INFO]: [CHAT] You earned 3 GEXP + 35 Event EXP from playing SkyBlock!
+[00:08:08] [Client thread/INFO]: [CHAT] Guild > Gnasez left.
+[00:08:11] [Client thread/INFO]: [CHAT] Guild > Gnasez joined.
+[00:08:17] [Client thread/INFO]: [CHAT] Guild > Maybethecrazyone joined.
+[00:08:39] [Client thread/INFO]: [CHAT] Guild > fadedmythfm left.
+[00:08:50] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage15.
+[00:08:50] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:08:50] [SkyblockAddons - #34/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:08:52] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:08:53] [Client thread/INFO]: [CHAT] [Bazaar] Sold 64x Supreme Chocolate Bar for 57,723 coins!
+[00:09:03] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b3m 26s§e.
+[00:10:18] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[00:12:30] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:13:06] [Client thread/INFO]: [CHAT] You earned 30 GEXP + 303 Event EXP from playing SkyBlock!
+[00:13:38] [Client thread/INFO]: [CHAT] [39] §7Bigbuxboy§7: city coords anyone?
+[00:13:43] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg at the base of the Sapphire pillar!
+[00:13:44] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fFrankie §7(§F§LCOMMON§7)!
+[00:13:44] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:13:44] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:13:52] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini141CH, serverTime=304020, type=JungleTemple, x=197, y=123, z=308)
+[00:13:54] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 224 Rabbits!
+[00:13:54] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 226 Rabbits!
+[00:13:54] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 228 Rabbits!
+[00:13:54] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 230 Rabbits!
+[00:13:55] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 232 Rabbits!
+[00:13:55] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 234 Rabbits!
+[00:13:56] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 236 Rabbits!
+[00:13:57] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 238 Rabbits!
+[00:13:58] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 240 Rabbits!
+[00:13:59] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 242 Rabbits!
+[00:14:00] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 244 Rabbits!
+[00:14:00] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 246 Rabbits!
+[00:14:00] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 248 Rabbits!
+[00:14:00] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 250 Rabbits!
+[00:14:00] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 252 Rabbits!
+[00:14:01] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 254 Rabbits!
+[00:14:01] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 256 Rabbits!
+[00:14:01] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 258 Rabbits!
+[00:14:01] [Client thread/INFO]: [CHAT] Your Rabbit Barn capacity has been increased to 260 Rabbits!
+[00:14:01] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!
+[00:14:01] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!§7 (2)
+[00:14:02] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!§7 (3)
+[00:14:02] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!§7 (4)
+[00:14:02] [Client thread/INFO]: [CHAT] You don't have enough Chocolate!§7 (5)
+[00:14:13] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini196BG, serverTime=425020, type=JungleTemple, x=243, y=125, z=235)
+[00:15:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b5m 47s§e.
+[00:15:44] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:15:44] [SkyblockAddons - #35/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:15:44] [SkyblockAddons - #35/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:15:45] [Client thread/INFO]: [CHAT] Warping...
+[00:15:45] [Client thread/INFO]: [CHAT] Sending to server mini84AF...
+[00:15:46] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:15:46] [Client thread/INFO]: [CHAT]        
+[00:15:46] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini84AF', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[00:15:49] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:15:49] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:15:53] [Client thread/INFO]: [CHAT] ? You've earned 5,946 Glacite Powder from mining your first Glacite of the day!
+[00:16:31] [Client thread/INFO]: [CHAT]  ? ChrisKeint was killed by Glacite Walker.
+[00:16:46] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:17:07] [Client thread/INFO]: [CHAT] Warping...
+[00:17:07] [Client thread/INFO]: [CHAT] Sending to server mini76S...
+[00:17:07] [Client thread/INFO]: [CHAT]        
+[00:17:07] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:17:07] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini76S', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:17:10] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:17:10] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:17:32] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: asking for money is kind of sad
+[00:17:38] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: but ig u dont know good methods right?4
+[00:17:38] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: thats crazy
+[00:17:47] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: people are still asking for money
+[00:17:47] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: thats nothing
+[00:17:55] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: but its something ig
+[00:17:57] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: lol
+[00:18:00] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: so
+[00:18:02] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: i have math and a life ok....
+[00:18:08] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:18:14] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: just dont beg for money man
+[00:18:18] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: if i were you id mine shiny blocks in end or get ur damage up so u can 1shot zealots
+[00:18:20] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:18:20] [SkyblockAddons - #36/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:18:20] [SkyblockAddons - #36/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:18:27] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: makes more money then beggings for sure
+[00:18:27] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: just start farming
+[00:18:32] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: u can make bank
+[00:18:34] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: farming is bad early game
+[00:18:35] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: hes level 10
+[00:18:37] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: idk if i can get to end yet
+[00:18:38] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: oh
+[00:18:44] [Client thread/INFO]: [CHAT] [2] §7cretloll§7: ignore them before it gets to late ex16onlaptop
+[00:18:48] [Client thread/INFO]: [CHAT] [6] §a[VIP§6+§a] whatishypixel_§f: ye
+[00:18:48] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: so u prob can
+[00:18:52] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: what
+[00:18:54] [Client thread/INFO]: [CHAT] [2] §7cretloll§7: you still have a chance to escape
+[00:18:54] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: where is it?
+[00:18:59] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: lmao
+[00:19:00] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: what has changed in this game
+[00:19:01] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: true
+[00:19:08] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: you should quit before its too late
+[00:19:08] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: i havent played in like 6 months
+[00:19:15] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: tf is a chocolate factory
+[00:19:19] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: where is the darn end
+[00:19:20] [Client thread/INFO]: [CHAT] Warped to Election Room!
+[00:19:31] [Client thread/INFO]: [CHAT] Warped to Community Center!
+[00:19:35] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: dis map it annoying
+[00:19:37] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: go to spiders den .,./.,./.,
+[00:19:42] [Client thread/INFO]: [CHAT] [148] ? §b[MVP§4+§b] Yamoin1§f: then find the portal
+[00:19:49] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: ah spiders den got it
+[00:19:53] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: wait but like
+[00:19:59] [Client thread/INFO]: [CHAT] [161] ? §b[MVP§6+§b] sugarcandycane2§f: what actually is the chcolate factory
+[00:20:04] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: idk
+[00:20:19] [Client thread/INFO]: [CHAT] [119] ? §b[MVP] Thunder_Man§f: Buying Harlequin Flying Fish for 85m PER /p me <<<<<<<<<<<<<<<<<<<
+[00:20:32] [Client thread/INFO]: [CHAT] 
+[00:20:32] [Client thread/INFO]: [CHAT] §6§k§lA§r §c§lFIRE SALE §r§6§k§lA
+§c? §eSelling an item for a limited time!
+§c   ? §dHarlequin Flying Fish Skin §e(§61,395 left§e)§c
+§c? §a§l[WARP] §eTo Elizabeth in the next §c3d 23h 39m §eto grab yours!
+[00:20:32] [Client thread/INFO]: [CHAT] 
+[00:20:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:20:54] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: do the fish skins cost RL money??
+[00:21:01] [Client thread/INFO]: [CHAT] [2] §7cretloll§7: yes
+[00:21:09] [Client thread/INFO]: [CHAT] [10] §7ex16onlaptop§7: ew
+[00:21:11] [Client thread/INFO]: [CHAT] Finding player...
+[00:21:13] [Client thread/INFO]: [CHAT] [2] §7cretloll§7: fr
+[00:21:14] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:21:14] [Client thread/INFO]: [CHAT] Sending to server mini148R...
+[00:21:15] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:21:15] [Client thread/INFO]: [CHAT]        
+[00:21:15] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini148R', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:21:16] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:21:18] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:21:18] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:21:22] [Client thread/INFO]: [CHAT] Sending to server mini62P...
+[00:21:22] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:21:22] [Client thread/INFO]: [CHAT]        
+[00:21:22] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini62P', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:21:23] [DefaultDispatcher-worker-9/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini62P, serverTime=66000, type=KhazadDum, x=389, y=63, z=225)
+[00:21:25] [Client thread/INFO]: [CHAT] This ability is on cooldown for 5s.
+[00:21:26] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:21:26] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:21:30] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on top of the Crystal Nucleus!
+[00:21:31] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fMarlow §7(§F§LCOMMON§7)!
+[00:21:31] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:21:31] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:21:31] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:21:31] [Client thread/INFO]: [CHAT]                     BETTER TOGETHER STARTED!
+[00:21:31] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[00:21:31] [Client thread/INFO]: [CHAT]                                         
+[00:21:31] [Client thread/INFO]: [CHAT]      The Better Together festival is underway! Dwarves love
+[00:21:31] [Client thread/INFO]: [CHAT]    working together, and this event celebrates friendship and
+[00:21:31] [Client thread/INFO]: [CHAT]                              jolly cooperation.
+[00:21:31] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[00:21:31] [Client thread/INFO]: [CHAT] You can hear cooperative chattering coming from town…
+[00:21:31] [Client thread/INFO]: [CHAT] The Better Together festival is active for 20 minutes!
+[00:21:39] [DefaultDispatcher-worker-3/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini62P, serverTime=73020, type=GoblinQueensDen, x=277, y=97, z=589)
+[00:22:07] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:32]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@504ad05d
+[00:22:09] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:32]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@504ad05d
+[00:22:23] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:22:43] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:32]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@504ad05d
+[00:22:46] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.SoundUtils:playSound$lambda$1:32]: SkyHanni Sound error: value already present: at.hannibal2.skyhanni.utils.SoundUtils$createSound$sound$1@504ad05d
+[00:22:58] [Client thread/INFO]: [CHAT] Guild > RachieCutie left.
+[00:23:31] [Client thread/INFO]: [CHAT]  ? Dingdonjg150 burned to death.
+[00:23:38] [Client thread/INFO]: [CHAT] [209] §b[MVP§c+§b] gbt234§f: looking for g drag coords paying 5m p me
+[00:23:40] [Client thread/INFO]: [CHAT] [28] ? §7eyczo§7: what is bal's respawn time
+[00:23:49] [Client thread/INFO]: [CHAT] [196] ? §a[VIP§6+§a] MrEnes0§f: 5 mins
+[00:24:03] [Client thread/INFO]: [CHAT] [28] ? §7eyczo§7: naber enes
+[00:24:08] [Client thread/INFO]: [CHAT] [196] ? §a[VIP§6+§a] MrEnes0§f: iyi
+[00:24:22] [Client thread/INFO]: [CHAT] Guild > Maybethecrazyone left.
+[00:24:31] [Client thread/INFO]: [CHAT] [28] ? §7eyczo§7: ben nas?l?m
+[00:24:33] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b2m 6s§e.
+[00:24:44] [Client thread/INFO]: [CHAT]  ? nothyy was killed by Yog.
+[00:25:04] [DefaultDispatcher-worker-1/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini62P, serverTime=78000, type=Corleone, x=491, y=94, z=239)
+[00:25:48] [Client thread/INFO]: [CHAT] [28] ? §7eyczo§7: negative50 are you sure you can hit
+[00:26:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[00:26:47] [Client thread/INFO]: [CHAT] This ability is on cooldown for 5s.
+[00:26:53] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg next to a lava waterfall!
+[00:26:54] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fBronson §7(§F§LCOMMON§7)!
+[00:26:54] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:26:54] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:26:57] [Client thread/INFO]: [CHAT] You earned 15 GEXP + 169 Event EXP from playing SkyBlock!
+[00:27:02] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:27:02] [Client thread/INFO]: [CHAT]                            Top Guild Experience                            06/29/2024 (today)
+[00:27:02] [Client thread/INFO]: [CHAT] 1. 16thGarden 51,916 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 2. [MVP+] RachieCutie 37,594 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 3. Adidani 22,687 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 4. Fishhub 21,852 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 5. [VIP] Eric3131 18,710 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 6. [MVP+] Gnasez 17,049 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 7. [VIP] TheDonLover 16,065 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 8. [VIP+] MrFancyShirt 15,273 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 9. [VIP+] pipapolalala 15,176 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] 10. [MVP+] Parriwis 14,833 Guild Experience
+[00:27:02] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:27:04] [Client thread/INFO]: [CHAT] Guild > FlamingBears left.
+[00:27:16] [Client thread/INFO]: [CHAT] Warping...
+[00:27:16] [Client thread/INFO]: [CHAT] Sending to server mini79DW...
+[00:27:16] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:27:17] [Client thread/INFO]: [CHAT]        
+[00:27:17] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini79DW', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:27:20] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:27:20] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:27:38] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe joined.
+[00:28:17] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:28:23] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: i found liquidpoop
+[00:28:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: i remember that guy
+[00:28:40] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe left.
+[00:29:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: doing fpt sheet made me know all names of guild members
+[00:29:26] [Client thread/INFO]: [CHAT] You bought Enchanted Book!
+[00:29:26] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (2)
+[00:29:27] [Client thread/INFO]: [CHAT] You bought Enchanted Book!§7 (3)
+[00:29:43] [Client thread/INFO]: [CHAT] Guild > Maybethecrazyone joined.
+[00:29:48] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:29:48] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:29:48] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:29:48] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: its not a very bountiful day for meeting new fishers
+[00:30:02] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:30:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3x Hecatomb I for 24,000,000 coins!
+[00:30:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: er mer god
+[00:30:08] [Client thread/INFO]: [CHAT] You earned 7 GEXP + 83 Event EXP from playing SkyBlock!
+[00:30:12] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:30:13] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Booster Cookie for 12,068,999 coins!
+[00:30:14] [Client thread/INFO]: [CHAT] You consumed a Booster Cookie! 
+[00:30:36] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage13.
+[00:30:36] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:30:36] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:30:37] [DefaultDispatcher-worker-13/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini62P, serverTime=84020, type=JungleTemple, x=167, y=108, z=184)
+[00:30:41] [Client thread/INFO]: [CHAT] Jax forged Bouncy Arrow x64!
+[00:30:44] [Client thread/INFO]: [CHAT] Jax forged Bouncy Arrow x235!
+[00:30:48] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage13.
+[00:30:48] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:30:48] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:30:59] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:30:59] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:30:59] [SkyblockAddons - #37/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:31:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: kill
+[00:31:08] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b1m 21s§e.
+[00:31:30] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: where can i buy spider talisman?
+[00:31:47] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: ah?
+[00:32:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:32:09] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Poison Sample for 10,653,400 coins!
+[00:32:31] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Dinner Egg has appeared!
+[00:32:34] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:32:34] [Client thread/INFO]: [CHAT] [MVP+] Shrouzr joined the guild!
+[00:32:34] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:32:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: welcome
+[00:32:39] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: any other possible way? its droppin from spiders?
+[00:32:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: welcome
+[00:32:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: Sup
+[00:32:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: /g discord to join the discord
+[00:33:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: where is everyone else rn
+[00:33:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: ill spend the next week or two with fishing so this is a pleasure
+[00:33:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: 10 online 2 welcomes smh smh
+[00:33:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: mh
+[00:33:19] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: either buy from ah or kill the broodmother
+[00:33:23] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: its at the top of the hill
+[00:33:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: im zoned out
+[00:33:29] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: or mountain
+[00:33:31] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: thingy
+[00:33:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: why
+[00:33:34] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: what happend
+[00:33:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: Ngl rod of the legends is the stupidest grind ive did in my skyblock life
+[00:33:37] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: i understand :D
+[00:33:37] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: thx
+[00:33:40] [Client thread/INFO]: [CHAT] Guild > IMainFishing joined.
+[00:33:41] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: mhm
+[00:33:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: but since rod of the sea its been chill to fish
+[00:33:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: lmao
+[00:33:49] [Client thread/INFO]: [CHAT] [155] ? §b[MVP§d+§b] NovaBurst8§f: i think i have extras if u just want mine
+[00:33:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: bro its 700k coins, on ironman it takes 20+ hours
+[00:34:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: damn
+[00:34:17] [Client thread/INFO]: [CHAT] §e[SkyHanni] §b+4 SkyBlock XP §7(Accessory Bag§7)§b (6/100)
+[00:34:17] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: how to get quartz??
+[00:34:27] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: i wouldnt mind if u would sell it/give it to me
+[00:34:28] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: wait until the vial grind
+[00:34:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: lol
+[00:34:34] [DefaultDispatcher-worker-4/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHWaypoint(serverId=mini62P, serverTime=89000, type=KhazadDum, x=394, y=71, z=252)
+[00:34:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: i hate my life..
+[00:34:46] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: or buy it
+[00:34:47] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: i found a good inking lobby anyone wanna join
+[00:34:48] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: but i cant craft anything with it if i havent unlocked it yet thou
+[00:34:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: all ive done is fihs
+[00:34:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: for a week
+[00:35:04] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: damn lvl 22 thats so hard to do
+[00:35:04] [Client thread/INFO]: [CHAT] §e[SkyHanni] Talk to Maxwell and open the Tuning Page again to update the tuning data in scoreboard.
+[00:35:04] [Client thread/INFO]: [CHAT] Your Tuning Points were auto-assigned as convenience!
+[00:35:09] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: yea
+[00:35:11] [Client thread/INFO]: [CHAT] You earned 40 GEXP + 416 Event EXP from playing SkyBlock!
+[00:35:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: yet still
+[00:35:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: no gdrag
+[00:35:17] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: :(
+[00:35:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Kayotogon §3[GM]§f: L
+[00:35:25] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: is it possible with a minion??
+[00:35:39] [Client thread/INFO]: [CHAT] You selected the Forceful power for your Accessory Bag!
+[00:35:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: but hey
+[00:35:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: nearm ax flash
+[00:35:45] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: at least
+[00:35:53] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[00:36:07] [Client thread/INFO]: [CHAT] You selected the Fortuitous power for your Accessory Bag!
+[00:36:25] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: its possible to achieve it, but i dont see the minion anywhere in ah
+[00:36:42] [Client thread/INFO]: [CHAT] You summoned your Rabbit!
+[00:36:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] DuplexI §3[EGG]§f: whats the difference between spiders den rain and spiders den thunder?
+[00:36:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: Gnasez
+[00:37:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: me
+[00:37:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: ive got an ironman friend thats done with fishes
+[00:37:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: he told me ill be crafting 2000 rods
+[00:37:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: so i guess thats the worst part
+[00:37:15] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: like u have to craft it with quartz, but u dont have unlocked the recipe
+[00:37:26] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:37:26] [Client thread/INFO]: [CHAT] [Bazaar] Sold 10x Glacite for 610.0 coins!
+[00:37:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] Gnasez §3[MOD]§f: yeah
+[00:37:44] [Client thread/INFO]: [CHAT] [19] §7solllumm §7?§7: do bestiary
+[00:37:51] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: like the thing that hypixel doesnt allow me to write
+[00:37:52] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:37:52] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:37:52] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:37:56] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:37:56] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:37:56] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:38:02] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: yea, bestiary gives good amoumt of exp
+[00:38:04] [Client thread/INFO]: [CHAT] You summoned your Slug!
+[00:38:10] [Client thread/INFO]: [CHAT] You summoned your Snail!
+[00:38:11] [Client thread/INFO]: [CHAT]  ? frytek17 was killed by Crypt Ghoul.
+[00:38:24] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: just kill every kind of entity?
+[00:38:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: Wyhn damn
+[00:38:45] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Shrouzr §3[EGG]§f: wc
+[00:38:54] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:38:54] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:38:54] [SkyblockAddons - #38/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:38:58] [Client thread/INFO]: [CHAT] Guild > IMainFishing left.
+[00:38:59] [Client thread/INFO]: [CHAT] Guild > IMainFishing joined.
+[00:39:29] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: i see
+[00:39:38] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: bestiary only gives u exp every 10 lvls right?
+[00:39:48] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: or theres more other than those every 10 lvls
+[00:40:09] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:40:09] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:40:09] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:40:15] [Client thread/INFO]: [CHAT] You earned 42 GEXP + 439 Event EXP from playing SkyBlock!
+[00:40:31] [Client thread/INFO]: [CHAT] 
+[00:40:31] [Client thread/INFO]: [CHAT] §6§k§lA§r §c§lFIRE SALE §r§6§k§lA
+§c? §eSelling an item for a limited time!
+§c   ? §dHarlequin Flying Fish Skin §e(§c640 left§e)§c
+§c? §a§l[WARP] §eTo Elizabeth in the next §c3d 23h 19m §eto grab yours!
+[00:40:31] [Client thread/INFO]: [CHAT] 
+[00:40:39] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:40:39] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:40:39] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:40:41] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: yea, but it is still worth
+[00:40:46] [DefaultDispatcher-worker-5/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketCHReset(serverId=mini141CH)
+[00:40:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:40:52] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage14.
+[00:40:52] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:40:52] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:40:57] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:40:57] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:40:57] [SkyblockAddons - #39/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:41:01] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg in the Bazaar Alley!
+[00:41:02] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fQuentin §7(§F§LCOMMON§7)!
+[00:41:02] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:41:02] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:41:07] [Client thread/INFO]: [CHAT] This ability is on cooldown for 4s.
+[00:41:12] [Client thread/INFO]: [CHAT] [37] §b[MVP] Eriizabesu§f: every 5 levels ig not 10
+[00:41:12] [Client thread/INFO]: [CHAT] This ability is on cooldown for 5s.
+[00:41:23] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on the emerald altar!
+[00:41:24] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §9Tornado §7(§9§LRARE§7)!
+[00:41:24] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+4 Chocolate §7and §6+0.004x Chocolate §7per second!
+[00:41:24] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:41:30] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b5m 9s§e.
+[00:42:01] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:42:01] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:42:01] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:42:10] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:42:10] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:42:10] [SkyblockAddons - #40/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:43:16] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage2.
+[00:43:16] [SkyblockAddons - #41/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:43:16] [SkyblockAddons - #41/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:43:16] [Client thread/INFO]: [CHAT] [19] §7DRANOXY§7: ty!
+[00:43:39] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[00:43:40] [Client thread/INFO]: [CHAT] Sending to server mini12AV...
+[00:43:40] [Netty Client IO #6/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:43:41] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini12AV', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:43:41] [Client thread/INFO]: [CHAT]        
+[00:43:44] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:43:44] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:43:52] [Client thread/ERROR]: Signature is missing from textures payload
+[00:43:52] [Client thread/ERROR]: Signature is missing from textures payload
+[00:43:52] [Netty Client IO #6/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:43:52] [DefaultDispatcher-worker-8/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:43:52] [Client thread/INFO]: Applying holder lookups
+[00:43:52] [Client thread/INFO]: Holder lookups applied
+[00:43:53] [Client thread/ERROR]: Signature is missing from textures payload
+[00:43:53] [Client thread/ERROR]: Signature is missing from textures payload
+[00:43:54] [Client thread/INFO]: Stopping!
+[00:43:54] [Client thread/INFO]: SoundSystem shutting down...
+[00:43:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

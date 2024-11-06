@@ -1,0 +1,796 @@
+[21:25:36] [main/INFO]: Loading Minecraft 1.20.4 with Fabric Loader 0.15.7
+[21:25:36] [main/INFO]: Loading 72 mods:
+	- advanced-xray-fabric 84.0.0
+	- appleskin 2.5.1+mc1.20.3
+	   \-- cloth-config 13.0.114
+	        \-- cloth-basic-math 0.6.1
+	- carpet 1.4.128+v231205
+	- entityculling 1.6.3.1
+	- essential-container 1.0.0
+	   \-- essential-loader 1.2.1
+	- fabric-api 0.96.4+1.20.4
+	   |-- fabric-api-base 0.4.36+78d798af4f
+	   |-- fabric-api-lookup-api-v1 1.6.49+82b1bb3e4f
+	   |-- fabric-biome-api-v1 13.0.16+78d798af4f
+	   |-- fabric-block-api-v1 1.0.16+3e2216cb4f
+	   |-- fabric-block-view-api-v2 1.0.4+78d798af4f
+	   |-- fabric-blockrenderlayer-v1 1.1.46+78d798af4f
+	   |-- fabric-client-tags-api-v1 1.1.7+78d798af4f
+	   |-- fabric-command-api-v1 1.2.41+f71b366f4f
+	   |-- fabric-command-api-v2 2.2.20+78d798af4f
+	   |-- fabric-commands-v0 0.2.58+df3654b34f
+	   |-- fabric-containers-v0 0.1.86+df3654b34f
+	   |-- fabric-content-registries-v0 5.0.14+78d798af4f
+	   |-- fabric-convention-tags-v1 1.5.10+78d798af4f
+	   |-- fabric-crash-report-info-v1 0.2.23+78d798af4f
+	   |-- fabric-data-attachment-api-v1 1.1.3+b90db5744f
+	   |-- fabric-data-generation-api-v1 13.2.3+5c0133444f
+	   |-- fabric-dimensions-v1 2.1.61+78d798af4f
+	   |-- fabric-entity-events-v1 1.6.1+09fc25014f
+	   |-- fabric-events-interaction-v0 0.7.1+389931eb4f
+	   |-- fabric-events-lifecycle-v0 0.2.74+df3654b34f
+	   |-- fabric-game-rule-api-v1 1.0.46+78d798af4f
+	   |-- fabric-item-api-v1 2.2.0+d6f2b0844f
+	   |-- fabric-item-group-api-v1 4.0.25+58f8c0124f
+	   |-- fabric-key-binding-api-v1 1.0.41+78d798af4f
+	   |-- fabric-keybindings-v0 0.2.39+df3654b34f
+	   |-- fabric-lifecycle-events-v1 2.3.0+a67ffb5d4f
+	   |-- fabric-loot-api-v2 2.1.8+78d798af4f
+	   |-- fabric-message-api-v1 6.0.5+78d798af4f
+	   |-- fabric-mining-level-api-v1 2.1.64+78d798af4f
+	   |-- fabric-model-loading-api-v1 1.0.8+78d798af4f
+	   |-- fabric-models-v0 0.4.7+9386d8a74f
+	   |-- fabric-networking-api-v1 3.1.7+2e5ac5484f
+	   |-- fabric-object-builder-api-v1 13.0.13+080016e44f
+	   |-- fabric-particles-v1 1.1.7+78d798af4f
+	   |-- fabric-recipe-api-v1 2.0.20+78d798af4f
+	   |-- fabric-registry-sync-v0 4.0.19+58f8c0124f
+	   |-- fabric-renderer-api-v1 3.2.4+78d798af4f
+	   |-- fabric-renderer-indigo 1.5.4+78d798af4f
+	   |-- fabric-renderer-registries-v1 3.2.53+df3654b34f
+	   |-- fabric-rendering-data-attachment-v1 0.3.42+73761d2e4f
+	   |-- fabric-rendering-fluids-v1 3.1.1+e761c6694f
+	   |-- fabric-rendering-v0 1.1.56+df3654b34f
+	   |-- fabric-rendering-v1 3.2.0+6fd945a04f
+	   |-- fabric-resource-conditions-api-v1 2.3.14+78d798af4f
+	   |-- fabric-resource-loader-v0 0.11.19+58f8c0124f
+	   |-- fabric-screen-api-v1 2.0.17+78d798af4f
+	   |-- fabric-screen-handler-api-v1 1.3.55+78d798af4f
+	   |-- fabric-sound-api-v1 1.0.17+78d798af4f
+	   |-- fabric-transfer-api-v1 4.0.11+e84342304f
+	   \-- fabric-transitive-access-wideners-v1 5.0.14+78d798af4f
+	- fabricloader 0.15.7
+	   \-- mixinextras 0.3.5
+	- java 17
+	- litematica 0.17.0
+	- lithium 0.12.1
+	- logical_zoom 0.0.22
+	- malilib 0.18.1
+	- minecraft 1.20.4
+	- minihud 0.30.2
+	- nvidium 0.2.6-beta
+	- rebind_narrator 2.0.2
+	- sodium 0.5.8+mc1.20.4
+	- tweakeroo 0.19.2
+[21:25:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/Miguel%20Leyesa/AppData/Roaming/.minecraft/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[21:25:37] [main/INFO]: Compatibility level set to JAVA_17
+[21:25:37] [main/INFO]: Loaded configuration file for Lithium: 129 options available, 0 override(s) found
+[21:25:38] [main/INFO]: Loaded configuration file for Sodium: 42 options available, 0 override(s) found
+[21:25:40] [main/INFO]: Starting Essential Loader (stage2) version 1.4.1+fabric-1.20.4 (9cbd42842e1a0f4db9463ba79962010f) [stable]
+[21:25:41] [main/INFO]: Starting Essential v1.3.1.2 (#7ed10f42d2) [stable]
+[21:25:41] [main/INFO]: Java: OpenJDK 64-Bit Server VM (v17.0.8) by Microsoft (Microsoft)
+[21:25:41] [main/INFO]: Java Path: C:\Users\Miguel Leyesa\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\java-runtime-gamma\windows-x64\java-runtime-gamma\bin
+[21:25:41] [main/INFO]: Java Info: mixed mode
+[21:25:41] [main/INFO]: JVM Arguments: 
+  - -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  - -Djava.library.path=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Djna.tmpdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dorg.lwjgl.system.SharedLibraryExtractPath=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dio.netty.native.workdir=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\bin\cc9d3839148d498f98557594755fb8ae999dc26b
+  - -Dminecraft.launcher.brand=minecraft-launcher
+  - -Dminecraft.launcher.version=2.20.2
+  - -DFabricMcEmu= net.minecraft.client.main.Main 
+  - -Xmx4G
+  - -XX:+UnlockExperimentalVMOptions
+  - -XX:+UseG1GC
+  - -XX:G1NewSizePercent=20
+  - -XX:G1ReservePercent=20
+  - -XX:MaxGCPauseMillis=50
+  - -XX:G1HeapRegionSize=32M
+  - -Dlog4j.configurationFile=C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\assets\log_configs\client-1.12.xml
+[21:25:41] [main/INFO]: OS: Windows 11 (v10.0) (Arch: amd64)
+[21:25:42] [main/INFO]: Searching for graphics cards...
+[21:25:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[21:25:42] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=NVIDIA GeForce RTX 3050 Laptop GPU, version=DriverVersion=31.0.15.4629]
+[21:25:42] [main/INFO]: Found graphics card: GraphicsAdapterInfo[vendor=INTEL, name=Intel(R) UHD Graphics, version=DriverVersion=30.0.100.9864]
+[21:25:42] [main/WARN]: Sodium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[21:25:42] [main/WARN]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:25:48] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[21:25:51] [Datafixer Bootstrap/INFO]: 198 Datafixer optimizations took 337 milliseconds
+[21:25:55] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:25:55] [Render thread/INFO]: Setting user: 16thGarden
+[21:25:56] [Render thread/INFO]: Starting DI!
+[21:25:56] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[21:25:56] [DefaultDispatcher-worker-1/INFO]: Connecting to Essential Connection Manager...
+[21:25:56] [DefaultDispatcher-worker-1/INFO]: Using Default JreDnsResolver
+[21:25:56] [DefaultDispatcher-worker-1/INFO]: Using Default JreSocketFactory
+[21:25:56] [Render thread/INFO]: XRay mod has been initialized
+[21:25:57] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[21:25:57] [Render thread/INFO]: OptiFine not detected.
+[21:25:57] [WebSocketConnectReadThread-74/INFO]: Connected to Essential Connection Manager.
+[21:25:57] [Render thread/INFO]: Backend library: LWJGL version 3.3.2-snapshot
+[21:25:57] [Render thread/WARN]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[21:25:58] [Render thread/INFO]: All capabilities met
+[21:25:58] [Render thread/INFO]: Enabling Nvidium
+[21:25:58] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[21:25:58] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3050 Laptop GPU/PCIe/SSE2
+[21:25:58] [Render thread/INFO]: OpenGL Version: 3.2.0 NVIDIA 546.29
+[21:25:58] [Render thread/WARN]: Pack file/coffee totem declared support for versions [16, 22] but declared main format is 9, defaulting to 9
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: org.objectweb.asm.tree.analysis.AnalyzerException: Error at instruction 137: Trying to set an inexistant local variable 9
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:279)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.generateLocalVariableTable(Locals.java:859)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getGeneratedLocalVariableTable(Locals.java:828)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:782)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalVariableAt(Locals.java:752)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:529)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.util.Locals.getLocalsAt(Locals.java:336)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.initLocals(LocalVariableDiscriminator.java:154)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.LocalVariableDiscriminator$Context.<init>(LocalVariableDiscriminator.java:148)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector$Context.<init>(ModifyVariableInjector.java:71)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.modify.ModifyVariableInjector.preInject(ModifyVariableInjector.java:159)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.code.Injector.preInject(Injector.java:258)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.preInject(InjectionInfo.java:436)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1370)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.universal.UGraphics.<clinit>(UGraphics.java:774)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at gg.essential.elementa.components.UIImage._init_$lambda-1(UIImage.kt:60)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: Caused by: java.lang.IndexOutOfBoundsException: Trying to set an inexistant local variable 9
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.setLocal(Frame.java:208)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Frame.execute(Frame.java:337)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	at org.objectweb.asm.tree.analysis.Analyzer.analyze(Analyzer.java:171)
+[21:25:59] [ForkJoinPool.commonPool-worker-1/INFO]: [STDERR]: 	... 35 more
+[21:26:01] [Render thread/INFO]: Reloading ResourceManager: vanilla, fabric, advanced-xray-fabric, appleskin, carpet, cloth-config, entityculling, essential, essential-container, essential-loader, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-containers-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-events-lifecycle-v0, fabric-game-rule-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-message-api-v1, fabric-mining-level-api-v1, fabric-model-loading-api-v1, fabric-models-v0, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, litematica, lithium, logical_zoom, malilib, minihud, nvidium, sodium, tweakeroo, file/VisibleAncientDebris.zip, file/! §ddefrosted §8[§f16x§8] 1.16.zip, file/coffee totem, essential
+[21:26:01] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[21:26:01] [Render thread/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack C:\Users\Miguel Leyesa\AppData\Roaming\.minecraft\resourcepacks\VisibleAncientDebris.zip, ignoring
+[21:26:01] [Worker-Main-1/INFO]: Found unifont_all_no_pua-15.1.04.hex, loading
+[21:26:02] [Worker-Main-7/WARN]: Invalid path in datapack: minecraft:textures/block/.DS_Store, ignoring
+[21:26:02] [Render thread/INFO]: Client started, setting up xray store
+[21:26:03] [DefaultDispatcher-worker-15/INFO]: Connected to Discord as starbuckslarge
+[21:26:04] [Render thread/WARN]: Skipped language file: minecraft:lang/en_us.json (com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1707 column 45 path $.item.minecraft.debug_stick.update)
+[21:26:05] [Render thread/WARN]: Missing sound for event: minecraft:item.goat_horn.play
+[21:26:05] [Render thread/WARN]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[21:26:05] [Render thread/WARN]: Missing sound for event: minecraft:entity.generic.wind_burst
+[21:26:05] [Render thread/INFO]: OpenAL initialized on device OpenAL Soft on Speakers (Razer Kraken Kitty Edition)
+[21:26:05] [Render thread/INFO]: Sound engine started
+[21:26:05] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:26:05] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[21:26:05] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:26:05] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[21:26:07] [Render thread/WARN]: Shader cabb2374eda405e66b897908637abd1da5deac52 could not find uniform named subpixel_amount in the specified shader program.
+[21:27:40] [Render thread/INFO]: Connecting to node05-sg.agilahost.com, 25565
+[21:27:43] [Netty Client IO #9/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[21:27:43] [Netty Client IO #9/WARN]: Unknown custom packet payload: chunky:border
+[21:27:43] [Netty Client IO #9/WARN]: Unknown custom packet payload: chunky:border
+[21:27:43] [Netty Client IO #9/WARN]: Unknown custom packet payload: chunky:border
+[21:27:43] [Netty Client IO #9/WARN]: Unknown custom packet payload: chunky:border
+[21:27:44] [Netty Client IO #9/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[21:27:44] [Render thread/INFO]: Started 6 worker threads
+[21:27:45] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[21:27:45] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: west with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: east with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: south with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:45] [Render thread/WARN]: Unable to read property: north with value: false for blockstate: {Name:"minecraft:mossy_cobblestone_wall",Properties:{east:"false",north:"false",south:"false",up:"false",west:"false"}}
+[21:27:46] [Render thread/INFO]: Joined carpet server with matching carpet version
+[21:27:46] [Render thread/INFO]: Loaded 15 advancements
+[21:27:46] [Render thread/INFO]: Stopping worker threads
+[21:27:46] [Render thread/INFO]: Started 6 worker threads
+[21:28:13] [Render thread/INFO]: Loaded 24 advancements
+[21:29:13] [Render thread/INFO]: Loaded 193 advancements
+[21:29:20] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> WAG KAYO PUMUNTA SA EAST NG MAPA
+[21:29:21] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> WHAAHAHAHA
+[21:29:23] [Render thread/INFO]: Loaded 204 advancements
+[21:29:25] [Render thread/INFO]: Loaded 211 advancements
+[21:29:26] [Render thread/INFO]: Loaded 214 advancements
+[21:29:35] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> WILD EAST
+[21:30:19] [CullThread/INFO]: [STDERR]: java.lang.ArrayIndexOutOfBoundsException: Index 332 out of bounds for length 257
+[21:30:19] [CullThread/INFO]: [STDERR]: 	at it.unimi.dsi.fastutil.ints.Int2ObjectLinkedOpenHashMap$MapIterator.nextEntry(Int2ObjectLinkedOpenHashMap.java:1183)
+[21:30:19] [CullThread/INFO]: [STDERR]: 	at it.unimi.dsi.fastutil.ints.Int2ObjectLinkedOpenHashMap$ValueIterator.next(Int2ObjectLinkedOpenHashMap.java:1689)
+[21:30:19] [CullThread/INFO]: [STDERR]: 	at com.google.common.collect.Iterators$1.next(Iterators.java:146)
+[21:30:19] [CullThread/INFO]: [STDERR]: 	at dev.tr7zw.entityculling.CullTask.cullEntities(CullTask.java:90)
+[21:30:19] [CullThread/INFO]: [STDERR]: 	at dev.tr7zw.entityculling.CullTask.run(CullTask.java:71)
+[21:30:19] [CullThread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[21:31:01] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ALL ROADS LEAD TO SUEZ
+[21:31:03] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> NOT NEW ROME
+[21:31:11] [Render thread/INFO]: [System] [CHAT] <Vynlazer> ALL ROADS LEAD TO TONDO
+[21:31:18] [Render thread/INFO]: Loaded 231 advancements
+[21:31:43] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> MarkUnderMark bisaya
+[21:31:44] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> MarkUnderMark bisaya
+[21:31:44] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> MarkUnderMark bisaya
+[21:31:55] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> friendly fire
+[21:31:56] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> friendly fire
+[21:32:02] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bisakol
+[21:32:03] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bisakol
+[21:32:14] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Stone Age]
+[21:32:14] [Render thread/INFO]: Loaded 259 advancements
+[21:32:18] [Render thread/INFO]: Loaded 267 advancements
+[21:32:26] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Getting an Upgrade]
+[21:32:26] [Render thread/INFO]: Loaded 271 advancements
+[21:32:30] [Render thread/INFO]: Loaded 274 advancements
+[21:32:48] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> CHECK MO CHEST
+[21:32:49] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> NO IDEA
+[21:32:51] [Render thread/INFO]: Loaded 275 advancements
+[21:32:51] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> I DONT MINE
+[21:33:07] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> NO DATAPACKS
+[21:33:45] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> no
+[21:33:46] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> no
+[21:33:47] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> fuck no
+[21:33:53] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> suffer
+[21:33:53] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> suffer
+[21:33:55] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wag
+[21:33:59] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> no tps
+[21:34:02] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> no tp
+[21:34:03] [Render thread/INFO]: Loaded 276 advancements
+[21:34:03] [Render thread/INFO]: Loaded 277 advancements
+[21:34:05] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> no shop
+[21:34:07] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> no one man sleep
+[21:34:16] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Acquire Hardware]
+[21:34:16] [Render thread/INFO]: Loaded 304 advancements
+[21:34:43] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Isn't It Iron Pick]
+[21:34:43] [Render thread/INFO]: Loaded 308 advancements
+[21:34:46] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> dont travel east unless you are prepared
+[21:35:18] [Render thread/INFO]: [System] [CHAT] Vynlazer was shot by Skeleton
+[21:35:58] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Monster Hunter]
+[21:35:58] [Render thread/INFO]: Loaded 341 advancements
+[21:36:01] [Render thread/INFO]: Loaded 342 advancements
+[21:36:05] [Render thread/INFO]: [System] [CHAT] AnxiousPotato joined the game
+[21:36:27] [Render thread/INFO]: Loaded 342 advancements
+[21:36:44] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> hot potato lag
+[21:38:10] [Render thread/INFO]: Loaded 344 advancements
+[21:39:09] [Render thread/INFO]: Loaded 353 advancements
+[21:39:36] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bakit daw puro bisaya sa memedustry
+[21:39:52] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Stone Age]
+[21:39:54] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[21:40:10] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[21:40:32] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Getting an Upgrade]
+[21:41:23] [Render thread/INFO]: [System] [CHAT] Vynlazer has made the advancement [Monster Hunter]
+[21:41:51] [Render thread/INFO]: [System] [CHAT] Vynlazer was slain by Zombie Villager
+[21:41:55] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[21:42:07] [Render thread/INFO]: Loaded 359 advancements
+[21:42:20] [Render thread/INFO]: Loaded 359 advancements
+[21:42:21] [Render thread/INFO]: Loaded 361 advancements
+[21:42:28] [Render thread/INFO]: Loaded 362 advancements
+[21:42:32] [Render thread/INFO]: Loaded 363 advancements
+[21:43:00] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[21:43:32] [Render thread/INFO]: Loaded 363 advancements
+[21:43:39] [Render thread/INFO]: Loaded 364 advancements
+[21:43:39] [Render thread/INFO]: Loaded 367 advancements
+[21:44:09] [Render thread/INFO]: Loaded 384 advancements
+[21:44:17] [Render thread/INFO]: Loaded 384 advancements
+[21:44:46] [Render thread/INFO]: Loaded 386 advancements
+[21:44:46] [Render thread/INFO]: Loaded 389 advancements
+[21:44:51] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> GUYS
+[21:44:54] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> WAG MUNA KAYO MAG MINE
+[21:44:58] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> MAG /KILL AKO
+[21:45:30] [Render thread/INFO]: Loaded 389 advancements
+[21:46:07] [Render thread/INFO]: Loaded 389 advancements
+[21:46:17] [Render thread/INFO]: Loaded 391 advancements
+[21:46:21] [Render thread/INFO]: [System] [CHAT] AnxiousPotato left the game
+[21:46:27] [Render thread/INFO]: Loaded 393 advancements
+[21:46:28] [Render thread/INFO]: [System] [CHAT] AnxiousPotato joined the game
+[21:47:43] [Render thread/INFO]: [System] [CHAT] AnxiousPotato left the game
+[21:47:49] [Render thread/INFO]: [System] [CHAT] AnxiousPotato joined the game
+[21:48:03] [Render thread/INFO]: Loaded 394 advancements
+[21:48:31] [Render thread/INFO]: Loaded 395 advancements
+[21:48:39] [Render thread/INFO]: Loaded 396 advancements
+[21:49:44] [Render thread/INFO]: Loaded 401 advancements
+[21:49:56] [Render thread/INFO]: Loaded 404 advancements
+[21:51:05] [Render thread/INFO]: [System] [CHAT] MarkUnderMark has made the advancement [We Need to Go Deeper]
+[21:51:54] [Render thread/INFO]: [System] [CHAT] Vynlazer was shot by Skeleton
+[21:52:09] [Render thread/INFO]: Loaded 407 advancements
+[21:52:52] [Render thread/INFO]: [System] [CHAT] MarkUnderMark has completed the challenge [Return to Sender]
+[21:53:03] [Render thread/INFO]: Loaded 410 advancements
+[21:54:29] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Monster Hunter]
+[21:54:30] [Render thread/INFO]: Loaded 413 advancements
+[21:54:46] [Render thread/INFO]: [System] [CHAT] Vynlazer has made the advancement [Acquire Hardware]
+[21:54:58] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> we have civilization
+[21:55:00] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> by the river
+[21:55:05] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> as according to lore
+[21:55:25] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bedrock racist society
+[21:55:31] [Render thread/INFO]: [System] [CHAT] <Vynlazer> BRS
+[21:55:51] [Render thread/INFO]: Loaded 413 advancements
+[21:55:58] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> Cracked Player Racism
+[21:56:08] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> CPR
+[21:56:14] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> prem gang
+[21:57:02] [Render thread/INFO]: Loaded 413 advancements
+[21:57:04] [Render thread/INFO]: [System] [CHAT] Vynlazer has made the advancement [A Seedy Place]
+[21:57:06] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Not Today, Thank You]
+[21:57:06] [Render thread/INFO]: Loaded 413 advancements
+[21:57:46] [Render thread/INFO]: Loaded 413 advancements
+[21:57:53] [Render thread/INFO]: Loaded 414 advancements
+[21:58:17] [Render thread/INFO]: Loaded 414 advancements
+[21:58:28] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> o/
+[21:58:33] [Render thread/INFO]: [System] [CHAT] <MarkUnderMark> o/
+[21:58:35] [Render thread/INFO]: [System] [CHAT] <Vynlazer> o/
+[21:58:37] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> o/
+[21:58:38] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> o/
+[21:58:42] [Render thread/INFO]: [System] [CHAT] <zachilit> o/
+[21:59:08] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> sieg zeon!!
+[21:59:17] [Render thread/INFO]: [System] [CHAT] <zachilit> o7
+[21:59:19] [Render thread/INFO]: [System] [CHAT] 16thGarden was shot by Skeleton
+[21:59:28] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> o7 normal salute
+[21:59:32] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> o/ roman salute
+[21:59:42] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> aka heil hit***
+[21:59:45] [Render thread/INFO]: [System] [CHAT] <zachilit> nah cuh that the 3rd reich salute
+[21:59:46] [Render thread/INFO]: [System] [CHAT] <Vynlazer> ?
+[21:59:54] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> o/ hail a taxi
+[21:59:55] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> tondo revengers
+[21:59:59] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> o/ hail a taxi in germany
+[22:00:06] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> heil taxi o/
+[22:00:13] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> hindi dapat sieg zeon
+[22:00:29] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> dapat may caloocan sa server
+[22:00:33] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> gagi si xiao pala yung skins
+[22:00:40] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> gagi si xiao pala yung skin
+[22:00:45] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> lemont
+[22:00:53] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> sino kaya yun naka yelan/ganyu yung skin dati
+[22:01:00] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> shhhh
+[22:01:03] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> HWHAHAHA
+[22:01:18] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> parang second job ko na nga genshit
+[22:01:27] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> DAPAT NAGING ACC BOOSTER KANALANG
+[22:01:30] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> TAGA COMMS
+[22:01:34] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> LITERAL 2ND JOB
+[22:01:38] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> may 3 acc akong binoboost
+[22:01:43] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> sali mo akin
+[22:01:54] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bigyan mo lang ako nahida tsaka furina
+[22:02:01] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> hell naw
+[22:02:13] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> immune yan sa ibon
+[22:02:13] [Render thread/INFO]: [System] [CHAT] <zachilit> AnxiousPotato
+[22:02:18] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[22:02:20] [Render thread/INFO]: Loaded 417 advancements
+[22:02:29] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Suit Up]
+[22:02:40] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> ty
+[22:03:01] [Render thread/INFO]: [System] [CHAT] 16thGarden was slain by Spider
+[22:03:06] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> me na gumastos ng 500 pesos para sa optifine cape pero sodium naman ginagamit
+[22:03:33] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[22:04:12] [Render thread/INFO]: [System] [CHAT] MarkUnderMark has made the advancement [Sneak 100]
+[22:04:48] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ganda sana to i-stream kaso marami buzzwords
+[22:05:48] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> nung panahon ni marcos wala pang phantoms sa base ko
+[22:06:07] [Render thread/INFO]: [System] [CHAT] [DISCORD] <AnxiousPotato> \nAttachment:\nimage.png
+[22:06:32] [Render thread/INFO]: Loaded 418 advancements
+[22:06:35] [Render thread/INFO]: [System] [CHAT] <Vynlazer> phantom air raid
+[22:06:59] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> the what lantern
+[22:07:03] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> jack o lantern
+[22:07:06] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> h u h
+[22:07:09] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> jack off lantern
+[22:07:12] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wala
+[22:07:17] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> jakol lantern
+[22:07:34] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was blown up by Creeper
+[22:07:51] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wild east
+[22:07:52] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wild east
+[22:07:52] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wild east
+[22:07:54] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:55] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:56] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:56] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:58] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:58] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:59] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:07:59] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:08:00] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wild east
+[22:08:21] [Render thread/INFO]: Loaded 419 advancements
+[22:09:14] [Render thread/INFO]: Loaded 419 advancements
+[22:09:15] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> tenno heika banzai
+[22:09:19] [Render thread/INFO]: Loaded 419 advancements
+[22:09:35] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> helldivers in minecraft
+[22:09:36] [Render thread/INFO]: [System] [CHAT] MarkUnderMark fell from a high place
+[22:10:03] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[22:10:05] [Render thread/INFO]: Loaded 419 advancements
+[22:10:28] [Render thread/INFO]: Loaded 422 advancements
+[22:10:40] [Render thread/INFO]: Loaded 424 advancements
+[22:10:50] [Render thread/INFO]: Loaded 427 advancements
+[22:11:08] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> 420cc motor yun ah
+[22:11:27] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> 10?
+[22:11:29] [Render thread/INFO]: [System] [CHAT] zachilit has completed the challenge [Hot Tourist Destinations]
+[22:11:33] [Render thread/INFO]: [System] [CHAT] Vynlazer was shot by Skeleton
+[22:11:37] [Render thread/INFO]: Loaded 427 advancements
+[22:12:08] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Suit Up]
+[22:12:08] [Render thread/INFO]: Loaded 427 advancements
+[22:13:07] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> wot
+[22:13:10] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[22:14:31] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> these eastward people so fucking tough
+[22:14:59] [Render thread/INFO]: Loaded 429 advancements
+[22:15:01] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> caelid
+[22:15:02] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> caelid
+[22:15:03] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> caelid
+[22:15:04] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> caelid
+[22:15:04] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> caelid
+[22:15:20] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> caelid
+[22:15:21] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> thought server was gonna restart 15 mins ago?
+[22:15:25] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> server lore - never go east
+[22:15:31] [Render thread/INFO]: Stopping worker threads
+[22:15:31] [Render thread/WARN]: Client disconnected with reason: Disconnected
+[22:16:19] [Netty Client IO #10/ERROR]: Network Exception Caught
+io.netty.handler.timeout.ReadTimeoutException: null
+[22:16:28] [Render thread/ERROR]: Can't ping node05-sg.agilahost.com:25565: Disconnected
+[22:16:32] [Render thread/ERROR]: Can't ping node05-sg.agilahost.com:25565: Disconnected
+[22:16:36] [Netty Client IO #12/ERROR]: Network Exception Caught
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:254) ~[netty-buffer-4.1.97.Final.jar:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.97.Final.jar:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.97.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:16:36] [Render thread/ERROR]: Can't ping node05-sg.agilahost.com:25565: Internal Exception: java.net.SocketException: Connection reset
+[22:16:38] [Render thread/INFO]: Connecting to node05-sg.agilahost.com, 25565
+[22:17:13] [Render thread/INFO]: Connecting to node05-sg.agilahost.com, 25565
+[22:17:17] [Netty Client IO #21/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[22:17:17] [Netty Client IO #21/WARN]: Unknown custom packet payload: chunky:border
+[22:17:17] [Netty Client IO #21/WARN]: Unknown custom packet payload: chunky:border
+[22:17:17] [Netty Client IO #21/WARN]: Unknown custom packet payload: chunky:border
+[22:17:17] [Netty Client IO #21/WARN]: Unknown custom packet payload: chunky:border
+[22:17:17] [Netty Client IO #21/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[22:17:17] [Render thread/INFO]: Started 6 worker threads
+[22:17:17] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[22:17:18] [Render thread/INFO]: Joined carpet server with matching carpet version
+[22:17:23] [Render thread/INFO]: [System] [CHAT] Vynlazer joined the game
+[22:17:25] [Render thread/INFO]: Loaded 429 advancements
+[22:17:34] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Acquire Hardware]
+[22:17:42] [Render thread/INFO]: [System] [CHAT] zachilit joined the game
+[22:17:51] [Render thread/INFO]: Loaded 429 advancements
+[22:18:18] [Render thread/INFO]: Loaded 429 advancements
+[22:19:17] [Render thread/INFO]: Loaded 442 advancements
+[22:19:17] [Render thread/INFO]: Loaded 443 advancements
+[22:19:18] [Render thread/INFO]: Loaded 444 advancements
+[22:19:18] [Render thread/INFO]: Loaded 446 advancements
+[22:20:02] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[22:20:28] [Render thread/INFO]: Loaded 448 advancements
+[22:20:38] [Render thread/INFO]: [System] [CHAT] zachilit has made the advancement [Port o Magma]
+[22:20:41] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> h u h
+[22:20:42] [Render thread/INFO]: [System] [CHAT] Vynlazer has made the advancement [Sweet Dreams]
+[22:20:44] [Render thread/INFO]: [System] [CHAT] <Vynlazer> ???
+[22:21:28] [Render thread/INFO]: [System] [CHAT] zachilit has made the advancement [Into Fire]
+[22:21:50] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> kailangan natin ma melt yung ice sa route sa may suez
+[22:21:54] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> para makabalik ka sa spawnw
+[22:22:05] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> melt
+[22:22:08] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> mas malala
+[22:22:15] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> global warming is not real
+[22:23:13] [Render thread/INFO]: Loaded 450 advancements
+[22:23:21] [Render thread/INFO]: Loaded 451 advancements
+[22:23:30] [Render thread/INFO]: Loaded 453 advancements
+[22:24:34] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> african airdrop
+[22:24:36] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[22:24:40] [Render thread/INFO]: Loaded 453 advancements
+[22:24:52] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo joined the game
+[22:25:07] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wow cuck shed
+[22:25:12] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> anong cock shed
+[22:25:14] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wtf
+[22:25:30] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> check mo yung base ni anxiouspotato
+[22:25:35] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[22:26:52] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> gumawa na rin ng fishing shed
+[22:28:46] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[22:28:58] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> 7 players peak?
+[22:29:03] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> real
+[22:29:17] [Render thread/INFO]: [System] [CHAT] zachilit has made the advancement [Spooky Scary Skeleton]
+[22:29:21] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wala to
+[22:29:26] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> sign na
+[22:29:29] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> griefing stage
+[22:29:32] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo has made the advancement [Fishy Business]
+[22:29:53] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[22:30:09] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[22:30:16] [Render thread/INFO]: [System] [CHAT] qulmvaox joined the game
+[22:30:25] [Render thread/INFO]: [System] [CHAT] zachilit has made the advancement [Hidden in the Depths]
+[22:30:29] [Render thread/INFO]: [System] [CHAT] qulmvaox has made the advancement [We Need to Go Deeper]
+[22:30:30] [Render thread/INFO]: [System] [CHAT] qulmvaox has made the advancement [Port o Magma]
+[22:30:43] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[22:30:49] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> tf is a nether port
+[22:32:02] [Render thread/INFO]: Loaded 455 advancements
+[22:33:01] [Render thread/INFO]: [System] [CHAT] qulmvaox was killed
+[22:33:11] [Render thread/INFO]: [System] [CHAT] qulmvaox left the game
+[22:33:19] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> imgur i assume
+[22:33:21] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo joined the game
+[22:33:28] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> imgur
+[22:33:32] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[22:33:33] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> imejur
+[22:33:42] [Render thread/INFO]: Loaded 455 advancements
+[22:34:16] [Render thread/INFO]: [System] [CHAT] Vynlazer has made the advancement [Isn't It Iron Pick]
+[22:34:27] [Render thread/INFO]: Loaded 455 advancements
+[22:35:15] [Render thread/INFO]: Loaded 455 advancements
+[22:35:42] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[22:36:21] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> world map not loading for me
+[22:36:33] [Render thread/INFO]: Loaded 457 advancements
+[22:36:42] [Render thread/INFO]: Loaded 466 advancements
+[22:36:58] [Render thread/INFO]: Loaded 466 advancements
+[22:37:14] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> ah
+[22:37:23] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> i.imgur.dasdsadas
+[22:37:28] [Render thread/INFO]: [System] [CHAT] ReikoRingo left the game
+[22:37:33] [Render thread/INFO]: [System] [CHAT] ReikoRingo joined the game
+[22:37:47] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> i.imgur.dasdsadas
+[22:38:06] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> .https://i.imgur.com/blahblahblah.png
+[22:38:14] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> should be like that
+[22:39:42] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[22:39:46] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo joined the game
+[22:39:47] [Render thread/INFO]: [System] [CHAT] [DISCORD] <Renan: Glitched NPC> \nAttachment:\n2024-03-29_22.38.49.png
+[22:40:46] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> sit
+[22:41:02] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> come inside
+[22:41:04] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> sit
+[22:41:16] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> no i have testicular cancer
+[22:41:24] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> moer of a reason to sit
+[22:41:24] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> holy week =hoy
+[22:41:26] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ganyan kayo
+[22:41:37] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> sana ma kidlatan kayo
+[22:41:47] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> CBT = christian ball therapy
+[22:41:51] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> sit
+[22:41:54] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> pano naman yung mga nagjajakol kahit holy week
+[22:42:05] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> dapat makidlatan kayo
+[22:42:09] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> maya
+[22:42:30] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> libreng tuli
+[22:43:09] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> free circumcision program
+[22:43:29] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> sit
+[22:43:31] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> sit before going out
+[22:43:44] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[22:43:51] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was impaled by Drowned
+[22:44:00] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> wdym
+[22:44:02] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> its my cuck shed
+[22:44:13] [Render thread/INFO]: [System] [CHAT] <Vynlazer> we call it batangas
+[22:44:22] [Render thread/INFO]: Loaded 468 advancements
+[22:44:32] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> ala eh
+[22:44:45] [Render thread/INFO]: Stopping worker threads
+[22:44:45] [Render thread/WARN]: Client disconnected with reason: Disconnected
+[22:47:38] [Render thread/INFO]: Connecting to node05-sg.agilahost.com, 25565
+[22:47:40] [Netty Client IO #7/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[22:47:40] [Netty Client IO #7/WARN]: Unknown custom packet payload: fsit:restrict_sync
+[22:47:40] [Netty Client IO #7/WARN]: Unknown custom packet payload: chunky:border
+[22:47:40] [Netty Client IO #7/WARN]: Unknown custom packet payload: chunky:border
+[22:47:40] [Netty Client IO #7/WARN]: Unknown custom packet payload: chunky:border
+[22:47:40] [Netty Client IO #7/WARN]: Unknown custom packet payload: chunky:border
+[22:47:41] [Netty Client IO #7/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[22:47:41] [Render thread/INFO]: Started 6 worker threads
+[22:47:41] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[22:47:41] [Render thread/INFO]: Joined carpet server with matching carpet version
+[22:47:45] [Render thread/INFO]: Loaded 468 advancements
+[22:47:51] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was impaled by Drowned
+[22:48:21] [Render thread/INFO]: Loaded 477 advancements
+[22:48:43] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> ow
+[22:49:46] [Render thread/INFO]: [System] [CHAT] AnxiousPotato left the game
+[22:49:54] [Render thread/INFO]: [System] [CHAT] AnxiousPotato joined the game
+[22:50:36] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:51:02] [Render thread/INFO]: Loaded 483 advancements
+[22:51:38] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> it's dark af
+[22:51:43] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:51:43] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> y
+[22:52:28] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:52:39] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:52:48] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:52:59] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:53:05] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:53:12] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:53:13] [Render thread/INFO]: [System] [CHAT] ReikoRingo has completed the challenge [Hot Tourist Destinations]
+[22:53:17] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> yay
+[22:53:24] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was slain by Vindicator
+[22:54:16] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> yoink
+[22:54:36] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> when ko magawa crab room
+[22:55:12] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> gabi ba
+[22:55:16] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bakit maraming ano
+[22:56:03] [Render thread/INFO]: Loaded 483 advancements
+[22:56:24] [Render thread/INFO]: [System] [CHAT] ReikoRingo has made the advancement [A Terrible Fortress]
+[22:56:50] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Sweet Dreams]
+[22:57:43] [Render thread/INFO]: [System] [CHAT] ReikoRingo has made the advancement [Into Fire]
+[22:57:44] [Render thread/INFO]: Loaded 483 advancements
+[22:57:50] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bugs sa simulator
+[22:57:57] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> wat
+[22:58:36] [Render thread/INFO]: [System] [CHAT] ReikoRingo has made the advancement [Spooky Scary Skeleton]
+[22:58:44] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[22:59:41] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[22:59:46] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> Suez, Batangas
+[22:59:47] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> di nako ilocano
+[22:59:53] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> batangueno na
+[22:59:59] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bata hu-
+[23:00:10] [Render thread/INFO]: Loaded 483 advancements
+[23:00:44] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ano tawag natin sa river
+[23:00:46] [Render thread/INFO]: Loaded 483 advancements
+[23:01:04] [Render thread/INFO]: [System] [CHAT] zachilit left the game
+[23:01:14] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> Reaver Vandal amp
+[23:01:16] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wahahaha
+[23:01:44] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> basta si i3 mahilig sa regla skin
+[23:02:28] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> kung nomad ka minecraft
+[23:02:32] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> digital nomad ka ba>?
+[23:03:32] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ahhh that spire
+[23:04:54] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[23:05:27] [Render thread/WARN]: Received passengers for unknown entity
+[23:05:43] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> jschlatt
+[23:05:59] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> look it up
+[23:06:00] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> yt
+[23:06:06] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> jschlatt cuck shed
+[23:06:13] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[23:08:02] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> yoink
+[23:08:28] [Render thread/INFO]: [System] [CHAT] MarkUnderMark was shot by Skeleton
+[23:09:09] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [Fishy Business]
+[23:10:10] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> kaniseurs nga naman
+[23:10:12] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> [i]
+[23:10:37] [Render thread/INFO]: [System] [CHAT] <Vynlazer> CAN WE BEDDDDD TOO MANY PHANTOM
+[23:10:41] [Render thread/INFO]: [System] [CHAT] <Vynlazer> NEED ANTI AIRCRAFT
+[23:10:52] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> patch notes yung spire
+[23:10:59] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> sleep pls
+[23:11:04] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[23:11:06] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[23:11:23] [Render thread/INFO]: Stopping worker threads
+[23:11:38] [Render thread/INFO]: Connecting to node05-sg.agilahost.com, 25565
+[23:11:39] [Netty Client IO #11/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[23:11:39] [Netty Client IO #11/WARN]: Unknown custom packet payload: fsit:restrict_sync
+[23:11:39] [Netty Client IO #11/WARN]: Unknown custom packet payload: chunky:border
+[23:11:39] [Netty Client IO #11/WARN]: Unknown custom packet payload: chunky:border
+[23:11:39] [Netty Client IO #11/WARN]: Unknown custom packet payload: chunky:border
+[23:11:39] [Netty Client IO #11/WARN]: Unknown custom packet payload: chunky:border
+[23:11:40] [Netty Client IO #11/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[23:11:40] [Render thread/INFO]: Started 6 worker threads
+[23:11:40] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[23:11:40] [Render thread/INFO]: Joined carpet server with matching carpet version
+[23:11:40] [Render thread/INFO]: Loaded 483 advancements
+[23:11:47] [Render thread/INFO]: Loaded 483 advancements
+[23:11:53] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> Server Lore: Sucrose first man on the moon (bumalik sa Earth kasi di makahinga)
+[23:12:08] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> Founding of Suez, Batangas and Vinland
+[23:12:25] [Render thread/INFO]: [System] [CHAT] MarkUnderMark fell from a high place
+[23:12:51] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> can't believe the first cuck shed is in batangas
+[23:13:03] [Render thread/INFO]: Loaded 486 advancements
+[23:13:05] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> ala eh
+[23:13:09] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> CBT enjoyer, ala eh
+[23:13:41] [Render thread/INFO]: [System] [CHAT] <Vynlazer> Im gonna make the forth reich (Tondo)
+[23:13:54] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> heil asiong
+[23:13:54] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> tondo manji gang
+[23:14:10] [Render thread/INFO]: [System] [CHAT] MarkUnderMark fell from a high place
+[23:15:02] [Render thread/INFO]: [System] [CHAT] <Vynlazer> "Tondo is my city"
+[23:16:27] [Render thread/INFO]: Loaded 493 advancements
+[23:17:27] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[23:17:39] [Render thread/INFO]: [System] [CHAT] MarkUnderMark has made the advancement [Diamonds!]
+[23:17:39] [Render thread/INFO]: [System] [CHAT] MarkUnderMark has made the advancement [Cover Me with Diamonds]
+[23:18:01] [Render thread/INFO]: Loaded 493 advancements
+[23:18:39] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Hot Stuff]
+[23:18:39] [Render thread/INFO]: Loaded 494 advancements
+[23:21:46] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Diamonds!]
+[23:21:46] [Render thread/INFO]: Loaded 505 advancements
+[23:23:50] [Render thread/WARN]: Received passengers for unknown entity
+[23:24:14] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Cover Me with Diamonds]
+[23:24:14] [Render thread/INFO]: Loaded 505 advancements
+[23:24:31] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[23:24:42] [Render thread/INFO]: [System] [CHAT] Vynlazer left the game
+[23:24:54] [Render thread/INFO]: [System] [CHAT] Vynlazer joined the game
+[23:25:42] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[23:25:42] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Sweet Dreams]
+[23:25:42] [Render thread/INFO]: Loaded 505 advancements
+[23:26:57] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Fishy Business]
+[23:26:57] [Render thread/INFO]: Loaded 506 advancements
+[23:27:00] [Render thread/INFO]: Loaded 506 advancements
+[23:27:00] [Render thread/INFO]: [System] [CHAT] AnxiousPotato has made the advancement [We Need to Go Deeper]
+[23:28:10] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[23:28:22] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> i found shabu
+[23:28:45] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> lore mo
+[23:28:54] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> digital nomad
+[23:29:37] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> maybe next patch
+[23:29:45] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> +-4096
+[23:30:09] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> kailangan ng world ending event muna ehem mending wars
+[23:30:11] [Render thread/INFO]: [System] [CHAT] SucroseWho joined the game
+[23:30:23] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> cmon fight for mending books
+[23:30:26] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> no
+[23:30:55] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> war tas 7 players peak hell naw
+[23:30:58] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wahahahahaa
+[23:31:01] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> 4 v 3
+[23:31:25] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> di kasi makuha ang mending sa trades eh
+[23:31:43] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bro 24 hours and you cant get fishing
+[23:32:26] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> isa lang ata
+[23:32:31] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> isa lang swap eh
+[23:33:15] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ringo kamusta na suez batangas
+[23:33:20] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> ok gtg
+[23:33:23] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> cya l8r
+[23:33:26] [Render thread/INFO]: [System] [CHAT] <AnxiousPotato> gotta grind genshin
+[23:33:28] [Render thread/INFO]: [System] [CHAT] AnxiousPotato left the game
+[23:33:46] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bobo mo MarkUnderMark
+[23:33:55] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> dapat pina add mo muna ng enchatns
+[23:34:10] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> aaaaaaaaaaaaaaaaaa
+[23:34:43] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> mona ba yung skin mo?
+[23:34:55] [Render thread/INFO]: [System] [CHAT] <16thGarden> marina
+[23:35:02] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[23:35:03] [Render thread/INFO]: [System] [CHAT] Vynlazer left the game
+[23:35:03] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> ok nvm
+[23:36:13] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> tangina wrong pickaxe
+[23:36:52] [Render thread/INFO]: [System] [CHAT] zachilit joined the game
+[23:37:07] [Render thread/INFO]: [System] [CHAT] <zachilit> yo virgins
+[23:40:23] [Render thread/INFO]: [System] [CHAT] [DISCORD] <rhongobongooo> o\nAttachment:\nScreenshot_2024-03-29_233505.png
+[23:41:35] [Render thread/INFO]: [System] [CHAT] <zachilit> ReikoRingo
+[23:41:53] [Worker-Main-40/WARN]: Couldn't look up profile properties for 58af24d1-68e7-331a-a195-b956553d7e86
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://sessionserver.mojang.com/session/minecraft/profile/58af24d168e7331aa195b956553d7e86?unsigned=false due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:108) ~[authlib-6.0.52.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.52.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fetchProfileUncached(YggdrasilMinecraftSessionService.java:201) ~[authlib-6.0.52.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fetchProfile(YggdrasilMinecraftSessionService.java:171) ~[authlib-6.0.52.jar:?]
+	at net.minecraft.class_2631.method_54082(class_2631.java:87) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.net.SocketException: Connection reset
+	at sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:328) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:355) ~[?:?]
+	at sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:808) ~[?:?]
+	at java.net.Socket$SocketInputStream.read(Socket.java:966) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:484) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:478) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:589) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1665) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:529) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-6.0.52.jar:?]
+	... 11 more
+[23:42:52] [Render thread/INFO]: [System] [CHAT] zachilit has made the advancement [Oh Shiny]
+[23:45:04] [Render thread/INFO]: Loaded 507 advancements
+[23:46:28] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[23:46:39] [Render thread/INFO]: [System] [CHAT] qulmvaox joined the game
+[23:47:04] [Render thread/INFO]: [System] [CHAT] <zachilit> ????
+[23:47:05] [Render thread/INFO]: [System] [CHAT] <zachilit> WHAT
+[23:47:25] [Render thread/INFO]: [System] [CHAT] qulmvaox was killed
+[23:49:48] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[23:50:44] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[23:52:28] [Render thread/INFO]: [System] [CHAT] qulmvaox was killed
+[23:52:49] [Render thread/INFO]: [System] [CHAT] qulmvaox left the game
+[23:52:57] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo joined the game
+[23:54:19] [Render thread/INFO]: [System] [CHAT] Vynlazer joined the game
+[23:54:36] [Render thread/INFO]: [System] [CHAT] <Vynlazer> CIVILIZATION!!!!!
+[23:56:30] [Render thread/INFO]: [System] [CHAT] MarkUnderMark has completed the challenge [Hot Tourist Destinations]

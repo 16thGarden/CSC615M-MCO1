@@ -1,0 +1,73 @@
+[00:06:04] [Render thread/INFO]: Loaded 507 advancements
+[00:06:08] [Server thread/INFO]: 16thGarden has made the advancement [War Pigs]
+[00:06:08] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [War Pigs]
+[00:06:08] [Render thread/INFO]: Loaded 507 advancements
+[00:06:14] [Render thread/INFO]: Loaded 508 advancements
+[00:06:49] [Server thread/INFO]: JPGomdol has made the advancement [Take Aim]
+[00:06:49] [Render thread/INFO]: [System] [CHAT] JPGomdol has made the advancement [Take Aim]
+[00:07:13] [Server thread/INFO]: JPGomdol was slain by Magma Cube
+[00:07:13] [Render thread/INFO]: [System] [CHAT] JPGomdol was slain by Magma Cube
+[00:08:14] [Render thread/INFO]: Loaded 508 advancements
+[00:09:06] [Render thread/INFO]: Loaded 509 advancements
+[00:09:07] [Server thread/INFO]: 16thGarden has made the advancement [Hidden in the Depths]
+[00:09:07] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Hidden in the Depths]
+[00:09:07] [Render thread/INFO]: Loaded 511 advancements
+[00:09:34] [Render thread/INFO]: Loaded 513 advancements
+[00:09:37] [Server thread/INFO]: 16thGarden has made the advancement [Cover Me with Diamonds]
+[00:09:37] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Cover Me with Diamonds]
+[00:09:37] [Render thread/INFO]: Loaded 513 advancements
+[00:14:06] [Render thread/INFO]: Stopping worker threads
+[00:14:06] [Render thread/INFO]: Started 6 worker threads
+[00:14:06] [Render thread/INFO]: Stopping worker threads
+[00:14:06] [Render thread/INFO]: Started 6 worker threads
+[00:16:27] [Server thread/INFO]: JPGomdol has made the advancement [Hidden in the Depths]
+[00:16:27] [Render thread/INFO]: [System] [CHAT] JPGomdol has made the advancement [Hidden in the Depths]
+[00:21:10] [Render thread/INFO]: Stopping worker threads
+[00:21:10] [Render thread/INFO]: Started 6 worker threads
+[00:21:10] [Render thread/INFO]: Stopping worker threads
+[00:21:10] [Render thread/INFO]: Started 6 worker threads
+[00:21:10] [Render thread/WARN]: Received passengers for unknown entity
+[00:28:27] [Render thread/INFO]: Stopping worker threads
+[00:28:27] [Render thread/INFO]: Started 6 worker threads
+[00:28:27] [Render thread/INFO]: Stopping worker threads
+[00:28:27] [Render thread/INFO]: Started 6 worker threads
+[00:36:49] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[00:38:28] [Render thread/INFO]: Loaded 513 advancements
+[00:38:34] [Render thread/INFO]: Loaded 513 advancements
+[00:38:35] [Render thread/INFO]: Loaded 513 advancements
+[00:38:38] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[00:40:40] [Render thread/INFO]: Loaded 514 advancements
+[00:41:36] [Render thread/INFO]: Loaded 514 advancements
+[00:48:09] [Render thread/INFO]: Loaded 514 advancements
+[00:49:49] [Server thread/INFO]: 16thGarden has made the advancement [Eye Spy]
+[00:49:49] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Eye Spy]
+[00:49:49] [Render thread/INFO]: Loaded 514 advancements
+[00:49:50] [Server thread/INFO]: JPGomdol has made the advancement [Eye Spy]
+[00:49:50] [Render thread/INFO]: [System] [CHAT] JPGomdol has made the advancement [Eye Spy]
+[00:52:38] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[00:53:14] [Render thread/INFO]: Loaded 516 advancements
+[00:55:03] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:55:03] [Netty Server IO ICE #2/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[00:55:03] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:55:03] [Netty Server IO ICE #2/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[00:55:03] [Netty Server IO ICE #2/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[00:55:03] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[00:55:03] [Server thread/INFO]: JPGomdol left the game
+[00:55:03] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[00:55:08] [Essential Thread 16/INFO]: Closing.
+[00:55:34] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:55:34] [Server thread/INFO]: 16thGarden left the game
+[00:55:34] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:55:34] [Server thread/INFO]: Stopping server
+[00:55:34] [Server thread/INFO]: Saving players
+[00:55:34] [Server thread/INFO]: Saving worlds
+[00:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:55:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:55:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:55:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[00:55:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:55:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:55:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:55:35] [Render thread/INFO]: Stopping worker threads
+[00:55:36] [Render thread/INFO]: Stopping!
+[00:55:36] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

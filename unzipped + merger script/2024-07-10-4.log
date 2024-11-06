@@ -1,0 +1,13 @@
+[14:33:00] [Client thread/INFO]: Setting user: 16thGarden
+[14:33:00] [Client thread/INFO]: (Session ID is token:eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQ2MDY2NjA5MjU0NCIsImFnZyI6IkFkdWx0Iiwic3ViIjoiZDkxOGIxMTMtOGM4ZS00NGRiLTk5OWEtNjg0YTAxMGZkYzY4IiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJvcmRlcnNfMjAyMiIsIm11bHRpcGxheWVyIl0sInByb2ZpbGVzIjp7Im1jIjoiZGMwNTQ4YzctMmMyMi00NTBlLTkxZjUtMmExN2NmZGUyYTEyIn0sInBsYXRmb3JtIjoiT05FU1RPUkUiLCJ5dWlkIjoiODZhOGM4ZDc1MThmZWE0ODAwMGIwOWNjYjBiMmJmMWMiLCJuYmYiOjE3MjA1OTMxNTksImV4cCI6MTcyMDY3OTU1OSwiaWF0IjoxNzIwNTkzMTU5fQ.3twjAeIlerh460JDgQSXAFLG4SPPhuewPqTEuKE2sCQ:dc0548c72c22450e91f52a17cfde2a12)
+[14:33:01] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:33:02] [Client thread/INFO]: Reloading ResourceManager: Default, ! §3defrosted §8[§f16x§8].zip, bluelavanowplsthanks.zip, Amethyst Gemstone Sounds
+[14:33:02] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:33:03] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[14:33:03] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:33:03] [Thread-6/INFO]: OpenAL initialized.
+[14:33:03] [Sound Library Loader/INFO]: Sound engine started
+[14:33:04] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:34:19] [Client thread/INFO]: Stopping!
+[14:34:19] [Client thread/INFO]: SoundSystem shutting down...
+[14:34:20] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

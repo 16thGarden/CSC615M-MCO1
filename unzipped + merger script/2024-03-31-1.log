@@ -1,0 +1,482 @@
+[00:08:07] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[00:08:08] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[00:11:58] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[00:30:00] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:30:00] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:30:11] [Server thread/WARN]: 16thGarden moved wrongly!
+[00:42:58] [Render thread/INFO]: Closing connection after 2h 10m 48.141987800s due to SERVER_REQUESTED_RECONNECT
+[00:42:58] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:42:58] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[00:43:01] [WebSocketConnectReadThread-2185/INFO]: Connected to Essential Connection Manager.
+[00:49:23] [Render thread/WARN]: Received passengers for unknown entity
+[00:49:24] [Render thread/WARN]: Received passengers for unknown entity
+[01:07:36] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[01:18:18] [Render thread/WARN]: Received passengers for unknown entity
+[01:18:27] [Render thread/WARN]: Received passengers for unknown entity
+[01:19:24] [Render thread/INFO]: Stopping worker threads
+[01:19:24] [Render thread/INFO]: Started 6 worker threads
+[01:19:24] [Render thread/INFO]: Stopping worker threads
+[01:19:24] [Render thread/INFO]: Started 6 worker threads
+[01:23:02] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[01:26:58] [Render thread/INFO]: Stopping worker threads
+[01:26:58] [Render thread/INFO]: Started 6 worker threads
+[01:26:58] [Server thread/INFO]: Saving and pausing game...
+[01:26:58] [Render thread/INFO]: Stopping worker threads
+[01:26:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:26:58] [Render thread/INFO]: Started 6 worker threads
+[01:26:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:26:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:29:14] [Render thread/WARN]: Received passengers for unknown entity
+[01:29:24] [Render thread/WARN]: Received passengers for unknown entity
+[01:29:56] [Render thread/WARN]: Received passengers for unknown entity
+[01:29:57] [Render thread/WARN]: Received passengers for unknown entity
+[01:31:08] [Render thread/WARN]: Received passengers for unknown entity
+[01:31:09] [Render thread/WARN]: Received passengers for unknown entity
+[01:31:18] [Render thread/WARN]: Received passengers for unknown entity
+[01:32:11] [Render thread/WARN]: Received passengers for unknown entity
+[01:32:12] [Render thread/WARN]: Received passengers for unknown entity
+[01:32:41] [Render thread/INFO]: Stopping worker threads
+[01:32:41] [Render thread/INFO]: Started 6 worker threads
+[01:32:41] [Server thread/INFO]: Saving and pausing game...
+[01:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:32:41] [Render thread/INFO]: Stopping worker threads
+[01:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:32:41] [Render thread/INFO]: Started 6 worker threads
+[01:33:41] [Render thread/INFO]: Stopping worker threads
+[01:33:41] [Server thread/INFO]: Saving and pausing game...
+[01:33:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:33:41] [Render thread/INFO]: Started 6 worker threads
+[01:33:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:33:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:33:41] [Render thread/INFO]: Stopping worker threads
+[01:33:41] [Render thread/INFO]: Started 6 worker threads
+[01:33:55] [Render thread/WARN]: Received passengers for unknown entity
+[01:41:15] [Server thread/INFO]: Saving and pausing game...
+[01:41:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:41:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:41:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:46:15] [Render thread/INFO]: Stopping worker threads
+[01:46:15] [Server thread/INFO]: Saving and pausing game...
+[01:46:15] [Render thread/INFO]: Started 6 worker threads
+[01:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:46:15] [Render thread/INFO]: Stopping worker threads
+[01:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:46:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:46:15] [Render thread/INFO]: Started 6 worker threads
+[01:48:07] [Render thread/INFO]: Stopping worker threads
+[01:48:07] [Render thread/INFO]: Started 6 worker threads
+[01:48:07] [Server thread/INFO]: Saving and pausing game...
+[01:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:48:07] [Render thread/INFO]: Stopping worker threads
+[01:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:48:07] [Render thread/INFO]: Started 6 worker threads
+[01:48:20] [Render thread/WARN]: Received passengers for unknown entity
+[01:53:12] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[01:53:22] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[01:59:06] [WebSocketConnectReadThread-2185/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 16m 5.409158200s
+[01:59:06] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:59:07] [DefaultDispatcher-worker-11/INFO]: Connecting to Essential Connection Manager...
+[01:59:09] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[01:59:09] [WebSocketConnectReadThread-2351/INFO]: Connected to Essential Connection Manager.
+[02:24:55] [Server thread/WARN]: 16thGarden moved wrongly!
+[02:43:11] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[03:44:48] [Essential Thread 14/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 1h 45m 38.539958300s
+[03:44:48] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[03:44:48] [DefaultDispatcher-worker-11/INFO]: Connecting to Essential Connection Manager...
+[03:44:51] [WebSocketConnectReadThread-2433/INFO]: Connected to Essential Connection Manager.
+[03:46:08] [Render thread/INFO]: Stopping worker threads
+[03:46:08] [Render thread/INFO]: Started 6 worker threads
+[03:46:08] [Render thread/INFO]: Stopping worker threads
+[03:46:08] [Render thread/INFO]: Started 6 worker threads
+[03:46:08] [Server thread/INFO]: Saving and pausing game...
+[03:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:46:53] [Render thread/INFO]: Stopping worker threads
+[03:46:53] [Server thread/INFO]: Saving and pausing game...
+[03:46:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:46:53] [Render thread/INFO]: Started 6 worker threads
+[03:46:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:46:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:46:53] [Render thread/INFO]: Stopping worker threads
+[03:46:53] [Render thread/INFO]: Started 6 worker threads
+[03:48:00] [Render thread/WARN]: Received passengers for unknown entity
+[03:48:06] [Server thread/INFO]: Saving and pausing game...
+[03:48:06] [Render thread/INFO]: Stopping worker threads
+[03:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:48:06] [Render thread/INFO]: Started 6 worker threads
+[03:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:48:06] [Render thread/INFO]: Stopping worker threads
+[03:48:06] [Render thread/INFO]: Started 6 worker threads
+[03:48:24] [Render thread/INFO]: Stopping worker threads
+[03:48:24] [Server thread/INFO]: Saving and pausing game...
+[03:48:24] [Render thread/INFO]: Started 6 worker threads
+[03:48:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:48:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:48:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:48:24] [Render thread/INFO]: Stopping worker threads
+[03:48:25] [Render thread/INFO]: Started 6 worker threads
+[03:49:03] [Server thread/INFO]: Saving and pausing game...
+[03:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:49:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:04] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:05] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:06] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:06] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:49:06] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:51:44] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[04:01:06] [Essential Thread 13/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 16m 14.363373s
+[04:01:06] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: java.net.UnknownHostException: sessionserver.mojang.com
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.Socket.connect(Socket.java:633)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[04:01:06] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: -1
+[04:01:06] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: java.net.UnknownHostException: sessionserver.mojang.com
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.Socket.connect(Socket.java:633)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[04:01:06] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: -1
+[04:01:06] [DefaultDispatcher-worker-9/INFO]: Waiting 4s before re-trying
+[04:01:10] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: java.net.UnknownHostException: sessionserver.mojang.com
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.Socket.connect(Socket.java:633)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[04:01:10] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: -1
+[04:01:10] [DefaultDispatcher-worker-9/INFO]: Waiting 8s before re-trying
+[04:01:18] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: java.net.UnknownHostException: sessionserver.mojang.com
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.Socket.connect(Socket.java:633)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[04:01:18] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: -1
+[04:01:18] [DefaultDispatcher-worker-9/INFO]: Waiting 16s before re-trying
+[04:01:34] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: java.net.UnknownHostException: sessionserver.mojang.com
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:572)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/java.net.Socket.connect(Socket.java:633)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:183)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:533)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:638)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1242)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1128)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.util.LoginUtil.joinServer(LoginUtil.java:31)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at gg.essential.network.connectionmanager.ConnectionManagerKt$connectLoop$statusCode$1.invokeSuspend(ConnectionManagerKt.kt:137)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:108)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:103)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: [STDERR]: 	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[04:01:34] [DefaultDispatcher-worker-9/WARN]: Got unexpected reply from Mojang: -1
+[04:01:34] [DefaultDispatcher-worker-9/INFO]: Waiting 32s before re-trying
+[04:02:06] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[04:02:14] [DefaultDispatcher-worker-9/INFO]: Connecting to Essential Connection Manager...
+[04:02:30] [WebSocketConnectReadThread-2532/INFO]: Connected to Essential Connection Manager.
+[04:05:14] [Render thread/INFO]: [System] [CHAT] You have no home bed or charged respawn anchor, or it was obstructed
+[04:05:14] [Render thread/INFO]: Stopping worker threads
+[04:05:14] [Render thread/INFO]: Started 6 worker threads
+[04:05:14] [Server thread/INFO]: Saving and pausing game...
+[04:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:05:14] [Render thread/INFO]: Stopping worker threads
+[04:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:05:14] [Render thread/INFO]: Started 6 worker threads
+[04:06:37] [Render thread/INFO]: Stopping worker threads
+[04:06:37] [Render thread/INFO]: Started 6 worker threads
+[04:06:37] [Server thread/INFO]: Saving and pausing game...
+[04:06:37] [Render thread/INFO]: Stopping worker threads
+[04:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:06:37] [Render thread/INFO]: Started 6 worker threads
+[04:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:06:55] [Render thread/INFO]: Stopping worker threads
+[04:06:55] [Server thread/INFO]: Saving and pausing game...
+[04:06:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:06:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:06:55] [Render thread/INFO]: Started 6 worker threads
+[04:06:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:06:55] [Render thread/INFO]: Stopping worker threads
+[04:06:55] [Render thread/INFO]: Started 6 worker threads
+[04:06:57] [Render thread/INFO]: Stopping worker threads
+[04:06:57] [Server thread/INFO]: Saving and pausing game...
+[04:06:57] [Render thread/INFO]: Started 6 worker threads
+[04:06:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:06:57] [Render thread/INFO]: Stopping worker threads
+[04:06:57] [Render thread/INFO]: Started 6 worker threads
+[04:06:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:06:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:18:11] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[04:18:18] [Render thread/INFO]: Stopping worker threads
+[04:18:18] [Render thread/INFO]: Started 6 worker threads
+[04:18:18] [Server thread/INFO]: Saving and pausing game...
+[04:18:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:18:18] [Render thread/INFO]: Stopping worker threads
+[04:18:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:18:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:18:18] [Render thread/INFO]: Started 6 worker threads
+[04:20:01] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[04:47:29] [Server thread/INFO]: Saving and pausing game...
+[04:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:48:13] [Server thread/INFO]: Saving and pausing game...
+[04:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:48:14] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[04:48:14] [Server thread/INFO]: 16thGarden left the game
+[04:48:14] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[04:48:14] [Server thread/INFO]: Stopping server
+[04:48:14] [Server thread/INFO]: Saving players
+[04:48:14] [Server thread/INFO]: Saving worlds
+[04:48:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[04:48:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[04:48:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[04:48:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[04:48:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:48:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:48:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:48:14] [Render thread/INFO]: Stopping worker threads
+[04:48:15] [Render thread/INFO]: Stopping!
+[04:48:15] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

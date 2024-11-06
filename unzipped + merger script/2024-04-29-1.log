@@ -1,0 +1,275 @@
+[00:25:38] [Render thread/INFO]: Stopping worker threads
+[00:25:38] [Render thread/INFO]: Started 6 worker threads
+[00:25:38] [Render thread/INFO]: Stopping worker threads
+[00:25:38] [Render thread/INFO]: Started 6 worker threads
+[00:25:38] [Render thread/WARN]: Received passengers for unknown entity
+[00:25:38] [Render thread/WARN]: Received passengers for unknown entity
+[00:25:38] [Render thread/WARN]: Received passengers for unknown entity
+[00:27:06] [Render thread/INFO]: Stopping worker threads
+[00:27:06] [Render thread/INFO]: Started 6 worker threads
+[00:27:06] [Render thread/INFO]: Stopping worker threads
+[00:27:07] [Render thread/INFO]: Started 6 worker threads
+[00:28:13] [Render thread/INFO]: Stopping worker threads
+[00:28:13] [Render thread/INFO]: Started 6 worker threads
+[00:28:13] [Render thread/INFO]: Stopping worker threads
+[00:28:13] [Render thread/INFO]: Started 6 worker threads
+[00:28:45] [Render thread/INFO]: Stopping worker threads
+[00:28:46] [Render thread/INFO]: Started 6 worker threads
+[00:28:46] [Render thread/INFO]: Stopping worker threads
+[00:28:46] [Render thread/INFO]: Started 6 worker threads
+[00:29:34] [Render thread/INFO]: Stopping worker threads
+[00:29:34] [Render thread/INFO]: Started 6 worker threads
+[00:29:34] [Render thread/INFO]: Stopping worker threads
+[00:29:34] [Render thread/INFO]: Started 6 worker threads
+[00:29:34] [Render thread/WARN]: Received passengers for unknown entity
+[00:29:34] [Render thread/WARN]: Received passengers for unknown entity
+[00:31:52] [Render thread/INFO]: Stopping worker threads
+[00:31:52] [Render thread/INFO]: Started 6 worker threads
+[00:31:52] [Render thread/INFO]: Stopping worker threads
+[00:31:52] [Render thread/INFO]: Started 6 worker threads
+[00:35:42] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:35:42] [Server thread/INFO]: 16thGarden left the game
+[00:35:42] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:35:42] [Server thread/INFO]: Stopping server
+[00:35:42] [Server thread/INFO]: Saving players
+[00:35:42] [Server thread/INFO]: Saving worlds
+[00:35:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:35:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:35:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[00:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:35:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:35:42] [Render thread/INFO]: Stopping worker threads
+[00:35:42] [IO-Worker-1668/INFO]: Could not authorize you against Realms server: Invalid session id
+[00:35:42] [IO-Worker-1656/INFO]: Could not authorize you against Realms server: Invalid session id
+[00:35:42] [IO-Worker-1667/INFO]: Could not authorize you against Realms server: Invalid session id
+[00:35:42] [IO-Worker-1662/INFO]: Could not authorize you against Realms server: Invalid session id
+[00:35:43] [Render thread/INFO]: Loaded 7 recipes
+[00:35:43] [Render thread/INFO]: Loaded 1271 advancements
+[00:35:44] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 293.6 ?s
+[00:35:44] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[00:35:44] [Server thread/INFO]: Generating keypair
+[00:35:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:35:44] [Render thread/INFO]: Preparing spawn area: 0%
+[00:35:44] [Render thread/INFO]: Preparing spawn area: 0%
+[00:35:45] [Render thread/INFO]: Preparing spawn area: 1%
+[00:35:45] [Render thread/INFO]: Preparing spawn area: 60%
+[00:35:46] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:35:46] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[00:35:46] [Render thread/INFO]: Time elapsed: 1721 ms
+[00:35:46] [Server thread/INFO]: 16thGarden[local:E:1601446f] logged in with entity id 7811049 at (65.9728371675698, -56.827352355619986, -35.06635127254424)
+[00:35:46] [Server thread/INFO]: 16thGarden joined the game
+[00:35:46] [Render thread/INFO]: Started 6 worker threads
+[00:35:46] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[00:35:46] [Render thread/INFO]: Loaded 541 advancements
+[00:35:46] [Server thread/INFO]: Saving and pausing game...
+[00:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[00:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[00:35:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[00:35:48] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:35:48] [Netty Server IO ICE #14/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[00:35:48] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:35:48] [Netty Server IO ICE #14/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[00:35:48] [Netty Server IO ICE #14/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[00:35:48] [Thread 1/INFO]: Using default channel type
+[00:35:48] [Thread 1/INFO]: Started serving on 53811
+[00:35:52] [Render thread/INFO]: Changing agent ICE Agent (stream-count=0 ice-pwd:32r7g3gmb7g1nqg5srmrlodjb3 ice-ufrag:essential-qv53811-6jsd61hsip06ja tie-breaker:8796760218482124142):
+ role from controlling = true to controlling = false
+[00:35:52] [Render thread/INFO]: Gathering candidates for component minecraft.RTP.
+[00:35:52] [Render thread/INFO]: Closing.
+[00:35:52] [MergingDatagramSocket reader thread for: /192.168.50.170:63947 -> null/INFO]: Failed to receive: java.net.SocketException: Socket closed
+[00:35:52] [MergingDatagramSocket reader thread for: /192.168.50.170:63943 -> null/INFO]: Failed to receive: java.net.SocketException: Socket closed
+[00:35:52] [MergingDatagramSocket reader thread for: /[fe80:0:0:0:8c08:dc66:482d:6860%6]:63944 -> null/INFO]: Failed to receive: java.net.SocketException: Socket closed
+[00:35:52] [Essential 2/INFO]: Update remote candidate for minecraft.RTP: 192.168.254.101:60581/udp
+[00:35:52] [Essential 7/INFO]: Update remote candidate for minecraft.RTP: 180.190.34.165:19084/udp
+[00:35:52] [Essential 2/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 192.168.254.101:60581/udp/host (minecraft.RTP).
+[00:35:52] [Essential 9/INFO]: Update remote candidate for minecraft.RTP: 167.99.212.155:52943/udp
+[00:35:52] [Essential Thread 14/INFO]: Start ICE connectivity establishment.
+[00:35:52] [Essential 7/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:52] [Essential 5/INFO]: Update remote candidate for minecraft.RTP: 68.183.157.16:50023/udp
+[00:35:52] [Essential Thread 14/INFO]: Init checklist for stream minecraft
+[00:35:52] [Essential 9/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:52] [Essential Thread 14/INFO]: ICE state changed from Waiting to Running.
+[00:35:52] [Essential 5/INFO]: existing Pair updated: 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP) to 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:52] [Essential Thread 14/INFO]: Start connectivity checks.
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 192.168.254.101:60581/udp/host (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: new Pair added: 68.183.157.16:52170/udp/relay -> 192.168.254.101:60581/udp/host (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: new Pair added: 68.183.157.16:52170/udp/relay -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: new Pair added: 68.183.157.16:52170/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:52] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: new Pair added: 68.183.157.16:52170/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:52] [pool-11-thread-23/INFO]: Add UPnP port mapping: 192.168.1.2 50586
+[00:35:52] [pool-11-thread-23/INFO]: new Pair added: 192.168.50.170:50586/udp/host -> 192.168.254.101:60581/udp/host (minecraft.RTP).
+[00:35:52] [pool-11-thread-23/INFO]: new Pair added: 192.168.50.170:50586/udp/host -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:52] [pool-11-thread-23/INFO]: new Pair added: 192.168.50.170:50586/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:52] [pool-11-thread-23/INFO]: new Pair added: 192.168.50.170:50586/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Adding allowed address: 180.190.34.165:19084/udp
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 167.99.212.155:59884/udp/relay -> 192.168.254.101:60581/udp/host (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 167.99.212.155:59884/udp/relay -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 167.99.212.155:59884/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: new Pair added: 167.99.212.155:59884/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Adding allowed address: 68.183.157.16:50023/udp
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 68.183.157.16:52170/udp/relay -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 68.183.157.16:52170/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-19/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 180.190.34.165:19084/udp/srflx (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Adding allowed address: 167.99.212.155:52943/udp
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-19/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 68.183.157.16:52170/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:53] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair succeeded: 192.168.50.170:50582/udp/host -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: Pair validated: 49.144.39.44:1425/udp/srflx -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-18/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 68.183.157.16:52170/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:54] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 167.99.212.155:59884/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair validated: 167.99.212.155:59884/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 167.99.212.155:59884/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair validated: 167.99.212.155:59884/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-19/INFO]: Pair succeeded: 167.99.212.155:59884/udp/relay -> 68.183.157.16:50023/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-19/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 167.99.212.155:59884/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Pair succeeded: 167.99.212.155:59884/udp/relay -> 167.99.212.155:52943/udp/relay (minecraft.RTP).
+[00:35:55] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: IsControlling: false USE-CANDIDATE:false.
+[00:35:56] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Selected pair for stream minecraft.RTP: 192.168.50.170:50582/udp/host -> 180.190.34.165:19084/udp/srflx (minecraft.RTP)
+[00:35:56] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: CheckList of stream minecraft is COMPLETED
+[00:35:56] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: ICE state changed from Running to Completed.
+[00:35:56] [ice4j.NetAccessManager-pool-13-thread-17/INFO]: Harvester used for selected pair for minecraft.RTP: host
+[00:35:56] [Netty Server IO ICE #16/INFO]: Using QUIC because both parties support it.
+[00:35:56] [MergingDatagramSocket reader thread for: 167.99.212.155:59884/udp -> null/INFO]: Failed to receive: java.net.SocketException: RelayedCandidateDatagramSocket has been closed.
+[00:35:56] [MergingDatagramSocket reader thread for: 68.183.157.16:52170/udp -> null/INFO]: Failed to receive: java.net.SocketException: RelayedCandidateDatagramSocket has been closed.
+[00:35:58] [ice4j.StunClientTransaction-executor-pool-16-thread-18/INFO]: timeout for pair: 192.168.50.170:50582/udp/host -> 192.168.254.101:60581/udp/host (minecraft.RTP), failing.
+[00:35:59] [ice4j.StunClientTransaction-executor-pool-16-thread-18/INFO]: timeout for pair: 192.168.50.170:50582/udp/host -> 192.168.254.101:60581/udp/host (minecraft.RTP), failing.
+[00:35:59] [ice4j.Agent-timer-pool-9-thread-1/INFO]: ICE state changed from Completed to Terminated.
+[00:36:00] [User Authenticator #5/INFO]: UUID of player JPGomdol is 61018961-61e4-4419-bf8b-17044e487000
+[00:36:00] [Server thread/INFO]: JPGomdol[local:E:d8c47aef] logged in with entity id 7811188 at (210.48462541256413, -58.211952803931716, -193.05080885403672)
+[00:36:00] [Server thread/INFO]: JPGomdol joined the game
+[00:36:00] [Render thread/INFO]: [System] [CHAT] JPGomdol joined the game
+[00:36:01] [Server thread/INFO]: [16thGarden: Teleported JPGomdol to 16thGarden]
+[00:36:01] [Render thread/INFO]: [System] [CHAT] Teleported JPGomdol to 16thGarden
+[00:37:14] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: shown
+[00:37:15] [Render thread/INFO]: [System] [CHAT] [Debug]: Chunk borders: hidden
+[00:44:21] [Server thread/INFO]: JPGomdol has made the advancement [We Need to Go Deeper]
+[00:44:23] [Render thread/INFO]: [System] [CHAT] JPGomdol has made the advancement [We Need to Go Deeper]
+[00:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[00:46:25] [Server thread/INFO]: [16thGarden: Teleported JPGomdol to 16thGarden]
+[00:46:25] [Render thread/INFO]: [System] [CHAT] Teleported JPGomdol to 16thGarden
+[00:49:37] [Render thread/INFO]: Loaded 542 advancements
+[00:49:40] [Render thread/INFO]: Loaded 543 advancements
+[00:50:31] [Render thread/INFO]: Loaded 544 advancements
+[00:58:43] [Server thread/INFO]: [16thGarden: Teleported JPGomdol to 16thGarden]
+[00:58:43] [Render thread/INFO]: [System] [CHAT] Teleported JPGomdol to 16thGarden
+[00:58:43] [Server thread/WARN]: JPGomdol moved too quickly! -64.5186534559693,-13.401945750023039,39.51405455778506
+[01:02:05] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[01:02:05] [Netty Server IO ICE #18/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[01:02:05] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[01:02:05] [Netty Server IO ICE #18/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[01:02:05] [Netty Server IO ICE #18/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[01:02:05] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[01:02:05] [Server thread/INFO]: JPGomdol left the game
+[01:02:05] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[01:02:10] [Essential Thread 17/INFO]: Closing.
+[01:04:04] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[01:04:04] [Server thread/INFO]: 16thGarden left the game
+[01:04:04] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[01:04:04] [Server thread/INFO]: Stopping server
+[01:04:04] [Server thread/INFO]: Saving players
+[01:04:04] [Server thread/INFO]: Saving worlds
+[01:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:overworld
+[01:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_nether
+[01:04:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[testing]'/minecraft:the_end
+[01:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World (1)): All chunks are saved
+[01:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:04:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:04:04] [Render thread/INFO]: Stopping worker threads
+[01:04:04] [Render thread/WARN]: Failed to process task pending invite count, will repeat after 360 cycles
+net.minecraft.class_4355: Realms authentication error with message 'Invalid session id'
+	at net.minecraft.class_4341.method_20998(class_4341.java:447) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21030(class_4341.java:356) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21029(class_4341.java:351) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:04:04] [Render thread/WARN]: Failed to process task trial availablity, will repeat after 60 cycles
+net.minecraft.class_4355: Realms authentication error with message 'Invalid session id'
+	at net.minecraft.class_4341.method_20998(class_4341.java:447) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21033(class_4341.java:406) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:04:04] [Render thread/WARN]: Failed to process task unread news, will repeat after 1 cycles
+net.minecraft.class_4355: Realms authentication error with message 'Invalid session id'
+	at net.minecraft.class_4341.method_20998(class_4341.java:447) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21032(class_4341.java:395) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:04:04] [Render thread/WARN]: Failed to process task notifications, will repeat after 1 cycles
+net.minecraft.class_4355: Realms authentication error with message 'Invalid session id'
+	at net.minecraft.class_4341.method_20998(class_4341.java:447) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_49572(class_4341.java:169) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:04:05] [IO-Worker-1683/INFO]: Could not authorize you against Realms server: Invalid session id
+[01:04:05] [Render thread/WARN]: Failed to process task notifications, will repeat after 1 cycles
+net.minecraft.class_4355: Realms authentication error with message 'Invalid session id'
+	at net.minecraft.class_4341.method_20998(class_4341.java:447) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_49572(class_4341.java:169) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:04:05] [Render thread/INFO]: Stopping!
+[01:04:05] [IO-Worker-1684/INFO]: Could not authorize you against Realms server: Invalid session id

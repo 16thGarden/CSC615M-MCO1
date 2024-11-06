@@ -1,0 +1,208 @@
+[00:03:21] [Render thread/INFO]: [System] [CHAT] Vynlazer was slain by Zombie
+[00:03:34] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wahahahaah renan pa plug nga maayos sa krp para masaya (bedrock racism)
+[00:04:04] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> afk spot ko to
+[00:05:14] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> san yung afk spot talaga
+[00:06:39] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> ge alis na ako dito
+[00:06:40] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> balik na ako
+[00:07:32] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[00:07:43] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[00:07:49] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[00:08:05] [Render thread/WARN]: Received passengers for unknown entity
+[00:09:16] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[00:09:21] [Render thread/INFO]: [System] [CHAT] MarkUnderMark joined the game
+[00:10:48] [Render thread/INFO]: [System] [CHAT] [DISCORD] <Almaku> :jii:
+[00:11:27] [Render thread/INFO]: [System] [CHAT] Vynlazer was shot by Skeleton
+[00:11:43] [Render thread/INFO]: Stopping worker threads
+[00:11:48] [Render thread/WARN]: Missing data pack Fabric Mods
+[00:11:48] [Render thread/INFO]: Found new data pack fabric, loading it automatically
+[00:11:48] [Render thread/INFO]: Found new data pack fabric-convention-tags-v1, loading it automatically
+[00:11:49] [Render thread/INFO]: Loaded 7 recipes
+[00:11:49] [Render thread/INFO]: Loaded 1271 advancements
+[00:11:49] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: terralith:alt_stones, terralith:calcite, terralith:calcite_moss, terralith:cobblestone_snow, terralith:deepslate, terralith:grass_block, terralith:gravel_stone, terralith:island_ban, terralith:island_ban_winter, terralith:island_blocks, terralith:sandstones, terralith:sandy_blocks, terralith:savanna_granite, terralith:savanna_terracotta, terralith:soil, terralith:soil_and_gravel, terralith:soil_stone, terralith:stone, terralith:stone_diorite, terralith:stop_emerald_geode, terralith:volcano_barrier, terralith:volcano_blocks
+[00:11:49] [Render thread/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: cauldron_concrete:concrete_powder, craftable_blackstone:coal_charcoal, more_stairs:quartz, terralith:spire/common_tools, terralith:spire/diamond, terralith:spire/junk_tools, terralith:spire/leather_armor, terralith:spire/rare_tools, universal_dyeing:bed, universal_dyeing:candle, universal_dyeing:concrete_powder, universal_dyeing:dyes, universal_dyeing:dyes/black_dye, universal_dyeing:dyes/blue_dye, universal_dyeing:dyes/brown_dye, universal_dyeing:dyes/white_dye, universal_dyeing:glazed_terracotta, universal_dyeing:stained_glass, universal_dyeing:stained_glass_pane, universal_dyeing:terracotta
+[00:11:50] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.699 ms
+[00:11:50] [Render thread/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[00:11:50] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[00:11:50] [Server thread/INFO]: Generating keypair
+[00:11:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:54] [Render thread/INFO]: Preparing spawn area: 0%
+[00:11:55] [Render thread/INFO]: Preparing spawn area: 11%
+[00:11:55] [Render thread/INFO]: Preparing spawn area: 61%
+[00:11:55] [Render thread/INFO]: Time elapsed: 5292 ms
+[00:11:56] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:11:56] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:yellow_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:red_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gray_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:green_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:orange_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:black_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lime_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:purple_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:brown_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cyan_wool removed now.
+[00:11:56] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:blue_wool removed now.
+[00:11:56] [Server thread/INFO]: 16thGarden[local:E:3852c866] logged in with entity id 50178 at (-4.684205888241121, -46.59238988192594, 24.184554580578492)
+[00:11:56] [Render thread/INFO]: Started 6 worker threads
+[00:11:56] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[00:11:56] [Server thread/INFO]: 16thGarden joined the game
+[00:11:56] [Render thread/INFO]: Stopping worker threads
+[00:11:56] [Render thread/INFO]: Started 6 worker threads
+[00:11:56] [Render thread/INFO]: Loaded 2 advancements
+[00:12:01] [Render thread/INFO]: Loaded 18 advancements
+[00:12:07] [Render thread/INFO]: Loaded 22 advancements
+[00:12:21] [Render thread/INFO]: Loaded 29 advancements
+[00:14:38] [Server thread/INFO]: 16thGarden has made the advancement [Stone Age]
+[00:14:38] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Stone Age]
+[00:14:38] [Render thread/INFO]: Loaded 47 advancements
+[00:15:41] [WebSocketConnectReadThread-74/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 2h 49m 44.142138200s
+[00:15:41] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:15:42] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[00:15:43] [WebSocketConnectReadThread-449/INFO]: Connected to Essential Connection Manager.
+[00:17:09] [Render thread/INFO]: [System] [CHAT] Unknown or incomplete command, see below for error
+[00:17:09] [Render thread/INFO]: [System] [CHAT] ... -2 -60 15<--[HERE]
+[00:18:04] [Render thread/INFO]: [System] [CHAT] Too many blocks in the specified area (maximum 32768, specified 90200)
+[00:20:20] [Render thread/INFO]: Loaded 51 advancements
+[00:20:28] [Render thread/INFO]: Loaded 52 advancements
+[00:20:36] [Render thread/INFO]: Loaded 63 advancements
+[00:22:08] [Render thread/INFO]: Loaded 81 advancements
+[00:26:38] [Render thread/INFO]: Loaded 90 advancements
+[00:27:17] [Render thread/INFO]: Loaded 91 advancements
+[00:28:09] [Render thread/INFO]: Loaded 100 advancements
+[00:28:10] [Render thread/INFO]: Loaded 109 advancements
+[00:30:25] [Server thread/INFO]: Saving and pausing game...
+[00:30:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:overworld
+[00:30:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:the_nether
+[00:30:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:the_end
+[00:32:21] [Server thread/INFO]: Saving and pausing game...
+[00:32:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:overworld
+[00:32:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:the_nether
+[00:32:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:the_end
+[00:32:21] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:32:21] [Server thread/INFO]: 16thGarden left the game
+[00:32:21] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:32:21] [Server thread/INFO]: Stopping server
+[00:32:21] [Server thread/INFO]: Saving players
+[00:32:21] [Server thread/INFO]: Saving worlds
+[00:32:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:overworld
+[00:32:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:the_nether
+[00:32:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Recreate Shorts]'/minecraft:the_end
+[00:32:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (Recreate Shorts): All chunks are saved
+[00:32:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:32:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:32:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:32:22] [Render thread/INFO]: Stopping worker threads
+[00:32:26] [Render thread/INFO]: Connecting to node05-sg.agilahost.com, 25565
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: fsit:restrict_sync
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: chunky:border
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: chunky:border
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: chunky:border
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: chunky:border
+[00:32:27] [Netty Client IO #18/WARN]: Unknown custom packet payload: badpackets:channel_sync
+[00:32:27] [Render thread/INFO]: Started 6 worker threads
+[00:32:28] [Render thread/INFO]: Using 3 total BufferBuilder caches
+[00:32:28] [Render thread/INFO]: Joined carpet server with matching carpet version
+[00:32:28] [Render thread/INFO]: Loaded 507 advancements
+[00:32:28] [Render thread/INFO]: Stopping worker threads
+[00:32:28] [Render thread/INFO]: Started 6 worker threads
+[00:32:29] [Render thread/INFO]: [System] [CHAT] <SucroseWho> yo i have 8 mendings here
+[00:32:35] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wala
+[00:32:36] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> to
+[00:32:37] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> can i have 1
+[00:32:42] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> sunogin mo
+[00:32:42] [Render thread/INFO]: [System] [CHAT] <SucroseWho> later
+[00:32:44] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> make them rarer
+[00:32:48] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> consume them
+[00:32:50] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> ay oonga no
+[00:32:53] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> whahaahhaah
+[00:32:53] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> sayo na yan
+[00:32:55] [Render thread/INFO]: [System] [CHAT] <SucroseWho> nasa acient city ako HAHAAH
+[00:33:03] [Render thread/INFO]: [System] [CHAT] Material list written to file 'material_list_2024-03-30_00.33.03.txt'
+[00:33:14] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> lore
+[00:33:15] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> lore
+[00:33:16] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> lore
+[00:33:17] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wahahaha
+[00:33:25] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wait
+[00:33:33] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> what if nasa inventory niya yung netherite helmet
+[00:34:01] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> wala siya sa vc
+[00:34:06] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> bebe time si gago
+[00:34:14] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> movie night niya yan
+[00:34:25] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> nagmovie night si gago
+[00:34:43] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> basta may minecraft server gagi
+[00:34:59] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> nag all-nighter si zach kagabi
+[00:35:11] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> dm mo nga
+[00:35:17] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> si pyon pwede mag allnight
+[00:35:18] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> guluhin mo si
+[00:35:22] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> si zach pwede mag allnigh
+[00:35:23] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> guluhin mo whahaha
+[00:35:30] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> phew
+[00:35:37] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> phew
+[00:35:40] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> muntikan
+[00:35:46] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> i
+[00:35:52] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> wahahahaha
+[00:36:04] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> depende kung kaya mo baka mag side si wujinn kay zach
+[00:36:05] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> gg ka
+[00:36:29] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> mga top sweats sa pbp
+[00:36:30] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> pvp
+[00:36:42] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> nah man
+[00:36:44] [Render thread/INFO]: [System] [CHAT] <ReikoRingo> tangina casual lang ako dyan
+[00:36:55] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> you havent seen anarchy players yet
+[00:37:13] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> 24 totems sa inv
+[00:37:14] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> whahahaha
+[00:37:27] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> nah
+[00:37:33] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> meron natural fast totem talaga
+[00:38:12] [Render thread/INFO]: [System] [CHAT] MarkUnderMark left the game
+[00:38:16] [Render thread/INFO]: [System] [CHAT] <[TPS] rhongobongooo> edit kana
+[00:39:01] [Render thread/INFO]: [System] [CHAT] [DISCORD] <Ilocano Milk Candy Vendor> Edit kana
+[00:39:12] [Render thread/INFO]: [System] [CHAT] [DISCORD] <Ilocano Milk Candy Vendor> Naka higa ako sa sofa rn
+[00:43:55] [Render thread/INFO]: [System] [CHAT] Vynlazer left the game
+[00:44:10] [Render thread/INFO]: [System] [CHAT] [TPS] rhongobongooo left the game
+[00:47:05] [Render thread/INFO]: Loaded 509 advancements
+[00:52:24] [Render thread/INFO]: [System] [CHAT] ReikoRingo left the game
+[00:53:55] [Render thread/INFO]: Loaded 509 advancements
+[00:54:22] [Render thread/INFO]: Loaded 518 advancements
+[01:00:50] [Render thread/INFO]: Loaded 520 advancements
+[01:02:37] [Render thread/INFO]: Loaded 521 advancements
+[01:05:00] [Render thread/INFO]: [System] [CHAT] CancitPant0n joined the game
+[01:09:27] [Render thread/INFO]: [System] [CHAT] <CancitPant0n> nawala sakura chest boat ko gagi
+[01:09:56] [Render thread/INFO]: [System] [CHAT] <CancitPant0n> *cherry wood
+[01:10:43] [Render thread/INFO]: Loaded 530 advancements
+[01:20:23] [Render thread/INFO]: Loaded 533 advancements
+[01:26:00] [Render thread/INFO]: [System] [CHAT] CancitPant0n was shot by Skeleton
+[01:36:47] [Render thread/INFO]: Loaded 533 advancements
+[01:43:28] [Render thread/INFO]: [System] [CHAT] CancitPant0n left the game
+[01:43:32] [Render thread/INFO]: [System] [CHAT] CancitPant0n joined the game
+[01:47:22] [Render thread/INFO]: [System] [CHAT] SucroseWho left the game
+[01:47:24] [Render thread/INFO]: [System] [CHAT] SucroseWho joined the game
+[01:53:36] [Render thread/INFO]: Loaded 533 advancements
+[02:00:18] [Render thread/INFO]: Stopping worker threads
+[02:00:19] [Render thread/INFO]: Stopping!
+[02:00:19] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

@@ -1,0 +1,185 @@
+[00:14:59] [Render thread/INFO]: Stopping worker threads
+[00:14:59] [Server thread/INFO]: Saving and pausing game...
+[00:14:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:14:59] [Render thread/INFO]: Started 6 worker threads
+[00:14:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:14:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:14:59] [Render thread/INFO]: Stopping worker threads
+[00:14:59] [Render thread/INFO]: Started 6 worker threads
+[00:15:00] [Render thread/WARN]: Received passengers for unknown entity
+[00:42:04] [Render thread/WARN]: Received passengers for unknown entity
+[00:42:19] [Render thread/INFO]: Stopping worker threads
+[00:42:19] [Server thread/INFO]: Saving and pausing game...
+[00:42:19] [Render thread/INFO]: Started 6 worker threads
+[00:42:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:42:20] [Render thread/INFO]: Stopping worker threads
+[00:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:42:20] [Render thread/INFO]: Started 6 worker threads
+[00:43:44] [Render thread/INFO]: Stopping worker threads
+[00:43:44] [Render thread/INFO]: Started 6 worker threads
+[00:43:44] [Server thread/INFO]: Saving and pausing game...
+[00:43:44] [Render thread/INFO]: Stopping worker threads
+[00:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:43:44] [Render thread/INFO]: Started 6 worker threads
+[00:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:44:15] [Render thread/WARN]: Received passengers for unknown entity
+[00:47:13] [WebSocketConnectReadThread-786/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 31m 46.665480600s
+[00:47:13] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:47:13] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[00:47:14] [WebSocketConnectReadThread-938/INFO]: Connected to Essential Connection Manager.
+[01:02:52] [Server thread/INFO]: Saving and pausing game...
+[01:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[01:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[01:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[01:02:53] [Render thread/INFO]: Using default channel type
+[01:02:53] [Render thread/INFO]: Started serving on 63575
+[01:02:53] [Render thread/INFO]: [System] [CHAT] Local game hosted on port [63575]
+[01:03:02] [Server thread/INFO]: [16thGarden: Gave 1 [Turtle Egg] to 16thGarden]
+[01:03:02] [Render thread/INFO]: [System] [CHAT] Gave 1 [Turtle Egg] to 16thGarden
+[01:06:25] [WebSocketConnectReadThread-938/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 19m 11.388653400s
+[01:06:25] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:06:26] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[01:06:27] [WebSocketConnectReadThread-991/INFO]: Connected to Essential Connection Manager.
+[01:06:55] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[01:06:57] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[01:11:41] [Server thread/INFO]: 16thGarden withered away
+[01:11:41] [Render thread/INFO]: [System] [CHAT] 16thGarden withered away
+[01:11:45] [Render thread/INFO]: Stopping worker threads
+[01:11:46] [Render thread/INFO]: Started 6 worker threads
+[01:11:46] [Render thread/INFO]: Stopping worker threads
+[01:11:46] [Render thread/INFO]: Started 6 worker threads
+[01:11:55] [Render thread/INFO]: Stopping worker threads
+[01:11:55] [Render thread/INFO]: Started 6 worker threads
+[01:11:55] [Render thread/INFO]: Stopping worker threads
+[01:11:55] [Render thread/INFO]: Started 6 worker threads
+[01:11:58] [Server thread/INFO]: [16thGarden: Set own game mode to Creative Mode]
+[01:11:58] [Render thread/INFO]: [System] [CHAT] Set own game mode to Creative Mode
+[01:12:36] [Render thread/WARN]: Received passengers for unknown entity
+[01:13:23] [Server thread/INFO]: [16thGarden: Set own game mode to Survival Mode]
+[01:13:24] [Render thread/INFO]: [System] [CHAT] Set own game mode to Survival Mode
+[01:14:02] [Render thread/WARN]: Received passengers for unknown entity
+[01:14:19] [Render thread/INFO]: Stopping worker threads
+[01:14:19] [Render thread/INFO]: Started 6 worker threads
+[01:14:19] [Render thread/INFO]: Stopping worker threads
+[01:14:19] [Render thread/INFO]: Started 6 worker threads
+[01:19:08] [Render thread/INFO]: Stopping worker threads
+[01:19:08] [Render thread/INFO]: Started 6 worker threads
+[01:19:08] [Render thread/INFO]: Stopping worker threads
+[01:19:08] [Render thread/INFO]: Started 6 worker threads
+[01:24:13] [Render thread/WARN]: Received passengers for unknown entity
+[01:24:29] [Render thread/INFO]: Stopping worker threads
+[01:24:29] [Render thread/INFO]: Started 6 worker threads
+[01:24:29] [Render thread/INFO]: Stopping worker threads
+[01:24:29] [Render thread/INFO]: Started 6 worker threads
+[01:25:35] [Render thread/INFO]: Stopping worker threads
+[01:25:35] [Render thread/INFO]: Started 6 worker threads
+[01:25:35] [Render thread/INFO]: Stopping worker threads
+[01:25:35] [Render thread/INFO]: Started 6 worker threads
+[01:26:16] [Render thread/WARN]: Received passengers for unknown entity
+[01:27:15] [Render thread/WARN]: Received passengers for unknown entity
+[01:27:57] [Render thread/WARN]: Received passengers for unknown entity
+[01:32:05] [WebSocketConnectReadThread-991/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 25m 37.750269400s
+[01:32:05] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[01:32:05] [DefaultDispatcher-worker-10/INFO]: Connecting to Essential Connection Manager...
+[01:32:08] [WebSocketConnectReadThread-1114/INFO]: Connected to Essential Connection Manager.
+[01:36:10] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[02:01:45] [Server thread/INFO]: [16thGarden: Gave 6 [Hay Bale] to 16thGarden]
+[02:01:45] [Render thread/INFO]: [System] [CHAT] Gave 6 [Hay Bale] to 16thGarden
+[02:13:13] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[02:13:56] [Server thread/INFO]: [16thGarden: Gave 2 [Hay Bale] to 16thGarden]
+[02:13:56] [Render thread/INFO]: [System] [CHAT] Gave 2 [Hay Bale] to 16thGarden
+[02:26:07] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[02:26:09] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[02:29:05] [Server thread/INFO]: <16thGarden> 646 -132
+[02:29:05] [Render thread/INFO]: [CHAT] <16thGarden> 646 -132
+[02:30:01] [Render thread/WARN]: Received passengers for unknown entity
+[02:30:08] [Render thread/WARN]: Received passengers for unknown entity
+[02:30:45] [Render thread/WARN]: Received passengers for unknown entity
+[02:31:58] [Render thread/INFO]: Stopping worker threads
+[02:31:58] [Render thread/INFO]: Started 6 worker threads
+[02:31:58] [Render thread/INFO]: Stopping worker threads
+[02:31:58] [Render thread/INFO]: Started 6 worker threads
+[02:35:44] [Render thread/INFO]: Stopping worker threads
+[02:35:44] [Render thread/INFO]: Started 6 worker threads
+[02:35:44] [Render thread/INFO]: Stopping worker threads
+[02:35:44] [Render thread/INFO]: Started 6 worker threads
+[02:42:16] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: shown
+[02:49:39] [Render thread/INFO]: [System] [CHAT] [Debug]: Hitboxes: hidden
+[02:51:52] [Render thread/WARN]: Received passengers for unknown entity
+[02:51:54] [Render thread/WARN]: Received passengers for unknown entity
+[02:51:55] [Render thread/WARN]: Received passengers for unknown entity
+[02:52:59] [Render thread/WARN]: Received passengers for unknown entity
+[02:53:05] [Render thread/INFO]: Stopping worker threads
+[02:53:05] [Render thread/INFO]: Started 6 worker threads
+[02:53:05] [Render thread/INFO]: Stopping worker threads
+[02:53:05] [Render thread/INFO]: Started 6 worker threads
+[02:53:13] [Render thread/INFO]: Stopping worker threads
+[02:53:13] [Render thread/INFO]: Started 6 worker threads
+[02:53:13] [Render thread/INFO]: Stopping worker threads
+[02:53:13] [Render thread/INFO]: Started 6 worker threads
+[02:58:15] [Render thread/INFO]: Stopping worker threads
+[02:58:15] [Render thread/INFO]: Started 6 worker threads
+[02:58:15] [Render thread/INFO]: Stopping worker threads
+[02:58:15] [Render thread/INFO]: Started 6 worker threads
+[02:59:37] [Render thread/INFO]: Stopping worker threads
+[02:59:37] [Render thread/INFO]: Started 6 worker threads
+[02:59:37] [Render thread/INFO]: Stopping worker threads
+[02:59:37] [Render thread/INFO]: Started 6 worker threads
+[02:59:59] [Render thread/INFO]: Stopping worker threads
+[02:59:59] [Render thread/INFO]: Started 6 worker threads
+[02:59:59] [Render thread/INFO]: Stopping worker threads
+[02:59:59] [Render thread/INFO]: Started 6 worker threads
+[03:00:11] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:00:13] [Render thread/INFO]: Stopping worker threads
+[03:00:13] [Server thread/INFO]: Changing view distance to 32, from 16
+[03:00:13] [Render thread/INFO]: Started 6 worker threads
+[03:00:13] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:00:13] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[03:00:13] [Render thread/INFO]: Stopping worker threads
+[03:00:13] [Render thread/INFO]: Started 6 worker threads
+[03:00:14] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:00:38] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:00:42] [Render thread/INFO]: Stopping worker threads
+[03:00:42] [Server thread/INFO]: Changing view distance to 16, from 32
+[03:00:42] [Render thread/INFO]: Started 6 worker threads
+[03:00:42] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[03:00:42] [Render thread/INFO]: Flushed changes to Minecraft configuration
+[03:00:43] [Render thread/ERROR]: Error saving option Brightness: DynamicException[Value 16.0 outside of range [0.0:1.0] Optional[16.0]]
+[05:59:31] [Essential Thread 4/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 4h 27m 22.823913900s
+[05:59:31] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[05:59:33] [DefaultDispatcher-worker-2/INFO]: Connecting to Essential Connection Manager...
+[05:59:36] [WebSocketConnectReadThread-1337/INFO]: Connected to Essential Connection Manager.
+[07:06:38] [WebSocketConnectReadThread-1337/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 7m 2.540464800s
+[07:06:38] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[07:06:39] [DefaultDispatcher-worker-8/INFO]: Connecting to Essential Connection Manager...
+[07:06:39] [WebSocketConnectReadThread-1371/INFO]: Connected to Essential Connection Manager.
+[07:44:29] [WebSocketConnectReadThread-1371/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 37m 49.802994600s
+[07:44:29] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[07:44:30] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[07:44:30] [WebSocketConnectReadThread-1401/INFO]: Connected to Essential Connection Manager.
+[07:49:01] [Essential Thread 16/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 4m 30.335153400s
+[07:49:01] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[07:49:01] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[07:49:01] [WebSocketConnectReadThread-1429/INFO]: Connected to Essential Connection Manager.
+[09:37:20] [Essential Thread 4/WARN]: Connection closed unexpectedly (CloseInfo(code=4500, reason=SERVER_KEEP_ALIVE_TIMEOUT, remote=false, outdated=false)) after 1h 48m 18.083043300s
+[09:37:20] [Render thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[09:37:20] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[09:37:23] [WebSocketConnectReadThread-1445/INFO]: Connected to Essential Connection Manager.
+[09:46:24] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[09:46:24] [Server thread/INFO]: 16thGarden left the game
+[09:46:24] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[09:46:24] [Server thread/INFO]: Stopping server
+[09:46:24] [Server thread/INFO]: Saving players
+[09:46:24] [Server thread/INFO]: Saving worlds
+[09:46:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[09:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[09:46:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[09:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[09:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:46:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:46:25] [Render thread/INFO]: Stopping worker threads
+[09:46:25] [Render thread/INFO]: Stopping!
+[09:46:25] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

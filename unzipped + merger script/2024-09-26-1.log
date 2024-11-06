@@ -1,0 +1,744 @@
+[00:49:44] [Thread-9231/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[00:49:44] [Thread-9231/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1727282984281
+[01:49:44] [Thread-9255/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[01:49:44] [Thread-9255/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1727286584519
+[02:42:43] [Netty Client IO #17/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[02:42:43] [Client thread/INFO]: Connecting to eu.hypixel.net, 25565
+[02:42:49] [Client thread/INFO]: Connecting to eu.hypixel.net, 25565
+[02:42:50] [Client thread/INFO]: Successfully refreshed session token.
+[02:42:50] [Client thread/WARN]: Attempted to connect to a server whilst already connecting!
+[02:42:54] [Netty Client IO #20/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[02:42:54] [Client thread/INFO]: Connecting to eu.hypixel.net, 25565
+[02:42:55] [Netty Client IO #22/INFO]: Server FML protocol version 1, no additional data received
+[02:42:55] [Netty Client IO #22/INFO]: Server protocol version 1
+[02:42:56] [Netty Client IO #22/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[02:42:56] [Netty Client IO #22/INFO]: Injecting existing block and item data into this client instance
+[02:42:56] [Netty Client IO #22/INFO]: Applying holder lookups
+[02:42:56] [Netty Client IO #22/INFO]: Holder lookups applied
+[02:42:56] [Netty Client IO #22/INFO]: [Netty Client IO #22] Client side modded connection established
+[02:42:56] [Netty Client IO #22/INFO]: DungeonRooms: Connecting to Hypixel...
+[02:42:56] [Netty Client IO #22/INFO]: DungeonRooms: Packet Handler added
+[02:42:56] [Netty Client IO #22/INFO]: [me.Danker.DankersSkyblockMod:onServerConnect:494]: Added packet handler to channel pipeline.
+[02:42:57] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hypixel:hello
+[02:42:57] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:103]: Sent Hypixel packet hypixel:register
+[02:42:57] [Client thread/INFO]: [CHAT]                          
+[02:42:58] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:42:58] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='dynamiclobby9D', serverType='MAIN', lobbyName='lobby3', mode='null', map='null'} VersionedPacket{version=1}
+[02:43:00] [Client thread/INFO]: [CHAT] Sending to server mini89BN...
+[02:43:00] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:43:00] [Thread-9256/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[02:43:00] [Thread-9256/INFO]: [CHAT] §d§l--- Dungeon Rooms Mod ---
+ §r§cThe hotkey "Button 3", which is used to Show Waypoints in Practice Mode, has a conflict with a keybinding from "key.categories.gameplay".
+ §c§lPlease go into the Minecraft Controls menu and change one of the keybindings.
+§d§l------------------------
+[02:43:00] [Thread-9256/INFO]: DungeonRooms: Checking for updates...
+[02:43:00] [Client thread/INFO]: [CHAT]        
+[02:43:00] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini89BN', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[02:43:00] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[02:43:01] [Thread-9256/INFO]: DungeonRooms: No update found
+[02:43:01] [Thread-9256/INFO]: DungeonRooms: Getting MOTD...
+[02:43:01] [Thread-9256/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$1560/925992437.run(Unknown Source)
+[02:43:01] [Thread-9256/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[02:43:01] [Thread-9256/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[02:43:02] [Client thread/INFO]: [CHAT] 
+[02:43:02] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[02:43:02] [Client thread/INFO]: [CHAT] 
+[02:43:02] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.6 §e§lCLICK
+[02:43:03] [Client thread/INFO]: [CHAT] Warping...
+[02:43:03] [Client thread/INFO]: [CHAT] Sending to server mini182DA...
+[02:43:03] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:43:03] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:43:04] [Client thread/INFO]: [CHAT]        
+[02:43:04] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:43:04] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini182DA', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[02:43:07] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[02:43:07] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[02:43:09] [Client thread/INFO]: [CHAT] [253] §b[MVP§c+§b] Ahmad_4kH §7?§f: he desrve it he came to my spot and started macroing lol
+[02:43:24] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[02:43:24] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 93,038,584 coins from selling 2x Skeleton Key at 47,048,589 each!
+[02:43:26] [Client thread/INFO]: [CHAT] [Bazaar] Cancelling order...
+[02:43:26] [Client thread/INFO]: [CHAT] [Bazaar] Cancelled! Refunded 1x Skeleton Key from cancelling Sell Offer!
+[02:43:26] [Client thread/INFO]: [CHAT] [133] §b[MVP§e+§b] GuyWhoIsReal§f: just find some random patches laying around
+[02:43:30] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[02:43:30] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[02:43:30] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 1x Skeleton Key for 46,217,840 coins.
+[02:43:31] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §6Sell Offer §efor §a1§7x §6Skeleton Key §ewas filled!
+[02:43:31] [Client thread/INFO]: [CHAT] [253] §b[MVP§c+§b] Ahmad_4kH §7?§f: yea rip this lobby
+[02:43:35] [Client thread/INFO]: [CHAT] [52] §b[MVP§6+§b] IcyFakez§f: I need it in one specific spot
+[02:43:38] [Client thread/INFO]: [CHAT] [253] §b[MVP§c+§b] Ahmad_4kH §7?§f: the guy is doing massive 360s
+[02:43:39] [Client thread/INFO]: [CHAT] [253] §b[MVP§c+§b] Ahmad_4kH §7?§f: bye all
+[02:43:44] [Client thread/INFO]: [CHAT] [253] §b[MVP§c+§b] Ahmad_4kH §7?§f: dont forget to wdr him
+[02:43:44] [Client thread/INFO]: [CHAT] Guild > Dima_PB left.
+[02:43:54] [Client thread/INFO]: [CHAT] [123] ? §a[VIP§6+§a] Farrers§f: guy
+[02:44:41] [Client thread/INFO]: [CHAT] You earned 2 GEXP from playing SkyBlock!
+[02:44:54] [Client thread/INFO]: [CHAT]  ? Lumik27 was killed by Murderlover.
+[02:46:03] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[02:46:03] [Client thread/INFO]: [CHAT] [Bazaar] Bought 35x Glacite Jewel for 6,538,714 coins!
+[02:46:08] [Client thread/INFO]: [CHAT] Guild > QuiteShrewd left.
+[02:46:13] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[02:46:13] [Client thread/INFO]: [CHAT] [Bazaar] Bought 14x Enchanted Gold Block for 1,436,518 coins!
+[02:46:27] [Client thread/INFO]: [CHAT]  ? Lumik27 was killed by Murderlover.
+[02:46:40] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Lunch Egg has appeared!
+[02:46:45] [Client thread/INFO]: [CHAT] Warping...
+[02:46:45] [Client thread/INFO]: [CHAT] Sending to server mini2BC...
+[02:46:46] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:46:46] [Client thread/INFO]: [CHAT]        
+[02:46:46] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini2BC', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[02:46:49] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:46:49] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:47:02] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg looking towards the windmill!
+[02:47:03] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fJazmin §7(§F§LCOMMON§7)!
+[02:47:03] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+8,478,221 Chocolate
+[02:47:24] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on top of platforms near a Fairy Soul!
+[02:47:24] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fMarlow §7(§F§LCOMMON§7)!
+[02:47:24] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+8,917,507 Chocolate
+[02:47:33] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg at the bottom of the stairs!
+[02:47:34] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fFrankie §7(§F§LCOMMON§7)!
+[02:47:34] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+8,478,221 Chocolate
+[02:47:47] [Client thread/INFO]: [CHAT] Warping...
+[02:47:47] [Client thread/INFO]: [CHAT] Sending to server mini10BF...
+[02:47:47] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[02:47:48] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini10BF', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[02:47:48] [Client thread/INFO]: [CHAT]        
+[02:47:49] [Client thread/INFO]: [CHAT] §6§lGROSS! §7While you were offline, §6Pests §7spawned in §aPlots §bR3§7, §b1§7, §bA3§7, §bR5§7 and §b2§7!
+[02:47:49] [Client thread/INFO]: [CHAT] Your ? Farming Fortune has been reduced by 50%!
+[02:47:49] [Client thread/INFO]: [CHAT] Click on a plots name in chat to teleport to it!
+[02:47:51] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[02:47:51] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[02:47:51] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[02:47:54] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 89] §6Slug§e! §a§lVIEW RULE
+[02:48:05] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[02:48:05] [Client thread/INFO]: [CHAT] [Bazaar] Bought 62x Enchanted Hay Bale for 520,738 coins!
+[02:48:08] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[02:48:08] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Enchanted Melon Block for 509,997 coins!
+[02:48:10] [Client thread/INFO]: [CHAT] 
+[02:48:10] [Client thread/INFO]: [CHAT] 
+[02:48:10] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aEmissary Fraiser§6§l!§r §215§7, §32.2k§7, §c16§7, §b10
+[02:48:11] [Client thread/INFO]: [CHAT] 
+[02:48:11] [Client thread/INFO]: [CHAT] 
+[02:48:12] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aSargwyn§6§l!§r §215§7, §37.8k§7, §c26§7, §b10
+[02:48:13] [Client thread/INFO]: [CHAT] 
+[02:48:13] [Client thread/INFO]: [CHAT] 
+[02:48:13] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aGimley§6§l!§r §215§7, §38.1k§7, §c27§7, §b10
+[02:48:15] [Client thread/INFO]: [CHAT] 
+[02:48:15] [Client thread/INFO]: [CHAT] 
+[02:48:15] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aDusk§6§l!§r §215§7, §33.2k§7, §c24§7, §b10§7, §7§6? Fire Spiral Rune I
+[02:48:29] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[02:48:29] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Box of Seeds for 770,883 coins!
+[02:48:31] [Client thread/INFO]: [CHAT] Added 256,000 organic matter to the composter!
+[02:48:42] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[02:48:42] [Client thread/INFO]: [CHAT] [Bazaar] Bought 24x Oil Barrel for 76,759 coins!
+[02:48:43] [Client thread/INFO]: [CHAT] Added 240,000 fuel to the composter!
+[02:48:45] [Client thread/INFO]: [CHAT] Guild > Dima_PB joined.
+[02:48:49] [Client thread/INFO]: [CHAT] Teleported you to Plot - 1!
+[02:48:56] [Client thread/INFO]: [CHAT] §eYou received §a11x Enchanted Hay Bale §efor killing a §6Fly§e!
+[02:49:04] [Client thread/INFO]: [CHAT] §eYou received §a11x Enchanted Carrot §efor killing a §6Cricket§e!
+[02:49:06] [Client thread/INFO]: [CHAT] Teleported you to Plot - R3!
+[02:49:13] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[02:49:13] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §9Mutant Nether Wart §6(§6+1,213?)
+[02:49:15] [Client thread/INFO]: [CHAT] Teleported you to Plot - A3!
+[02:49:25] [Client thread/INFO]: [CHAT] Your Garden is no longer infested and your ? Farming Fortune has returned to normal!
+[02:49:25] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[02:49:26] [Client thread/INFO]: [CHAT] Teleported you to Plot - B3!
+[02:49:33] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Nether Wart §efor killing a §6Beetle§e!§7 (2)
+[02:49:34] [Client thread/INFO]: [CHAT] Teleported you to Plot - R5!
+[02:49:41] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Potato §efor killing a §6Locust§e!
+[02:49:41] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §aCicada Symphony Vinyl §6(§6+1,286?)
+[02:49:43] [Client thread/INFO]: [CHAT] Teleported you to Plot - B5!
+[02:49:44] [Thread-9384/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[02:49:44] [Thread-9384/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1727290184609
+[02:49:53] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Potato §efor killing a §6Locust§e!§7 (2)
+[02:49:57] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage7.
+[02:49:57] [SkyblockAddons - #146/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:49:57] [SkyblockAddons - #146/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:49:59] [Client thread/INFO]: [CHAT] Warping...
+[02:50:01] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Mooshroom Cow§e! §a§lVIEW RULE
+[02:50:08] [Client thread/INFO]: [CHAT] Guild > Dima_PB left.
+[02:50:12] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage4.
+[02:50:12] [SkyblockAddons - #146/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:50:12] [SkyblockAddons - #146/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:50:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: [Bazaar] Bought 2,000x Worm Membrane for 89,091,652 coins!
+[02:50:58] [Client thread/INFO]: [CHAT] You already have this effect active! Try again in 23m 40s!
+[02:52:18] [Client thread/INFO]: [CHAT] Xalx has arrived on your Garden!
+[02:52:28] [Client thread/INFO]: [CHAT] Guild > Carrant left.
+[02:52:48] [Client thread/INFO]: [CHAT] You earned 16 GEXP from playing SkyBlock!
+[02:53:14] [Client thread/INFO]: [CHAT] Guild > Thyla joined.
+[02:53:45] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: what do i wanna do first for mining
+[02:53:53] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] DonieCutie §3[HYDRA]§f: hotm
+[02:53:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: dwarven comissions for mithril powder?
+[02:53:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: and hotm
+[02:54:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: stop
+[02:54:01] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] DonieCutie §3[HYDRA]§f: yes
+[02:54:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: and fish instead
+[02:54:10] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] DonieCutie §3[HYDRA]§f: fr
+[02:54:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: i need greg mf
+[02:54:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: also hotm 8
+[02:54:23] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: for mf perk
+[02:54:32] [Client thread/INFO]: [CHAT] Guild > Thyla left.
+[02:54:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: but im gonna go all out
+[02:54:51] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§c++§6] Malcolm_Little1 §3[EGG]§f: can anyone help me out with a t3 or 4 eman rq?
+[02:54:58] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: too bad ive lsot 1b to wheels recently
+[02:55:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: what did you use them on!?
+[02:55:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: ml chestplate
+[02:55:17] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: no
+[02:55:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: leggingsw
+[02:55:33] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[02:55:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: im almost done with divan armor jsut need the chamers now
+[02:56:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: at 800m purse rn
+[02:56:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: after buying membranes and mixtures
+[02:56:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: also somewhat maxed the artifacct of power
+[02:56:28] [Client thread/INFO]: [CHAT] Jotraeline Greatforge has arrived on your Garden!
+[02:56:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: what drill
+[02:56:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: idk what to go for
+[02:56:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: im thinkg 655 but i need the mithril powder
+[02:57:40] [Client thread/INFO]: [CHAT] Guild > chunfan left.
+[02:57:44] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:57:44] [Client thread/INFO]: [CHAT] 16thGarden collected an auction for 90,000 coins!
+[02:57:44] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:57:44] [Client thread/INFO]: [CHAT] You collected 90,000 coins from selling Satin Trousers to [VIP] IceCold2407 in an auction!
+[02:57:48] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[02:58:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: do i need mithril drill for mithril powder?
+[02:58:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: or 655 jsut fine
+[02:58:39] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: also is mining mithril rly the best mithril powder
+[02:58:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: what about the chests??
+[02:59:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: they no longer contain mithril powder
+[02:59:10] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[02:59:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: thats kinda ass ngl
+[02:59:41] [Client thread/INFO]: [CHAT] Guild > Pludoow left.
+[02:59:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: royal best ref for equip right?
+[03:00:46] [Client thread/INFO]: [CHAT] Jamie has arrived on your Garden!
+[03:01:07] [Client thread/INFO]: [CHAT] Guild > MEE6_2TRAPPY left.
+[03:01:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: BIN Auction started for [Lvl 1] Baby Yeti! [3]
+[03:01:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: !!!
+[03:01:24] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[03:01:24] [SkyblockAddons - #147/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:01:24] [SkyblockAddons - #147/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:01:33] [Client thread/INFO]: [CHAT] Guild > MisterShaco joined.
+[03:01:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] RNGjoggy §3[EGG]§f: all caught in 1 hour so fishing for 5 was kinda useless
+[03:02:47] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 left.
+[03:02:49] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[03:04:08] [Client thread/INFO]: [CHAT] Guild > Hekelmann left.
+[03:04:58] [Client thread/INFO]: [CHAT] Lynn has arrived on your Garden!
+[03:05:17] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:05:18] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:05:25] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 89] §6Slug§e! §a§lVIEW RULE
+[03:05:32] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[03:05:32] [SkyblockAddons - #148/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:05:32] [SkyblockAddons - #148/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:05:36] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:05:36] [Client thread/INFO]: [CHAT] [Bazaar] Bought 204x Enchanted Pumpkin for 327,012 coins!
+[03:05:41] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:05:41] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Enchanted Melon Block for 356,997 coins!
+[03:05:43] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[03:05:43] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 14,455 coins!
+[03:05:43] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[03:05:43] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 14,455 coins!§7 (2)
+[03:05:45] [Client thread/INFO]: [CHAT] 
+[03:05:45] [Client thread/INFO]: [CHAT] 
+[03:05:45] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aLynn§6§l!§r §215§7, §37.3k§7, §c25§7, §b10
+[03:05:46] [Client thread/INFO]: [CHAT] 
+[03:05:46] [Client thread/INFO]: [CHAT] 
+[03:05:47] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJamie§6§l!§r §215§7, §33.7k§7, §c28§7, §b10
+[03:05:48] [Client thread/INFO]: [CHAT] 
+[03:05:48] [Client thread/INFO]: [CHAT] 
+[03:05:48] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJotraeline Greatforge§6§l!§r §215§7, §315k§7, §c30§7, §b10§7, §7§9Biofuel
+[03:05:50] [Client thread/INFO]: [CHAT] 
+[03:05:50] [Client thread/INFO]: [CHAT] 
+[03:05:50] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aXalx§6§l!§r §215§7, §34.3k§7, §c29§7, §b10§7, §7§fMysterious Crop
+[03:05:58] [Client thread/INFO]: [CHAT] Inserted 12,000 Fuel from your sacks!
+[03:06:43] [Client thread/INFO]: [CHAT] Putting item in escrow...
+[03:06:43] [Client thread/INFO]: [CHAT] Setting up the auction...
+[03:06:43] [Client thread/INFO]: [CHAT] BIN Auction started for [Lvl 1] Baby Yeti!
+[03:06:43] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:06:43] [Client thread/INFO]: [CHAT] 16thGarden created a BIN auction for [Lvl 1] Baby Yeti at 3,800,000 coins!
+[03:06:43] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:06:49] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 joined.
+[03:07:49] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[03:07:56] [Client thread/INFO]: [CHAT] Warping...
+[03:07:56] [Client thread/INFO]: [CHAT] Sending to server mini191R...
+[03:07:56] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:07:57] [Client thread/INFO]: [CHAT]        
+[03:07:57] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini191R', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[03:08:00] [Client thread/INFO]: [CHAT] You summoned your Rabbit!
+[03:08:00] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:08:00] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:08:04] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg on top of a giant crate!
+[03:08:04] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aAsterix §7(§A§LUNCOMMON§7)!
+[03:08:04] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+21,349,303 Chocolate
+[03:08:26] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg next to the Lazy Miner’s pickaxe!
+[03:08:26] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fEmerson §7(§F§LCOMMON§7)!
+[03:08:26] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[03:08:45] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 left.
+[03:08:48] [Client thread/INFO]: [CHAT] You have sent a trade request to Floflo7272.
+[03:08:58] [Client thread/INFO]: [CHAT] Your /trade request to Floflo7272 expired!
+[03:08:59] [Client thread/INFO]: [CHAT] You have sent a trade request to Floflo7272.§7 (2)
+[03:09:09] [Client thread/INFO]: [CHAT] Your /trade request to Floflo7272 expired!§7 (2)
+[03:09:12] [Client thread/INFO]: [CHAT] Warping...
+[03:09:22] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg near a fork in the lava!
+[03:09:22] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aHop-a-long §7(§A§LUNCOMMON§7)!
+[03:09:22] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+17,845,869 Chocolate
+[03:09:48] [Client thread/INFO]: [CHAT] Guild > Hekelmann joined.
+[03:09:52] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[03:09:53] [Client thread/INFO]: [CHAT] Sending to server mini27AW...
+[03:09:53] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:09:53] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini27AW', serverType='SKYBLOCK', lobbyName='null', mode='mining_2', map='Deep Caverns'} VersionedPacket{version=1}
+[03:09:53] [Client thread/INFO]: [CHAT]        
+[03:09:56] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:09:56] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:09:59] [Client thread/INFO]: [CHAT] You have sent a trade request to Seryi_kot2011.
+[03:10:09] [Client thread/INFO]: [CHAT] Your /trade request to Seryi_kot2011 expired!
+[03:10:21] [Client thread/INFO]: [CHAT] Guild > Hekelmann left.
+[03:10:54] [Client thread/INFO]: [CHAT]  ? MagnusLS was killed by Miner Skeleton.
+[03:11:09] [Client thread/INFO]: [CHAT] RARE DROP! Lapis Crystal (+176% ? Magic Find)
+[03:11:23] [Client thread/INFO]: [CHAT] Guild > Hekelmann joined.
+[03:11:31] [Client thread/INFO]: [CHAT] Warping...
+[03:11:31] [Client thread/INFO]: [CHAT] Sending to server mini9BU...
+[03:11:31] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:11:32] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini9BU', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[03:11:32] [Client thread/INFO]: [CHAT]        
+[03:11:35] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:11:35] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:11:45] [Client thread/INFO]: [CHAT] You sold Lapis Crystal x1 for 50 Coins!
+[03:12:10] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[03:12:10] [SkyblockAddons - #149/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:12:10] [SkyblockAddons - #149/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:12:12] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[03:12:13] [Client thread/INFO]: [CHAT] Sending to server mini92BR...
+[03:12:13] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:12:13] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini92BR', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[03:12:14] [Client thread/INFO]: [CHAT]        
+[03:12:15] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Mooshroom Cow§e! §a§lVIEW RULE
+[03:12:15] [Client thread/INFO]: [CHAT] You are sending commands too fast! Please slow down.
+[03:12:17] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[03:12:17] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[03:12:47] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bB2§7!
+[03:12:47] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:13:03] [Client thread/INFO]: [CHAT] RARE CROP! Fermento (Armor Set Bonus)
+[03:13:50] [Client thread/INFO]: [CHAT] Terry has arrived on your Garden!
+[03:14:06] [Client thread/INFO]: [CHAT] TIME TOWER! Your Chocolate Factory production has increased by +2.2x for 1h!
+[03:15:02] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[03:15:04] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Melon Fortune §fduring the contest!
+[03:15:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: Level 398 ? [399]
+[03:15:54] [Client thread/INFO]: [CHAT] RARE CROP! Fermento (Armor Set Bonus)
+[03:16:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] UmItzTripp §3[MANIAC]§f: so close
+[03:16:08] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: Yes... 400 is goal
+[03:16:18] [Client thread/INFO]: [CHAT] Guild > Pludoow joined.
+[03:16:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: I could do 50XP quite quick by buying palatial bank
+[03:16:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: But still need 50 more...
+[03:17:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: Will see what I will do
+[03:17:06] [Client thread/INFO]: [CHAT] Guild > chunfan joined.
+[03:17:14] [Client thread/INFO]: [CHAT] You earned 16 GEXP from playing SkyBlock!
+[03:17:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] Flizyy §3[BABY]§f: get brown belt
+[03:17:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: Yeah no teasy though
+[03:17:37] [Client thread/INFO]: [CHAT] Guild > remillianr1 left.
+[03:17:49] [Client thread/INFO]: [CHAT] Guild > Hekelmann left.
+[03:18:01] [Client thread/INFO]: [CHAT] Duke has arrived on your Garden!
+[03:18:04] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bB4§7!
+[03:18:04] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:18:16] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:18:18] [Client thread/INFO]: [CHAT] Teleported you to Plot - B2!
+[03:18:24] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Sugar §efor killing a §6Mosquito§e!
+[03:18:25] [Client thread/INFO]: [CHAT] Teleported you to Plot - B4!
+[03:18:33] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Nether Wart §efor killing a §6Beetle§e!
+[03:18:34] [Client thread/INFO]: [CHAT] Warping...
+[03:19:31] [Client thread/INFO]: [CHAT] Guild > Hekelmann joined.
+[03:20:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: auspicious ref for mithril drill?
+[03:20:22] [Client thread/INFO]: [CHAT] Guild > Xtron00 joined.
+[03:20:44] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:20:45] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:20:48] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 89] §6Slug§e! §a§lVIEW RULE
+[03:20:53] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:20:53] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Polished Pumpkin for 255,800 coins!
+[03:20:57] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:20:57] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Enchanted Melon Block for 356,432 coins!
+[03:20:59] [Client thread/INFO]: [CHAT] 
+[03:20:59] [Client thread/INFO]: [CHAT] 
+[03:20:59] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aDuke§6§l!§r §215§7, §35.5k§7, §c19§7, §b10
+[03:21:00] [Client thread/INFO]: [CHAT] 
+[03:21:00] [Client thread/INFO]: [CHAT] 
+[03:21:00] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aTerry§6§l!§r §215§7, §34.1k§7, §c31§7, §b10
+[03:21:10] [Client thread/INFO]: [CHAT]   FARMING CONTEST REWARDS CLAIMED
+[03:21:10] [Client thread/INFO]: [CHAT]   REWARDS
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§aJacob's Ticket §8x80
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§aCarnival Ticket
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§aCarnival Ticket§7 (2)
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§aCarnival Ticket §8x2
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§aCarnival Ticket §8x2§7 (2)
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§81x §9Turbo-Potato I Book
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§82x §9Turbo-Cane I Book
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§81x §9Turbo-Warts I Book
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§8+§e2 §7gold medals
+[03:21:10] [Client thread/INFO]: [CHAT]     §7§8+§e4 §7bronze medals
+[03:21:10] [Client thread/INFO]: [CHAT]     +418 Bits
+[03:21:27] [Client thread/INFO]: [CHAT] You traded 2 Bronze for 1 Silver!
+[03:21:27] [Client thread/INFO]: [CHAT] You traded 2 Bronze for 1 Silver!§7 (2)
+[03:21:28] [Client thread/INFO]: [CHAT] You traded 4 Silver for 1 Gold!
+[03:21:39] [Client thread/INFO]: [CHAT] Warping...
+[03:21:43] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Mooshroom Cow§e! §a§lVIEW RULE
+[03:22:14] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[03:22:25] [Client thread/INFO]: [CHAT] Guild > Jagwire_ left.
+[03:22:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: chat very helpful
+[03:22:59] [Client thread/INFO]: [CHAT] Jack has arrived on your Garden!
+[03:23:14] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bB4§7!
+[03:23:14] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:26:51] [Client thread/INFO]: [CHAT] RARE CROP! Fermento (Armor Set Bonus)
+[03:27:01] [Client thread/INFO]: [CHAT] Geonathan Greatforge has arrived on your Garden!
+[03:27:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Pludoow §3[HYDRA]§f: CRAZY RARE DROP! (Overflux Capacitor) (+199% ? Magic Find)
+[03:27:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Pludoow §3[HYDRA]§f: number 8 chat
+[03:27:15] [Client thread/INFO]: [CHAT] You earned 20 GEXP from playing SkyBlock!
+[03:27:29] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:27:31] [Client thread/INFO]: [CHAT] Warping...
+[03:27:31] [Client thread/INFO]: [CHAT] Sending to server mini90DC...
+[03:27:31] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:27:32] [Client thread/INFO]: [CHAT]        
+[03:27:32] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini90DC', serverType='SKYBLOCK', lobbyName='null', mode='mining_1', map='Gold Mine'} VersionedPacket{version=1}
+[03:27:35] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:27:35] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:27:35] [Client thread/INFO]: [CHAT] You summoned your Rabbit!
+[03:27:50] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg on top of platforms near a Fairy Soul!
+[03:27:50] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aForrest §7(§A§LUNCOMMON§7)!
+[03:27:50] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+24,225,811 Chocolate
+[03:27:58] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg at the bottom of the stairs!
+[03:27:58] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aBarcode §7(§A§LUNCOMMON§7)!
+[03:27:58] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+29,521,071 Chocolate
+[03:28:04] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg behind the Deep Caverns launch pad!
+[03:28:04] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fAlfie §7(§F§LCOMMON§7)!
+[03:28:04] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+15,422,443 Chocolate
+[03:28:17] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 joined.
+[03:28:23] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 left.
+[03:28:56] [Client thread/INFO]: [CHAT] You earned 1 GEXP from playing SkyBlock!
+[03:29:00] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§c++§6] Malcolm_Little1 §3[EGG]§f: can anyone help me out with a t4 voidgloom rq?
+[03:29:42] [Client thread/INFO]: [CHAT] Warping...
+[03:29:42] [Client thread/INFO]: [CHAT] Sending to server mini31BW...
+[03:29:43] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:29:43] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini31BW', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[03:29:43] [Client thread/INFO]: [CHAT]        
+[03:29:46] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:29:46] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:30:02] [Client thread/INFO]: [CHAT] [Bazaar] Claiming order...
+[03:30:02] [Client thread/INFO]: [CHAT] [Bazaar] Claimed 46,217,840 coins from selling 1x Skeleton Key at 46,743,706 each!
+[03:30:24] [Client thread/INFO]: [CHAT] Guild > remillianr1 joined.
+[03:30:33] [Client thread/INFO]: [CHAT] Guild > Thyla joined.
+[03:30:36] [Client thread/INFO]: [CHAT] Guild > Xtron00 left.
+[03:31:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] chunfan §3[EGG]§f: yooo
+[03:31:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] chunfan §3[EGG]§f: blue ice prices crashed
+[03:31:32] [Client thread/INFO]: [CHAT] Warping...
+[03:31:33] [Client thread/INFO]: [CHAT] Sending to server mini94CH...
+[03:31:33] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:31:33] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini94CH', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[03:31:33] [Client thread/INFO]: [CHAT]        
+[03:31:35] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 100] §6Mooshroom Cow§e! §a§lVIEW RULE
+[03:31:36] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:31:36] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:31:42] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bB1§7!
+[03:31:42] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:32:20] [Client thread/INFO]: [CHAT] §6[Auction] §7applebloomsbong §ebought §f[Lvl 1] Baby Yeti §efor §63,800,000 coins §lCLICK
+[03:32:56] [Client thread/INFO]: [CHAT] You collected 3,762,000 coins from selling [Lvl 1] Baby Yeti to applebloomsbong in an auction!
+[03:32:56] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:32:56] [Client thread/INFO]: [CHAT] 16thGarden collected an auction for 3,762,000 coins!
+[03:32:56] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:33:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: chun
+[03:33:34] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: u big mining fan?
+[03:33:45] [Client thread/INFO]: [CHAT] Guild > Thyla left.
+[03:34:08] [Client thread/INFO]: [CHAT] Liam has arrived on your Garden!
+[03:34:34] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:34:34] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:34:37] [Client thread/INFO]: [CHAT] §cAutopet §eequipped your §7[Lvl 89] §6Slug§e! §a§lVIEW RULE
+[03:34:44] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container EnderChest1.
+[03:34:44] [SkyblockAddons - #150/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:34:44] [SkyblockAddons - #150/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:34:49] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:34:49] [Client thread/INFO]: [CHAT] [Bazaar] Bought 578x Enchanted Carrot for 319,403 coins!
+[03:34:51] [Client thread/INFO]: [CHAT] 
+[03:34:51] [Client thread/INFO]: [CHAT] 
+[03:34:51] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aLiam§6§l!§r §215§7, §318k§7, §c17§7, §b10
+[03:34:55] [Client thread/INFO]: [CHAT] You sold Brown Mushroom x64 for 640 Coins!
+[03:34:55] [Client thread/INFO]: [CHAT] You sold Brown Mushroom x64 for 640 Coins!§7 (2)
+[03:34:55] [Client thread/INFO]: [CHAT] You sold Red Mushroom x1 for 10 Coins!
+[03:34:55] [Client thread/INFO]: [CHAT] You sold Red Mushroom x64 for 640 Coins!
+[03:34:55] [Client thread/INFO]: [CHAT] You sold Red Mushroom x64 for 640 Coins!§7 (2)
+[03:34:56] [Client thread/INFO]: [CHAT] You sold Sugar Cane x64 for 256 Coins!
+[03:34:56] [Client thread/INFO]: [CHAT] You sold Sugar Cane x64 for 256 Coins!§7 (2)
+[03:34:56] [Client thread/INFO]: [CHAT] You sold Sugar Cane x2 for 8 Coins!
+[03:34:56] [Client thread/INFO]: [CHAT] You sold Brown Mushroom x25 for 250 Coins!
+[03:34:59] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:34:59] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 14,455 coins!
+[03:34:59] [Client thread/INFO]: [CHAT] [NPC] Jacob: The Farming Contest is over!
+[03:34:59] [Client thread/INFO]: [CHAT] [NPC] Jacob: Let me count the final results eh?
+[03:34:59] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[03:34:59] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 14,455 coins!§7 (2)
+[03:35:03] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You didn't earn a medal, but you may claim a participation reward in the §aNether Wart Contest§f!
+[03:35:04] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[03:35:04] [Client thread/INFO]: [CHAT] [Bazaar] Bought 723x Enchanted Potato for 374,514 coins!
+[03:35:05] [Client thread/INFO]: [CHAT] 
+[03:35:05] [Client thread/INFO]: [CHAT] 
+[03:35:06] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aGeonathan Greatforge§6§l!§r §215§7, §315k§7, §c30§7, §b10§7, §7§9Biofuel
+[03:35:09] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You collected §e2,560 §fitems!
+[03:35:14] [Client thread/INFO]: [CHAT] Your Slug leveled up to level 90!
+[03:35:14] [Client thread/INFO]: [CHAT] 
+[03:35:15] [Client thread/INFO]: [CHAT] 
+[03:35:15] [Client thread/INFO]: [CHAT] §6§lOFFER ACCEPTED §7w/§r§aJack§6§l!§r §215§7, §323k§7, §c25§7, §b10
+[03:35:20] [Client thread/INFO]: [CHAT]   FARMING CONTEST REWARDS CLAIMED
+[03:35:20] [Client thread/INFO]: [CHAT]    » Nether Wart Contest on Spring 22nd, Year 375
+[03:35:20] [Client thread/INFO]: [CHAT]   REWARD
+[03:35:20] [Client thread/INFO]: [CHAT]     §7§aJacob's Ticket
+[03:35:34] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[03:35:35] [Client thread/INFO]: [CHAT] Sending to server mini201K...
+[03:35:35] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[03:35:35] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='mini201K', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[03:35:35] [Client thread/INFO]: [CHAT]        
+[03:35:39] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[03:35:39] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[03:35:44] [Client thread/INFO]: [CHAT] You summoned your Magma Cube!
+[03:37:48] [Client thread/INFO]: [CHAT] Guild > WhoTookIchiko left.
+[03:37:58] [Client thread/INFO]: [CHAT] Guild > WhoTookIchiko joined.
+[03:39:11] [Client thread/INFO]: [CHAT] Guild > RNGjoggy left.
+[03:39:23] [Client thread/INFO]: [CHAT] Guild > DonieCutie left.
+[03:40:51] [Client thread/INFO]: [CHAT] Guild > DonieCutie joined.
+[03:41:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Pludoow §3[HYDRA]§f: malcolm
+[03:41:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Pludoow §3[HYDRA]§f: u got the kills ready?
+[03:42:01] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[03:42:03] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[03:42:04] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[03:42:06] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[03:43:52] [Client thread/INFO]: [CHAT] Guild > Hekelmann left.
+[03:45:11] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 joined.
+[03:46:55] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[03:46:57] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[03:46:58] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[03:47:00] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[03:47:35] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: Put your money in the bank
+[03:47:43] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: wct
+[03:49:44] [Thread-9571/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[03:49:44] [Thread-9571/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1727293784556
+[03:50:35] [Client thread/INFO]: [CHAT] Guild > chunfan left.
+[03:51:46] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[03:51:47] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[03:51:49] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[03:51:50] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[03:53:22] [Client thread/INFO]: [CHAT] Guild > Pludoow left.
+[03:56:30] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[03:56:31] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[03:56:33] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[03:58:44] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 left.
+[03:59:42] [Client thread/INFO]: [CHAT] Guild > Hekelmann joined.
+[04:00:04] [Client thread/INFO]: [CHAT] Guild > Hekelmann left.
+[04:00:12] [Client thread/INFO]: [CHAT] 
+[04:00:12] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[04:00:12] [Client thread/INFO]: [CHAT] Watchdog has banned 8,413 players in the last 7 days.
+[04:00:12] [Client thread/INFO]: [CHAT] Staff have banned an additional 12,821 in the last 7 days.
+[04:00:12] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[04:00:12] [Client thread/INFO]: [CHAT] 
+[04:01:15] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:01:16] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:01:17] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:01:19] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[04:01:23] [Client thread/INFO]: [CHAT] §6[Auction] §bTimmy_EEE §ebought §f[Lvl 100] Slug §efor §640,000,000 coins §lCLICK
+[04:01:28] [Client thread/INFO]: [CHAT] Guild > Hekelmann joined.
+[04:01:52] [Client thread/INFO]: [CHAT] Guild > chunfan joined.
+[04:02:04] [Client thread/INFO]: [CHAT] Guild > MisterShaco left.
+[04:03:44] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 left.
+[04:05:02] [Client thread/INFO]: [CHAT] Guild > Flizyy left.
+[04:06:01] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.
+[04:06:02] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (2)
+[04:06:05] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (3)
+[04:06:06] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:06:07] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:06:09] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:06:41] [Client thread/INFO]: [CHAT] Guild > Flizyy joined.
+[04:06:47] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 joined.
+[04:08:54] [Client thread/INFO]: [CHAT] Guild > SuspiciousScrap joined.
+[04:09:27] [Client thread/INFO]: [CHAT] Guild > DenQan joined.
+[04:10:57] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:10:58] [Client thread/INFO]: [CHAT] Guild > IMainFishing joined.
+[04:10:59] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:11:00] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:11:02] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[04:11:04] [Client thread/INFO]: [CHAT] Guild > DonieCutie left.
+[04:11:23] [Client thread/INFO]: [CHAT] Guild > Flizyy left.
+[04:11:26] [Client thread/INFO]: [CHAT] Guild > Flizyy joined.
+[04:12:56] [Client thread/INFO]: [CHAT] Guild > Flizyy left.
+[04:15:47] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:15:49] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:15:50] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:15:52] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[04:15:58] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 joined.
+[04:15:59] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 left.
+[04:16:01] [Client thread/INFO]: [CHAT] Guild > MaxCraftDu51 joined.§7 (2)
+[04:17:41] [Client thread/INFO]: [CHAT] Guild > Gnasez left.
+[04:17:43] [Client thread/INFO]: [CHAT] Guild > Gnasez joined.
+[04:20:34] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:20:36] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:23:18] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[04:25:19] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:25:21] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:25:22] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:25:23] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[04:25:47] [Client thread/INFO]: [CHAT] Guild > FearNotMyCookies left.
+[04:26:45] [Client thread/INFO]: [CHAT] Guild > pabloULTRA joined.
+[04:29:04] [Client thread/INFO]: [CHAT] Guild > IamBOREDwelp joined.
+[04:30:07] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:30:09] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:30:11] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:31:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: a>>   Achievement Unlocked: Glass Cannon   <<a
+[04:31:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: elegant tux
+[04:32:52] [Client thread/INFO]: [CHAT] Guild > Malcolm_Little1 left.
+[04:34:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] lingbeek §3[HYDRA]§f: Level 399 ? [400]
+[04:34:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] pabloULTRA §3[HYDRA]§f: gg
+[04:34:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] chunfan §3[EGG]§f: gg
+[04:34:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§4+§b] Its_Krios §3[MANIAC]§f: gg
+[04:34:47] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.
+[04:34:48] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (2)
+[04:34:51] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.§7 (3)
+[04:34:58] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:34:59] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:35:01] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:35:02] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[04:35:35] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] DenQan §3[MANIAC]§f: guys anyone got a dark endstone pack
+[04:36:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] MaxCraftDu51 §3[MANIAC]§f: yes
+[04:36:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] WhoTookIchiko §3[MANIAC]§f: pickobulus or speed boost?
+[04:36:31] [Client thread/INFO]: [CHAT] Guild > SuspiciousScrap left.
+[04:36:57] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] YouLoveMe §3[BABY]§f: pickobulus is fun for gt
+[04:37:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] DenQan §3[MANIAC]§f: yes pleaes
+[04:37:58] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] YouLoveMe §3[BABY]§f: if you have perfectly cut fuel tank + bal you get the cooldown to 30 sec
+[04:39:48] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:39:49] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:40:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] IamBOREDwelp §3[EGG]§f: a>>   Achievement Unlocked: Goblin Killer V   <<a
+[04:41:20] [Client thread/INFO]: [CHAT] Guild > Masako__ joined.
+[04:42:23] [Client thread/INFO]: [CHAT] Guild > MrFancyShirt joined.
+[04:43:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: Processing purchase...
+[04:43:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: drum roll?
+[04:43:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: wont even let me post it lmao
+[04:43:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: gdrag basically
+[04:43:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: again
+[04:43:40] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: egg
+[04:43:48] [Client thread/INFO]: [CHAT] Guild > Hekelmann left.
+[04:43:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: lvl200 gamer
+[04:43:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: :D
+[04:44:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: paying back my personal debt
+[04:44:29] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:44:30] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:44:33] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:44:33] [Client thread/INFO]: [CHAT] Guild > remillianr1 left.
+[04:44:34] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[04:45:54] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[04:46:21] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[04:49:16] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:49:19] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:49:20] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:49:33] [Client thread/INFO]: [CHAT] Guild > Jagwire_ joined.
+[04:49:44] [Thread-9590/INFO]: [me.Danker.utils.Utils:refreshRepo:459]: Loaded data from GitHub?: true
+[04:49:44] [Thread-9590/INFO]: [me.Danker.utils.Utils:refreshRepo:463]: Refreshed DSM repo at 1727297384556
+[04:50:46] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] DenQan §3[MANIAC]§f: ?
+[04:52:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] DenQan §3[MANIAC]§f: &ov'
+[04:52:35] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] DenQan §3[MANIAC]§f: missinput
+[04:52:42] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[04:53:22] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[04:54:04] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:54:06] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:54:08] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:55:06] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §6Sell Offer §efor §a1§7x §9Bookworm's Favorite Book §ewas filled!
+[04:55:10] [Client thread/INFO]: [CHAT] Guild > Masako__ left.
+[04:58:15] [Client thread/INFO]: [CHAT] Guild > Gnasez left.
+[04:58:42] [Client thread/INFO]: [CHAT] Guild > DenQan left.
+[04:58:52] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[04:58:53] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[04:58:54] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[04:58:55] [Client thread/INFO]: [CHAT] Guild > Michtraatje left.
+[04:58:57] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (4)
+[05:01:27] [Client thread/INFO]: [CHAT] Guild > TastiestPizza left.
+[05:01:28] [Client thread/INFO]: [CHAT] Guild > pabloULTRA left.
+[05:03:24] [Client thread/INFO]: [CHAT] Guild > zionREGELE left.
+[05:03:37] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[05:03:39] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[05:03:40] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[05:05:50] [Client thread/INFO]: [CHAT] Guild > Its_Krios left.
+[05:07:31] [Client thread/INFO]: [CHAT] Your connection timed out to the server, so you have been routed to limbo!
+[05:07:33] [Netty Client IO #22/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:72]: Received Hypixel packet hyevent:location
+[05:07:33] [Client thread/INFO]: [CHAT] You were spawned in Limbo.
+[05:07:33] [Client thread/INFO]: [CHAT] /limbo for more information.
+[05:07:33] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:98]: ClientboundLocationPacket{serverName='limbo', serverType='null', lobbyName='null', mode='null', map='null'} VersionedPacket{version=1}
+[05:07:41] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[05:07:42] [Netty Client IO #22/ERROR]: NetworkDispatcher exception
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[05:07:42] [Netty Client IO #22/ERROR]: Network Exception Caught
+java.io.IOException: An existing connection was forcibly closed by the remote host
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223) ~[?:1.8.0_51]
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192) ~[?:1.8.0_51]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380) ~[?:1.8.0_51]
+	at io.netty.buffer.UnpooledUnsafeDirectByteBuf.setBytes(UnpooledUnsafeDirectByteBuf.java:446) ~[UnpooledUnsafeDirectByteBuf.class:4.0.23.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:881) ~[AbstractByteBuf.class:4.0.23.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:225) ~[NioSocketChannel.class:4.0.23.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:119) [AbstractNioByteChannel$NioByteUnsafe.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:511) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:468) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:382) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:354) [NioEventLoop.class:4.0.23.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116) [SingleThreadEventExecutor$2.class:4.0.23.Final]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[05:07:42] [Netty Client IO #22/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[05:07:42] [Client thread/INFO]: Applying holder lookups
+[05:07:42] [Client thread/INFO]: Holder lookups applied
+[05:13:41] [Netty Client IO #1/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, oneconfig, hypixel_mod_api, dungeonrooms, Danker's Skyblock Mod, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils, somewatersolver] at SERVER
+[05:15:58] [Client thread/ERROR]: Signature is missing from textures payload
+[05:15:58] [Client thread/ERROR]: Signature is missing from textures payload
+[05:15:58] [Client thread/INFO]: Stopping!
+[05:15:58] [Client thread/INFO]: SoundSystem shutting down...
+[05:15:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

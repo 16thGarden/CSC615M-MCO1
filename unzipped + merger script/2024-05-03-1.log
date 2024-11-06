@@ -1,0 +1,86 @@
+[01:37:02] [IO-Worker-177/ERROR]: Could not parse RealmsError
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:76) ~[gson-2.10.1.jar:?]
+	at com.google.gson.JsonParser.parseString(JsonParser.java:51) ~[gson-2.10.1.jar:?]
+	at net.minecraft.class_4345.method_30162(class_4345.java:150) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_20998(class_4341.java:450) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21030(class_4341.java:356) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21029(class_4341.java:351) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1659) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1465) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:551) ~[gson-2.10.1.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.1.jar:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:71) ~[gson-2.10.1.jar:?]
+	... 10 more
+[01:37:02] [Render thread/WARN]: Failed to process task pending invite count, will repeat after 2 cycles
+net.minecraft.class_4355: Realms service error (502) with raw payload '<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+
+<head>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <style type='text/css'>
+        body {
+            font-family: Arial;
+            margin-left: 40px;
+        }
+
+        img {
+            border: 0 none;
+        }
+
+        #content {
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        #message h2 {
+            font-size: 20px;
+            font-weight: normal;
+            color: #000000;
+            margin: 34px 0px 0px 0px
+        }
+
+        #message p {
+            font-size: 13px;
+            color: #000000;
+            margin: 7px 0px 0px0px
+        }
+
+        #errorref {
+            font-size: 11px;
+            color: #737373;
+            margin-top: 41px
+        }
+    </style>
+    <title>Service unavailable</title>
+</head>
+
+<body>
+    <div id='content'>
+        <div id='message'>
+            <h2>Our services aren't available right now</h2>
+            <p>We're working to restore all services as soon as possible. Please check back soon.</p>
+        </div>
+        <div id='errorref'>
+            <span>20240502T173702Z-16875fff8d6pqckgyrxk8m5ffn00000002v00000000016m5            </span>
+        </div>
+    </div>
+</body>
+</html>
+'
+	at net.minecraft.class_4341.method_20998(class_4341.java:451) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21030(class_4341.java:356) ~[client-intermediary.jar:?]
+	at net.minecraft.class_4341.method_21029(class_4341.java:351) ~[client-intermediary.jar:?]
+	at net.minecraft.class_7581$class_7586.method_44642(class_7581.java:94) ~[client-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:57:09] [Render thread/INFO]: Stopping!
+[01:57:09] [CullThread/INFO]: [STDOUT]: Shutting down culling task!

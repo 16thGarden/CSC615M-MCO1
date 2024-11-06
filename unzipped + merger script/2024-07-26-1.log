@@ -1,0 +1,1963 @@
+[00:26:33] [WebSocketConnectReadThread-4967/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 1h 22m 11.112s
+[00:26:33] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:26:34] [DefaultDispatcher-worker-6/INFO]: Connecting to Essential Connection Manager...
+[00:26:34] [WebSocketConnectReadThread-5001/INFO]: Connected to Essential Connection Manager.
+[00:37:02] [Netty Client IO #22/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:37:02] [Netty Client IO #23/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:37:04] [Netty Client IO #1/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:37:04] [Netty Client IO #3/ERROR]: Invalid server icon (unknown format)
+[00:37:04] [Netty Client IO #3/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:37:05] [Client thread/INFO]: Connecting to mc.hypixel.net, 25565
+[00:37:06] [Netty Client IO #4/INFO]: Server FML protocol version 1, no additional data received
+[00:37:06] [Netty Client IO #4/INFO]: Server protocol version 1
+[00:37:06] [Netty Client IO #4/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:37:07] [Netty Client IO #4/INFO]: Injecting existing block and item data into this client instance
+[00:37:07] [Netty Client IO #4/INFO]: Applying holder lookups
+[00:37:07] [Netty Client IO #4/INFO]: Holder lookups applied
+[00:37:07] [Netty Client IO #4/INFO]: [Netty Client IO #4] Client side modded connection established
+[00:37:07] [Netty Client IO #4/INFO]: DungeonRooms: Connecting to Hypixel...
+[00:37:07] [Netty Client IO #4/INFO]: DungeonRooms: Packet Handler added
+[00:37:08] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hypixel:hello
+[00:37:08] [Client thread/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onSendPacket:89]: Sent Hypixel packet hypixel:register
+[00:37:08] [Client thread/INFO]: [CHAT]                          
+[00:37:08] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:37:08] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='dynamiclobby25E', serverType='PROTOTYPE', lobbyName='prototypelobby5', mode='null', map='null'} VersionedPacket{version=1}
+[00:37:09] [DefaultDispatcher-worker-18/INFO]: [gg.skytils.skytilsws.client.PacketHandler:processPacket:47]: Received packet: S2CPacketAcknowledge(wsVersion=2)
+[00:37:10] [Client thread/INFO]: [at.hannibal2.skyhanni.utils.TabListData$workaroundDelayedTabListUpdateAgain$1:invoke:154]: workaroundDelayedTabListUpdateAgain
+[00:37:10] [Client thread/INFO]: [CHAT]   ? You have reached your Hype limit! Add Hype to Prototype Lobby minigames by right-clicking with the Hype Diamond!
+[00:37:11] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] OUTERBoom§f §6joined the lobby!
+[00:37:11] [Thread-1543/INFO]: DungeonRooms: Checking for conflicting keybindings...
+[00:37:11] [Thread-1543/INFO]: DungeonRooms: Checking for updates...
+[00:37:11] [Client thread/INFO]: [CHAT] §b[MVP§4+§b] ZeTechians§f §6joined the lobby!
+[00:37:11] [Client thread/INFO]: [CHAT] §b[MVP§3+§b] PlasmaSad§f §6joined the lobby!
+[00:37:12] [Thread-1543/INFO]: DungeonRooms: No update found
+[00:37:12] [Thread-1543/INFO]: DungeonRooms: Getting MOTD...
+[00:37:12] [Thread-1543/INFO]: [CHAT] §cDungeon Rooms: An error has occured. See logs for more details.
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.fatal(SSLSocketImpl.java:1949)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:302)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.fatalSE(Handshaker.java:296)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1497)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.ClientHandshaker.processMessage(ClientHandshaker.java:212)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.processLoop(Handshaker.java:979)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.Handshaker.process_record(Handshaker.java:914)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1062)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:90)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1432)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1430)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(Native Method)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.security.AccessController.doPrivileged(AccessController.java:713)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1429)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.net.URL.openStream(URL.java:1038)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms.lambda$onServerConnect$8(DungeonRooms.java:236)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at io.github.quantizr.dungeonrooms.DungeonRooms$$Lambda$832/91846431.run(Unknown Source)
+[00:37:12] [Thread-1543/INFO]: [io.github.quantizr.dungeonrooms.DungeonRooms:lambda$onServerConnect$8:247]: 	at java.lang.Thread.run(Thread.java:745)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:387)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:292)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.validator.Validator.validate(Validator.java:260)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:324)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:229)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:124)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	at sun.security.ssl.ClientHandshaker.serverCertificate(ClientHandshaker.java:1479)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:634]: 	... 21 more
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:643]: Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:145)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:131)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at java.security.cert.CertPathBuilder.build(CertPathBuilder.java:280)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:643]: 	at sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:382)
+[00:37:12] [Thread-1543/INFO]: [java.lang.Throwable:printStackTrace:643]: 	... 27 more
+[00:37:12] [Client thread/INFO]: [CHAT] §b[MVP§5+§b] HogPot§f §6joined the lobby!
+[00:37:12] [Client thread/INFO]: [CHAT] §b[MVP§d+§b] King_Of_Venus§f §6joined the lobby!
+[00:37:14] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] DarkLord26XD§f §6joined the lobby!
+[00:37:14] [Client thread/INFO]: [CHAT] §b[MVP§2+§b] Mimikyuuu§f §6joined the lobby!
+[00:37:15] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] JudgementCoreee§f §6joined the lobby!
+[00:37:15] [Client thread/INFO]: [CHAT] §b[MVP§4+§b] _N3bulA_§f §6joined the lobby!
+[00:37:16] [Client thread/INFO]: [CHAT] §b[MVP§c+§b] WarzenschweinLP§f §6joined the lobby!
+[00:37:16] [Client thread/INFO]: [CHAT] §b[MVP§3+§b] NoNameOrLife§f §6joined the lobby!
+[00:37:18] [Client thread/INFO]: [CHAT] §b[MVP§f+§b] gianluh§f §6joined the lobby!
+[00:37:23] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] Diluain§f §6joined the lobby!
+[00:37:26] [Client thread/INFO]: [CHAT] §b[MVP§6+§b] oliveRR0102§f §6joined the lobby!
+[00:37:32] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7inN0sense §cis currently offline
+§7JPGomdol §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[00:37:34] [Client thread/INFO]: [CHAT] Sending to server mini13M...
+[00:37:35] [Client thread/INFO]: [CHAT]        
+[00:37:35] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:37:35] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini13M', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:37:35] [Client thread/INFO]: [CHAT] §e[SkyHanni] §cExtra Information from Tab list not found! Enable it: SkyBlock Menu ? Settings ? Personal ? User Interface ? Player List Info
+[00:37:35] [Client thread/INFO]: [SkyblockAddons/NetworkListener] Detected joining skyblock!
+[00:37:37] [Client thread/INFO]: [CHAT] 
+[00:37:37] [Client thread/INFO]: [CHAT] Welcome to Hypixel SkyBlock!
+[00:37:37] [Client thread/INFO]: [CHAT] 
+[00:37:37] [Client thread/INFO]: [CHAT] §eLatest update: §bSkyBlock v0.20.4 §e§lCLICK
+[00:37:38] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:37:38] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:37:40] [Client thread/INFO]: [CHAT] [8] §7Tom0151§7: just got my final 200k so at 1m
+[00:37:44] [Client thread/INFO]: [CHAT] [87] ? §b[MVP] zxSpace§f: nice
+[00:38:04] [Client thread/INFO]: [CHAT] [8] §7Tom0151§7: games too easy lol. nice and refreashing from main account
+[00:38:28] [Client thread/INFO]: [CHAT] Guild > RachieCutie left.
+[00:38:36] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:39:58] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe left.
+[00:40:53] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT A Chocolate Breakfast Egg has appeared!
+[00:41:19] [Client thread/INFO]: [CHAT] Guild > Go6oto0 joined.
+[00:41:43] [Client thread/INFO]: [CHAT] Guild > Go6oto0 left.
+[00:42:35] [Client thread/INFO]: [CHAT] Warping...
+[00:42:36] [Client thread/INFO]: [CHAT] Sending to server mini81CM...
+[00:42:36] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:42:36] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini81CM', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:42:37] [Client thread/INFO]: [CHAT]        
+[00:42:38] [Client thread/INFO]: [CHAT] §6§lGROSS! §7While you were offline, §6Pests §7spawned in §aPlots §be3§7, §bR4§7 and §be2§7!
+[00:42:38] [Client thread/INFO]: [CHAT] Click on a plots name in chat to teleport to it!
+[00:42:40] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:42:40] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:42:46] [Client thread/INFO]: [CHAT] Teleported you to Plot - R4!
+[00:42:51] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Sugar §efor killing a §6Mosquito§e!
+[00:42:54] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[00:42:56] [Client thread/INFO]: [CHAT] Teleported you to Plot - e2!
+[00:43:01] [Client thread/INFO]: [CHAT] §eYou received §a12x Enchanted Pumpkin §efor killing a §6Rat§e!
+[00:43:06] [Client thread/INFO]: [CHAT] Teleported you to Plot - e3!
+[00:43:10] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Melon §efor killing an §6Earthworm§e!
+[00:43:12] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[00:43:14] [Client thread/INFO]: [CHAT] §e[NPC] §aEmissary Wilson§f: §fThe King's least favorite vegetable is carrot, so he sent me, his favorite emissary, to make it better!
+[00:43:15] [Client thread/INFO]: [CHAT] §e[NPC] §aRyu§f: §fDid you know that there is a Garden Level? Increase it by hitting milestones or selling to customers like me!
+[00:43:16] [Client thread/INFO]: [CHAT] §e[NPC] §aLeo§f: §fSadly you can't gather logs in the §bGarden§f, however there are plenty of crops here!
+[00:43:17] [Client thread/INFO]: [CHAT] §e[NPC] §aEmissary Ceanna§f: §fThe King's favorite emissary is here to request potatoes for the King's great feast! 
+[00:43:18] [Client thread/INFO]: [CHAT] §e[NPC] §aAndrew§f: Did you know that SkyBlock has been running for §b4358 §fin-game months already? Time flies.
+[00:43:23] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:43:23] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Enchanted Baked Potato for 330,746 coins!
+[00:43:27] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[00:43:27] [Client thread/INFO]: [CHAT] [Bazaar] Bought 9x Mutant Nether Wart for 915,301 coins!
+[00:43:31] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[00:43:31] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Enchanted Melon Block for 357,213 coins!
+[00:43:35] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[00:43:35] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Enchanted Golden Carrot for 555,445 coins!
+[00:43:36] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 41!
+[00:43:36] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Andrew (UNCOMMON)
+[00:43:36] [Client thread/INFO]: [CHAT] 
+[00:43:36] [Client thread/INFO]: [CHAT]   REWARDS
+[00:43:36] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[00:43:36] [Client thread/INFO]: [CHAT]     +14k Farming XP
+[00:43:36] [Client thread/INFO]: [CHAT]     +16 Copper
+[00:43:36] [Client thread/INFO]: [CHAT] 
+[00:43:36] [Client thread/INFO]: [CHAT] §e[NPC] §aAndrew§f: §fSee you around!
+[00:43:37] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:43:38] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 44!
+[00:43:38] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Emissary Ceanna (UNCOMMON)
+[00:43:38] [Client thread/INFO]: [CHAT] 
+[00:43:38] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[00:43:38] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[00:43:38] [Client thread/INFO]: [CHAT]     +19k Farming XP
+[00:43:38] [Client thread/INFO]: [CHAT]     +21 Copper
+[00:43:38] [Client thread/INFO]: [CHAT]     §7§8+§d1,277 Gemstone Powder
+[00:43:38] [Client thread/INFO]: [CHAT] 
+[00:43:38] [Client thread/INFO]: [CHAT] §e[NPC] §aEmissary Ceanna§f: §fMaybe the King will even announce me as his favorite at the feast!
+[00:43:39] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 47!
+[00:43:39] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Leo (UNCOMMON)
+[00:43:39] [Client thread/INFO]: [CHAT] 
+[00:43:39] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[00:43:39] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[00:43:39] [Client thread/INFO]: [CHAT]     +28k Farming XP
+[00:43:39] [Client thread/INFO]: [CHAT]     +31 Copper
+[00:43:39] [Client thread/INFO]: [CHAT]     §7§9Flowering Bouquet
+[00:43:39] [Client thread/INFO]: [CHAT] 
+[00:43:39] [Client thread/INFO]: [CHAT] §e[NPC] §aLeo§f: §fUntil next time!
+[00:43:40] [Client thread/INFO]: [CHAT] Queen Mismyla has arrived on your Garden!
+[00:43:41] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Ryu (UNCOMMON)
+[00:43:41] [Client thread/INFO]: [CHAT] 
+[00:43:41] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[00:43:41] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (4)
+[00:43:41] [Client thread/INFO]: [CHAT]     +4.1k Farming XP
+[00:43:41] [Client thread/INFO]: [CHAT]     +30 Copper
+[00:43:41] [Client thread/INFO]: [CHAT] 
+[00:43:41] [Client thread/INFO]: [CHAT] §e[NPC] §aRyu§f: §fGood trade!
+[00:43:43] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 50!
+[00:43:43] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Emissary Wilson (UNCOMMON)
+[00:43:43] [Client thread/INFO]: [CHAT] 
+[00:43:43] [Client thread/INFO]: [CHAT]   REWARDS§7 (5)
+[00:43:43] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (5)
+[00:43:43] [Client thread/INFO]: [CHAT]     +32k Farming XP
+[00:43:43] [Client thread/INFO]: [CHAT]     +30 Copper§7 (2)
+[00:43:43] [Client thread/INFO]: [CHAT]     §7§8+§d2,169 Gemstone Powder
+[00:43:43] [Client thread/INFO]: [CHAT]     §7§9Flowering Bouquet§7 (2)
+[00:43:43] [Client thread/INFO]: [CHAT] 
+[00:43:43] [Client thread/INFO]: [CHAT] §e[NPC] §aEmissary Wilson§f: §fI'm sure that by giving him his least favorite vegetable, he'll make me his favoritest emissary!
+[00:43:45] [Client thread/INFO]: [CHAT] §e[NPC] §9Queen Mismyla§f: §fThe King made me go grocery shopping. Me! Can you believe that? He has a pair of perfectly good legs, and still, here I am.
+[00:43:50] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[00:43:50] [Client thread/INFO]: [CHAT] [Bazaar] Bought 3x Enchanted Cactus for 385,426 coins!
+[00:43:51] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 51!
+[00:43:51] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Queen Mismyla (RARE)
+[00:43:51] [Client thread/INFO]: [CHAT] 
+[00:43:51] [Client thread/INFO]: [CHAT]   REWARDS§7 (6)
+[00:43:51] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[00:43:51] [Client thread/INFO]: [CHAT]     +8.5k Farming XP
+[00:43:51] [Client thread/INFO]: [CHAT]     +62 Copper
+[00:43:51] [Client thread/INFO]: [CHAT] 
+[00:43:51] [Client thread/INFO]: [CHAT] §e[NPC] §9Queen Mismyla§f: §fI bet when I am back, they are all still sitting around that table! All day, every day! It's ludicrous!
+[00:44:03] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[00:44:25] [Client thread/INFO]: [CHAT] Putting coins in escrow...
+[00:44:25] [Client thread/INFO]: [CHAT] Processing purchase...
+[00:44:25] [Client thread/INFO]: [CHAT] You purchased Pest Repellent MAX for 250,000 coins!
+[00:44:25] [Client thread/INFO]: [CHAT] Visit the Auction House to collect your item!
+[00:44:29] [Client thread/INFO]: [CHAT] You claimed Pest Repellent MAX from [MVP+] EvilCatt's auction!
+[00:44:43] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:44:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2x Flowering Bouquet for 25,177 coins!
+[00:44:47] [Client thread/INFO]: [CHAT] Warping...
+[00:44:47] [Client thread/INFO]: [CHAT] Sending to server mini1026J...
+[00:44:48] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:44:48] [Client thread/INFO]: [CHAT]        
+[00:44:48] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini1026J', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[00:44:51] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:44:51] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:44:53] [Client thread/INFO]: [CHAT] [88] ? §a[VIP] Adonis84§f: you don't even need it to spawn titanium
+[00:44:57] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:44:59] [Client thread/INFO]: [CHAT] [126] ? §a[VIP§6+§a] keettennuggets§f: ik
+[00:45:00] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage9.
+[00:45:00] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:45:00] [SkyblockAddons - #19/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:45:08] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:45:08] [Client thread/INFO]: [CHAT] [160] ? §b[MVP§a+§b] Achtohbr§f: yeah mines weird honestly
+[00:45:08] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Enchanted Diamond Block for 2,067,398 coins!
+[00:45:12] [Client thread/INFO]: [CHAT] [126] ? §a[VIP§6+§a] keettennuggets§f: takes a while tho?
+[00:45:18] [Client thread/INFO]: [CHAT] [88] ? §a[VIP] Adonis84§f: yeah it does
+[00:45:22] [Client thread/INFO]: [CHAT] [160] ? §b[MVP§a+§b] Achtohbr§f: i used to have a higher percentage than what i have now, and it spawned slower
+[00:45:23] [Client thread/INFO]: [CHAT] [160] ? §b[MVP§a+§b] Achtohbr§f: idk y
+[00:45:27] [Client thread/INFO]: [CHAT] The wind has changed direction!§7 (2)
+[00:45:33] [Client thread/INFO]: [CHAT] Warping...§7 (2)
+[00:45:34] [Client thread/INFO]: [CHAT] Sending to server mini200AD...
+[00:45:34] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:45:35] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini200AD', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:45:35] [Client thread/INFO]: [CHAT]        
+[00:45:37] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:45:37] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:45:43] [Client thread/INFO]: [CHAT] YUM! Pests will now spawn 4x less while you break crops for the next 60m!
+[00:46:34] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: gg.skytils.ktx-coroutines.channels.ClosedReceiveChannelException: Channel was closed
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.getReceiveException(BufferedChannel.kt:1729)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2171)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.DefaultWebSocketSessionImpl$runIncomingProcessor$1.invokeSuspend(DefaultWebSocketSession.kt:222)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resume(DispatchedTask.kt:233)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.resumeUnconfined(DispatchedTask.kt:189)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTaskKt.dispatch(DispatchedTask.kt:161)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.dispatchResume(CancellableContinuationImpl.kt:474)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl(CancellableContinuationImpl.kt:508)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeImpl$default(CancellableContinuationImpl.kt:497)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.CancellableContinuationImpl.resumeWith(CancellableContinuationImpl.kt:368)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel$BufferedChannelIterator.tryResumeHasNextOnClosedChannel(BufferedChannel.kt:1706)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeWaiterOnClosedChannel(BufferedChannel.kt:2173)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.resumeReceiverOnClosedChannel(BufferedChannel.kt:2160)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.cancelSuspendedReceiveRequests(BufferedChannel.kt:2153)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeClose(BufferedChannel.kt:1930)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosed(BufferedChannel.kt:2209)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend0(BufferedChannel.kt:2184)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.isClosedForSend(BufferedChannel.kt:2181)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.completeCloseOrCancel(BufferedChannel.kt:1902)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.closeOrCancelImpl(BufferedChannel.kt:1795)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.BufferedChannel.close(BufferedChannel.kt:1754)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.channels.SendChannel$DefaultImpls.close$default(Channel.kt:98)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktor.websocket.RawWebSocketJvm$1.invokeSuspend(RawWebSocketJvm.kt:81)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:46:49] [DefaultDispatcher-worker-10/INFO]: [gg.skytils.skytilsws.client.WSClient:openConnection:79]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:46:59] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[00:47:13] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[00:47:15] [Client thread/INFO]: [CHAT] Warping...
+[00:47:15] [Client thread/INFO]: [CHAT] Sending to server mini146DD...
+[00:47:16] [Client thread/INFO]: [CHAT]        
+[00:47:16] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:47:17] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini146DD', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:47:20] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:47:20] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:47:25] [Client thread/INFO]: [CHAT] You bought Kismet Feather!
+[00:47:25] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (2)
+[00:47:25] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (3)
+[00:47:26] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (4)
+[00:47:26] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (5)
+[00:47:26] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (6)
+[00:47:26] [Client thread/INFO]: [CHAT] You bought Kismet Feather!§7 (7)
+[00:47:26] [Client thread/INFO]: [CHAT] You don't have enough Bits!
+[00:47:26] [Client thread/INFO]: [CHAT] You don't have enough Bits!§7 (2)
+[00:47:45] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:47:46] [Client thread/INFO]: [CHAT] [Bazaar] Sold 7x Kismet Feather for 13,372,506 coins!
+[00:48:00] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:48:00] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Booster Cookie for 11,699,999 coins!
+[00:48:02] [Client thread/INFO]: [CHAT] You consumed a Booster Cookie! Yummy!
+[00:48:17] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:48:22] [Client thread/INFO]: [CHAT] You bought Matriarch's Perfume!
+[00:48:37] [Client thread/INFO]: [CHAT] Putting item in escrow...
+[00:48:37] [Client thread/INFO]: [CHAT] Setting up the auction...
+[00:48:37] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:48:37] [Client thread/INFO]: [CHAT] 16thGarden created a BIN auction for Matriarch's Perfume at 1,796,969 coins!
+[00:48:37] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[00:48:37] [Client thread/INFO]: [CHAT] BIN Auction started for Matriarch's Perfume!
+[00:48:43] [Client thread/INFO]: [CHAT] Warping...
+[00:48:43] [Client thread/INFO]: [CHAT] Sending to server mini1007N...
+[00:48:43] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:48:43] [Client thread/INFO]: [CHAT]        
+[00:48:43] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini1007N', serverType='SKYBLOCK', lobbyName='null', mode='mining_3', map='Dwarven Mines'} VersionedPacket{version=1}
+[00:48:46] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:48:46] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:48:47] [Client thread/INFO]: [CHAT] Guild > pipapolalala joined.
+[00:48:49] [Client thread/INFO]: [CHAT]  ? Vxavi was killed by Ghost.
+[00:48:52] [Client thread/INFO]: [CHAT] Finding player...
+[00:48:52] [Client thread/INFO]: [CHAT] This player's data is not available right now, ask them to log in or try again in a few days!
+[00:48:54] [Client thread/INFO]: [CHAT] Finding player...§7 (2)
+[00:48:54] [Client thread/INFO]: [CHAT] This command is on cooldown, please try again in a moment!
+[00:48:56] [Client thread/INFO]: [CHAT] Finding player...§7 (3)
+[00:48:58] [Client thread/INFO]: [CHAT] Sending a visit request...
+[00:48:58] [Client thread/INFO]: [CHAT] Sending to server mini158DG...
+[00:48:59] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:48:59] [Client thread/INFO]: [CHAT]        
+[00:48:59] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini158DG', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:48:59] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[00:49:00] [Client thread/INFO]: [CHAT] This ability is disabled while guesting!
+[00:49:02] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:49:02] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:49:04] [Client thread/INFO]: [CHAT] Sending to server mini186AS...
+[00:49:04] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.features.impl.mining.CHWaypoints$onHypixelPacket$1.invokeSuspend(CHWaypoints.kt:80)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[00:49:04] [DefaultDispatcher-worker-10/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@638a4574, Dispatchers.IO]
+[00:49:05] [Client thread/INFO]: [CHAT]        
+[00:49:05] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini186AS', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[00:49:07] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (3)
+[00:49:07] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (3)
+[00:49:13] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg in the middle of the Crystal Nucleus!
+[00:49:13] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fGouda §7(§F§LCOMMON§7)!
+[00:49:13] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+2,707,783 Chocolate
+[00:49:13] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:49:20] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg on a ledge next to the stairwell!
+[00:49:21] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §fBrian §7(§F§LCOMMON§7)!
+[00:49:21] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+1 Chocolate §7and §6+0.002x Chocolate §7per second!
+[00:49:21] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:49:29] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg near the Mithril Deposits entrance!
+[00:49:30] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aJazz §7(§A§LUNCOMMON§7)!
+[00:49:30] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+5,420,098 Chocolate
+[00:49:30] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[00:49:51] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[00:50:05] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:50:37] [Client thread/INFO]: [CHAT] Warping...
+[00:50:37] [Client thread/INFO]: [CHAT] Sending to server mini15DK...
+[00:50:38] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:50:38] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini15DK', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[00:50:38] [Client thread/INFO]: [CHAT]        
+[00:50:41] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:50:41] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:51:19] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[00:51:35] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[00:51:37] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[00:51:37] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:51:38] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[00:51:52] [Client thread/INFO]: [CHAT] You have already selected this as your pickaxe ability!
+[00:51:54] [Client thread/INFO]: [CHAT] You have already selected this as your pickaxe ability!§7 (2)
+[00:52:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[00:52:43] [Client thread/INFO]: [CHAT] Jerry has arrived on your Garden!
+[00:52:57] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[00:53:43] [Client thread/INFO]: [CHAT] Guild > Forpixeled left.
+[00:55:08] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[00:55:38] [Client thread/INFO]: [CHAT] You earned 16 GEXP + 595 Event EXP from playing SkyBlock!
+[00:56:31] [Client thread/INFO]: [CHAT] Guild > EngeBoykie joined.
+[00:56:33] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[00:57:03] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[00:57:14] [Client thread/INFO]: [CHAT] Trevor has arrived on your Garden!
+[00:57:50] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (3)
+[00:58:42] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[00:59:09] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[00:59:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[00:59:41] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[01:00:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[01:00:38] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:00:51] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (6)
+[01:01:09] [Client thread/INFO]: [CHAT] PRAY TO RNGESUS DROP! Dicer dropped 2x Polished Pumpkin!
+[01:01:22] [Client thread/INFO]: [CHAT] Gwendolyn has arrived on your Garden!
+[01:01:50] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (7)
+[01:02:00] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (8)
+[01:02:11] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (9)
+[01:02:58] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:03:15] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[01:03:15] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[01:03:35] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:04:38] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:04:38] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:05:16] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:05:19] [Client thread/INFO]: [CHAT] Guild > Foezy joined.
+[01:05:28] [Client thread/INFO]: [CHAT] Old Man Garry has arrived on your Garden!
+[01:05:38] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:05:51] [Client thread/INFO]: [CHAT] Guild > Colb89 joined.
+[01:06:13] [Client thread/INFO]: [CHAT] Guild > R3leaseTheKraken joined.
+[01:06:22] [Client thread/INFO]: [CHAT] Guild > EngeBoykie left.
+[01:06:28] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:07:40] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:07:50] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:08:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:08:14] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:08:16] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (2)
+[01:08:19] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (3)
+[01:08:42] [Client thread/INFO]: [CHAT] Guild > tiedsinger joined.
+[01:08:54] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (3)
+[01:08:57] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:09:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] R3leaseTheKraken §3[BABY]§f: gm hydras
+[01:09:04] [Client thread/INFO]: [CHAT] Guild > Osqma joined.
+[01:09:14] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Symetri §3[BABY]§f: evening
+[01:09:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: not quite
+[01:09:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] R3leaseTheKraken §3[BABY]§f: it is 10 am for me
+[01:09:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Symetri §3[BABY]§f: 7pm
+[01:09:32] [Client thread/INFO]: [CHAT] Shaggy has arrived on your Garden!
+[01:09:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] AriZze §3[EGG]§f: 19
+[01:10:27] [Client thread/INFO]: [CHAT] PRAY TO RNGESUS DROP! Dicer dropped 2x Polished Pumpkin!
+[01:10:38] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[01:10:38] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:10:39] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[01:10:44] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[01:10:45] [Client thread/INFO]: [CHAT] §e[NPC] §6Jerry§f: Hello §716thGarden§f. Glad to meet you here. I need some §9Enchanted Cactus§f.
+[01:10:46] [Client thread/INFO]: [CHAT] §e[NPC] §aTrevor§f: §fI've been tracking an animal for the past few days. Got anything I could use as bait?
+[01:10:47] [Client thread/INFO]: [CHAT] §e[NPC] §9Gwendolyn§f: §fI don't really have a sweet tooth, but chocolate is probably my favorite thing in this world. But the supply is really poor mostly because of the mines' lack of accessibility.
+[01:10:48] [Client thread/INFO]: [CHAT] §e[NPC] §9Old Man Garry§f: §fPeople have no manners these days. They come up to me, and disappear instantly! They don't even greet me! Back in my day, we were raised better than that.
+[01:10:49] [Client thread/INFO]: [CHAT] §e[NPC] §aShaggy§f: §fHey kid, I haven't seen you in a while. Arachne's powers are growing day by day. Soon she'll take over the §cSpider's Den§f.
+[01:10:49] [Client thread/INFO]: [CHAT] Guild > FlamingBears joined.
+[01:10:58] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:10:58] [Client thread/INFO]: [CHAT] [Bazaar] Bought 6x Enchanted Baked Potato for 496,121 coins!
+[01:11:04] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:11:04] [Client thread/INFO]: [CHAT] [Bazaar] Bought 13x Enchanted Cookie for 1,024,807 coins!
+[01:11:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:11:09] [Client thread/INFO]: [CHAT] [Bazaar] Bought 8x Enchanted Cactus for 1,027,803 coins!
+[01:11:11] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 52!
+[01:11:11] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Shaggy (UNCOMMON)
+[01:11:11] [Client thread/INFO]: [CHAT] 
+[01:11:11] [Client thread/INFO]: [CHAT]   REWARDS
+[01:11:11] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[01:11:11] [Client thread/INFO]: [CHAT]     +28k Farming XP
+[01:11:11] [Client thread/INFO]: [CHAT]     +31 Copper
+[01:11:11] [Client thread/INFO]: [CHAT]     +10 Bits
+[01:11:11] [Client thread/INFO]: [CHAT]     §7§9Arachne Fragment
+[01:11:11] [Client thread/INFO]: [CHAT] 
+[01:11:11] [Client thread/INFO]: [CHAT] §e[NPC] §aShaggy§f: §fThe evil doesn't defeat itself. You should come to the §cSpider's Den §fagain when you are free.
+[01:11:13] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 54!
+[01:11:13] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Old Man Garry (RARE)
+[01:11:13] [Client thread/INFO]: [CHAT] 
+[01:11:13] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[01:11:13] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[01:11:13] [Client thread/INFO]: [CHAT]     +28k Farming XP§7 (2)
+[01:11:13] [Client thread/INFO]: [CHAT]     +78 Copper
+[01:11:13] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[01:11:13] [Client thread/INFO]: [CHAT] 
+[01:11:13] [Client thread/INFO]: [CHAT] §e[NPC] §9Old Man Garry§f: §fIt turns out, manners haven't all been lost yet.
+[01:11:15] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 55!
+[01:11:15] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Gwendolyn (RARE)
+[01:11:15] [Client thread/INFO]: [CHAT] 
+[01:11:15] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[01:11:15] [Client thread/INFO]: [CHAT]     +30 Garden Experience§7 (2)
+[01:11:15] [Client thread/INFO]: [CHAT]     +20k Farming XP
+[01:11:15] [Client thread/INFO]: [CHAT]     +54 Copper
+[01:11:15] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[01:11:15] [Client thread/INFO]: [CHAT]     §7§8+§2Crystal Hollows Pass
+[01:11:15] [Client thread/INFO]: [CHAT] 
+[01:11:15] [Client thread/INFO]: [CHAT] §e[NPC] §9Gwendolyn§f: §fAmazing! I haven't eaten such chocolatey goodness in a long time...Maybe they should invest in that rusty old lift.
+[01:11:16] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 56!
+[01:11:16] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Trevor (UNCOMMON)
+[01:11:16] [Client thread/INFO]: [CHAT] 
+[01:11:16] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[01:11:16] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[01:11:16] [Client thread/INFO]: [CHAT]     +13k Farming XP
+[01:11:16] [Client thread/INFO]: [CHAT]     +22 Copper
+[01:11:16] [Client thread/INFO]: [CHAT]     +10 Bits§7 (4)
+[01:11:16] [Client thread/INFO]: [CHAT]     §7§8+§52 Pelts
+[01:11:16] [Client thread/INFO]: [CHAT] 
+[01:11:16] [Client thread/INFO]: [CHAT] §e[NPC] §aTrevor§f: §fThis should do nicely. I'll have plenty of pelts by the end of the day.
+[01:11:19] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 57!
+[01:11:19] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Jerry (LEGENDARY)
+[01:11:19] [Client thread/INFO]: [CHAT] 
+[01:11:19] [Client thread/INFO]: [CHAT]   REWARDS§7 (5)
+[01:11:19] [Client thread/INFO]: [CHAT]     +75 Garden Experience
+[01:11:19] [Client thread/INFO]: [CHAT]     +31k Farming XP
+[01:11:19] [Client thread/INFO]: [CHAT]     +454 Copper
+[01:11:19] [Client thread/INFO]: [CHAT]     +10 Bits§7 (5)
+[01:11:19] [Client thread/INFO]: [CHAT] 
+[01:11:19] [Client thread/INFO]: [CHAT] §e[NPC] §6Jerry§f: §fThis is not my realm. I must return. Thank you.
+[01:11:21] [Client thread/INFO]: [CHAT] Guild > RachieCutie joined.
+[01:11:31] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[01:11:36] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[01:11:36] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Arachne Fragment for 8,684.1 coins!
+[01:11:44] [Client thread/INFO]: [CHAT] Warping...
+[01:12:08] [Client thread/INFO]: [CHAT] Guild > Foezy left.
+[01:12:18] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:12:45] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[01:13:08] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:13:35] [Client thread/INFO]: [CHAT] Guild > Osqma left.
+[01:14:24] [Client thread/INFO]: [CHAT] Hornum has arrived on your Garden!
+[01:14:35] [Client thread/INFO]: [CHAT] Guild > R3leaseTheKraken left.
+[01:14:38] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:14:38] [Client thread/INFO]: [CHAT]                                 # LEVEL UP! #
+[01:14:38] [Client thread/INFO]: [CHAT] 
+[01:14:38] [Client thread/INFO]: [CHAT]                        You are now Event Level 48!
+[01:14:38] [Client thread/INFO]: [CHAT]                        You earned 10 Event Silver!
+[01:14:38] [Client thread/INFO]: [CHAT] 
+[01:14:38] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:14:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:15:01] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:15:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:15:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:15:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[01:15:07] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Sugar Cane Fortune §fduring the contest!
+[01:15:19] [Client thread/INFO]: [CHAT] Guild > FlamingBears left.
+[01:15:29] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[01:15:37] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:15:38] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:16:41] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:16:56] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[01:17:03] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:17:43] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:17:56] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:18:05] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:18:09] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (3)
+[01:18:32] [Client thread/INFO]: [CHAT] Trevor has arrived on your Garden!
+[01:18:33] [Client thread/INFO]: [CHAT] Guild > TastiestPizza joined.
+[01:18:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:19:30] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:20:16] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:20:39] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:20:57] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:22:37] [Client thread/INFO]: [CHAT] Mason has arrived on your Garden!
+[01:23:25] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:23:30] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:23:32] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:23:38] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL2§7!
+[01:23:38] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[01:24:49] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:25:19] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:25:35] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:25:39] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:25:47] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe joined.
+[01:25:53] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:25:55] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:26:18] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:26:27] [Client thread/INFO]: [CHAT] Guild > EngeBoykie joined.
+[01:26:34] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (3)
+[01:26:42] [Client thread/INFO]: [CHAT] Lumina has arrived on your Garden!
+[01:26:56] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[01:27:10] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (4)
+[01:27:11] [Client thread/INFO]: [CHAT] Guild > EngeBoykie left.
+[01:27:19] [Client thread/INFO]: [CHAT] Guild > SoutifDeLuxe left.
+[01:27:28] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[01:27:48] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:27:51] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (6)
+[01:27:57] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (7)
+[01:27:58] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (8)
+[01:28:19] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:28:23] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (9)
+[01:28:38] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:28:42] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (2)
+[01:28:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (10)
+[01:28:52] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (3)
+[01:29:04] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (4)
+[01:29:14] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (11)
+[01:29:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (12)
+[01:29:40] [Client thread/INFO]: [CHAT] Guild > 1zez left.
+[01:29:46] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:29:46] [Client thread/INFO]: [CHAT]   §b§lGARDEN MILESTONE §3Pumpkin §825?§326
+[01:29:46] [Client thread/INFO]: [CHAT]   Milestone 27 in 2M Pumpkins
+[01:29:46] [Client thread/INFO]: [CHAT] 
+[01:29:46] [Client thread/INFO]: [CHAT]   REWARDS
+[01:29:46] [Client thread/INFO]: [CHAT]     +260 Garden Experience
+[01:29:46] [Client thread/INFO]: [CHAT]     +50,000 Farming Experience
+[01:29:46] [Client thread/INFO]: [CHAT]     +1 SkyBlock XP
+[01:29:46] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:29:48] [Client thread/INFO]: [CHAT]  
+[01:29:48] [Client thread/INFO]: [CHAT]                           SKYBLOCK LEVEL UP
+[01:29:48] [Client thread/INFO]: [CHAT]                              Level 327 ? [328]
+[01:29:48] [Client thread/INFO]: [CHAT]  
+[01:29:48] [Client thread/INFO]: [CHAT]                                   REWARDS
+[01:29:48] [Client thread/INFO]: [CHAT]                                  +5 ? Health
+[01:29:48] [Client thread/INFO]: [CHAT]  
+[01:30:12] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (13)
+[01:30:39] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:30:54] [Client thread/INFO]: [CHAT] Puzzler has arrived on your Garden!
+[01:31:01] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:31:07] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[01:31:10] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[01:31:12] [Client thread/INFO]: [CHAT] §e[NPC] §aHornum§f: §fBuurrrp!
+[01:31:14] [Client thread/INFO]: [CHAT] §e[NPC] §aTrevor§f: §fI've been tracking an animal for the past few days. Got anything I could use as bait?
+[01:31:15] [Client thread/INFO]: [CHAT] §e[NPC] §aMason§f: §fI paid for one of Treasure Hunter's tips today and again, it only led me to a dirty shoelace. His tips are just not worth it...
+[01:31:16] [Client thread/INFO]: [CHAT] §e[NPC] §9Lumina§f: §fI'm looking to make some Jack o' Lanterns to help light up the Crystal Hollows - maybe you can help me out?
+[01:31:17] [Client thread/INFO]: [CHAT] §e[NPC] §9Puzzler§f: §f§d?§2?§ftriangle§2?§d?§5?§ffood§3?§5?
+[01:31:22] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[01:31:28] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:31:28] [Client thread/INFO]: [CHAT] [Bazaar] Bought 10x Enchanted Golden Carrot for 694,282 coins!
+[01:31:30] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:31:31] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 82,687 coins!
+[01:31:31] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:31:31] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 82,687 coins!§7 (2)
+[01:31:32] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[01:31:32] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 82,687 coins!§7 (3)
+[01:31:32] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[01:31:32] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Baked Potato for 82,687 coins!§7 (4)
+[01:31:35] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (6)
+[01:31:35] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Cookie for 78,832 coins!
+[01:31:35] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (7)
+[01:31:35] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Cookie for 78,832 coins!§7 (2)
+[01:31:36] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (8)
+[01:31:36] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Cookie for 78,832 coins!§7 (3)
+[01:31:37] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (9)
+[01:31:37] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Cookie for 78,832 coins!§7 (4)
+[01:31:41] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (10)
+[01:31:41] [Client thread/INFO]: [CHAT] [Bazaar] Bought 21x Enchanted Hay Bale for 164,123 coins!
+[01:31:42] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 59!
+[01:31:42] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Puzzler (RARE)
+[01:31:42] [Client thread/INFO]: [CHAT] 
+[01:31:42] [Client thread/INFO]: [CHAT]   REWARDS
+[01:31:42] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[01:31:42] [Client thread/INFO]: [CHAT]     +50k Farming XP
+[01:31:42] [Client thread/INFO]: [CHAT]     +79 Copper
+[01:31:42] [Client thread/INFO]: [CHAT]     +20 Bits
+[01:31:42] [Client thread/INFO]: [CHAT] 
+[01:31:42] [Client thread/INFO]: [CHAT] §e[NPC] §9Puzzler§f: §f(??_?)§a?
+[01:31:44] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 60!
+[01:31:44] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Lumina (RARE)
+[01:31:44] [Client thread/INFO]: [CHAT] 
+[01:31:44] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[01:31:44] [Client thread/INFO]: [CHAT]     +30 Garden Experience§7 (2)
+[01:31:44] [Client thread/INFO]: [CHAT]     +11k Farming XP
+[01:31:44] [Client thread/INFO]: [CHAT]     +67 Copper
+[01:31:44] [Client thread/INFO]: [CHAT]     +10 Bits
+[01:31:44] [Client thread/INFO]: [CHAT] 
+[01:31:44] [Client thread/INFO]: [CHAT] §e[NPC] §9Lumina§f: §fNice doin' business with ya! Here's some copper in return.
+[01:31:45] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Mason (UNCOMMON)
+[01:31:45] [Client thread/INFO]: [CHAT] 
+[01:31:45] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[01:31:45] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[01:31:45] [Client thread/INFO]: [CHAT]     +18k Farming XP
+[01:31:45] [Client thread/INFO]: [CHAT]     +21 Copper
+[01:31:45] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[01:31:45] [Client thread/INFO]: [CHAT] 
+[01:31:45] [Client thread/INFO]: [CHAT] §e[NPC] §aMason§f: §fMaybe if I continue buying his tips I'll hit the jackpot soon. Just gotta spend a little bit more...
+[01:31:47] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 61!
+[01:31:47] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Trevor (UNCOMMON)
+[01:31:47] [Client thread/INFO]: [CHAT] 
+[01:31:47] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[01:31:47] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[01:31:47] [Client thread/INFO]: [CHAT]     +15k Farming XP
+[01:31:47] [Client thread/INFO]: [CHAT]     +26 Copper
+[01:31:47] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[01:31:47] [Client thread/INFO]: [CHAT]     §7§8+§52 Pelts
+[01:31:47] [Client thread/INFO]: [CHAT]     §7§9Flowering Bouquet
+[01:31:47] [Client thread/INFO]: [CHAT] 
+[01:31:47] [Client thread/INFO]: [CHAT] §e[NPC] §aTrevor§f: §fThis should do nicely. I'll have plenty of pelts by the end of the day.
+[01:31:49] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Hornum (UNCOMMON)
+[01:31:49] [Client thread/INFO]: [CHAT] 
+[01:31:49] [Client thread/INFO]: [CHAT]   REWARDS§7 (5)
+[01:31:49] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[01:31:49] [Client thread/INFO]: [CHAT]     +5.5k Farming XP
+[01:31:49] [Client thread/INFO]: [CHAT]     +18 Copper
+[01:31:49] [Client thread/INFO]: [CHAT]     +10 Bits§7 (4)
+[01:31:49] [Client thread/INFO]: [CHAT] 
+[01:31:49] [Client thread/INFO]: [CHAT] §e[NPC] §aHornum§f: §fBURP!?!
+[01:32:18] [Client thread/INFO]: [CHAT] Warping...
+[01:32:25] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[01:32:35] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:34:45] [Client thread/INFO]: [CHAT] Guild > BrBrEvCoSeGaO joined.
+[01:35:40] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:35:52] [Client thread/INFO]: [CHAT] Dusk has arrived on your Garden!
+[01:36:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:36:16] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:37:03] [Client thread/INFO]: [CHAT] Guild > yum5224 joined.
+[01:37:43] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:37:46] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:37:51] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:38:06] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:38:18] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:39:22] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:39:42] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:39:56] [Client thread/INFO]: [CHAT] Anita has arrived on your Garden!
+[01:40:05] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:40:39] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:40:40] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:40:47] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:40:55] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:41:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:41:34] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (3)
+[01:41:42] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:41:48] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:42:27] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (4)
+[01:42:31] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:42:36] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[01:42:52] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (5)
+[01:43:06] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[01:43:06] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (6)
+[01:43:33] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (7)
+[01:43:59] [Client thread/INFO]: [CHAT] Fisherman has arrived on your Garden!
+[01:44:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (8)
+[01:44:04] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[01:44:04] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[01:45:35] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:45:40] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:45:45] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[01:46:38] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:46:51] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:46:53] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:47:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Sparkyz6 §3[BABY]§f: anyone doing worms
+[01:47:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: wormfishing?
+[01:47:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Sparkyz6 §3[BABY]§f: yh
+[01:47:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: prolly not gotta ruby farm
+[01:48:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] Sparkyz6 §3[BABY]§f: alr
+[01:48:04] [Client thread/INFO]: [CHAT] Guy has arrived on your Garden!
+[01:48:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:48:36] [Client thread/INFO]: [CHAT] Guild > yum5224 left.
+[01:48:40] [Client thread/INFO]: [CHAT] Cultivating VII on your Bountiful Pumpkin Dicer 3.0 was upgraded to Cultivating VIII!
+[01:48:50] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:49:21] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[01:49:21] [Client thread/INFO]: [CHAT]   §4§l? §6? Farming Fortune §7has been reduced by §45%§7!
+[01:49:21] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[01:49:25] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[01:49:28] [Client thread/INFO]: [CHAT] Teleported you to Plot - L1!
+[01:49:36] [Client thread/INFO]: [CHAT] Your Garden is no longer infested and your ? Farming Fortune has returned to normal!
+[01:49:36] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Pumpkin §efor killing a §6Rat§e!
+[01:49:40] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Sugar §efor killing a §6Mosquito§e!
+[01:49:44] [Client thread/INFO]: [CHAT] Teleported you to Plot - L2!
+[01:49:49] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: CRAZY RARE DROP! (Digested Mosquito) (+167% ? Magic Find)
+[01:49:54] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Brown Mushroom §efor killing a §6Slug§e!
+[01:50:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: whats that?
+[01:50:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: +5 coins
+[01:50:04] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Carrot §efor killing a §6Cricket§e!
+[01:50:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Symetri §3[BABY]§f: lol
+[01:50:17] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[01:50:18] [Client thread/INFO]: [CHAT] §e[NPC] §aGuy§f: §fHeard you may got some mushrooms...I've been looking for some...
+[01:50:20] [Client thread/INFO]: [CHAT] §e[NPC] §aFisherman§f: §fA Carrot King has been scaring off all the good fish, I need to deal with it before I lose more fish.
+[01:50:21] [Client thread/INFO]: [CHAT] §e[NPC] §aAnita§f: §fHey hey hey again! I'll trade you some copper for some carrots!
+[01:50:22] [Client thread/INFO]: [CHAT] §e[NPC] §aDusk§f: §fDusk needs some watermelon to quench his thirst. Dusk would appreciate it.
+[01:50:23] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: judgment core from 2019
+[01:50:27] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[01:50:27] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: thats what it is
+[01:50:27] [Client thread/INFO]: [CHAT] [Bazaar] Bought 7x Enchanted Melon Block for 356,390 coins!
+[01:50:33] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[01:50:34] [Client thread/INFO]: [CHAT] [Bazaar] Bought 13x Enchanted Golden Carrot for 902,548 coins!
+[01:50:38] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[01:50:38] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Enchanted Brown Mushroom Block for 257,852 coins!
+[01:50:40] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Dusk (UNCOMMON)
+[01:50:40] [Client thread/INFO]: [CHAT] 
+[01:50:40] [Client thread/INFO]: [CHAT]   REWARDS
+[01:50:40] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[01:50:40] [Client thread/INFO]: [CHAT]     +3.7k Farming XP
+[01:50:40] [Client thread/INFO]: [CHAT]     +28 Copper
+[01:50:40] [Client thread/INFO]: [CHAT]     +20 Bits
+[01:50:40] [Client thread/INFO]: [CHAT]     §7§f? Sparkling Rune I
+[01:50:40] [Client thread/INFO]: [CHAT] 
+[01:50:40] [Client thread/INFO]: [CHAT] §e[NPC] §aDusk§f: §fDusk thanks you. Dusk will make sure to visit your farm again.
+[01:50:41] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[01:50:41] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 62!
+[01:50:41] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Anita (UNCOMMON)
+[01:50:41] [Client thread/INFO]: [CHAT] 
+[01:50:41] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[01:50:41] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[01:50:41] [Client thread/INFO]: [CHAT]     +26k Farming XP
+[01:50:41] [Client thread/INFO]: [CHAT]     +24 Copper
+[01:50:41] [Client thread/INFO]: [CHAT]     +10 Bits
+[01:50:41] [Client thread/INFO]: [CHAT] 
+[01:50:41] [Client thread/INFO]: [CHAT] §e[NPC] §aAnita§f: §fYay, thank you so much!
+[01:50:44] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 63!
+[01:50:44] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Fisherman (UNCOMMON)
+[01:50:44] [Client thread/INFO]: [CHAT] 
+[01:50:44] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[01:50:44] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[01:50:44] [Client thread/INFO]: [CHAT]     +29k Farming XP
+[01:50:44] [Client thread/INFO]: [CHAT]     +28 Copper§7 (2)
+[01:50:44] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[01:50:44] [Client thread/INFO]: [CHAT] 
+[01:50:44] [Client thread/INFO]: [CHAT] §e[NPC] §aFisherman§f: §fHoly Mackerel! You got me the whole nine yards.
+[01:50:48] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Guy (UNCOMMON)
+[01:50:48] [Client thread/INFO]: [CHAT] 
+[01:50:48] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[01:50:48] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (4)
+[01:50:48] [Client thread/INFO]: [CHAT]     +7.4k Farming XP
+[01:50:48] [Client thread/INFO]: [CHAT]     +17 Copper
+[01:50:48] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[01:50:48] [Client thread/INFO]: [CHAT] 
+[01:50:48] [Client thread/INFO]: [CHAT] §e[NPC] §aGuy§f: §fThank ya man, I knew I could trust you! These will come in good use!
+[01:50:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: i dont get that allusion
+[01:50:56] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[01:51:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: does anyone know how calling terms in f7 works
+[01:51:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] julithelol §3[EGG]§f: wiki
+[01:52:15] [Client thread/INFO]: [CHAT] Putting coins in escrow...
+[01:52:15] [Client thread/INFO]: [CHAT] Processing purchase...
+[01:52:15] [Client thread/INFO]: [CHAT] You purchased Pest Repellent MAX for 299,000 coins!
+[01:52:15] [Client thread/INFO]: [CHAT] Visit the Auction House to collect your item!
+[01:52:18] [Client thread/INFO]: [CHAT] You claimed Pest Repellent MAX from [MVP+] MelonLover5's auction!
+[01:52:40] [Client thread/INFO]: [CHAT] Finding player...
+[01:52:41] [Client thread/INFO]: [CHAT] Sending a visit request...
+[01:52:41] [Client thread/INFO]: [CHAT] Sending to server mini158DG...
+[01:52:42] [Client thread/INFO]: [CHAT]        
+[01:52:42] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:52:42] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini158DG', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[01:52:43] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+You should NEVER enter your Microsoft account details anywhere but on official Microsoft services!
+
+External links from untrusted sources should be avoided.
+-----------------------------------------------------
+[01:52:45] [Client thread/INFO]: [CHAT] Sending to server mini149CE...
+[01:52:45] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: java.lang.IllegalStateException: Tried to send packet but session was null
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsws.client.WSClient.sendPacket(WSClient.kt:95)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.skytilsmod.features.impl.mining.CHWaypoints$onHypixelPacket$1.invokeSuspend(CHWaypoints.kt:80)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:115)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.TaskImpl.run(Tasks.kt:100)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at gg.skytils.ktx-coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+[01:52:45] [DefaultDispatcher-worker-1/INFO]: [java.lang.ThreadGroup:uncaughtException:1061]: 	Suppressed: gg.skytils.ktx-coroutines.internal.DiagnosticCoroutineContextException: [CoroutineName(Skytils IO), StandaloneCoroutine{Cancelling}@1aca8adc, Dispatchers.IO]
+[01:52:45] [Client thread/INFO]: [CHAT]        
+[01:52:45] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini149CE', serverType='SKYBLOCK', lobbyName='null', mode='crystal_hollows', map='Crystal Hollows'} VersionedPacket{version=1}
+[01:52:48] [Client thread/INFO]: [CHAT] [174] ? §a[VIP§6+§a] PolarIce_11§f: anyone have queen cords?
+[01:52:49] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:52:49] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:52:49] [Client thread/INFO]: [CHAT] The wind has changed direction!
+[01:52:53] [Client thread/INFO]: [CHAT] You have not found this Crystal yet! Place it here when you have found it!
+[01:52:58] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Dinner Egg near the Diamond Essence Shop!
+[01:52:58] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aBarcode §7(§A§LUNCOMMON§7)!
+[01:52:58] [Client thread/INFO]: [CHAT] §7§lDUPLICATE RABBIT! §6+5,420,098 Chocolate
+[01:52:58] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:53:08] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Lunch Egg on a lower platform!
+[01:53:10] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aPillsbury §7(§A§LUNCOMMON§7)!
+[01:53:10] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+2 Chocolate §7and §6+0.003x Chocolate §7per second!
+[01:53:10] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:53:17] [Client thread/INFO]: [CHAT] [174] ? §a[VIP§6+§a] PolarIce_11§f: never mind
+[01:53:19] [Client thread/INFO]: [CHAT] The wind has changed direction!§7 (2)
+[01:53:20] [Client thread/INFO]: [CHAT] HOPPITY'S HUNT You found a Chocolate Breakfast Egg underneath the stairwell!
+[01:53:20] [Client thread/INFO]: [CHAT] §D§LHOPPITY'S HUNT §7You found §aBlueberry §7(§A§LUNCOMMON§7)!
+[01:53:20] [Client thread/INFO]: [CHAT] §d§lNEW RABBIT! §6+2 Chocolate §7and §6+0.003x Chocolate §7per second!
+[01:53:20] [Client thread/INFO]: [CHAT] §e[SkyHanni] Click here to share the location of this chocolate egg with the server!
+[01:53:27] [Client thread/INFO]: [CHAT] §e[SkyHanni] §eNext egg available in §b7m 22s§e.
+[01:53:29] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:53:29] [Client thread/INFO]: [CHAT]                      GONE WITH THE WIND ENDED!
+[01:53:29] [Client thread/INFO]: [CHAT]                            Passive Active Event
+[01:53:29] [Client thread/INFO]: [CHAT] 
+[01:53:29] [Client thread/INFO]: [CHAT]      The wind has died down leading to normal mining speeds.
+[01:53:29] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[01:53:43] [Client thread/INFO]: [CHAT] [181] ? §b[MVP§c+§b] voidlessnooob§f: guys
+[01:53:46] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:53:47] [Client thread/INFO]: [CHAT] [181] ? §b[MVP§c+§b] voidlessnooob§f: can someone warp me back in
+[01:53:51] [Client thread/INFO]: [CHAT] [184] ? §b[MVP§d+§b] oOMrbubbleOo§f: i can
+[01:53:54] [Client thread/INFO]: [CHAT] [181] ? §b[MVP§c+§b] voidlessnooob§f: ok
+[01:54:20] [Client thread/INFO]: [CHAT] Warping...
+[01:54:21] [Client thread/INFO]: [CHAT] Sending to server mini18AS...
+[01:54:21] [Netty Client IO #4/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[01:54:22] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini18AS', serverType='SKYBLOCK', lobbyName='null', mode='garden', map='Garden'} VersionedPacket{version=1}
+[01:54:22] [Client thread/INFO]: [CHAT]        
+[01:54:24] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[01:54:24] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[01:54:32] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.
+[01:54:34] [Client thread/INFO]: [CHAT] YUM! Pests will now spawn 4x less while you break crops for the next 60m!
+[01:54:55] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:55:01] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:55:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:55:21] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[01:55:26] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:55:29] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:55:37] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[01:56:03] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:56:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] 1monstras1 §3[HYDRA]§f:                              Level 279 ? [280]
+[01:56:26] [Client thread/INFO]: [CHAT] Banker Broadjaw has arrived on your Garden!
+[01:57:12] [Client thread/INFO]: [CHAT] Guild > 1zez joined.
+[01:58:12] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[01:58:46] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[01:59:22] [Client thread/INFO]: [CHAT] You earned 15 GEXP + 578 Event EXP from playing SkyBlock!
+[01:59:24] [DefaultDispatcher-worker-9/WARN]: Failed to fetch https://crafthead.net/helm/6101896161e44419bf8b17044e487000: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor70.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy30.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$271/1554690148.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$278/1799500692.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[01:59:30] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[01:59:33] [Client thread/INFO]: [CHAT] Guild > yum5224 joined.
+[01:59:37] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[01:59:44] [Client thread/INFO]: [CHAT] Friend > JPGomdol joined.
+[01:59:44] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (2)
+[01:59:45] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[01:59:45] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[01:59:48] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.
+[01:59:49] [Client thread/INFO]: [CHAT] JPGomdol left SkyBlock.
+[01:59:52] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.§7 (2)
+[02:00:15] [Client thread/INFO]: [CHAT] Guild > yum5224 left.
+[02:00:35] [Client thread/INFO]: [CHAT] 
+[02:00:35] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[02:00:35] [Client thread/INFO]: [CHAT] Watchdog has banned 16,742 players in the last 7 days.
+[02:00:35] [Client thread/INFO]: [CHAT] Staff have banned an additional 18,820 in the last 7 days.
+[02:00:35] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[02:00:35] [Client thread/INFO]: [CHAT] 
+[02:00:54] [Client thread/INFO]: [CHAT] Queen Mismyla has arrived on your Garden!
+[02:01:11] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:01:11] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!
+[02:01:11] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:01:11] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:01:11] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!§7 (2)
+[02:01:11] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:01:11] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:01:11] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!§7 (3)
+[02:01:11] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:01:35] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:01:38] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:01:53] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:02:12] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:02:23] [Client thread/INFO]: [CHAT] Guild > k4rmik left.
+[02:02:25] [Client thread/INFO]: [CHAT] Guild > k4rmik joined.
+[02:02:29] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:02:36] [Client thread/INFO]: [CHAT] Guild > R3leaseTheKraken joined.
+[02:02:36] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aDwarven Mines §e§lFOLLOW
+[02:02:45] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:02:49] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:02:49] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K joined.
+[02:02:51] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §aBuy Order §efor §a5§7x §5Jungle Key §ewas filled!
+[02:03:17] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:03:21] [Client thread/INFO]: [CHAT] Guild > IMainHydras joined.
+[02:03:34] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[02:03:42] [Client thread/INFO]: [CHAT] Guild > AriZze left.
+[02:03:43] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:04:22] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:04:23] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:04:28] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:04:31] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.
+[02:04:33] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:04:41] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:04:44] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K left.
+[02:05:01] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:05:02] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:05:03] [Client thread/INFO]: [CHAT] Wizard has arrived on your Garden!
+[02:05:04] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:06:01] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:06:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: oo a dolphin skin
+[02:06:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: really??
+[02:06:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:06:34] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: fire sale
+[02:06:34] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: too bad dolphin sux
+[02:06:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: too bad i have work
+[02:06:51] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: quantity?
+[02:06:56] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §6Sell Offer §efor §a2§7x §9Drill Engine §ewas filled!
+[02:07:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: 10k
+[02:07:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: zzz
+[02:07:06] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:07:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: so ill prolly get it
+[02:07:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: bc dolphin is L
+[02:07:28] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:07:35] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: +10? Alchemy Wisdom
+[02:07:37] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: gaming
+[02:07:41] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: oo
+[02:07:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: cant be bothered to do alchemy
+[02:07:57] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:08:12] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[02:08:15] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: Level 231 ? [233]
+[02:08:34] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[02:08:35] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[02:08:36] [Client thread/INFO]: [CHAT] §e[NPC] §aBanker Broadjaw§f: §fStanding in that bank all day. Just me and the dwarves. But they are either all business, or drunk. Or both! I need better company!
+[02:08:37] [Client thread/INFO]: [CHAT] §e[NPC] §9Queen Mismyla§f: §fThe King made me go grocery shopping. Me! Can you believe that? He has a pair of perfectly good legs, and still, here I am.
+[02:08:38] [Client thread/INFO]: [CHAT] Guild > EngeBoykie joined.
+[02:08:38] [Client thread/INFO]: [CHAT] §e[NPC] §aWizard§f: Where am I? Oh, it's you §716thGarden§f.
+[02:08:43] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[02:08:43] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Enchanted Baked Potato for 330,737 coins!
+[02:08:46] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[02:08:46] [Client thread/INFO]: [CHAT] [Bazaar] Bought 4x Enchanted Sugar Cane for 463,094 coins!
+[02:08:51] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[02:08:51] [Client thread/INFO]: [CHAT] [Bazaar] Bought 275x Enchanted Cactus Green for 219,972 coins!
+[02:08:54] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[02:08:55] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 64!
+[02:08:55] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Wizard (UNCOMMON)
+[02:08:55] [Client thread/INFO]: [CHAT] 
+[02:08:55] [Client thread/INFO]: [CHAT]   REWARDS
+[02:08:55] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[02:08:55] [Client thread/INFO]: [CHAT]     +20k Farming XP
+[02:08:55] [Client thread/INFO]: [CHAT]     +22 Copper
+[02:08:55] [Client thread/INFO]: [CHAT]     +10 Bits
+[02:08:55] [Client thread/INFO]: [CHAT] 
+[02:08:55] [Client thread/INFO]: [CHAT] §e[NPC] §aWizard§f: Thank you. This should be enough potatoes to generate about §b2 §fvolts. Might be just enough to cause a reaction.
+[02:08:56] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Queen Mismyla (RARE)
+[02:08:56] [Client thread/INFO]: [CHAT] 
+[02:08:56] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[02:08:56] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[02:08:56] [Client thread/INFO]: [CHAT]     +13k Farming XP
+[02:08:56] [Client thread/INFO]: [CHAT]     +72 Copper
+[02:08:56] [Client thread/INFO]: [CHAT]     +20 Bits
+[02:08:56] [Client thread/INFO]: [CHAT] 
+[02:08:56] [Client thread/INFO]: [CHAT] §e[NPC] §9Queen Mismyla§f: §fI bet when I am back, they are all still sitting around that table! All day, every day! It's ludicrous!
+[02:08:58] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Banker Broadjaw (UNCOMMON)
+[02:08:58] [Client thread/INFO]: [CHAT] 
+[02:08:58] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[02:08:58] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[02:08:58] [Client thread/INFO]: [CHAT]     +4.4k Farming XP
+[02:08:58] [Client thread/INFO]: [CHAT]     +19 Copper
+[02:08:58] [Client thread/INFO]: [CHAT]     +20 Bits§7 (2)
+[02:08:58] [Client thread/INFO]: [CHAT] 
+[02:08:58] [Client thread/INFO]: [CHAT] §e[NPC] §aBanker Broadjaw§f: §fOh what a lovely specimen this is. I wonder, how should I name you?
+[02:09:10] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[02:09:18] [Client thread/INFO]: [CHAT] Warping...
+[02:09:19] [Client thread/INFO]: [CHAT] §e[NPC] §6Phillip§f: Thanks for the §6Pests§f, §716thGarden§f!
+[02:09:22] [Client thread/INFO]: [CHAT] §e[NPC] §6Phillip§f: In exchange for §640 Pests§f, I've given you §6+200? Farming Fortune §ffor §a30m§f!
+[02:09:23] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:09:26] [Client thread/INFO]: [CHAT] §e[NPC] §6Phillip§f: You've exchanged enough Pests with me recently. You still have §6198 Pests §fin your §6Vacuum Bag§f!
+[02:09:32] [Client thread/INFO]: [CHAT] §e[NPC] §6Phillip§f: Come back soon when I can handle more!
+[02:09:43] [Client thread/INFO]: [CHAT] Jotraeline Greatforge has arrived on your Garden!
+[02:09:46] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[02:10:14] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[02:10:14] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:10:22] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[02:10:25] [Client thread/INFO]: [CHAT] Teleported you to Plot - L3!
+[02:10:37] [Client thread/INFO]: [CHAT] §eYou received §a16x Enchanted Cactus Green §efor killing a §6Mite§e!
+[02:10:38] [Client thread/INFO]: [CHAT] §e[SkyHanni] Loaded Cactus milestone data from tab list!
+[02:10:39] [Client thread/INFO]: [CHAT] Warping...
+[02:11:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP] k4rmik §3[EGG]§f: Can someone upgrade my rod of champions?
+[02:11:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§4+§b] Its_Krios §3[MANIAC]§f: to rod of legends?
+[02:11:38] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP] k4rmik §3[EGG]§f: yes
+[02:11:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§4+§b] Its_Krios §3[MANIAC]§f: sure
+[02:12:29] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:13:11] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:14:02] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:14:20] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:14:23] [Client thread/INFO]: [CHAT] Geonathan Greatforge has arrived on your Garden!
+[02:14:23] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:14:24] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:14:28] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.
+[02:14:54] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[MVP+] ignThree has requested to join the Guild!
+Click here to accept or type /guild accept ignThree!
+-----------------------------------------------------
+
+[02:14:55] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:15:04] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: ayo
+[02:15:06] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: i remember that name
+[02:15:09] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[02:15:11] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Potato Fortune §fduring the contest!
+[02:15:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:15:12] [Client thread/INFO]: [CHAT] [MVP+] ignThree joined the guild!
+[02:15:12] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:15:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: Welcome!
+[02:15:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: ayo welcome
+[02:15:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] GodOfHades §3[EGG]§f: welcome
+[02:15:24] [Client thread/INFO]: [CHAT] §2Guild > §7BrBrEvCoSeGaO §3[EGG]§f: hello
+[02:15:26] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:15:27] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:15:36] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:15:47] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: wlc
+[02:15:59] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (2)
+[02:16:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[02:16:36] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[02:16:41] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:16:45] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:16:55] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!§7 (2)
+[02:17:23] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!§7 (3)
+[02:17:45] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:17:48] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[02:18:25] [Client thread/INFO]: [CHAT] Guild > qtwn joined.
+[02:18:27] [Client thread/INFO]: [CHAT] Seymour has arrived on your Garden!
+[02:18:48] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K joined.
+[02:18:59] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: ? Trinity has been added to your Abiphone's contacts!
+[02:19:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f:                              Level 335 ? [336]
+[02:19:11] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§a++§b] IMainHydras §3[HYDRA]§f: who tf is trinity
+[02:19:12] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:19:13] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: gg
+[02:19:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: wtf
+[02:19:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: I big need
+[02:19:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: Three qualifies for Hydra btw
+[02:19:23] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:19:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: rip gnas
+[02:19:59] [Client thread/INFO]: [CHAT] Guild > R3leaseTheKraken left.
+[02:20:33] [Client thread/INFO]: [CHAT] Guild > Foezy joined.
+[02:20:35] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:20:35] [Client thread/INFO]: [CHAT] [MVP+] ignThree was promoted from Hydra Eggs to Water Hydras
+[02:20:35] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:20:45] [Client thread/INFO]: [CHAT] Guild > EngeBoykie left.
+[02:20:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:21:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: i had to remove jacob to add her
+[02:21:25] [Client thread/INFO]: [CHAT] Guild > IMainHydras left.
+[02:21:47] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:22:08] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:22:12] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:22:32] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:22:32] [Client thread/INFO]: [CHAT] Oringo has arrived on your Garden!
+[02:23:03] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:23:05] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[02:23:24] [Client thread/INFO]: [CHAT] Guild > qtwn left.
+[02:23:31] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:24:14] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (2)
+[02:24:24] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:24:26] [Client thread/INFO]: [CHAT] Guild > qtwn joined.
+[02:24:41] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:24:50] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:24:58] [Client thread/INFO]: [CHAT] JPGomdol left SkyBlock.
+[02:25:12] [Client thread/INFO]: [CHAT] Friend > JPGomdol joined.
+[02:25:13] [Client thread/INFO]: [CHAT] Friend > JPGomdol left.
+[02:25:14] [Client thread/INFO]: [CHAT] Friend > JPGomdol left.§7 (2)
+[02:25:16] [Client thread/INFO]: [CHAT] Guild > TechnoDeluxe left.
+[02:25:24] [Client thread/INFO]: [CHAT] Friend > JPGomdol joined.§7 (2)
+[02:25:30] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.
+[02:25:31] [Client thread/INFO]: [CHAT] JPGomdol left SkyBlock.§7 (2)
+[02:25:34] [Client thread/INFO]: [CHAT] JPGomdol joined SkyBlock.§7 (2)
+[02:25:34] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:25:38] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:25:42] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aPrivate Island §e§lFOLLOW
+[02:26:02] [Client thread/INFO]: [CHAT]  §b§l» §7JPGomdol §eis traveling to §aCrystal Hollows §e§lFOLLOW
+[02:26:25] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:26:27] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I just realised if marina has her 15% extra scc perk and I use spiked bait
+[02:26:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I get 99.94 scc
+[02:26:36] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[02:26:36] [Client thread/INFO]: [CHAT] Tom has arrived on your Garden!
+[02:26:36] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:26:49] [Client thread/INFO]: [CHAT] Guild > BrBrEvCoSeGaO left.
+[02:27:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:27:54] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:28:27] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:29:24] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:30:00] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:30:03] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:30:26] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[02:30:32] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[02:30:32] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:31:04] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:31:18] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:31:27] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:31:48] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:31:51] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:32:21] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[02:33:49] [Client thread/INFO]: [CHAT] Guild > junior_v2 joined.
+[02:33:50] [Client thread/INFO]: [CHAT] Guild > junior_v2 left.
+[02:34:03] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[02:34:16] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:34:25] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:34:55] [Client thread/INFO]: [CHAT] Guild > julithelol left.
+[02:35:03] [Client thread/INFO]: [CHAT] [NPC] Jacob: The Farming Contest is over!
+[02:35:03] [Client thread/INFO]: [CHAT] [NPC] Jacob: Let me count the final results eh?
+[02:35:06] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[02:35:07] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You placed in the §b§lDIAMOND §fbracket in the §aPumpkin Contest§f!
+[02:35:08] [Client thread/INFO]: [CHAT] Guild > junior_v2 joined.
+[02:35:09] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[02:35:10] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You collected §e465,847 §fitems!
+[02:35:11] [Client thread/INFO]: [CHAT] §e[NPC] §aJotraeline Greatforge§f: §fI heard you have a composter in your barn, it happens to run on the same fuel drills run on! Could I check it out?
+[02:35:12] [Client thread/INFO]: [CHAT] §e[NPC] §aGeonathan Greatforge§f: §fI usually only work with Oil Barrels, but I'd like to try making some Biofuel from compost.
+[02:35:13] [Client thread/INFO]: [CHAT] §e[NPC] §9Seymour§f: §fWanting to buy something from me? I got some pretty fancy tuxedos for sale, for a price of a small fortune.
+[02:35:14] [Client thread/INFO]: [CHAT] §e[NPC] §aOringo§f: §fHey, you got some wheat for my pets by any chance? Gotta keep those little monsters fed, haha!
+[02:35:15] [Client thread/INFO]: [CHAT] §e[NPC] §aTom§f: §fI don't have a recipe for you, however I'd happily take some crops.
+[02:35:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: CRAZY RARE DROP! (Beheaded Horror) (+143% ? Magic Find) brah
+[02:35:32] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] ThePietz §3[MANIAC]§f: crazy mf
+[02:35:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: chilllll
+[02:35:42] [Client thread/INFO]: [CHAT]   FARMING CONTEST REWARDS CLAIMED
+[02:35:42] [Client thread/INFO]: [CHAT]    » Pumpkin Contest on Spring 19th, Year 363
+[02:35:42] [Client thread/INFO]: [CHAT]   REWARDS
+[02:35:42] [Client thread/INFO]: [CHAT]     §7§8+§a35x §aJacob's Ticket
+[02:35:42] [Client thread/INFO]: [CHAT]     §7§81x §9Turbo-Pumpkin I Book
+[02:35:42] [Client thread/INFO]: [CHAT]     §7§8+§e1 §7gold medal
+[02:35:42] [Client thread/INFO]: [CHAT]     §7§8+§e1 §7silver medal
+[02:35:42] [Client thread/INFO]: [CHAT]     §7§aCarnival Ticket §8x3
+[02:35:42] [Client thread/INFO]: [CHAT]    +152 Bits
+[02:35:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: i have gdrag lol
+[02:35:42] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: imagine not having sub 100 mf
+[02:35:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: levelling my baby greg
+[02:35:51] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[02:35:51] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Compost for 83,954 coins!
+[02:35:52] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[02:35:52] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Compost for 16,791 coins!
+[02:35:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: can we stop posting cheap drops
+[02:35:57] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[02:35:57] [Client thread/INFO]: [CHAT] [Bazaar] Bought 22x Enchanted Hay Bale for 171,763 coins!
+[02:36:00] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[02:36:01] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Enchanted Golden Carrot for 347,122 coins!
+[02:36:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: sowwy
+[02:36:04] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[02:36:06] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 65!
+[02:36:06] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Jotraeline Greatforge (UNCOMMON)
+[02:36:06] [Client thread/INFO]: [CHAT] 
+[02:36:06] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[02:36:06] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[02:36:06] [Client thread/INFO]: [CHAT]     +15k Farming XP
+[02:36:06] [Client thread/INFO]: [CHAT]     +30 Copper
+[02:36:06] [Client thread/INFO]: [CHAT]     +10 Bits
+[02:36:06] [Client thread/INFO]: [CHAT]     §7§9Biofuel
+[02:36:06] [Client thread/INFO]: [CHAT] 
+[02:36:06] [Client thread/INFO]: [CHAT] §e[NPC] §aJotraeline Greatforge§f: §fQuite fascinating technology you have there, I'm sure with this machinery we could create even better appliances in the future!
+[02:36:08] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Geonathan Greatforge (UNCOMMON)
+[02:36:08] [Client thread/INFO]: [CHAT] 
+[02:36:08] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[02:36:08] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[02:36:08] [Client thread/INFO]: [CHAT]     +15k Farming XP§7 (2)
+[02:36:08] [Client thread/INFO]: [CHAT]     +30 Copper§7 (2)
+[02:36:08] [Client thread/INFO]: [CHAT]     +20 Bits
+[02:36:08] [Client thread/INFO]: [CHAT]     §7§9Biofuel§7 (2)
+[02:36:08] [Client thread/INFO]: [CHAT] 
+[02:36:08] [Client thread/INFO]: [CHAT] §e[NPC] §aGeonathan Greatforge§f: §fOil Barrels are far superior, but at least this is 100% renewable. Pretty neat!
+[02:36:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: someones jealous
+[02:36:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: it's okay
+[02:36:09] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Seymour (RARE)
+[02:36:09] [Client thread/INFO]: [CHAT] 
+[02:36:09] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[02:36:09] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[02:36:09] [Client thread/INFO]: [CHAT]     +8.9k Farming XP
+[02:36:09] [Client thread/INFO]: [CHAT]     +51 Copper
+[02:36:09] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[02:36:09] [Client thread/INFO]: [CHAT]     §7§9Satin Trousers
+[02:36:09] [Client thread/INFO]: [CHAT] 
+[02:36:09] [Client thread/INFO]: [CHAT] §e[NPC] §9Seymour§f: §fWow, don't you look dashing with that! Pleasure doing business with you.
+[02:36:10] [Client thread/INFO]: [CHAT] Pest Wrangler has arrived on your Garden!
+[02:36:11] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 66!
+[02:36:11] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Oringo (UNCOMMON)
+[02:36:11] [Client thread/INFO]: [CHAT] 
+[02:36:11] [Client thread/INFO]: [CHAT]   REWARDS§7 (5)
+[02:36:11] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[02:36:11] [Client thread/INFO]: [CHAT]     +5.7k Farming XP
+[02:36:11] [Client thread/INFO]: [CHAT]     +19 Copper
+[02:36:11] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[02:36:11] [Client thread/INFO]: [CHAT]     §7§fPet Cake
+[02:36:11] [Client thread/INFO]: [CHAT] 
+[02:36:11] [Client thread/INFO]: [CHAT] §e[NPC] §aOringo§f: §fYou know how it is, they never stop eating haha, thank you very much!
+[02:36:12] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Tom (UNCOMMON)
+[02:36:12] [Client thread/INFO]: [CHAT] 
+[02:36:12] [Client thread/INFO]: [CHAT]   REWARDS§7 (6)
+[02:36:12] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (4)
+[02:36:12] [Client thread/INFO]: [CHAT]     +21k Farming XP
+[02:36:12] [Client thread/INFO]: [CHAT]     +20 Copper
+[02:36:12] [Client thread/INFO]: [CHAT]     +10 Bits§7 (4)
+[02:36:12] [Client thread/INFO]: [CHAT] 
+[02:36:12] [Client thread/INFO]: [CHAT] §e[NPC] §aTom§f: §fI'll be sure to come by next time.
+[02:36:12] [Client thread/INFO]: [CHAT] §e[NPC] §aPest Wrangler§f: §fThere's pests everywhere. I can smell 'em in the walls!
+[02:36:16] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (5)
+[02:36:16] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Plant Matter for 967.8 coins!
+[02:36:18] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Pest Wrangler (UNCOMMON)
+[02:36:18] [Client thread/INFO]: [CHAT] 
+[02:36:18] [Client thread/INFO]: [CHAT]   REWARDS§7 (7)
+[02:36:18] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (5)
+[02:36:18] [Client thread/INFO]: [CHAT]     +15k Farming XP§7 (3)
+[02:36:18] [Client thread/INFO]: [CHAT]     +30 Copper§7 (3)
+[02:36:18] [Client thread/INFO]: [CHAT]     +10 Bits§7 (5)
+[02:36:18] [Client thread/INFO]: [CHAT]     §7§aFine Flour §8x5
+[02:36:18] [Client thread/INFO]: [CHAT] 
+[02:36:18] [Client thread/INFO]: [CHAT] §e[NPC] §aPest Wrangler§f: §fThanks mate, this should help me catch 'em!
+[02:36:32] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage6.
+[02:36:32] [SkyblockAddons - #20/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[02:36:32] [SkyblockAddons - #20/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[02:36:36] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[02:36:36] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Flowering Bouquet for 12,589 coins!
+[02:36:38] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: RARE DROP! Carrot (+208% ? Magic Find)
+[02:36:44] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (2)
+[02:36:44] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Turbo-Pumpkin I for 35,348 coins!
+[02:36:47] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...§7 (3)
+[02:36:47] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Pet Cake for 15,001 coins!
+[02:36:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: lol
+[02:36:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: I think pro
+[02:36:58] [Client thread/INFO]: [CHAT] Warping...
+[02:37:02] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[02:37:14] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:37:16] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:37:19] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:37:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:38:15] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: shat
+[02:38:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: beat this cheap drop
+[02:38:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: TROPHY FISH! 736th BRONZE Blobfish (1.013th total)
+[02:38:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: .
+[02:38:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:38:45] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:38:56] [Client thread/INFO]: [CHAT] Guild > BrBrEvCoSeGaO joined.
+[02:38:59] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[02:39:25] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:39:32] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (6)
+[02:39:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: predicted gl
+[02:40:31] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (7)
+[02:40:49] [Client thread/INFO]: [CHAT] Lynn has arrived on your Garden!
+[02:40:59] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (8)
+[02:41:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] donavin855 §3[EGG]§f: SKILL LEVEL UP Farming 43?44
+[02:41:26] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (9)
+[02:41:30] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K left.
+[02:41:31] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:41:51] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[02:42:33] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[02:42:38] [Client thread/INFO]: [CHAT] Guild > BrBrEvCoSeGaO left.
+[02:42:50] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!§7 (2)
+[02:43:02] [Client thread/INFO]: [CHAT] §6[Auction] §7K1NGonTop §ebought §fMatriarch's Perfume §efor §61,796,969 coins §lCLICK
+[02:43:04] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:43:04] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:43:35] [Client thread/INFO]: [CHAT] Guild > julithelol joined.
+[02:44:00] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:44:24] [Client thread/INFO]: [CHAT] Guild > ThePietz left.
+[02:44:25] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:44:39] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:44:42] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:45:00] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour co-op §aBuy Order §efor §a5§7x §5Jungle Key §ewas filled!
+[02:45:02] [Client thread/INFO]: [CHAT] Felix has arrived on your Garden!
+[02:45:04] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:45:42] [Client thread/INFO]: [CHAT] PRAY TO RNGESUS DROP! Dicer dropped 2x Polished Pumpkin!
+[02:45:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[02:45:52] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (6)
+[02:45:56] [Client thread/INFO]: [CHAT] Guild > Coolstuff22 joined.
+[02:46:19] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (7)
+[02:46:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (8)
+[02:46:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (9)
+[02:46:49] [Client thread/INFO]: [CHAT] Guild > ThePietz joined.
+[02:47:03] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (10)
+[02:47:05] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] RachieCutie §3[MOD]§f: HOPPITY'S HUNT You found Atlas (LEGENDARY)!
+[02:47:10] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: pro
+[02:47:12] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (11)
+[02:47:38] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (12)
+[02:47:39] [Client thread/INFO]: [CHAT] Guild > TheViolin joined.
+[02:47:56] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (13)
+[02:48:08] [Client thread/INFO]: [CHAT] Guild > Go6oto0 joined.
+[02:48:14] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[02:48:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (14)
+[02:48:19] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (15)
+[02:49:08] [Client thread/INFO]: [CHAT] Fisherman has arrived on your Garden!
+[02:49:23] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: CRAZY RARE DROP! (Shard of the Shredded) (+141% ? Magic Find) yay
+[02:49:26] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:49:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: gg lf mf
+[02:49:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: whats lf mean
+[02:49:51] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Flizyy §3[BABY]§f: looking for
+[02:50:03] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: ohhh
+[02:50:06] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:50:16] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:50:20] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:50:20] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:50:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: anyone wanna m5/m4
+[02:50:24] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§3+§b] 1zez §3[MOD]§f: 3/5
+[02:50:26] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:50:40] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] cLpe18 §3[BABY]§f: can i ?
+[02:50:40] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§f+§b] Flizyy §3[BABY]§f: i can do m5
+[02:50:53] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL4§7!
+[02:50:53] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:51:21] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:51:33] [Client thread/INFO]: [CHAT] Guild > Foezy left.
+[02:51:33] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:52:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: you guys see the new skin?
+[02:52:40] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:52:50] [Client thread/INFO]: [CHAT] Guild > mikraxxl joined.
+[02:53:12] [Client thread/INFO]: [CHAT] Pest Wrangler? has arrived on your Garden!
+[02:53:17] [Client thread/INFO]: [CHAT] Guild > tiedsinger left.
+[02:54:26] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:55:28] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:55:40] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:56:19] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL5§7!
+[02:56:19] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[02:56:27] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:56:31] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:56:36] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:56:36] [Client thread/INFO]: [CHAT] JPGomdol created a BIN auction for Pickonimbus 2000 at 200,000 coins!
+[02:56:36] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:56:55] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:57:17] [Client thread/INFO]: [CHAT] Dusk has arrived on your Garden!
+[02:57:36] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:57:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: COLLECTION LEVEL UP Gemstone 10?11
+[02:57:49] [Client thread/INFO]: [CHAT] §6[Auction] §brenaiya §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[02:57:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: :fire:
+[02:57:53] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:57:53] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!
+[02:57:53] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[02:57:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: didnt we say no more bad flexes
+[02:58:00] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: xd
+[02:58:14] [Client thread/INFO]: [CHAT] PRAY TO RNGESUS DROP! Dicer dropped 2x Polished Pumpkin!
+[02:58:15] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[02:58:26] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[02:58:35] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[02:58:43] [Client thread/INFO]: [CHAT] Guild > Go6oto0 left.
+[02:58:49] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[02:59:25] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[02:59:26] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[02:59:31] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[02:59:32] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (5)
+[03:00:26] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (6)
+[03:00:41] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[03:00:49] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: when do you get 5th forge slot again?
+[03:01:04] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[03:01:13] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (7)
+[03:01:17] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (8)
+[03:01:24] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:01:26] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:01:29] [Client thread/INFO]: [CHAT] §e[NPC] §aLynn§f: §fIf you ever get lost, you should check on the Desk on what to do next.
+[03:01:30] [Client thread/INFO]: [CHAT] §e[NPC] §aFelix§f: §fYou won't be able to store any items in the Garden, you should keep them on your Private Island!
+[03:01:31] [Client thread/INFO]: [CHAT] §e[NPC] §aFisherman§f: §fA Carrot King has been scaring off all the good fish, I need to deal with it before I lose more fish.
+[03:01:32] [Client thread/INFO]: [CHAT] §e[NPC] §6Pest Wrangler?§f: §f§7§oThe figure hands you a slip of paper.
+[03:01:33] [Client thread/INFO]: [CHAT] §e[NPC] §aDusk§f: §fDusk needs some watermelon to quench his thirst. Dusk would appreciate it.
+[03:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:01:39] [Client thread/INFO]: [CHAT] [Bazaar] Bought 38x Tasty Cheese for 221,874 coins!
+[03:01:43] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:01:43] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Enchanted Melon Block for 254,996 coins!
+[03:01:46] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (3)
+[03:01:46] [Client thread/INFO]: [CHAT] [Bazaar] Bought 3x Enchanted Baked Potato for 247,158 coins!
+[03:01:50] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (4)
+[03:01:50] [Client thread/INFO]: [CHAT] [Bazaar] Bought 11x Enchanted Golden Carrot for 763,633 coins!
+[03:01:53] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[03:01:55] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Dusk (UNCOMMON)
+[03:01:55] [Client thread/INFO]: [CHAT] 
+[03:01:55] [Client thread/INFO]: [CHAT]   REWARDS
+[03:01:55] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[03:01:55] [Client thread/INFO]: [CHAT]     +2.6k Farming XP
+[03:01:55] [Client thread/INFO]: [CHAT]     +19 Copper
+[03:01:55] [Client thread/INFO]: [CHAT]     +10 Bits
+[03:01:55] [Client thread/INFO]: [CHAT]     §7§6? Fire Spiral Rune I
+[03:01:55] [Client thread/INFO]: [CHAT] 
+[03:01:55] [Client thread/INFO]: [CHAT] §e[NPC] §aDusk§f: §fDusk thanks you. Dusk will make sure to visit your farm again.
+[03:01:56] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 68!
+[03:01:56] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Pest Wrangler? (LEGENDARY)
+[03:01:56] [Client thread/INFO]: [CHAT] 
+[03:01:56] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[03:01:56] [Client thread/INFO]: [CHAT]     +75 Garden Experience
+[03:01:56] [Client thread/INFO]: [CHAT]     +50k Farming XP
+[03:01:56] [Client thread/INFO]: [CHAT]     +150 Copper
+[03:01:56] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[03:01:56] [Client thread/INFO]: [CHAT]     §7§aFine Flour §8x50
+[03:01:56] [Client thread/INFO]: [CHAT] 
+[03:01:56] [Client thread/INFO]: [CHAT] §e[NPC] §6Pest Wrangler?§f: §f§7§oThe figure nods at you and shambles away.
+[03:01:58] [Client thread/INFO]: [CHAT] Fear Mongerer has arrived on your Garden!
+[03:01:58] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Fisherman (UNCOMMON)
+[03:01:58] [Client thread/INFO]: [CHAT] 
+[03:01:58] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[03:01:58] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (2)
+[03:01:58] [Client thread/INFO]: [CHAT]     +18k Farming XP
+[03:01:58] [Client thread/INFO]: [CHAT]     +17 Copper
+[03:01:58] [Client thread/INFO]: [CHAT]     +10 Bits§7 (3)
+[03:01:58] [Client thread/INFO]: [CHAT] 
+[03:01:58] [Client thread/INFO]: [CHAT] §e[NPC] §aFisherman§f: §fHoly Mackerel! You got me the whole nine yards.
+[03:02:00] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Felix (UNCOMMON)
+[03:02:00] [Client thread/INFO]: [CHAT] 
+[03:02:00] [Client thread/INFO]: [CHAT]   REWARDS§7 (4)
+[03:02:00] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (3)
+[03:02:00] [Client thread/INFO]: [CHAT]     +15k Farming XP
+[03:02:00] [Client thread/INFO]: [CHAT]     +17 Copper§7 (2)
+[03:02:00] [Client thread/INFO]: [CHAT]     +10 Bits§7 (4)
+[03:02:00] [Client thread/INFO]: [CHAT] 
+[03:02:00] [Client thread/INFO]: [CHAT] §e[NPC] §aFelix§f: §fUntil next time!
+[03:02:02] [Client thread/INFO]: [CHAT] Your Owl leveled up to level 100!
+[03:02:02] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 69!
+[03:02:02] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Lynn (UNCOMMON)
+[03:02:02] [Client thread/INFO]: [CHAT] 
+[03:02:02] [Client thread/INFO]: [CHAT]   REWARDS§7 (5)
+[03:02:02] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (4)
+[03:02:02] [Client thread/INFO]: [CHAT]     +22k Farming XP
+[03:02:02] [Client thread/INFO]: [CHAT]     +21 Copper
+[03:02:02] [Client thread/INFO]: [CHAT]     +10 Bits§7 (5)
+[03:02:02] [Client thread/INFO]: [CHAT] 
+[03:02:02] [Client thread/INFO]: [CHAT] §e[NPC] §aLynn§f: §fHave a good one.
+[03:02:04] [Client thread/INFO]: [CHAT] §e[NPC] §aFear Mongerer§f: §fMortal, the time of reckoning is near. The Past will light the future.
+[03:02:05] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Fear Mongerer (UNCOMMON)
+[03:02:05] [Client thread/INFO]: [CHAT] 
+[03:02:05] [Client thread/INFO]: [CHAT]   REWARDS§7 (6)
+[03:02:05] [Client thread/INFO]: [CHAT]     +15 Garden Experience§7 (5)
+[03:02:05] [Client thread/INFO]: [CHAT]     +7.3k Farming XP
+[03:02:05] [Client thread/INFO]: [CHAT]     +25 Copper
+[03:02:05] [Client thread/INFO]: [CHAT]     +10 Bits§7 (6)
+[03:02:05] [Client thread/INFO]: [CHAT]     §7§5Purple Candy
+[03:02:05] [Client thread/INFO]: [CHAT] 
+[03:02:05] [Client thread/INFO]: [CHAT] §e[NPC] §aFear Mongerer§f: §fMay your destiny be ridded with fortune.
+[03:02:07] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[03:02:11] [Client thread/INFO]: [CHAT] Warping...
+[03:02:47] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[03:02:47] [Client thread/INFO]: [CHAT]   §4§l? §6? Farming Fortune §7has been reduced by §45%§7!
+[03:02:47] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:02:50] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:02:52] [Client thread/INFO]: [CHAT] Teleported you to Plot - L1!
+[03:03:00] [Client thread/INFO]: [CHAT] Your Garden is no longer infested and your ? Farming Fortune has returned to normal!
+[03:03:00] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Sugar §efor killing a §6Mosquito§e!
+[03:03:01] [Client thread/INFO]: [CHAT] §e[SkyHanni] Loaded Sugar Cane milestone data from tab list!
+[03:03:01] [Client thread/INFO]: [CHAT] §eYou received §a15x Enchanted Sugar §efor killing a §6Mosquito§e!§7 (2)
+[03:03:03] [Client thread/INFO]: [CHAT] Teleported you to Plot - L4!
+[03:03:13] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Melon §efor killing an §6Earthworm§e!
+[03:03:13] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §9Enchanted Melon Block §6(§6+1,339?)
+[03:03:15] [Client thread/INFO]: [CHAT] Teleported you to Plot - L5!
+[03:03:24] [Client thread/INFO]: [CHAT] §eYou received §a14x Enchanted Sugar §efor killing a §6Mosquito§e!
+[03:03:29] [Client thread/INFO]: [CHAT] Warping...
+[03:04:08] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[03:04:27] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[03:04:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[03:04:45] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[03:04:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: HOPPITY'S HUNT You found Houdini (LEGENDARY)!
+[03:05:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: again
+[03:05:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: lol
+[03:05:02] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)§7 (2)
+[03:05:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: If i die will i respawn in Rodoroc or Heaven?
+[03:05:34] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[03:05:47] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (3)
+[03:06:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (4)
+[03:06:41] [Client thread/INFO]: [CHAT] Banker Broadjaw has arrived on your Garden!
+[03:06:53] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[03:06:59] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[03:07:00] [Client thread/INFO]: [CHAT] Guild > Its_Krios left.
+[03:07:27] [Client thread/INFO]: [CHAT] Guild > Flizyy left.
+[03:07:30] [Client thread/INFO]: [CHAT] Guild > Flizyy joined.
+[03:07:31] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: I got some insider advice from _foe
+[03:07:35] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: if you guys want to hear it
+[03:07:38] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[03:07:44] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: or just something to know
+[03:07:50] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[03:07:50] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:08:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: why dont you just say it :o
+[03:08:10] [Client thread/INFO]: [CHAT] CRAZY RARE DROP! Dicer dropped 45x Enchanted Pumpkin!
+[03:09:08] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[03:09:28] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[03:09:44] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[03:09:48] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!§7 (2)
+[03:09:57] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!
+[03:10:37] [Client thread/INFO]: [CHAT] RARE DROP! Dicer dropped 5x Enchanted Pumpkin!§7 (2)
+[03:10:44] [Client thread/INFO]: [CHAT] Queen Mismyla has arrived on your Garden!
+[03:10:52] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[03:11:20] [Client thread/INFO]: [CHAT] Guild > junior_v2 left.
+[03:11:25] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K joined.
+[03:11:58] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[03:12:24] [Client thread/INFO]: [CHAT] UNCOMMON DROP! Dicer dropped 3x Enchanted Pumpkin!
+[03:12:47] [Client thread/INFO]: [CHAT] Guild > donavin855 left.
+[03:12:55] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:12:55] [Client thread/INFO]: [CHAT] JPGomdol created a BIN auction for Pickonimbus 2000 at 200,000 coins!
+[03:12:55] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:13:20] [Client thread/INFO]: [CHAT] RARE CROP! Squash (Armor Set Bonus)
+[03:13:26] [Client thread/INFO]: [CHAT] Guild > R3leaseTheKraken joined.
+[03:13:37] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[03:13:37] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:13:44] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[03:14:12] [Client thread/INFO]: [CHAT] Guild > Eric3131 joined.
+[03:14:12] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[03:14:12] [Client thread/INFO]: [CHAT]   §b§lGARDEN MILESTONE §3Pumpkin §826?§327
+[03:14:12] [Client thread/INFO]: [CHAT]   Milestone 28 in 2.3M Pumpkins
+[03:14:12] [Client thread/INFO]: [CHAT] 
+[03:14:12] [Client thread/INFO]: [CHAT]   REWARDS
+[03:14:12] [Client thread/INFO]: [CHAT]     +270 Garden Experience
+[03:14:12] [Client thread/INFO]: [CHAT]     +50,000 Farming Experience
+[03:14:12] [Client thread/INFO]: [CHAT]     +1 SkyBlock XP
+[03:14:12] [Client thread/INFO]: [CHAT] ????????????????????????????????????????????????????????????????
+[03:14:12] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 70!
+[03:14:27] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:14:28] [Client thread/INFO]: [CHAT] You earned 19 GEXP + 730 Event EXP from playing SkyBlock!
+[03:14:32] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:14:33] [Client thread/INFO]: [CHAT] §e[NPC] §aBanker Broadjaw§f: §fStanding in that bank all day. Just me and the dwarves. But they are either all business, or drunk. Or both! I need better company!
+[03:14:35] [Client thread/INFO]: [CHAT] §e[NPC] §9Queen Mismyla§f: §fThe King made me go grocery shopping. Me! Can you believe that? He has a pair of perfectly good legs, and still, here I am.
+[03:14:40] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:14:40] [Client thread/INFO]: [CHAT] [Bazaar] Bought 6x Mutant Nether Wart for 609,896 coins!
+[03:14:44] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:14:45] [Client thread/INFO]: [CHAT] [Bazaar] Bought 365x Enchanted Cactus Green for 296,928 coins!
+[03:14:47] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Queen Mismyla (RARE)
+[03:14:47] [Client thread/INFO]: [CHAT] 
+[03:14:47] [Client thread/INFO]: [CHAT]   REWARDS§7 (2)
+[03:14:47] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[03:14:47] [Client thread/INFO]: [CHAT]     +39k Farming XP
+[03:14:47] [Client thread/INFO]: [CHAT]     +72 Copper
+[03:14:47] [Client thread/INFO]: [CHAT]     +10 Bits
+[03:14:47] [Client thread/INFO]: [CHAT] 
+[03:14:47] [Client thread/INFO]: [CHAT] §e[NPC] §9Queen Mismyla§f: §fI bet when I am back, they are all still sitting around that table! All day, every day! It's ludicrous!
+[03:14:48] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Banker Broadjaw (UNCOMMON)
+[03:14:48] [Client thread/INFO]: [CHAT] 
+[03:14:48] [Client thread/INFO]: [CHAT]   REWARDS§7 (3)
+[03:14:48] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[03:14:48] [Client thread/INFO]: [CHAT]     +5.8k Farming XP
+[03:14:48] [Client thread/INFO]: [CHAT]     +25 Copper
+[03:14:48] [Client thread/INFO]: [CHAT]     +10 Bits§7 (2)
+[03:14:48] [Client thread/INFO]: [CHAT] 
+[03:14:48] [Client thread/INFO]: [CHAT] §e[NPC] §aBanker Broadjaw§f: §fOh what a lovely specimen this is. I wonder, how should I name you?
+[03:14:50] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[03:14:54] [Client thread/INFO]: [CHAT] You sold Red Mushroom x64 for 640 Coins!
+[03:14:55] [Client thread/INFO]: [CHAT] You sold Brown Mushroom x64 for 640 Coins!
+[03:14:55] [Client thread/INFO]: [CHAT] You sold Red Mushroom x11 for 110 Coins!
+[03:14:55] [Client thread/INFO]: [CHAT] You sold Brown Mushroom x50 for 500 Coins!
+[03:14:55] [Client thread/INFO]: [CHAT] You sold Pumpkin x60 for 600 Coins!
+[03:15:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: My contest has started!
+[03:15:07] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: Your §9Anita's Artifact §fis giving you §6+25? Cocoa Beans Fortune §fduring the contest!
+[03:15:47] [Client thread/INFO]: [CHAT] You can't build next to the barn!
+[03:15:49] [Client thread/INFO]: [CHAT] Guild > R3leaseTheKraken left.
+[03:15:54] [Client thread/INFO]: [CHAT] §6[Auction] §7Femboy89UWU §ebought §fPickonimbus 2000 §efor §6200,000 coins §lCLICK
+[03:15:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:15:57] [Client thread/INFO]: [CHAT] JPGomdol collected an auction for 200,000 coins!
+[03:15:57] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+[03:16:37] [Client thread/INFO]: [CHAT] Guild > ViralGIF joined.
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Couldn't find any buyers for Hunk of Ice!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 12x Enchanted Nether Wart for 7,425.6 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 122x Enchanted Sugar for 84,753 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 21x Enchanted Brown Mushroom for 32,201 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Dung for 3,111.8 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Enchanted Melon Block for 50,057 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 4x Rotten Flesh for 10.0 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 28x Enchanted Red Mushroom for 42,787 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 44x Enchanted Cactus Green for 33,422 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 42x Enchanted Melon for 12,894 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 20,160x Red Mushroom for 139,104 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 20,160x Pumpkin for 151,200 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2x Purple Candy for 48,003 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 13x Enchanted Potato for 6,275.1 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Honey Jar for 447.9 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 93x Enchanted Pumpkin for 144,801 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 12x Enchanted Hay Bale for 91,672 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 15x Enchanted Carrot for 7,573.5 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 20,160x Brown Mushroom for 133,056 coins!
+[03:16:43] [Client thread/INFO]: [CHAT] [Bazaar] Sold 60x Fine Flour for 367,848 coins!
+[03:16:49] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[03:16:49] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[03:16:49] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 50x Jacob's Ticket for 791,287 coins.
+[03:16:53] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...§7 (2)
+[03:16:53] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...§7 (2)
+[03:16:53] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 36x Squash for 2,687,287 coins.
+[03:17:00] [Client thread/INFO]: [CHAT] You sold Enchanted Brown Mushroom Block x12 for 614,400 Coins!
+[03:17:00] [Client thread/INFO]: [CHAT] You sold Enchanted Red Mushroom Block x12 for 614,400 Coins!
+[03:17:18] [Client thread/INFO]: [CHAT] You sold Polished Pumpkin x54 for 13,824,000 Coins!
+[03:17:19] [Client thread/INFO]: [CHAT] You sold Polished Pumpkin x64 for 16,384,000 Coins!
+[03:17:27] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §6Sell Offer §efor §a50§7x §aJacob's Ticket §ewas filled!
+[03:17:30] [Client thread/INFO]: [CHAT] Gimley has arrived on your Garden!
+[03:17:35] [Client thread/INFO]: [CHAT] §e[NPC] §aGimley§f: §fbUuUrP!?!?
+[03:17:40] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:17:40] [Client thread/INFO]: [CHAT] [Bazaar] Bought 33x Enchanted Hay Bale for 257,562 coins!
+[03:17:45] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[03:17:46] [Client thread/INFO]: [CHAT] Your Bee leveled up to level 71!
+[03:17:46] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Gimley (UNCOMMON)
+[03:17:46] [Client thread/INFO]: [CHAT] 
+[03:17:46] [Client thread/INFO]: [CHAT]   REWARDS
+[03:17:46] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[03:17:46] [Client thread/INFO]: [CHAT]     +8.6k Farming XP
+[03:17:46] [Client thread/INFO]: [CHAT]     +28 Copper
+[03:17:46] [Client thread/INFO]: [CHAT]     +10 Bits
+[03:17:46] [Client thread/INFO]: [CHAT] 
+[03:17:46] [Client thread/INFO]: [CHAT] §e[NPC] §aGimley§f: §fBuRRrP Burp!
+[03:17:48] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[03:18:05] [Client thread/INFO]: [CHAT] TIME TOWER! Your Chocolate Factory production has increased by +1.4x for 1h!
+[03:18:34] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I now realise that my shark scale helm is better than base thunder helm
+[03:18:57] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Eric3131 §3[HYDRA]§f: any1 wanna come ci fishing?
+[03:19:02] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: sure
+[03:19:05] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: ye
+[03:19:12] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Eric3131 §3[HYDRA]§f: flippy what fishing lvl are u
+[03:19:18] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: well
+[03:19:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP] mikraxxl §3[HYDRA]§f: eric inv
+[03:19:22] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I am only 27
+[03:19:22] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §6Sell Offer §efor §a36§7x §5Squash §ewas filled!
+[03:19:25] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: is that bad
+[03:19:27] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Eric3131 §3[HYDRA]§f: well
+[03:19:29] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: it's a start
+[03:19:29] [Client thread/INFO]: [CHAT] You earned 14 GEXP + 525 Event EXP from playing SkyBlock!
+[03:19:30] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] Eric3131 §3[HYDRA]§f: u cant really ci fish then
+[03:19:41] [Client thread/INFO]: [CHAT] Guild > Quantazy joined.
+[03:19:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I am tryna lvl up
+[03:19:56] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: what is triple strike good for
+[03:20:01] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: slayer
+[03:20:03] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: dps
+[03:20:07] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: support a homie Eric
+[03:20:08] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: flippy what do you mean it's better?
+[03:20:09] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§9+§b] qtwn §3[BABY]§f: oh
+[03:20:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: CI at 27 is better than water or worm for xp
+[03:20:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: ig
+[03:20:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: my shark scale helm has 4.5 scc and thunder has 4 scc
+[03:20:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: yes because reforge and gemstones?
+[03:20:53] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: it should be 2.5 flat iirc
+[03:20:59] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: because at base, thunder should be 4scc
+[03:21:02] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I mean I bought my helm for 1m which I recon is good
+[03:21:02] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[03:21:02] [SkyblockAddons - #21/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:21:02] [SkyblockAddons - #21/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:21:16] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: keep it until you can do thunder ig
+[03:21:35] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: the lava sc set is pretty cheap
+[03:21:41] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: yeah cos when I get thunder i think I will eventually unlock all gem slots
+[03:21:52] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: yeah but if you got reforged & gemstoned shark anyway idk
+[03:21:52] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL1§7!
+[03:21:52] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:21:54] [Client thread/INFO]: [CHAT] Guild > qtwn left.
+[03:21:57] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: id skip until thunder
+[03:22:21] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I wanna get the lava sc set cos fishing xp attributes
+[03:22:22] [Client thread/INFO]: [CHAT] §eOne or more items didn't fit in your inventory and were added to your item stash! §6Click here §eto pick them up!
+[03:22:22] [Client thread/INFO]: [CHAT] §eOne or more items didn't fit in your inventory and were added to your material stash! §6Click here §eto pick them up!
+[03:22:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: true
+[03:22:29] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!
+[03:22:30] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (2)
+[03:22:30] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (3)
+[03:22:30] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (4)
+[03:22:30] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (5)
+[03:22:31] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (6)
+[03:22:31] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (7)
+[03:22:32] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (8)
+[03:22:32] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (9)
+[03:22:33] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (10)
+[03:22:33] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (11)
+[03:22:33] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (12)
+[03:22:34] [Client thread/INFO]: [CHAT]  
+[03:22:34] [Client thread/INFO]: [CHAT] §f                     §7You have §a1 §7item stashed away!
+[03:22:34] [Client thread/INFO]: [CHAT] §f                  §6§l>>> §6§lCLICK HERE§e to pick it up! §6§l<<<
+[03:22:34] [Client thread/INFO]: [CHAT]   
+[03:22:34] [Client thread/INFO]: [CHAT]  
+[03:22:34] [Client thread/INFO]: [CHAT] §f                 §7You have §362 §7materials stashed away!
+[03:22:34] [Client thread/INFO]: [CHAT] §f               §8(This totals 1 type of material stashed!)
+[03:22:34] [Client thread/INFO]: [CHAT] §f                §3§l>>> §3§lCLICK HERE§b to pick them up! §3§l<<<
+[03:22:34] [Client thread/INFO]: [CHAT]   
+[03:22:34] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (13)
+[03:22:34] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (14)
+[03:22:35] [Client thread/INFO]: [CHAT] From stash: Bountiful Cactus Knife
+[03:22:35] [Client thread/INFO]: [CHAT] You picked up all items from your item stash!
+[03:22:35] [Client thread/INFO]: [CHAT] From stash: Cactus
+[03:22:35] [Client thread/INFO]: [CHAT] You picked up all items from your material stash!
+[03:22:38] [Client thread/INFO]: [CHAT] Your stash isn't holding any items or materials!
+[03:22:46] [Client thread/INFO]: [CHAT] You enchanted your Bountiful Cactus Knife with Smelting Touch I!
+[03:22:46] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: i will give you 4 pieces if you want
+[03:22:57] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I am only fishing 27
+[03:23:03] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (15)
+[03:23:03] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (16)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (17)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (18)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (19)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (20)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (21)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (22)
+[03:23:04] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (23)
+[03:23:05] [Client thread/INFO]: [CHAT] You sold Cactus x64 for 192 Coins!§7 (24)
+[03:23:06] [Client thread/INFO]: [CHAT] You sold Cactus x62 for 186 Coins!
+[03:23:12] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: I mean sure tho
+[03:23:14] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: you can do 35 in a day easily
+[03:23:16] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: brb
+[03:23:18] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: just throw them on as you progress
+[03:23:38] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: yeah I have only actually lava fished for like 1 hour
+[03:23:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] FlippyKid2K §3[EGG]§f: and I am 1/4 of the way to 28
+[03:24:12] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: does fire aspect and venomous messes up looting ench?
+[03:24:20] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: def not
+[03:24:26] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: as long as you get kill credit looting works
+[03:24:29] [Client thread/INFO]: [CHAT] You earned 14 GEXP + 533 Event EXP from playing SkyBlock!
+[03:24:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: to my knowledge
+[03:25:16] [Client thread/INFO]: [CHAT] Emissary Sisko has arrived on your Garden!
+[03:25:21] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: should i get gems for the new fire sale?
+[03:25:27] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: it looks bad imo
+[03:25:32] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: whast the new fire sale
+[03:25:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: dolphin skin
+[03:25:42] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP] WhoTookIchiko §3[HYDRA]§f: irrelevant
+[03:25:44] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] Quantazy §3[BABY]§f: true, it looks mid
+[03:26:52] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[03:26:52] [Client thread/INFO]: [CHAT]   §4§l? §6? Farming Fortune §7has been reduced by §45%§7!
+[03:26:52] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:26:57] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:27:00] [Client thread/INFO]: [CHAT] Teleported you to Plot - L3!
+[03:27:06] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[03:27:08] [Client thread/INFO]: [CHAT] Your Garden is no longer infested and your ? Farming Fortune has returned to normal!
+[03:27:08] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Red Mushroom §efor killing a §6Slug§e!
+[03:27:10] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Sugar §efor killing a §6Mosquito§e!
+[03:27:11] [Client thread/INFO]: [CHAT] Guild > Quantazy left.
+[03:27:15] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Melon §efor killing an §6Earthworm§e!
+[03:27:15] [Client thread/INFO]: [CHAT] §6§lRARE DROP! §9Enchanted Melon Block §6(§6+1,155?)
+[03:27:16] [Client thread/INFO]: [CHAT] Teleported you to Plot - L1!
+[03:27:22] [Client thread/INFO]: [CHAT] §eYou received §a13x Enchanted Carrot §efor killing a §6Cricket§e!
+[03:27:24] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:27:25] [Client thread/INFO]: [CHAT] §e[NPC] §9Emissary Sisko§f: §fI've heard I can find the best mushrooms here, and as the King's favorite emissary I will bring them to him!
+[03:27:30] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:27:31] [Client thread/INFO]: [CHAT] [Bazaar] Bought 11x Enchanted Red Mushroom Block for 563,162 coins!
+[03:27:32] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Emissary Sisko (RARE)
+[03:27:32] [Client thread/INFO]: [CHAT] 
+[03:27:32] [Client thread/INFO]: [CHAT]   REWARDS
+[03:27:32] [Client thread/INFO]: [CHAT]     +30 Garden Experience
+[03:27:32] [Client thread/INFO]: [CHAT]     +19k Farming XP
+[03:27:32] [Client thread/INFO]: [CHAT]     +75 Copper
+[03:27:32] [Client thread/INFO]: [CHAT]     +10 Bits
+[03:27:32] [Client thread/INFO]: [CHAT]     §7§8+§d1,308 Gemstone Powder
+[03:27:32] [Client thread/INFO]: [CHAT] 
+[03:27:32] [Client thread/INFO]: [CHAT] §e[NPC] §9Emissary Sisko§f: §fMy standing as the King's favorite emissary is secured as soon as I bring these back home!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Couldn't find any buyers for Hunk of Ice!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 13x Enchanted Carrot for 6,572.8 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3,865x Brown Mushroom for 24,736 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Enchanted Melon Block for 50,057 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 13x Enchanted Melon for 3,994.9 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 13x Enchanted Red Mushroom for 19,867 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 13x Enchanted Sugar for 9,028.5 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 504x Enchanted Cactus Green for 382,939 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3,883x Red Mushroom for 27,181 coins!
+[03:27:39] [Client thread/INFO]: [CHAT] [Bazaar] Sold 20,160x Cactus for 16,128 coins!
+[03:27:41] [Client thread/INFO]: [CHAT] You sold Cactus Green x64 for 192 Coins!
+[03:27:42] [Client thread/INFO]: [CHAT] You sold Cactus Green x21 for 63 Coins!
+[03:27:42] [Client thread/INFO]: [CHAT] You sold Cactus Green x32 for 96 Coins!
+[03:28:14] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage10.
+[03:28:14] [SkyblockAddons - #22/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:28:14] [SkyblockAddons - #22/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:28:18] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[03:28:18] [SkyblockAddons - #22/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:28:18] [SkyblockAddons - #22/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:28:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: nice
+[03:28:23] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§e+§b] Flaschensitzer §3[HYDRA]§f: wc
+[03:28:28] [Client thread/INFO]: [CHAT] Guild > FlippyKid2K left.
+[03:28:28] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: flippy visit my island if you want some pieces
+[03:28:40] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage11.
+[03:28:40] [SkyblockAddons - #22/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[03:28:40] [SkyblockAddons - #22/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[03:28:44] [Client thread/INFO]: [CHAT] [Bazaar] Putting goods in escrow...
+[03:28:44] [Client thread/INFO]: [CHAT] [Bazaar] Submitting sell offer...
+[03:28:44] [Client thread/INFO]: [CHAT] [Bazaar] Sell Offer Setup! 1x Fuming Potato Book for 1,181,826 coins.
+[03:29:17] [Client thread/INFO]: [CHAT] Guild > Flaschensitzer left.
+[03:29:19] [Client thread/INFO]: [CHAT] Guild > Flaschensitzer joined.
+[03:29:26] [Client thread/ERROR]: Signature is missing from textures payload
+[03:29:30] [Client thread/INFO]: [CHAT] You earned 20 GEXP + 750 Event EXP from playing SkyBlock!
+[03:30:20] [Client thread/INFO]: [CHAT] §6[Bazaar] §eYour §6Sell Offer §efor §a1§7x §5Fuming Potato Book §ewas filled!
+[03:31:29] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[03:31:33] [Client thread/INFO]: [CHAT] Teleported you to Plot - L5!
+[03:31:49] [Client thread/INFO]: [CHAT] Walk Speed Cap set to: 464
+[03:31:51] [Client thread/INFO]: [CHAT] Warping...
+[03:32:33] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f:  ? IAntiCheatI was killed by Moogma. (3)
+[03:32:33] [Client thread/INFO]: [CHAT] §6§lGROSS! §7A §6Pest §7has appeared in §aPlot §7- §bL3§7!
+[03:32:33] [Client thread/INFO]: [CHAT]   §e§lCLICK HERE §eto teleport to the plot!
+[03:32:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§2+§b] Gnasez §3[MOD]§f: [237] ? [MVP+] IAntiCheatI: if i am not laging i would beat the shit out of it
+[03:32:48] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: ha
+[03:33:10] [Client thread/INFO]: [CHAT] Stella has arrived on your Garden!
+[03:33:38] [Client thread/INFO]: [CHAT] §2Guild > §a[VIP§6+§a] ViralGIF §3[HYDRA]§f: i met someone yesterday who dropped 23 vials in like 1400 jbs
+[03:33:42] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§6+§b] TheViolin §3[HYDRA]§f: crazy
+[03:33:55] [Client thread/INFO]: [CHAT] Guild > montygt joined.
+[03:33:56] [Client thread/INFO]: [CHAT] Guild > montygt left.
+[03:33:57] [Client thread/INFO]: [CHAT] Guild > montygt joined.§7 (2)
+[03:34:01] [Client thread/INFO]: [CHAT] Your spawn location has been set!
+[03:34:03] [Client thread/INFO]: [CHAT] Teleported you to The Barn!
+[03:34:04] [Client thread/INFO]: [CHAT] §e[NPC] §aStella§f: §fThe amount of plots you can unlock here is perfect for a Co-op. So much space!
+[03:34:09] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[03:34:09] [Client thread/INFO]: [CHAT] [Bazaar] Bought 5x Enchanted Red Mushroom Block for 255,982 coins!
+[03:34:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[03:34:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Enchanted Red Mushroom Block for 51,196 coins!
+[03:34:13] [Client thread/INFO]: [CHAT] You summoned your Bee!
+[03:34:14] [Client thread/INFO]: [CHAT] OFFER ACCEPTED with Stella (UNCOMMON)
+[03:34:14] [Client thread/INFO]: [CHAT] 
+[03:34:14] [Client thread/INFO]: [CHAT]   REWARDS
+[03:34:14] [Client thread/INFO]: [CHAT]     +15 Garden Experience
+[03:34:14] [Client thread/INFO]: [CHAT]     +9k Farming XP
+[03:34:14] [Client thread/INFO]: [CHAT]     +21 Copper
+[03:34:14] [Client thread/INFO]: [CHAT]     +10 Bits
+[03:34:14] [Client thread/INFO]: [CHAT] 
+[03:34:14] [Client thread/INFO]: [CHAT] §e[NPC] §aStella§f: §fGood choice!
+[03:34:17] [Client thread/INFO]: [CHAT] You summoned your Mooshroom Cow!
+[03:34:30] [Client thread/INFO]: [CHAT] You earned 13 GEXP + 496 Event EXP from playing SkyBlock!
+[03:35:02] [Client thread/INFO]: [CHAT] [NPC] Jacob: The Farming Contest is over!
+[03:35:02] [Client thread/INFO]: [CHAT] [NPC] Jacob: Let me count the final results eh?
+[03:35:05] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You didn't earn a medal, but you may claim a participation reward in the §aSugar Cane Contest§f!
+[03:35:08] [Client thread/INFO]: [CHAT] Guild > montygt left.
+[03:35:11] [Client thread/INFO]: [CHAT] Guild > montygt joined.
+[03:35:11] [Client thread/INFO]: [CHAT] §e[NPC] Jacob§f: You collected §e2,080 §fitems!
+[03:35:26] [Client thread/INFO]: [CHAT]   FARMING CONTEST REWARDS CLAIMED
+[03:35:26] [Client thread/INFO]: [CHAT]    » Sugar Cane Contest on Spring 22nd, Year 363
+[03:35:26] [Client thread/INFO]: [CHAT]   REWARD
+[03:35:26] [Client thread/INFO]: [CHAT]     §7§8+§aJacob's Ticket
+[03:36:14] [Client thread/INFO]: [CHAT] Guild > 1monstras1 left.
+[03:36:29] [Client thread/INFO]: [CHAT] Guild > 1monstras1 joined.
+[03:36:36] [Client thread/INFO]: [CHAT] You sold Cactus Green x26 for 78 Coins!
+[03:36:40] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[03:36:40] [Client thread/INFO]: [CHAT] [Bazaar] Couldn't find any buyers for Hunk of Ice!
+[03:36:40] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2,025x Red Mushroom for 14,175 coins!
+[03:36:40] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2,039x Brown Mushroom for 13,661 coins!
+[03:36:40] [Client thread/INFO]: [CHAT] [Bazaar] Sold 399x Enchanted Cactus Green for 303,310 coins!
+[03:36:40] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Jacob's Ticket for 15,795 coins!
+[03:37:05] [Client thread/INFO]: [CHAT] Guild > montygt left.
+[03:37:54] [Client thread/INFO]: [CHAT] -----------------------------------------------------
+                           §6Friends (Page 1 of 1) 
+§7JPGomdol §eis in SkyBlock - Crystal Hollows
+§7inN0sense §cis currently offline
+§7mktutu §cis currently offline
+§bPukolz §cis currently offline
+§7SetsunaTrip §cis currently offline
+§aWheatFarm §cis currently offline
+§6xLyds §cis currently offline
+§bYukimiko §cis currently offline
+-----------------------------------------------------
+[03:38:00] [Client thread/INFO]: [CHAT] §bCo-op > §716thGarden§f: no gambling
+[03:38:03] [Client thread/ERROR]: Signature is missing from textures payload
+[03:38:03] [Client thread/ERROR]: Signature is missing from textures payload
+[03:38:03] [Netty Client IO #4/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[03:38:03] [Client thread/INFO]: Applying holder lookups
+[03:38:03] [Client thread/INFO]: Holder lookups applied
+[03:38:03] [Client thread/ERROR]: Signature is missing from textures payload
+[03:38:03] [Client thread/ERROR]: Signature is missing from textures payload
+[03:38:04] [Client thread/INFO]: Stopping!
+[03:38:04] [Client thread/INFO]: SoundSystem shutting down...
+[03:38:04] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -1,0 +1,268 @@
+[00:06:28] [Render thread/INFO]: Stopping worker threads
+[00:06:28] [Render thread/INFO]: Started 6 worker threads
+[00:06:28] [Render thread/INFO]: Stopping worker threads
+[00:06:28] [Render thread/INFO]: Started 6 worker threads
+[00:06:45] [Render thread/WARN]: Received passengers for unknown entity
+[00:06:55] [Render thread/INFO]: Stopping worker threads
+[00:06:55] [Render thread/INFO]: Started 6 worker threads
+[00:06:55] [Render thread/INFO]: Stopping worker threads
+[00:06:55] [Render thread/INFO]: Started 6 worker threads
+[00:07:03] [Render thread/INFO]: Stopping worker threads
+[00:07:03] [Render thread/INFO]: Started 6 worker threads
+[00:07:03] [Render thread/INFO]: Stopping worker threads
+[00:07:03] [Render thread/INFO]: Started 6 worker threads
+[00:07:07] [Render thread/WARN]: Received passengers for unknown entity
+[00:07:13] [Render thread/WARN]: Received passengers for unknown entity
+[00:07:26] [Render thread/INFO]: Stopping worker threads
+[00:07:26] [Render thread/INFO]: Started 6 worker threads
+[00:07:26] [Render thread/INFO]: Stopping worker threads
+[00:07:26] [Render thread/INFO]: Started 6 worker threads
+[00:10:49] [Render thread/INFO]: Stopping worker threads
+[00:10:49] [Render thread/INFO]: Started 6 worker threads
+[00:10:49] [Render thread/INFO]: Stopping worker threads
+[00:10:49] [Render thread/INFO]: Started 6 worker threads
+[00:11:04] [Render thread/WARN]: Received passengers for unknown entity
+[00:11:14] [Render thread/INFO]: Stopping worker threads
+[00:11:14] [Render thread/INFO]: Started 6 worker threads
+[00:11:14] [Render thread/INFO]: Stopping worker threads
+[00:11:14] [Render thread/INFO]: Started 6 worker threads
+[00:12:26] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[00:12:30] [Server thread/INFO]: <16thGarden> test
+[00:12:30] [Render thread/INFO]: [CHAT] <16thGarden> test
+[00:12:35] [Server thread/INFO]: <JPGomdol> hi
+[00:12:35] [Render thread/INFO]: [CHAT] <JPGomdol> hi
+[00:15:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2705, y=63, z=-475} class_2338{x=2706, y=63, z=-476}
+[00:15:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2705, y=63, z=-475} class_2338{x=2706, y=63, z=-476}
+[00:17:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2691, y=65, z=-496} class_2338{x=2689, y=65, z=-497}
+[00:19:28] [Render thread/INFO]: Loaded 859 advancements
+[00:23:57] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[00:25:09] [Render thread/INFO]: Stopping worker threads
+[00:25:09] [Render thread/INFO]: Started 6 worker threads
+[00:25:09] [Render thread/INFO]: Stopping worker threads
+[00:25:09] [Render thread/INFO]: Started 6 worker threads
+[00:25:14] [Render thread/WARN]: Received passengers for unknown entity
+[00:25:20] [Render thread/WARN]: Received passengers for unknown entity
+[00:25:30] [Render thread/INFO]: Stopping worker threads
+[00:25:30] [Render thread/INFO]: Started 6 worker threads
+[00:25:30] [Render thread/INFO]: Stopping worker threads
+[00:25:30] [Render thread/INFO]: Started 6 worker threads
+[00:42:06] [Render thread/INFO]: Stopping worker threads
+[00:42:06] [Render thread/INFO]: Started 6 worker threads
+[00:42:06] [Render thread/INFO]: Stopping worker threads
+[00:42:06] [Render thread/INFO]: Started 6 worker threads
+[00:42:46] [Render thread/WARN]: Received passengers for unknown entity
+[00:43:03] [Render thread/WARN]: Received passengers for unknown entity
+[00:43:29] [Render thread/WARN]: Received passengers for unknown entity
+[00:43:59] [CullThread/INFO]: [STDERR]: java.lang.ArrayIndexOutOfBoundsException: Index 225 out of bounds for length 129
+[00:43:59] [CullThread/INFO]: [STDERR]: 	at it.unimi.dsi.fastutil.ints.Int2ObjectLinkedOpenHashMap$MapIterator.nextEntry(Int2ObjectLinkedOpenHashMap.java:1183)
+[00:43:59] [CullThread/INFO]: [STDERR]: 	at it.unimi.dsi.fastutil.ints.Int2ObjectLinkedOpenHashMap$ValueIterator.next(Int2ObjectLinkedOpenHashMap.java:1689)
+[00:43:59] [CullThread/INFO]: [STDERR]: 	at com.google.common.collect.Iterators$1.next(Iterators.java:146)
+[00:43:59] [CullThread/INFO]: [STDERR]: 	at dev.tr7zw.entityculling.CullTask.cullEntities(CullTask.java:90)
+[00:43:59] [CullThread/INFO]: [STDERR]: 	at dev.tr7zw.entityculling.CullTask.run(CullTask.java:71)
+[00:43:59] [CullThread/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[00:45:00] [Render thread/WARN]: Received passengers for unknown entity
+[00:45:15] [Render thread/WARN]: Received passengers for unknown entity
+[00:46:00] [Render thread/WARN]: Received passengers for unknown entity
+[00:46:42] [Render thread/WARN]: Received passengers for unknown entity
+[00:47:13] [Render thread/INFO]: Stopping worker threads
+[00:47:13] [Render thread/INFO]: Started 6 worker threads
+[00:47:13] [Render thread/INFO]: Stopping worker threads
+[00:47:13] [Render thread/INFO]: Started 6 worker threads
+[00:55:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=71, z=-17} class_2338{x=-43, y=72, z=-15}
+[01:00:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=-16} class_2338{x=-43, y=72, z=-20}
+[01:00:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=-16} class_2338{x=-43, y=72, z=-20}
+[01:00:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=-16} class_2338{x=-43, y=72, z=-20}
+[01:00:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=-16} class_2338{x=-43, y=72, z=-20}
+[01:00:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-43, y=74, z=-16} class_2338{x=-43, y=72, z=-20}
+[01:00:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-46, y=72, z=-16} class_2338{x=-45, y=72, z=-16}
+[01:00:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-46, y=72, z=-16} class_2338{x=-45, y=72, z=-16}
+[01:00:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-46, y=72, z=-16} class_2338{x=-45, y=72, z=-16}
+[01:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=72, z=-16} class_2338{x=-41, y=71, z=-16}
+[01:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-40, y=72, z=-15} class_2338{x=-41, y=71, z=-16}
+[01:00:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-40, y=72, z=-15} class_2338{x=-41, y=71, z=-16}
+[01:00:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=70, z=-18} class_2338{x=-43, y=70, z=-17}
+[01:00:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=70, z=-18} class_2338{x=-43, y=70, z=-17}
+[01:00:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=70, z=-18} class_2338{x=-43, y=70, z=-17}
+[01:00:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=70, z=-18} class_2338{x=-43, y=70, z=-17}
+[01:00:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-42, y=70, z=-18} class_2338{x=-43, y=70, z=-17}
+[01:05:31] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[01:05:31] [Netty Server IO ICE #2/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[01:05:31] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[01:05:31] [Netty Server IO ICE #2/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[01:05:31] [Netty Server IO ICE #2/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[01:05:31] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[01:05:31] [Server thread/INFO]: JPGomdol left the game
+[01:05:31] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[01:05:36] [Essential Thread 19/INFO]: Closing.
+[01:07:14] [Render thread/INFO]: Stopping worker threads
+[01:07:14] [Render thread/INFO]: Started 6 worker threads
+[01:07:14] [Render thread/INFO]: Stopping worker threads
+[01:07:14] [Render thread/INFO]: Started 6 worker threads
+[01:07:36] [Render thread/INFO]: Stopping worker threads
+[01:07:36] [Render thread/INFO]: Started 6 worker threads
+[01:07:36] [Render thread/INFO]: Stopping worker threads
+[01:07:36] [Render thread/INFO]: Started 6 worker threads
+[01:08:06] [Render thread/INFO]: Stopping worker threads
+[01:08:06] [Render thread/INFO]: Started 6 worker threads
+[01:08:06] [Render thread/INFO]: Stopping worker threads
+[01:08:06] [Render thread/INFO]: Started 6 worker threads
+[01:08:30] [Render thread/INFO]: Stopping worker threads
+[01:08:30] [Render thread/INFO]: Started 6 worker threads
+[01:08:30] [Render thread/INFO]: Stopping worker threads
+[01:08:30] [Render thread/INFO]: Started 6 worker threads
+[01:10:38] [Render thread/INFO]: Stopping worker threads
+[01:10:38] [Render thread/INFO]: Started 6 worker threads
+[01:10:38] [Render thread/INFO]: Stopping worker threads
+[01:10:38] [Render thread/INFO]: Started 6 worker threads
+[01:10:50] [Render thread/WARN]: Received passengers for unknown entity
+[01:10:56] [Render thread/INFO]: Stopping worker threads
+[01:10:56] [Render thread/INFO]: Started 6 worker threads
+[01:10:56] [Render thread/INFO]: Stopping worker threads
+[01:10:56] [Render thread/INFO]: Started 6 worker threads
+[01:10:58] [Render thread/INFO]: Stopping worker threads
+[01:10:58] [Render thread/INFO]: Started 6 worker threads
+[01:10:58] [Render thread/INFO]: Stopping worker threads
+[01:10:58] [Render thread/INFO]: Started 6 worker threads
+[01:11:02] [Render thread/WARN]: Received passengers for unknown entity
+[01:13:02] [Render thread/INFO]: [System] [CHAT] You have no home bed or charged respawn anchor, or it was obstructed
+[01:13:02] [Render thread/INFO]: Stopping worker threads
+[01:13:02] [Render thread/INFO]: Started 6 worker threads
+[01:13:02] [Render thread/INFO]: Stopping worker threads
+[01:13:02] [Render thread/INFO]: Started 6 worker threads
+[01:14:59] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[02:24:27] [Render thread/INFO]: Stopping worker threads
+[02:24:27] [Render thread/INFO]: Started 6 worker threads
+[02:24:27] [Render thread/INFO]: Stopping worker threads
+[02:24:27] [Render thread/INFO]: Started 6 worker threads
+[02:25:01] [Render thread/INFO]: Stopping worker threads
+[02:25:01] [Render thread/INFO]: Started 6 worker threads
+[02:25:01] [Render thread/INFO]: Stopping worker threads
+[02:25:01] [Render thread/INFO]: Started 6 worker threads
+[02:26:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2698, y=60, z=-482} class_2338{x=2697, y=59, z=-482}
+[02:26:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2698, y=60, z=-482} class_2338{x=2697, y=59, z=-482}
+[02:26:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2698, y=60, z=-482} class_2338{x=2697, y=59, z=-482}
+[02:26:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2698, y=60, z=-482} class_2338{x=2697, y=59, z=-482}
+[02:26:56] [Render thread/INFO]: Stopping worker threads
+[02:26:56] [Render thread/INFO]: Started 6 worker threads
+[02:26:56] [Render thread/INFO]: Stopping worker threads
+[02:26:56] [Render thread/INFO]: Started 6 worker threads
+[02:27:07] [Render thread/WARN]: Received passengers for unknown entity
+[02:27:26] [Render thread/INFO]: Stopping worker threads
+[02:27:26] [Render thread/INFO]: Started 6 worker threads
+[02:27:26] [Render thread/INFO]: Stopping worker threads
+[02:27:26] [Render thread/INFO]: Started 6 worker threads
+[02:50:26] [Render thread/INFO]: Stopping worker threads
+[02:50:26] [Render thread/INFO]: Started 6 worker threads
+[02:50:26] [Render thread/INFO]: Stopping worker threads
+[02:50:26] [Render thread/INFO]: Started 6 worker threads
+[02:50:39] [Render thread/INFO]: Stopping worker threads
+[02:50:39] [Render thread/INFO]: Started 6 worker threads
+[02:50:39] [Render thread/INFO]: Stopping worker threads
+[02:50:39] [Render thread/INFO]: Started 6 worker threads
+[02:51:01] [Render thread/INFO]: Stopping worker threads
+[02:51:01] [Render thread/INFO]: Started 6 worker threads
+[02:51:01] [Render thread/INFO]: Stopping worker threads
+[02:51:01] [Render thread/INFO]: Started 6 worker threads
+[02:51:13] [Render thread/INFO]: Stopping worker threads
+[02:51:13] [Render thread/INFO]: Started 6 worker threads
+[02:51:13] [Render thread/INFO]: Stopping worker threads
+[02:51:13] [Render thread/INFO]: Started 6 worker threads
+[02:51:15] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[03:09:34] [Render thread/INFO]: Stopping worker threads
+[03:09:34] [Render thread/INFO]: Started 6 worker threads
+[03:09:34] [Render thread/INFO]: Stopping worker threads
+[03:09:34] [Render thread/INFO]: Started 6 worker threads
+[03:09:45] [Render thread/INFO]: Stopping worker threads
+[03:09:45] [Render thread/INFO]: Started 6 worker threads
+[03:09:45] [Render thread/INFO]: Stopping worker threads
+[03:09:45] [Render thread/INFO]: Started 6 worker threads
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:09:45] [Render thread/WARN]: Received passengers for unknown entity
+[03:12:02] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[03:15:25] [Render thread/INFO]: Stopping worker threads
+[03:15:25] [Render thread/INFO]: Started 6 worker threads
+[03:15:25] [Render thread/INFO]: Stopping worker threads
+[03:15:25] [Render thread/INFO]: Started 6 worker threads
+[03:15:36] [Render thread/INFO]: Stopping worker threads
+[03:15:36] [Render thread/INFO]: Started 6 worker threads
+[03:15:36] [Render thread/INFO]: Stopping worker threads
+[03:15:36] [Render thread/INFO]: Started 6 worker threads
+[03:21:58] [Render thread/INFO]: Stopping worker threads
+[03:21:58] [Render thread/INFO]: Started 6 worker threads
+[03:21:58] [Render thread/INFO]: Stopping worker threads
+[03:21:58] [Render thread/INFO]: Started 6 worker threads
+[03:22:10] [Render thread/WARN]: Received passengers for unknown entity
+[03:22:21] [Render thread/INFO]: Stopping worker threads
+[03:22:21] [Render thread/INFO]: Started 6 worker threads
+[03:22:21] [Render thread/INFO]: Stopping worker threads
+[03:22:21] [Render thread/INFO]: Started 6 worker threads
+[03:22:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2591, y=71, z=-520} class_2338{x=2592, y=71, z=-520}
+[03:22:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2591, y=71, z=-520} class_2338{x=2592, y=71, z=-520}
+[03:22:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2591, y=71, z=-520} class_2338{x=2592, y=71, z=-520}
+[03:22:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2591, y=71, z=-520} class_2338{x=2592, y=71, z=-520}
+[03:23:25] [Render thread/INFO]: Stopping worker threads
+[03:23:25] [Render thread/INFO]: Started 6 worker threads
+[03:23:25] [Render thread/INFO]: Stopping worker threads
+[03:23:25] [Render thread/INFO]: Started 6 worker threads
+[03:23:30] [Render thread/WARN]: Received passengers for unknown entity
+[03:23:36] [Render thread/WARN]: Received passengers for unknown entity
+[03:23:47] [Render thread/INFO]: Stopping worker threads
+[03:23:47] [Render thread/INFO]: Started 6 worker threads
+[03:23:47] [Render thread/INFO]: Stopping worker threads
+[03:23:47] [Render thread/INFO]: Started 6 worker threads
+[03:24:01] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[03:25:47] [Render thread/INFO]: Stopping worker threads
+[03:25:47] [Render thread/INFO]: Started 6 worker threads
+[03:25:47] [Render thread/INFO]: Stopping worker threads
+[03:25:47] [Render thread/INFO]: Started 6 worker threads
+[03:26:22] [Render thread/INFO]: Stopping worker threads
+[03:26:22] [Render thread/INFO]: Started 6 worker threads
+[03:26:22] [Render thread/INFO]: Stopping worker threads
+[03:26:22] [Render thread/INFO]: Started 6 worker threads
+[03:27:27] [Render thread/INFO]: Stopping worker threads
+[03:27:27] [Render thread/INFO]: Started 6 worker threads
+[03:27:27] [Render thread/INFO]: Stopping worker threads
+[03:27:27] [Render thread/INFO]: Started 6 worker threads
+[03:27:55] [Render thread/INFO]: Stopping worker threads
+[03:27:55] [Render thread/INFO]: Started 6 worker threads
+[03:27:55] [Render thread/INFO]: Stopping worker threads
+[03:27:55] [Render thread/INFO]: Started 6 worker threads
+[03:33:08] [Render thread/INFO]: Loaded 860 advancements
+[03:33:37] [Render thread/INFO]: Loaded 861 advancements
+[03:33:59] [CullThread/INFO]: [STDERR]: java.lang.ArrayIndexOutOfBoundsException
+[03:34:23] [Render thread/INFO]: Loaded 863 advancements
+[03:35:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=408, y=59, z=418} class_2338{x=409, y=58, z=418}
+[03:35:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=408, y=59, z=418} class_2338{x=409, y=58, z=418}
+[03:35:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=408, y=59, z=418} class_2338{x=409, y=58, z=418}
+[03:36:13] [Render thread/INFO]: Loaded 864 advancements
+[03:36:23] [Render thread/INFO]: Loaded 865 advancements
+[03:42:56] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[03:42:56] [Server thread/INFO]: 16thGarden left the game
+[03:42:56] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[03:42:56] [Server thread/INFO]: Stopping server
+[03:42:56] [Server thread/INFO]: Saving players
+[03:42:56] [Server thread/INFO]: Saving worlds
+[03:42:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[03:42:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[03:42:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[03:42:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[03:42:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:42:57] [Render thread/INFO]: Stopping worker threads
+[03:42:57] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[03:42:57] [Render thread/INFO]: Stopping!

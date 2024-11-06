@@ -1,0 +1,224 @@
+[00:00:23] [Client thread/INFO]: [CHAT] Guild > JPGomdol left.
+[00:00:48] [Client thread/INFO]: [CHAT] 
+[00:00:48] [Client thread/INFO]: [CHAT] [WATCHDOG ANNOUNCEMENT]
+[00:00:48] [Client thread/INFO]: [CHAT] Watchdog has banned 17,635 players in the last 7 days.
+[00:00:48] [Client thread/INFO]: [CHAT] Staff have banned an additional 19,186 in the last 7 days.
+[00:00:48] [Client thread/INFO]: [CHAT] Blacklisted modifications are a bannable offense!
+[00:00:48] [Client thread/INFO]: [CHAT] 
+[00:01:00] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.
+[00:01:02] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (2)
+[00:01:03] [Client thread/INFO]: [CHAT] You have reached the maximum number of Slimes allowed on your island.§7 (3)
+[00:02:04] [Client thread/INFO]: [CHAT] You used your Mining Speed Boost Pickaxe Ability!
+[00:02:09] [Client thread/INFO]: [CHAT] This ability is on cooldown for 116s.
+[00:02:22] [Client thread/INFO]: [CHAT] Guild > 1monstras1 left.
+[00:02:24] [Client thread/INFO]: [CHAT] Your Mining Speed Boost has expired!
+[00:02:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: pog about to hit 28m
+[00:02:36] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: hard stone
+[00:02:41] [Client thread/INFO]: [CHAT] Guild > MooMoo5261 left.
+[00:02:45] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: collection
+[00:02:58] [Client thread/INFO]: [CHAT] You sold Light Blue Wool x64 for 128 Coins!
+[00:02:58] [Client thread/INFO]: [CHAT] You sold Clay x64 for 768 Coins!
+[00:02:58] [Client thread/INFO]: [CHAT] You sold Lapis Lazuli Block x64 for 576 Coins!
+[00:02:58] [Client thread/INFO]: [CHAT] You sold Clay x16 for 192 Coins!
+[00:02:58] [Client thread/INFO]: [CHAT] You sold Clay x64 for 768 Coins!§7 (2)
+[00:02:59] [Client thread/INFO]: [CHAT] You sold Clay x64 for 768 Coins!§7 (3)
+[00:02:59] [Client thread/INFO]: [CHAT] You sold Light Blue Wool x64 for 128 Coins!§7 (2)
+[00:02:59] [Client thread/INFO]: [CHAT] You sold Light Blue Wool x14 for 28 Coins!
+[00:02:59] [Client thread/INFO]: [CHAT] You sold Clay x64 for 768 Coins!§7 (4)
+[00:02:59] [Client thread/INFO]: [CHAT] You sold Clay x64 for 768 Coins!§7 (5)
+[00:03:00] [Client thread/INFO]: [CHAT] You sold Light Blue Wool x64 for 128 Coins!§7 (3)
+[00:03:00] [Client thread/INFO]: [CHAT] You sold Light Blue Wool x64 for 128 Coins!§7 (4)
+[00:03:01] [Client thread/INFO]: [CHAT] You sold Snow Block x14 for 56 Coins!
+[00:03:01] [Client thread/INFO]: [CHAT] That item cannot be sold!
+[00:03:01] [Client thread/INFO]: [CHAT] You sold Clay x64 for 768 Coins!§7 (6)
+[00:03:02] [Client thread/INFO]: [CHAT] That item cannot be sold!§7 (2)
+[00:03:05] [Client thread/INFO]: [CHAT] That item cannot be sold!§7 (3)
+[00:03:06] [Client thread/INFO]: [CHAT] That item cannot be sold!§7 (4)
+[00:03:32] [Client thread/INFO]: [CHAT] Cannot use this item here!
+[00:03:39] [Client thread/INFO]: [CHAT] Whow! Slow down there!
+[00:03:41] [Client thread/INFO]: [CHAT] You earned 73 GEXP + 746 Event EXP from playing SkyBlock!
+[00:04:05] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:04:06] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage1.
+[00:04:06] [SkyblockAddons - #56/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:04:06] [SkyblockAddons - #56/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:04:09] [Client thread/INFO]: [CHAT] Guild > BulkStraw joined.
+[00:04:40] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage15.
+[00:04:40] [SkyblockAddons - #56/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:04:40] [SkyblockAddons - #56/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:04:52] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:04:52] [SkyblockAddons - #56/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:04:52] [SkyblockAddons - #56/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:04:56] [Client thread/INFO]: [CHAT] Warping...
+[00:04:57] [Client thread/INFO]: [CHAT] Sending to server mini85AN...
+[00:04:57] [Client thread/INFO]: [CHAT]        
+[00:04:57] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:04:57] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini85AN', serverType='SKYBLOCK', lobbyName='null', mode='hub', map='Hub'} VersionedPacket{version=1}
+[00:05:00] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)
+[00:05:00] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89
+[00:05:06] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...
+[00:05:06] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Iron Ingot for 12.4 coins!
+[00:05:10] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant buy...§7 (2)
+[00:05:10] [Client thread/INFO]: [CHAT] [Bazaar] Bought 1x Flint for 30.0 coins!
+[00:05:11] [Client thread/INFO]: [CHAT] §2Guild > §6[MVP§a++§6] IMainHydras §3[HYDRA]§f: mb
+[00:05:22] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (2)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (3)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (4)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (5)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (6)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (7)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (8)
+[00:05:23] [Client thread/INFO]: [CHAT] You bought TNT x64 for 3,104 Coins!§7 (9)
+[00:05:26] [Client thread/INFO]: [CHAT] Warping you to your SkyBlock island...
+[00:05:26] [Client thread/INFO]: [CHAT] Sending to server mini70N...
+[00:05:27] [Netty Client IO #10/INFO]: [gg.skytils.skytilsmod.listeners.ServerPayloadInterceptor:onReceivePacket:58]: Received Hypixel packet hyevent:location
+[00:05:27] [Client thread/INFO]: [gg.skytils.skytilsmod.utils.SBInfo$onHypixelPacket$1:invoke:94]: ClientboundLocationEventPacket{serverName='mini70N', serverType='SKYBLOCK', lobbyName='null', mode='dynamic', map='Private Island'} VersionedPacket{version=1}
+[00:05:27] [Client thread/INFO]: [CHAT]        
+[00:05:30] [Client thread/INFO]: [CHAT] §aYou are playing on profile: §eRaspberry§b (Co-op)§7 (2)
+[00:05:30] [Client thread/INFO]: [CHAT] Profile ID: 1c82351a-b767-494b-af85-f39ec5d6df89§7 (2)
+[00:06:27] [Client thread/INFO]: [CHAT] Mining Speed Boost is now available!
+[00:06:54] [Client thread/INFO]: [CHAT] Guild > mikraxxl joined.
+[00:07:06] [Client thread/INFO]: [CHAT] Guild > FarmingHypeARK left.
+[00:10:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: soutif
+[00:10:22] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: quick
+[00:10:25] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: forgot to tell u
+[00:10:28] [Client thread/INFO]: [CHAT] You earned 15 GEXP + 583 Event EXP from playing SkyBlock!
+[00:10:37] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: Dont sell any gold you get at the moment
+[00:10:54] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§5+§b] SoutifDeLuxe §3[MOD]§f: uhm why
+[00:10:57] [Client thread/INFO]: [CHAT] Guild > FarmingHypeARK joined.
+[00:11:12] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: When cole gets mayor Gold will be really expensive because of new equipment
+[00:11:19] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§c+§b] TastiestPizza §3[MANIAC]§f: doubt it
+[00:11:21] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§8+§b] Infovision §3[BABY]§f: new equipment takes gold?
+[00:11:26] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: 16 enchanted gold blocks
+[00:11:30] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§5+§b] SoutifDeLuxe §3[MOD]§f: ehhh the offer of gold is enormous
+[00:11:39] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: for divan armor buffs
+[00:11:50] [Client thread/INFO]: [CHAT] §2Guild > §b[MVP§d+§b] VeryInterestings §3[HYDRA]§f: and drill buffs
+[00:13:03] [Client thread/INFO]: [CHAT] Guild > BulkStraw left.
+[00:13:19] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!
+[00:13:19] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (2)
+[00:13:20] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (3)
+[00:13:20] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (4)
+[00:13:20] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (5)
+[00:13:20] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (6)
+[00:13:21] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (7)
+[00:13:21] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (8)
+[00:13:21] [Client thread/INFO]: [CHAT] You sold Block of Diamond x2 for 144 Coins!
+[00:13:21] [Client thread/INFO]: [CHAT] You sold Blue Wool x11 for 22 Coins!
+[00:13:22] [Client thread/INFO]: [CHAT] You sold Light Blue Wool x19 for 38 Coins!
+[00:13:22] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (9)
+[00:13:22] [Client thread/INFO]: [CHAT] That item cannot be sold!
+[00:13:23] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (10)
+[00:13:23] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (11)
+[00:13:24] [Client thread/INFO]: [CHAT] You sold Cyan Wool x3 for 6 Coins!
+[00:13:25] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (12)
+[00:13:25] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (13)
+[00:13:25] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (14)
+[00:13:25] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (15)
+[00:13:26] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (16)
+[00:13:26] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (17)
+[00:13:26] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (18)
+[00:13:26] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (19)
+[00:13:26] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (20)
+[00:13:46] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:13:46] [SkyblockAddons - #57/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:13:46] [SkyblockAddons - #57/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:13:53] [Client thread/INFO]: [CHAT] You sold Snow Block x16 for 64 Coins!
+[00:13:54] [Client thread/INFO]: [CHAT] You sold Snowball x16 for 16 Coins!§7 (21)
+[00:13:54] [Client thread/INFO]: [CHAT] You sold Snowball x7 for 7 Coins!
+[00:14:00] [WebSocketConnectReadThread-4256/WARN]: Connection closed unexpectedly (CloseInfo(code=1006, reason=, remote=true, outdated=false)) after 2h 52m 37.581s
+[00:14:00] [Client thread/INFO]: Authenticating to Mojang as 16thGarden (dc0548c7-2c22-450e-91f5-2a17cfde2a12)
+[00:14:00] [DefaultDispatcher-worker-3/INFO]: Connecting to Essential Connection Manager...
+[00:14:01] [WebSocketConnectReadThread-7401/INFO]: Connected to Essential Connection Manager.
+[00:14:22] [DefaultDispatcher-worker-3/WARN]: Failed to fetch https://crafthead.net/helm/dc0548c72c22450e91f52a17cfde2a12: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:170) ~[?:1.8.0_51]
+	at java.net.SocketInputStream.read(SocketInputStream.java:141) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465) ~[?:1.8.0_51]
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973) ~[?:1.8.0_51]
+	at sun.security.ssl.SSLSocketImpl.readDataRecord(SSLSocketImpl.java:930) ~[?:1.8.0_51]
+	at sun.security.ssl.AppInputStream.read(AppInputStream.java:105) ~[?:1.8.0_51]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:136) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:152) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:270) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:260) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:161) ~[httpcore-4.3.2.jar:4.3.2]
+	at sun.reflect.GeneratedMethodAccessor73.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.apache.http.impl.conn.CPoolProxy.invoke(CPoolProxy.java:138) ~[httpclient-4.3.3.jar:4.3.3]
+	at com.sun.proxy.$Proxy30.receiveResponseHeader(Unknown Source) ~[?:?]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:271) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:123) ~[httpcore-4.3.2.jar:4.3.2]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:186) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82) ~[httpclient-4.3.3.jar:4.3.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:106) ~[httpclient-4.3.3.jar:4.3.3]
+	at gg.essential.util.CachedAvatarImage.loadFromWeb(CachedAvatarImage.kt:95) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage.freshCache$lambda$0(CachedAvatarImage.kt:62) [CachedAvatarImage.class:?]
+	at gg.essential.util.CachedAvatarImage$$Lambda$271/771361791.load(Unknown Source) [CachedAvatarImage.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader.lambda$asyncLoad$0(CacheLoader.java:104) [CacheLoader.class:?]
+	at gg.essential.lib.caffeine.cache.CacheLoader$$Lambda$278/234495848.get(Unknown Source) [CacheLoader.class:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1582) [?:1.8.0_51]
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:111) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:99) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:585) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:802) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:706) [Essential%20(forge_1.8.9).processed.jar:?]
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:693) [Essential%20(forge_1.8.9).processed.jar:?]
+[00:14:36] [Client thread/INFO]: [CHAT] You sold Snowball x4 for 4 Coins!
+[00:14:40] [Client thread/INFO]: [SkyblockAddons/ContainerPreviewManager] Refreshed cache for container BackpackStorage3.
+[00:14:40] [SkyblockAddons - #57/INFO]: [SkyblockAddons/PersistentValuesManager] Saving persistent values
+[00:14:40] [SkyblockAddons - #57/INFO]: [SkyblockAddons/PersistentValuesManager] Persistent Values Saved
+[00:15:01] [Client thread/INFO]: [CHAT] You have reached the maximum number of Dropped Items allowed on your island.
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Executing instant sell...
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x L.A.S.R.'s Eye for 662,770 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 27x Obsidian for 472.5 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 9x Acacia Wood for 79.2 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2x Bonzo Fragment for 44.0 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 6x Trap for 0.6 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 10x Enchanted Rotten Flesh for 6,646 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2x Wither Catalyst for 1,892,033 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3x Fel Pearl for 1,169.7 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2x Red Sand for 78.4 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 9x Gravel for 6.3 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 124x Birch Wood for 124.0 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 15x Spirit Leap for 1,407 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 8x Tasty Cheese for 53,573 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Architect's First Draft for 45,315 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 2x Jolly Pink Rock for 1,073.8 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 120x Netherrack for 48.0 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Dark Oak Wood for 1.9 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 3x Decoy for 5.4 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 43x Clay for 47.3 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 5x Sand for 41.0 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 67x Superboom TNT for 274.7 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 250x White Wool for 50.0 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Scarf Fragment for 600.3 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 6x Inflatable Jerry for 1.2 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 18x Enchanted Bone for 18,441 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 1x Cobblestone for 3.0 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 17x Unstable Dragon Fragment for 120,006 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 12x Fine Flour for 62,730 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 5x Spruce Wood for 32.5 coins!
+[00:15:02] [Client thread/INFO]: [CHAT] [Bazaar] Sold 5x Mimic Fragment for 5,000 coins!
+[00:15:03] [Client thread/INFO]: [CHAT] [Bazaar] Sold 6x Holy Dragon Fragment for 46,612 coins!
+[00:15:22] [Client thread/ERROR]: Signature is missing from textures payload
+[00:15:22] [Client thread/ERROR]: Signature is missing from textures payload
+[00:15:23] [Netty Client IO #10/INFO]: [SkyblockAddons/NetworkListener] Detected leaving skyblock!
+[00:15:23] [Client thread/INFO]: Applying holder lookups
+[00:15:23] [Client thread/INFO]: Holder lookups applied
+[00:15:23] [Netty Client IO #14/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:15:24] [Netty Client IO #15/INFO]: Attempting connection with missing mods [mcp, FML, Forge, essential, dungeonrooms, notenoughupdates, patcher, text_overflow_scroll, skyblockaddons, skyhanni, skytils] at SERVER
+[00:15:25] [Client thread/ERROR]: Signature is missing from textures payload
+[00:15:25] [Client thread/ERROR]: Signature is missing from textures payload
+[00:15:25] [Client thread/INFO]: Stopping!
+[00:15:25] [Client thread/INFO]: SoundSystem shutting down...
+[00:15:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

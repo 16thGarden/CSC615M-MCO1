@@ -1,0 +1,105 @@
+[00:00:02] [Render thread/INFO]: Loaded 412 advancements
+[00:00:05] [Render thread/INFO]: Loaded 413 advancements
+[00:01:01] [Server thread/INFO]: 16thGarden has made the advancement [Not Today, Thank You]
+[00:01:01] [Render thread/INFO]: [System] [CHAT] 16thGarden has made the advancement [Not Today, Thank You]
+[00:01:01] [Render thread/INFO]: Loaded 413 advancements
+[00:04:10] [Render thread/INFO]: Loaded 413 advancements
+[00:04:25] [Render thread/INFO]: Loaded 414 advancements
+[00:11:47] [Render thread/INFO]: Loaded 417 advancements
+[00:16:36] [Render thread/INFO]: Loaded 418 advancements
+[00:19:04] [Render thread/INFO]: Stopping worker threads
+[00:19:04] [Render thread/INFO]: Started 6 worker threads
+[00:19:04] [Render thread/INFO]: Stopping worker threads
+[00:19:04] [Render thread/INFO]: Started 6 worker threads
+[00:19:29] [Render thread/INFO]: Loaded 421 advancements
+[00:21:02] [Render thread/INFO]: Loaded 421 advancements
+[00:21:09] [Render thread/INFO]: Loaded 422 advancements
+[00:21:09] [Render thread/INFO]: Loaded 424 advancements
+[00:21:35] [Server thread/INFO]: JPGomdol has made the advancement [Not Today, Thank You]
+[00:21:35] [Render thread/INFO]: [System] [CHAT] JPGomdol has made the advancement [Not Today, Thank You]
+[00:21:39] [Server thread/INFO]: JPGomdol was shot by Skeleton
+[00:21:39] [Render thread/INFO]: [System] [CHAT] JPGomdol was shot by Skeleton
+[00:21:43] [Server thread/INFO]: 16thGarden was shot by Skeleton
+[00:21:43] [Render thread/INFO]: [System] [CHAT] 16thGarden was shot by Skeleton
+[00:21:45] [Render thread/INFO]: [System] [CHAT] You have no home bed or charged respawn anchor, or it was obstructed
+[00:21:45] [Render thread/INFO]: Stopping worker threads
+[00:21:45] [Render thread/INFO]: Started 6 worker threads
+[00:21:45] [Render thread/INFO]: Stopping worker threads
+[00:21:45] [Render thread/INFO]: Started 6 worker threads
+[00:22:27] [Render thread/INFO]: Stopping worker threads
+[00:22:27] [Render thread/INFO]: Started 6 worker threads
+[00:22:27] [Render thread/INFO]: Stopping worker threads
+[00:22:27] [Render thread/INFO]: Started 6 worker threads
+[00:25:56] [Render thread/INFO]: Loaded 424 advancements
+[00:26:09] [Render thread/INFO]: Stopping worker threads
+[00:26:09] [Render thread/INFO]: Started 6 worker threads
+[00:26:09] [Render thread/INFO]: Stopping worker threads
+[00:26:09] [Render thread/INFO]: Started 6 worker threads
+[00:35:43] [Render thread/INFO]: [System] [CHAT] Respawn point set
+[00:37:10] [Render thread/INFO]: Loaded 426 advancements
+[00:37:33] [Render thread/INFO]: Loaded 426 advancements
+[00:40:01] [Render thread/INFO]: [System] [CHAT] Seed: [9050320578320349914]
+[00:41:29] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[00:43:41] [netty<-quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:43:41] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 channel inactive, closing.
+[00:43:41] [netty->quic (61018961-61e4-4419-bf8b-17044e487000)/INFO]: Closing.
+[00:43:41] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closing QUIC.
+[00:43:41] [Netty Server IO ICE #6/INFO]: 61018961-61e4-4419-bf8b-17044e487000 closed.
+[00:43:41] [Server thread/INFO]: JPGomdol lost connection: Disconnected
+[00:43:41] [Server thread/INFO]: JPGomdol left the game
+[00:43:41] [Render thread/INFO]: [System] [CHAT] JPGomdol left the game
+[00:43:46] [Essential Thread 18/INFO]: Closing.
+[00:49:06] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:49:06] [Server thread/INFO]: 16thGarden left the game
+[00:49:06] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:49:06] [Server thread/INFO]: Stopping server
+[00:49:06] [Server thread/INFO]: Saving players
+[00:49:06] [Server thread/INFO]: Saving worlds
+[00:49:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:overworld
+[00:49:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_nether
+[00:49:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Epic survival world]'/minecraft:the_end
+[00:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (Epic survival world): All chunks are saved
+[00:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:49:06] [Render thread/INFO]: Stopping worker threads
+[00:52:08] [Render thread/INFO]: Found new data pack fabric-convention-tags-v1, loading it automatically
+[00:52:09] [Render thread/INFO]: Loaded 7 recipes
+[00:52:09] [Render thread/INFO]: Loaded 1271 advancements
+[00:52:09] [Render thread/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 326.8 ?s
+[00:52:09] [Server thread/INFO]: Starting integrated minecraft server version 1.20.4
+[00:52:09] [Server thread/INFO]: Generating keypair
+[00:52:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:52:11] [Render thread/INFO]: Preparing spawn area: 0%
+[00:52:11] [Render thread/INFO]: Preparing spawn area: 0%
+[00:52:11] [Render thread/INFO]: Preparing spawn area: 0%
+[00:52:12] [Render thread/INFO]: Preparing spawn area: 0%
+[00:52:12] [Render thread/INFO]: Preparing spawn area: 0%
+[00:52:13] [Render thread/INFO]: Preparing spawn area: 14%
+[00:52:13] [Render thread/INFO]: Time elapsed: 2924 ms
+[00:52:13] [Server thread/INFO]: Changing view distance to 16, from 10
+[00:52:13] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[00:52:13] [Server thread/INFO]: 16thGarden[local:E:86ad1927] logged in with entity id 155375 at (-0.8531265117709786, 87.0, -2.6452652281727946)
+[00:52:13] [Server thread/INFO]: 16thGarden joined the game
+[00:52:13] [Render thread/INFO]: Started 6 worker threads
+[00:52:13] [Render thread/INFO]: Loaded 234 advancements
+[00:52:15] [Server thread/INFO]: Saving and pausing game...
+[00:52:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:52:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:52:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:52:16] [Server thread/INFO]: 16thGarden lost connection: Disconnected
+[00:52:16] [Server thread/INFO]: 16thGarden left the game
+[00:52:16] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:52:16] [Server thread/INFO]: Stopping server
+[00:52:16] [Server thread/INFO]: Saving players
+[00:52:16] [Server thread/INFO]: Saving worlds
+[00:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[00:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:52:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:52:16] [Render thread/INFO]: Stopping worker threads
+[00:53:33] [Render thread/INFO]: Stopping!
+[00:53:33] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
