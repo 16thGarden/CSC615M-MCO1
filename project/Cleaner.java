@@ -113,25 +113,25 @@ public class Cleaner {
 				line = line.replaceAll("^(?!\\[\\d{1,3}\\]( \\?)?( \\[(\\?|.+)])?( \\[(VIP|MVP)\\+{0,2}\\])? [a-zA-Z0-9_]+:.*).*$", "");
 				
 				if (csvMode) {
-					line = line.replaceAll("^(\\[\\d{1,3}\\]( \\?)?( \\[(\\?|.+)])?( \\[(VIP|MVP)\\+{0,2}\\])? [a-zA-Z0-9_]+): (.*)$", "$1\\,$7");
+					line = line.replaceAll("^(\\[\\d{1,3}\\]( \\?)?( \\[(\\?|.+)])?( \\[(VIP|MVP)\\+{0,2}\\])? [a-zA-Z0-9_]+): (.*)$", "$1\\,\"$7\"");
 				}
 			} else if (filterModeConfig == 1) {
 				line = line.replaceAll("^(?!Party > (\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+: .*).*$", "");
 				
 				if (csvMode) {
-					line = line.replaceAll("^Party > ((\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+): (.*)$", "$1\\,$4");
+					line = line.replaceAll("^Party > ((\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+): (.*)$", "$1\\,\"$4\"");
 				}
 			} else if (filterModeConfig == 2) {
 				line = line.replaceAll("^(?!Guild > (\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+ (\\[.+\\])?:.*).*$", "");
 				
 				if (csvMode) {
-					line = line.replaceAll("^Guild > ((\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+ \\[.+\\]): (.*)$", "$1\\,$4");
+					line = line.replaceAll("^Guild > ((\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+ \\[.+\\]): (.*)$", "$1\\,\"$4\"");
 				}
 			} else if (filterModeConfig == 3) {
 				line = line.replaceAll("^(?!Co-op > (\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+: .*).*$", "");
 				
 				if (csvMode) {
-					line = line.replaceAll("^Co-op > ((\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+): (.*)$", "$1\\,$4");
+					line = line.replaceAll("^Co-op > ((\\[(VIP|MVP)\\+{0,2}\\] )?[a-zA-Z0-9_]+): (.*)$", "$1\\,\"$4\"");
 				}
 			}
 		}
